@@ -2324,11 +2324,11 @@ UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,神器之战恢
 UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP 格挡穿透
 UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),增加替身商店天数
 UI_TOOLTIP_PARTYEXP_RATE,Party EXP,剧团经验
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,神器附近工会成员HP
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,神器附近工会成员攻击力
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,神器附近工会成员防御力
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,神器附近工会成员攻击速度
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,神器附近工会成员施法速度
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,神器附近公会成员HP
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,神器附近公会成员攻击力
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,神器附近公会成员防御力
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,神器附近公会成员攻击速度
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,神器附近公会成员施法速度
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP近战/远程格挡
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP暴击伤害
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP暴击率
