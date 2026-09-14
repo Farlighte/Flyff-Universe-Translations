@@ -29,7 +29,7 @@ PROPITEMETC_INC_000027,Recorn Set,リコンセット(M)
 PROPITEMETC_INC_000028,Rescorn Set,リコンセット(F)
 PROPITEMETC_INC_000029,Rebron Set,レブロンセット(M)
 PROPITEMETC_INC_000030,Restron Set,レブロンセット(F)
-PROPITEMETC_INC_000031,Shurand Set,シュランドセット(M）
+PROPITEMETC_INC_000031,Shurand Set,シュランドセット(M)
 PROPITEMETC_INC_000032,Shuran Set,シュランドセット(F)
 PROPITEMETC_INC_000033,Ahes Set,アレースセット(M)
 PROPITEMETC_INC_000034,Anoos Set,アレースセット(F)
@@ -68,30 +68,30 @@ PROPITEMETC_INC_000066,Ales Set,アレックトセット(F)
 PROPITEMETC_INC_000067,Akent Set,アケントセット(M)
 PROPITEMETC_INC_000068,Aken Set,アケントセット(F)
 PROPITEMETC_INC_000069,Rody Set,ロディセット(M)
-PROPITEMETC_INC_000070,Rodey Set,ロディセット(F）
-PROPITEMETC_INC_000071,Ropang Set,ロファンセット(M）
+PROPITEMETC_INC_000070,Rodey Set,ロディセット(F)
+PROPITEMETC_INC_000071,Ropang Set,ロファンセット(M)
 PROPITEMETC_INC_000072,Roshel Set,ロファンセット(F) 
 PROPITEMETC_INC_000073,Geniun Set,ジーニアンセット(M)
 PROPITEMETC_INC_000074,Gynas Set,ジーニアンセット(F)
 PROPITEMETC_INC_000075,Mekatro Set,メカトロセット(M)
 PROPITEMETC_INC_000076,Mekaron Set,メカトロセット(F)
-PROPITEMETC_INC_000077,Myuran Set,ミューランセット(M）
-PROPITEMETC_INC_000078,Myurian Set,ミューランセット(F）
+PROPITEMETC_INC_000077,Myuran Set,ミューランセット(M)
+PROPITEMETC_INC_000078,Myurian Set,ミューランセット(F)
 PROPITEMETC_INC_000079,Elder Set,エルダーセット(M)
-PROPITEMETC_INC_000080,Ellean Set,エルダーセット(F）
+PROPITEMETC_INC_000080,Ellean Set,エルダーセット(F)
 PROPITEMETC_INC_000081,Shabel Set,シャベルセット(M)
-PROPITEMETC_INC_000082,Shurian Set,シャベルセット(F）
+PROPITEMETC_INC_000082,Shurian Set,シャベルセット(F)
 PROPITEMETC_INC_000131,Knighert Set,ナイアートセット(M)
 PROPITEMETC_INC_000132,Knighz Set,ナイアートセット(F) 
 PROPITEMETC_INC_000133,Blain Set,ブレインセット(M)
-PROPITEMETC_INC_000134,Virain Set,ブレインセット(F）
+PROPITEMETC_INC_000134,Virain Set,ブレインセット(F)
 PROPITEMETC_INC_000135,Jesis Set,ジェシスセット(M)
-PROPITEMETC_INC_000136,Jenes Set,ジェシスセット(F）
+PROPITEMETC_INC_000136,Jenes Set,ジェシスセット(F)
 PROPITEMETC_INC_000137,Ranerz Set,レイアースセット(M)
-PROPITEMETC_INC_000138,Raze Set,レイアースセット(F）
-PROPITEMETC_INC_000139,Rimyth Set,ファンタズマセット(M）
-PROPITEMETC_INC_000140,Remingster Set,ファンタズマセット(F）
-PROPITEMETC_INC_000141,Billst Set,ビーストセット(M）
+PROPITEMETC_INC_000138,Raze Set,レイアースセット(F)
+PROPITEMETC_INC_000139,Rimyth Set,ファンタズマセット(M)
+PROPITEMETC_INC_000140,Remingster Set,ファンタズマセット(F)
+PROPITEMETC_INC_000141,Billst Set,ビーストセット(M)
 PROPITEMETC_INC_000142,Billporon Set,ビーストセット(F)
 PROPITEMETC_INC_000143,Psykon Set,サイカンセット(M)
 PROPITEMETC_INC_000144,Psyuniper Set,サイカンセット(F)
@@ -133,17 +133,17 @@ PROPITEMETC_INC_000179,Cryro Set,アズリアナイトセット(M)
 PROPITEMETC_INC_000180,Cyrent Set,アズリアナイトセット(F)
 PROPITEMETC_INC_000181,Forrben Set,アズリアブレードセット(M)
 PROPITEMETC_INC_000182,Forrain Set,アズリアブレードセット(F)
-PROPITEMETC_INC_000183,Naneon Set,アズリアジェスターセット（M）
+PROPITEMETC_INC_000183,Naneon Set,アズリアジェスターセット(M)
 PROPITEMETC_INC_000184,Nanex Set,アズリアジェスターセット(F)
-PROPITEMETC_INC_000185,Vizes Set,アズリアレンジャーセット（M）
+PROPITEMETC_INC_000185,Vizes Set,アズリアレンジャーセット(M)
 PROPITEMETC_INC_000186,Vizith Set,アズリアレンジャーセット(F)
 PROPITEMETC_INC_000187,Keinos Set,アズリアリングマスターセット(M)
 PROPITEMETC_INC_000188,Keisan Set,アズリアリングマスターセット(F)
 PROPITEMETC_INC_000189,Ouken Set,アズリアビルポスターセット(M)
 PROPITEMETC_INC_000190,Oukest Set,アズリアビルポスターセット (F)
-PROPITEMETC_INC_000191,Peinn Set,アズリアサイキーパーセット（M）
+PROPITEMETC_INC_000191,Peinn Set,アズリアサイキーパーセット(M)
 PROPITEMETC_INC_000192,Penel Set,アズリアサイキーパーセット(F)
-PROPITEMETC_INC_000193,Quinox Set,アズリアエレメンターセット（M）
+PROPITEMETC_INC_000193,Quinox Set,アズリアエレメンターセット(M)
 PROPITEMETC_INC_000194,Quition Set,アズリアエレメンターセット(F)
 PROPITEMETC_INC_000195,FWC Golden Cryro Set,FWCゴールデン・クライロセット
 PROPITEMETC_INC_000196,FWC Golden Cyrent Set,FWCゴールデン・サイレントセット
@@ -217,8 +217,8 @@ PROPITEMETC_INC_000332,FWC Golden Reffiro Set,FWCゴールデン・レフィロ�
 PROPITEMETC_INC_000333,FWC Golden Rephira Set,FWCゴールデン・レフィラセット
 PROPITEMETC_INC_000334,FWC Golden Lippin Set,FWCゴールデン・リピンセット
 PROPITEMETC_INC_000335,FWC Golden Lypine Set,FWCゴールデン・ライパインセット
-PROPITEMETC_INC_000336,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC2025ブラッディー・デスメッセンジャーセット（優勝者）
-PROPITEMETC_INC_000337,FWC 2025 Golden Death Messenger’s Set (Finalists),FWC2025ゴールデン・デスメッセンジャーセット（決勝進出者）
+PROPITEMETC_INC_000336,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC 2025 ブラッディー・デスメッセンジャーセット (優勝者)
+PROPITEMETC_INC_000337,FWC 2025 Golden Death Messenger’s Set (Finalists),FWC 2025 ゴールデン・デスメッセンジャーセット (決勝進出者)
 PROPITEMETC_INC_000338,Runthiel Set,ランティエルセット
 PROPITEMETC_INC_000339,Runthien Set,ランティエンセット
 PROPITEMETC_INC_000340,Rethanor Set,レサノールセット
@@ -283,22 +283,22 @@ PROPITEMETC_INC_000398,Tremiel Set,トレミエルセット
 PROPITEMETC_INC_000399,Tramien Set,トラミエンセット
 PROPITEMETC_INC_000400,Calthien Set,カルシエンセット
 PROPITEMETC_INC_000401,Calthior Set,カルシオルセット
-PROPITEMETC_INC_000402,2026 FWC Golden Virashon Set,2026 FWCゴールデン・ヴィラションセット
-PROPITEMETC_INC_000403,2026 FWC Golden Verashan Set,2026 FWCゴールデン・ヴェラシャンセット
-PROPITEMETC_INC_000404,2026 FWC Golden Lenvire Set,2026 FWCゴールデン・レンヴィールセット
-PROPITEMETC_INC_000405,2026 FWC Golden Lenvira Set,2026 FWCゴールデン・レンヴィラセット
-PROPITEMETC_INC_000406,2026 FWC Golden Kevric Set,2026 FWCゴールデン・ケブリックセット
-PROPITEMETC_INC_000407,2026 FWC Golden Kevricar Set,2026 FWCゴールデン・ケブリカーセット
-PROPITEMETC_INC_000408,2026 FWC Golden Chyrelle Set,2026 FWCゴールデン・シレルセット
-PROPITEMETC_INC_000409,2026 FWC Golden Chyrella Set,2026 FWCゴールデン・シレラセット
-PROPITEMETC_INC_000410,2026 FWC Golden Ustamel Set,2026 FWCゴールデン・ウスタメルセット
-PROPITEMETC_INC_000411,2026 FWC Golden Ustamen Set,2026 FWCゴールデン・ウスタメンセット
-PROPITEMETC_INC_000412,2026 FWC Golden Etranor Set,2026 FWCゴールデン・エトラノールセット
-PROPITEMETC_INC_000413,2026 FWC Golden Etranar Set,2026 FWCゴールデン・エトラナーセット
-PROPITEMETC_INC_000414,2026 FWC Golden Zaythor Set,2026 FWCゴールデン・ゼイソーセット
-PROPITEMETC_INC_000415,2026 FWC Golden Zaythar Set,2026 FWCゴールデン・ゼイサーセット
-PROPITEMETC_INC_000416,2026 FWC Golden Runthiel Set,2026 FWCゴールデン・ランティエルセット
-PROPITEMETC_INC_000417,2026 FWC Golden Runthien Set,2026 FWCゴールデン・ランティエンセット
+PROPITEMETC_INC_000402,2026 FWC Golden Virashon Set,FWC 2026 ゴールデン・ヴィラションセット
+PROPITEMETC_INC_000403,2026 FWC Golden Verashan Set,FWC 2026 ゴールデン・ヴェラシャンセット
+PROPITEMETC_INC_000404,2026 FWC Golden Lenvire Set,FWC 2026 ゴールデン・レンヴィールセット
+PROPITEMETC_INC_000405,2026 FWC Golden Lenvira Set,FWC 2026 ゴールデン・レンヴィラセット
+PROPITEMETC_INC_000406,2026 FWC Golden Kevric Set,FWC 2026 ゴールデン・ケブリックセット
+PROPITEMETC_INC_000407,2026 FWC Golden Kevricar Set,FWC 2026 ゴールデン・ケブリカーセット
+PROPITEMETC_INC_000408,2026 FWC Golden Chyrelle Set,FWC 2026 ゴールデン・シレルセット
+PROPITEMETC_INC_000409,2026 FWC Golden Chyrella Set,FWC 2026 ゴールデン・シレラセット
+PROPITEMETC_INC_000410,2026 FWC Golden Ustamel Set,FWC 2026 ゴールデン・ウスタメルセット
+PROPITEMETC_INC_000411,2026 FWC Golden Ustamen Set,FWC 2026 ゴールデン・ウスタメンセット
+PROPITEMETC_INC_000412,2026 FWC Golden Etranor Set,FWC 2026 ゴールデン・エトラノールセット
+PROPITEMETC_INC_000413,2026 FWC Golden Etranar Set,FWC 2026 ゴールデン・エトラナーセット
+PROPITEMETC_INC_000414,2026 FWC Golden Zaythor Set,FWC 2026 ゴールデン・ゼイソーセット
+PROPITEMETC_INC_000415,2026 FWC Golden Zaythar Set,FWC 2026 ゴールデン・ゼイサーセット
+PROPITEMETC_INC_000416,2026 FWC Golden Runthiel Set,FWC 2026 ゴールデン・ランティエルセット
+PROPITEMETC_INC_000417,2026 FWC Golden Runthien Set,FWC 2026 ゴールデン・ランティエンセット
 PROPITEMETC_INC_000418,Celestial Phoenix Orange Set,セレスティアルフェニックス・オレンジセット
 PROPITEMETC_INC_000419,Celestial Phoenix Purple Set,セレスティアルフェニックス・パープルセット
 PROPITEMETC_INC_000420,Celestial Phoenix Green Set,セレスティアルフェニックス・グリーンセット
@@ -323,5 +323,5 @@ PROPITEMETC_INC_000438,Primordial Ustamel Set,プリモーディアル・ウス�
 PROPITEMETC_INC_000439,Primordial Ustamen Set,プリモーディアル・ウスタメンセット
 PROPITEMETC_INC_000440,Primordial Virashon Set,プリモーディアル・ヴィラションセット
 PROPITEMETC_INC_000441,Primordial Verashan Set,プリモーディアル・ヴェラシャンセット
-PROPITEMETC_INC_000442,Neon Pang Set (M),Neon Pang Set (M)
-PROPITEMETC_INC_000443,Neon Pang Set (F),Neon Pang Set (F)
+PROPITEMETC_INC_000442,Neon Pang Set (M),ネオンパンセット(M)
+PROPITEMETC_INC_000443,Neon Pang Set (F),ネオンパンセット(F)

@@ -1368,16 +1368,16 @@ ACHIEVEMENT_KILL_DREAMQEEN01_LVL2,[Queen of Thorns] Entaness Slayer 2,[棘の女
 ACHIEVEMENT_KILL_DREAMQEEN01_LVL3,[Queen of Thorns] Entaness Slayer 3,[棘の女王] エンタネス スレイヤー 3
 ACHIEVEMENT_KILL_DREAMQEEN01_LVL4,[Queen of Thorns] Entaness Slayer 4,[棘の女王] エンタネス スレイヤー 4
 ACHIEVEMENT_KILL_DREAMQEEN01_LVL5,[Queen of Thorns] Entaness Hunter,[棘の女王] エンタネス ハンター
-ACHIEVEMENT_155UPDATE_MAINQUEST_NAME,Meet the Euphresia Dungeon,Meet the Euphresia Dungeon
-ACHIEVEMENT_155UPDATE_GODDESSANDDEMON,Love from Goddess and Demon,Love from Goddess and Demon
-ACHIEVEMENT_155UPDATE_GODDESSANDDEMON_DESC,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!
-ACHIEVEMENT_155UPDATE_PROLUMBERJACK,Pro Lumberjack,Pro Lumberjack
-ACHIEVEMENT_155UPDATE_PROLUMBERJACK_DESC,Hunt the new dungeon boss a set number of times during the event period to receive rewards!,Hunt the new dungeon boss a set number of times during the event period to receive rewards!
+ACHIEVEMENT_155UPDATE_MAINQUEST_NAME,Meet the Euphresia Dungeon,ユプレシアダンジョンに挑め
+ACHIEVEMENT_155UPDATE_GODDESSANDDEMON,Love from Goddess and Demon,女神と悪魔からの愛
+ACHIEVEMENT_155UPDATE_GODDESSANDDEMON_DESC,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!,「女神の祝福」または「悪魔の祝福」を使って、特別な報酬を手に入れよう！
+ACHIEVEMENT_155UPDATE_PROLUMBERJACK,Pro Lumberjack,伐採の達人
+ACHIEVEMENT_155UPDATE_PROLUMBERJACK_DESC,Hunt the new dungeon boss a set number of times during the event period to receive rewards!,イベント期間中に、新しいダンジョンのボスを所定の回数倒すと、報酬がもらえます!
 ACHIEVEMENT_FWC_2026_JACKPOTWINNER_NAME,FWC 2026 Jackpot Winner,FWC 2026 ジャックポットウィナー
 ACHIEVEMENT_FWC_2026_FORTUNECHASER_NAME,FWC 2026 Fortune Chaser,FWC 2026 フォーチュンチェイサー
 ACHIEVEMENT_FWC_2026_ALLIN_NAME,FWC 2026 All-In,FWC 2026 オールイン
 ACHIEVEMENT_FWC_2026_HARDLUCK_NAME,FWC 2026 Hard Luck,FWC 2026 ハードラック
-ACHIEVEMENT_FIRST_CHALLENGER_NAME,The First Challenger,The First Challenger
-ACHIEVEMENT_FIRST_CHALLENGER_DESC,Awarded to the first player to clear the dungeon.,Awarded to the first player to clear the dungeon.
-ACHIEVEMENT_FESTEST_CHALLENGER_NAME,The Fastest Challenger,The Fastest Challenger
-ACHIEVEMENT_FESTEST_CHALLENGER_DESC,Awarded to the player who cleared the dungeon in the shortest time.,Awarded to the player who cleared the dungeon in the shortest time.
+ACHIEVEMENT_FIRST_CHALLENGER_NAME,The First Challenger,最初の挑戦者
+ACHIEVEMENT_FIRST_CHALLENGER_DESC,Awarded to the first player to clear the dungeon.,ダンジョンを最初にクリアしたプレイヤーに授与されます。
+ACHIEVEMENT_FESTEST_CHALLENGER_NAME,The Fastest Challenger,最速の挑戦者
+ACHIEVEMENT_FESTEST_CHALLENGER_DESC,Awarded to the player who cleared the dungeon in the shortest time.,ダンジョンを最短時間でクリアしたプレイヤーに授与されます。
