@@ -1542,21 +1542,21 @@ PROPQUEST_INC_110230,Weapon Piercing Box (D),武器貫通ボックス(D)
 PROPQUEST_INC_110231,Weapon Piercing Box (C),武器貫通ボックス(C)
 PROPQUEST_INC_110232,Weapon Piercing Box (B),武器貫通ボックス(B)
 PROPQUEST_INC_110233,Weapon Piercing Box (A),武器貫通ボックス(A)
-PROPQUEST_INC_110234,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ダンジョンのボスを5体倒して、終わったら私のところに戻ってきてくれませんか?
+PROPQUEST_INC_110234,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ダンジョンのボスを5体倒して、終わったら戻ってきてくれませんか?
 PROPQUEST_INC_110235,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 20 dungeon bosses on Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ハード以上の難易度でダンジョンのボスを20体倒して、終わったら戻ってきてくれませんか?
-PROPQUEST_INC_110236,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。超高難易度以上のダンジョンボスを35体倒して、終わったら私のところに戻ってきてくれませんか?
-PROPQUEST_INC_110237,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 50 dungeon bosses on Nightmare or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ナイトメア以上の難易度でダンジョンのボスを50体倒して、終わったら私のところに戻ってきてくれませんか?
-PROPQUEST_INC_110238,"Collect souls from boss masquerpets at the end of any dungeon 5 times, and return to me for a reward.",ダンジョンの最後に出現するボスモンスターから魂の欠片を5個集めたら、戻ってきて報酬を受け取ってください。
-PROPQUEST_INC_110239,"Collect souls from boss masquerpets at the end of any dungeon on Hard or higher difficulty 20 times, and return to me for a reward.",ハード以上の難易度のダンジョンの最後に出現するボスモンスターから魂の欠片を20個集めたら、戻ってきて報酬を受け取ってください。
-PROPQUEST_INC_110240,"Collect souls from boss masquerpets at the end of any dungeon on Extra Hard or higher difficulty 35 times, and return to me for a reward.",超難易度以上のダンジョンの最後に出現するボスモンスターから魂の欠片を35個集めたら、戻ってきて報酬を受け取ってください。
-PROPQUEST_INC_110241,"Collect souls from boss masquerpets at the end of any dungeon on Nightmare or higher difficulty 50 times, and return to me for a reward.",ナイトメア以上の難易度でダンジョンの最後に出現するボスモンスターから魂の欠片を50個集めたら、戻ってきて報酬を受け取ってください。
+PROPQUEST_INC_110236,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。エキストラハード以上の難易度でダンジョンのボスを35体倒して、終わったら戻ってきてくれませんか?
+PROPQUEST_INC_110237,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 50 dungeon bosses on Nightmare or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ナイトメア以上の難易度でダンジョンのボスを50体倒して、終わったら戻ってきてくれませんか?
+PROPQUEST_INC_110238,"Collect souls from boss masquerpets at the end of any dungeon 5 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(D)＞を入手できます。どの難易度のダンジョンでも構いません。5個集めることができたら報酬をお渡しします。
+PROPQUEST_INC_110239,"Collect souls from boss masquerpets at the end of any dungeon on Hard or higher difficulty 20 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(C)＞を入手できます。ハード以上の難易度への挑戦をお願いします。20個集めることができたら報酬をお渡しします。
+PROPQUEST_INC_110240,"Collect souls from boss masquerpets at the end of any dungeon on Extra Hard or higher difficulty 35 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(B)＞を入手できます。エキストラハード以上の難易度への挑戦をお願いします。35個集めることができたら報酬をお渡しします。
+PROPQUEST_INC_110241,"Collect souls from boss masquerpets at the end of any dungeon on Nightmare or higher difficulty 50 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(A)＞を入手できます。ナイトメア以上の難易度への挑戦をお願いします。50個集めることができたら報酬をお渡しします。
 PROPQUEST_INC_110242,The dungeons are filled with dangerous masquerpets. I understand if you do not wish to take the risk.,ダンジョンは危険なモンスターでいっぱいです。リスクを冒したくないのであれば、私は理解しています。
 PROPQUEST_INC_110243,"The threat from within the dungeons has been reduced thanks to you, hero. Please accept a weapon piercing card as thanks for your efforts!",ダンジョン内からの脅威は、ヒーローであるあなたのおかげで減少しました。お礼に武器貫通カードを受け取ってください!
 PROPQUEST_INC_110244,"You haven't defeated the bosses yet? That's okay, just return once you have.",まだボスを倒していませんか? 大丈夫です、一度戻ればいいのです。
-PROPQUEST_INC_110245,Collect souls from 5 dungeon bosses on any difficulty.,任意の難易度で5体のダンジョンボスから魂の欠片を集めます。
-PROPQUEST_INC_110246,Collect souls from 20 dungeon bosses on Hard or higher difficulty.,ハード以上の難易度の20体のダンジョンボスから魂の欠片を集めます。
-PROPQUEST_INC_110247,Collect souls from 35 dungeon bosses on Extra Hard or higher difficulty.,超難易度以上の35体のダンジョンボスから魂の欠片を集めます。
-PROPQUEST_INC_110248,Collect souls from 50 dungeon bosses on Nightmare difficulty.,難易度ナイトメアで50体のダンジョンボスから魂の欠片を集めます。
+PROPQUEST_INC_110245,Collect souls from 5 dungeon bosses on any difficulty.,任意の難易度のダンジョンボスから魂の欠片(D)を5個集める。
+PROPQUEST_INC_110246,Collect souls from 20 dungeon bosses on Hard or higher difficulty.,難易度ハード以上のダンジョンボスから魂の欠片(C)を20個集める。
+PROPQUEST_INC_110247,Collect souls from 35 dungeon bosses on Extra Hard or higher difficulty.,難易度エキストラハード以上のダンジョンボスから魂の欠片(B)を35個集める。
+PROPQUEST_INC_110248,Collect souls from 50 dungeon bosses on Nightmare difficulty.,難易度ナイトメア以上のダンジョンボスから魂の欠片(A)を50個集める。
 PROPQUEST_INC_110249,Daily Quests,デイリークエスト
 PROPQUEST_INC_110250,Saving Private Leo,プライベートレオを救う
 PROPQUEST_INC_110251,Private Leo has been trapped in the dungeon and sent an SOS sign!\nPlease save Private Leo!,レオ二等兵がダンジョンに閉じ込められ、SOSサインが送られてきました!!プライベートレオを救ってください!!
@@ -1696,7 +1696,7 @@ PROPQUEST_INC_130107,"Collect Ultima from the giant creatures that live on Coral
 PROPQUEST_INC_130108,Without Ultima I cannot grant the ultimate power you seek.,アルティマがなければ、お前が求める究極の力を与えることはできない。
 PROPQUEST_INC_130109,"Well done, hero... I bestow upon you the power of the Ultimate Orb. Combine this with Shining Oricalkum and obtain ultimate power!",よくやった、ヒーロー..究極の力が宿ったオーブをあなたに授けます。輝くオリハルコンと合体して究極の力を手に入れよう!
 PROPQUEST_INC_130110,I need more Ultima to complete the ritual.,儀式を完了するには、アルティマがもっと必要です。
-PROPQUEST_INC_130111,Collect ten Ultima from the giants of Coral Island and treasure chests in The Wilds.,コーラルアイランドのジャイアントやワイルズの宝箱からアルティマを10個を集める。
+PROPQUEST_INC_130111,Collect ten Ultima from the giants of Coral Island and treasure chests in The Wilds.,コーラルアイランドのジャイアントやワイルズの宝箱からアルティマを10個集める。
 PROPQUEST_INC_132000,New Hero,新たなヒーローの誕生
 PROPQUEST_INC_132001,"Your will and ability have proven you to be a master in both thought and deed. Now that you've shown your true strength, it is time for your final task.",あなたの意志と能力は、あなたが思考と行動の両方においてマスターであることを証明しています。本当の力を見せつけたところで、いよいよ最後の仕事です。
 PROPQUEST_INC_132002,I need you to reach level 125 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,レベル125に到達し、$QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$を持ってきてください。それができるのは本物のヒーローだけです!
