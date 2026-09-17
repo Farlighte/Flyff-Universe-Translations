@@ -15,7 +15,7 @@ PROPMAP_TXT_000014,Darken,达肯2区
 PROPMAP_TXT_000242,Dungeon,副本
 PROPMAP_TXT_000263,Mars Dungeon,魔域密殿
 PROPMAP_TXT_000265,Dekane Mine,达肯矿洞
-PROPMAP_TXT_000266,Iblis Temple,幻魔依普利神殿
+PROPMAP_TXT_000266,Iblis Temple,幻魔依普莉神殿
 PROPMAP_TXT_000274,Forsaken Tower 1F,深渊之塔1层
 PROPMAP_TXT_000275,Forsaken Tower 2F,深渊之塔2层
 PROPMAP_TXT_000276,Forsaken Tower 3F,深渊之塔3层
@@ -23,9 +23,9 @@ PROPMAP_TXT_000277,Forsaken Tower 4F,深渊之塔4层
 PROPMAP_TXT_000278,Forsaken Tower 5F,深渊之塔5层
 PROPMAP_TXT_000279,Forsaken Tower 6F,深渊之塔6层
 PROPMAP_TXT_000280,Forsaken Tower 7F,深渊之塔7层
-PROPMAP_TXT_000281,Forsaken Tower 8F,Forsaken Tower 8F
-PROPMAP_TXT_000282,Forsaken Tower 9F,Forsaken Tower 9F
-PROPMAP_TXT_000283,Forsaken Tower 10F,Forsaken Tower 10F
+PROPMAP_TXT_000281,Forsaken Tower 8F,深渊之塔8层
+PROPMAP_TXT_000282,Forsaken Tower 9F,深渊之塔9层
+PROPMAP_TXT_000283,Forsaken Tower 10F,深渊之塔10层
 PROPMAP_TXT_100000,Kebaras,卡巴拉斯
 PROPMAP_TXT_100001,North-Fl,帕里北广场
 PROPMAP_TXT_100002,Cen Flarine,帕里中心
@@ -39,7 +39,7 @@ PROPMAP_TXT_100009,Plateau of Silence,寂静高原
 PROPMAP_TXT_100010,The North of Hillid Mountains,龙脊山脉北
 PROPMAP_TXT_100011,The Middle of Hillid Mountains,龙脊山脉中
 PROPMAP_TXT_100012,The South of Hillid Mountains,龙脊山脉南
-PROPMAP_TXT_100013,Guardian's Room,守护之室
+PROPMAP_TXT_100013,Guardian's Room,守卫之室
 PROPMAP_TXT_100014,Heret,迷梦峡谷
 PROPMAP_TXT_100015,Cendil,流韵要塞
 PROPMAP_TXT_100016,Aniceknight,魔夜之森
@@ -127,7 +127,7 @@ PROPMAP_TXT_100088,2nd Anniversary (Hard),2nd Anniversary (Hard)
 PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[活动] 渴望深渊 (简单)
 PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[活动] 渴望深渊 (中等)
 PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[活动] 渴望深渊 (困难)
-PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[Event] Envy Depths (Chaos)
+PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[活动] 渴望深渊 (混沌)
 PROPMAP_TXT_100089,Lv.15+,Lv.15+
 PROPMAP_TXT_100090,Lv.20+,Lv.20+
 PROPMAP_TXT_100091,Lv.80+,Lv.80+
@@ -153,11 +153,11 @@ PROPMAX_TXT_200026,Ankou's Asylum,安库的庇护所
 PROPMAP_TXT_200027,Kaillun Temple,凯伦神殿
 PROPMAP_TXT_200028,Eillun,艾尔伦
 PROPMAP_TXT_200029,Kaillun,凯伦
-PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
-PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
-PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
-PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
-PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
+PROPMAP_TXT_200030,Leren Chasm (Infernal),乐雅裂痕 (地狱)
+PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),莱斯神之墓 (地狱)
+PROPMAP_TXT_200032,Envy Depths (Infernal),渴望深渊 (地狱)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),堕落圣域 (地狱)
+PROPMAP_TXT_200034,Storm Peak (Infernal),风暴之巅 (地狱)
 PROPMAP_TXT_200035,The Wilds (Infernal),荒野 (地狱)
 PROPMAP_TXT_200036,Ankou's Asylum (Story),安库的庇护所 (剧情模式)
 PROPMAP_TXT_200037,Seabed,沉没之地
@@ -165,6 +165,6 @@ PROPMAP_TXT_200038,Rescue [Eillun Farmer] Sprout,Rescue [Eillun Farmer] Sprout
 PROPMAP_TXT_200039,Rescue [Eillun Farmer] Thorn,Rescue [Eillun Farmer] Thorn
 PROPMAP_TXT_200040,Defend [Eillun Farmer] Dr. Root,Defend [Eillun Farmer] Dr. Root
 PROPMAP_TXT_200041,Rescue [Eillun Farmer] Dr. Root,Rescue [Eillun Farmer] Dr. Root
-PROPMAP_TXT_200042,Mysterious Castle,Mysterious Castle
+PROPMAP_TXT_200042,Mysterious Castle,神秘城堡
 PROPMAP_TXT_200043,Euphresia,Euphresia
-PROPMAP_TXT_200044,Kebaras 2,Kebaras 2
+PROPMAP_TXT_200044,Kebaras 2,卡巴拉斯 2

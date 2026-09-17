@@ -25,536 +25,536 @@ PROPCTRL_TXT_000045,Pet Cage 04,宠物笼 04
 PROPCTRL_TXT_000046,Pet Cage 05,宠物笼 05
 PROPCTRL_TXT_000047,Pet Cage 06,宠物笼 06
 PROPCTRL_TXT_000048,Pet Cage 07,宠物笼 07
-PROPCTRL_TXT_000049,Dungeon Warp 01,Dungeon Warp 01
-PROPCTRL_TXT_000050,Dungeon Warp 02,Dungeon Warp 02
-PROPCTRL_TXT_000051,Dungeon Warp 03,Dungeon Warp 03
-PROPCTRL_TXT_000052,Dungeon Warp 04,Dungeon Warp 04
-PROPCTRL_TXT_000053,Straight Palm Tree,Straight Palm Tree
-PROPCTRL_TXT_000054,Leaning Palm Tree,Leaning Palm Tree
-PROPCTRL_TXT_000055,Branch Coral,Branch Coral
-PROPCTRL_TXT_000056,Round Red Coral,Round Red Coral
+PROPCTRL_TXT_000049,Dungeon Warp 01,副本传送 01
+PROPCTRL_TXT_000050,Dungeon Warp 02,副本传送 02
+PROPCTRL_TXT_000051,Dungeon Warp 03,副本传送 03
+PROPCTRL_TXT_000052,Dungeon Warp 04,副本传送 04
+PROPCTRL_TXT_000053,Straight Palm Tree,笔直的棕榈树
+PROPCTRL_TXT_000054,Leaning Palm Tree,虬曲的棕榈树
+PROPCTRL_TXT_000055,Branch Coral,鹿角珊瑚
+PROPCTRL_TXT_000056,Round Red Coral,红球珊瑚
 PROPCTRL_TXT_000057,Leren Chasm Chest,乐雅裂痕宝箱
 PROPCTRL_TXT_000058,Rhisis Catacombs Chest,莱斯神之墓宝箱
 PROPCTRL_TXT_000059,Envy Depths Chest,渴望深渊宝箱
 PROPCTRL_TXT_000060,Guardiane Sanctuary Chest,堕落圣域宝箱
 PROPCTRL_TXT_000061,Storm Peak Chest,风暴之巅宝箱
 PROPCTRL_TXT_000062,The Wilds Chest,荒野宝箱
-PROPCTRL_TXT_000063,Dungeon Warp 05,Dungeon Warp 05
-PROPCTRL_TXT_000064,Dungeon Warp 06,Dungeon Warp 06
-PROPCTRL_TXT_000065,Ship Wheel,Ship Wheel
-PROPCTRL_TXT_000066,Cushion Chair,Cushion Chair
-PROPCTRL_TXT_000067,Spinning Globe,Spinning Globe
-PROPCTRL_TXT_000068,Compass,Compass
-PROPCTRL_TXT_000069,Chandelier,Chandelier
-PROPCTRL_TXT_000070,Command Desk,Command Desk
-PROPCTRL_TXT_000071,Command Platform,Command Platform
-PROPCTRL_TXT_000072,Small Table,Small Table
-PROPCTRL_TXT_000073,Drawer,Drawer
-PROPCTRL_TXT_000074,Twin Bed,Twin Bed
-PROPCTRL_TXT_000075,Incident Painting,Incident Painting
-PROPCTRL_TXT_000076,Home Painting,Home Painting
-PROPCTRL_TXT_000077,Metaverse Ball,Metaverse Ball
-PROPCTRL_TXT_000078,Metaverse Bath Rug,Metaverse Bath Rug
-PROPCTRL_TXT_000079,Metaverse Twin Bed,Metaverse Twin Bed
-PROPCTRL_TXT_000080,Metaverse King Bed,Metaverse King Bed
-PROPCTRL_TXT_000081,Metaverse Single Bed,Metaverse Single Bed
-PROPCTRL_TXT_000082,Metaverse Beer Cup,Metaverse Beer Cup
-PROPCTRL_TXT_000083,Metaverse Bench,Metaverse Bench
-PROPCTRL_TXT_000084,Metaverse Candle,Metaverse Candle
-PROPCTRL_TXT_000085,Metaverse Cat Supplies,Metaverse Cat Supplies
-PROPCTRL_TXT_000086,Metaverse Chair,Metaverse Chair
-PROPCTRL_TXT_000087,Metaverse Basic Desk,Metaverse Basic Desk
-PROPCTRL_TXT_000088,Metaverse Wooden Desk,Metaverse Wooden Desk
-PROPCTRL_TXT_000089,Metaverse Boss Desk,Metaverse Boss Desk
-PROPCTRL_TXT_000090,Metaverse Student Desk,Metaverse Student Desk
-PROPCTRL_TXT_000091,Metaverse Pencil Case,Metaverse Pencil Case
-PROPCTRL_TXT_000092,Metaverse Plant,Metaverse Plant
-PROPCTRL_TXT_000093,Metaverse Tree Pot,Metaverse Tree Pot
-PROPCTRL_TXT_000094,Metaverse Slippers,Metaverse Slippers
-PROPCTRL_TXT_000095,Metaverse Single Sofa,Metaverse Single Sofa
-PROPCTRL_TXT_000096,Metaverse Pouffe Seat,Metaverse Pouffe Seat
-PROPCTRL_TXT_000097,Metaverse Sofa,Metaverse Sofa
-PROPCTRL_TXT_000098,Metaverse Round Table,Metaverse Round Table
-PROPCTRL_TXT_000099,Metaverse Storage Table,Metaverse Storage Table
-PROPCTRL_TXT_000100,Metaverse Decorative Table,Metaverse Decorative Table
-PROPCTRL_TXT_000101,Metaverse Violin,Metaverse Violin
-PROPCTRL_TXT_000102,Wooden Yellow Chair,Wooden Yellow Chair
-PROPCTRL_TXT_000103,Wooden Yellow Table,Wooden Yellow Table
-PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,Wooden Yellow Dressing Table
-PROPCTRL_TXT_000105,Wooden Yellow Closet,Wooden Yellow Closet
-PROPCTRL_TXT_000106,Wooden Yellow Bench,Wooden Yellow Bench
-PROPCTRL_TXT_000107,Wooden Yellow Cabinet,Wooden Yellow Cabinet
-PROPCTRL_TXT_000108,Wooden Yellow Bed,Wooden Yellow Bed
-PROPCTRL_TXT_000109,Wooden Blue Chair,Wooden Blue Chair
-PROPCTRL_TXT_000110,Wooden Blue Table,Wooden Blue Table
-PROPCTRL_TXT_000111,Wooden Blue Dressing Table,Wooden Blue Dressing Table
-PROPCTRL_TXT_000112,Wooden Blue Closet,Wooden Blue Closet
-PROPCTRL_TXT_000113,Wooden Blue Bench,Wooden Blue Bench
-PROPCTRL_TXT_000114,Wooden Blue Cabinet,Wooden Blue Cabinet
-PROPCTRL_TXT_000115,Wooden Blue Bed,Wooden Blue Bed
-PROPCTRL_TXT_000116,Wooden Red Chair,Wooden Red Chair
-PROPCTRL_TXT_000117,Wooden Red Table,Wooden Red Table
-PROPCTRL_TXT_000118,Wooden Red Dressing Table,Wooden Red Dressing Table
-PROPCTRL_TXT_000119,Wooden Red Closet,Wooden Red Closet
-PROPCTRL_TXT_000120,Wooden Red Bench,Wooden Red Bench
-PROPCTRL_TXT_000121,Wooden Red Cabinet,Wooden Red Cabinet
-PROPCTRL_TXT_000122,Wooden Red Bed,Wooden Red Bed
-PROPCTRL_TXT_000123,Music Chair,Music Chair
-PROPCTRL_TXT_000124,Music Table,Music Table
-PROPCTRL_TXT_000125,Music Dressing Table,Music Dressing Table
-PROPCTRL_TXT_000126,Music Wardrobe,Music Wardrobe
-PROPCTRL_TXT_000127,Music Sofa,Music Sofa
-PROPCTRL_TXT_000128,Music Cabinet,Music Cabinet
-PROPCTRL_TXT_000129,Music Bed,Music Bed
-PROPCTRL_TXT_000130,Heart Chair,Heart Chair
-PROPCTRL_TXT_000131,Heart Table,Heart Table
-PROPCTRL_TXT_000132,Heart Dressing Table,Heart Dressing Table
-PROPCTRL_TXT_000133,Heart Wardrobe,Heart Wardrobe
-PROPCTRL_TXT_000134,Heart Sofa,Heart Sofa
-PROPCTRL_TXT_000135,Heart Cabinet,Heart Cabinet
-PROPCTRL_TXT_000136,Heart Bed,Heart Bed
-PROPCTRL_TXT_000137,Modern Chair,Modern Chair
-PROPCTRL_TXT_000138,Modern Table,Modern Table
-PROPCTRL_TXT_000139,Modern Dressing Table,Modern Dressing Table
-PROPCTRL_TXT_000140,Modern Wardrobe,Modern Wardrobe
-PROPCTRL_TXT_000141,Modern Sofa,Modern Sofa
-PROPCTRL_TXT_000142,Modern Cabinet,Modern Cabinet
-PROPCTRL_TXT_000143,Modern Bed,Modern Bed
-PROPCTRL_TXT_000144,Royal Chair,Royal Chair
-PROPCTRL_TXT_000145,Royal Table,Royal Table
-PROPCTRL_TXT_000146,Royal Dressing Table,Royal Dressing Table
-PROPCTRL_TXT_000147,Royal Wardrobe,Royal Wardrobe
-PROPCTRL_TXT_000148,Royal Sofa,Royal Sofa
-PROPCTRL_TXT_000149,Royal Bed,Royal Bed
-PROPCTRL_TXT_000150,Royal Drawer,Royal Drawer
-PROPCTRL_TXT_000151,Royal Bookcase,Royal Bookcase
-PROPCTRL_TXT_000152,Royal Desk,Royal Desk
-PROPCTRL_TXT_000153,Royal Bath,Royal Bath
-PROPCTRL_TXT_000154,Golden Royal Chair,Golden Royal Chair
-PROPCTRL_TXT_000155,Golden Royal Table,Golden Royal Table
-PROPCTRL_TXT_000156,Golden Royal Dressing Table,Golden Royal Dressing Table
-PROPCTRL_TXT_000157,Golden Royal Wardrobe,Golden Royal Wardrobe
-PROPCTRL_TXT_000158,Golden Royal Sofa,Golden Royal Sofa
-PROPCTRL_TXT_000159,Golden Royal Bed,Golden Royal Bed
-PROPCTRL_TXT_000160,Golden Royal Drawer,Golden Royal Drawer
-PROPCTRL_TXT_000161,Golden Royal Bookcase,Golden Royal Bookcase
-PROPCTRL_TXT_000162,Golden Royal Desk,Golden Royal Desk
-PROPCTRL_TXT_000163,Golden Royal Bath,Golden Royal Bath
-PROPCTRL_TXT_000164,Design Black Chair,Design Black Chair
-PROPCTRL_TXT_000165,Design White Chair,Design White Chair
-PROPCTRL_TXT_000166,Design Table,Design Table
-PROPCTRL_TXT_000167,Design Drawer,Design Drawer
-PROPCTRL_TXT_000168,Design Bookcase,Design Bookcase
-PROPCTRL_TXT_000169,Design Sofa,Design Sofa
-PROPCTRL_TXT_000170,Wooden Chair,Wooden Chair
-PROPCTRL_TXT_000171,Wooden Table,Wooden Table
-PROPCTRL_TXT_000172,Wooden Drawer,Wooden Drawer
-PROPCTRL_TXT_000173,Wooden Bookcase,Wooden Bookcase
-PROPCTRL_TXT_000174,Wooden Sofa,Wooden Sofa
-PROPCTRL_TXT_000175,Flaris Ground Field,Flaris Ground Field
-PROPCTRL_TXT_000176,Flaris Anvil,Flaris Anvil
-PROPCTRL_TXT_000177,Flaris Bench,Flaris Bench
-PROPCTRL_TXT_000178,Flaris Chariot,Flaris Chariot
-PROPCTRL_TXT_000179,Flaris Fence 1,Flaris Fence 1
-PROPCTRL_TXT_000180,Flaris Floor Lamp,Flaris Floor Lamp
-PROPCTRL_TXT_000181,Flaris Wall Lamp,Flaris Wall Lamp
-PROPCTRL_TXT_000182,Flaris Pot 1,Flaris Pot 1
-PROPCTRL_TXT_000183,Flaris Small Sign,Flaris Small Sign
-PROPCTRL_TXT_000184,Flaris Medium Sign,Flaris Medium Sign
-PROPCTRL_TXT_000185,Flaris Large Sign,Flaris Large Sign
-PROPCTRL_TXT_000186,Flaris Boat Sign,Flaris Boat Sign
-PROPCTRL_TXT_000187,Flaris Rotating Sign,Flaris Rotating Sign
-PROPCTRL_TXT_000188,Common Green Tree 1,Common Green Tree 1
-PROPCTRL_TXT_000189,Common Wooden Box 1,Common Wooden Box 1
-PROPCTRL_TXT_000190,Common Wooden Box Pile 1,Common Wooden Box Pile 1
-PROPCTRL_TXT_000191,Common Wooden Barrel 1,Common Wooden Barrel 1
-PROPCTRL_TXT_000192,Common Wooden Barrel Pile 1,Common Wooden Barrel Pile 1
-PROPCTRL_TXT_000193,Common Flowers 1,Common Flowers 1
-PROPCTRL_TXT_000194,Common Grass 1,Common Grass 1
-PROPCTRL_TXT_000195,Common Mushroom 1,Common Mushroom 1
-PROPCTRL_TXT_000196,Common Rock 1,Common Rock 1
-PROPCTRL_TXT_000197,Common Autumn Tree,Common Autumn Tree
-PROPCTRL_TXT_000198,Common Sakura Tree 1,Common Sakura Tree 1
-PROPCTRL_TXT_000199,Common Burned Tree,Common Burned Tree
-PROPCTRL_TXT_000200,St Morning Bench,St Morning Bench
-PROPCTRL_TXT_000201,St Morning Chariot,St Morning Chariot
-PROPCTRL_TXT_000202,St Morning Rock Arch 1,St Morning Rock Arch 1
-PROPCTRL_TXT_000203,St Morning Flag 1,St Morning Flag 1
-PROPCTRL_TXT_000204,St Morning Flower Bed,St Morning Flower Bed
-PROPCTRL_TXT_000205,St Morning Rock 1,St Morning Rock 1
-PROPCTRL_TXT_000206,St Morning Light 1,St Morning Light 1
-PROPCTRL_TXT_000207,St Morning Sign,St Morning Sign
-PROPCTRL_TXT_000208,Darkon Wagon 1,Darkon Wagon 1
-PROPCTRL_TXT_000209,Darkon Sign 1,Darkon Sign 1
-PROPCTRL_TXT_000210,Darkon Big Box 1,Darkon Big Box 1
-PROPCTRL_TXT_000211,Darkon Brown Rock 1,Darkon Brown Rock 1
-PROPCTRL_TXT_000212,Darkon Barrel 1,Darkon Barrel 1
-PROPCTRL_TXT_000213,Darkon Ground Window,Darkon Ground Window
-PROPCTRL_TXT_000214,Darkon Light 1,Darkon Light 1
-PROPCTRL_TXT_000215,Darkon Mushroom 1,Darkon Mushroom 1
-PROPCTRL_TXT_000216,Darkon Tree 1,Darkon Tree 1
-PROPCTRL_TXT_000217,Darkon Plant,Darkon Plant
-PROPCTRL_TXT_000218,Azria Plant 1,Azria Plant 1
-PROPCTRL_TXT_000219,Azria Tree 1,Azria Tree 1
-PROPCTRL_TXT_000220,Azria Light 1,Azria Light 1
-PROPCTRL_TXT_000221,Azria Rock 1,Azria Rock 1
-PROPCTRL_TXT_000222,Azria Mushroom 1,Azria Mushroom 1
-PROPCTRL_TXT_000223,Azria Chariot,Azria Chariot
-PROPCTRL_TXT_000224,Azria Crystal,Azria Crystal
-PROPCTRL_TXT_000225,Azria Grass 1,Azria Grass 1
-PROPCTRL_TXT_000226,Azria Sign 1,Azria Sign 1
-PROPCTRL_TXT_000227,Azria Box Pile,Azria Box Pile
-PROPCTRL_TXT_000228,Azria Box 1,Azria Box 1
-PROPCTRL_TXT_000229,Coral Island Tree 1,Coral Island Tree 1
-PROPCTRL_TXT_000230,Coral Island Shellfish 1,Coral Island Shellfish 1
-PROPCTRL_TXT_000231,Coral Island Coral 1,Coral Island Coral 1
-PROPCTRL_TXT_000232,Coral Island Starfish 1,Coral Island Starfish 1
-PROPCTRL_TXT_000233,Coral Island Table 1,Coral Island Table 1
-PROPCTRL_TXT_000234,Coral Island Beach Umbrella ,Coral Island Beach Umbrella 
-PROPCTRL_TXT_000235,Basic Wall,Basic Wall
-PROPCTRL_TXT_000236,Flaris Wall,Flaris Wall
-PROPCTRL_TXT_000237,Cove Wall,Cove Wall
-PROPCTRL_TXT_000238,Coral Island Wall,Coral Island Wall
-PROPCTRL_TXT_000239,Forsaken Wall,Forsaken Wall
-PROPCTRL_TXT_000240,Secret Wall,Secret Wall
-PROPCTRL_TXT_000241,Colosseum Wall,Colosseum Wall
-PROPCTRL_TXT_000242,Darkon Light Wall,Darkon Light Wall
-PROPCTRL_TXT_000243,Darkon Wooden Wall,Darkon Wooden Wall
-PROPCTRL_TXT_000244,Darkon Metal Wall,Darkon Metal Wall
-PROPCTRL_TXT_000245,Mechanical Wall,Mechanical Wall
-PROPCTRL_TXT_000246,Cottage Wall,Cottage Wall
-PROPCTRL_TXT_000247,Ivillis Wall,Ivillis Wall
-PROPCTRL_TXT_000248,Royal Wall,Royal Wall
-PROPCTRL_TXT_000249,Plain Wall,Plain Wall
-PROPCTRL_TXT_000250,Deck Wall,Deck Wall
-PROPCTRL_TXT_000251,Forest Wall,Forest Wall
-PROPCTRL_TXT_000252,Metallic Wall,Metallic Wall
-PROPCTRL_TXT_000253,Construction Wall,Construction Wall
-PROPCTRL_TXT_000254,Saint Morning Wall,Saint Morning Wall
-PROPCTRL_TXT_000255,Basic Floor,Basic Floor
-PROPCTRL_TXT_000256,White Floor,White Floor
-PROPCTRL_TXT_000257,Bordered Cove Floor,Bordered Cove Floor
-PROPCTRL_TXT_000258,Plain Cove Floor,Plain Cove Floor
-PROPCTRL_TXT_000259,Small Plank Floor,Small Plank Floor
-PROPCTRL_TXT_000260,Crate Floor,Crate Floor
-PROPCTRL_TXT_000261,Platform Floor,Platform Floor
-PROPCTRL_TXT_000262,Light Plank Floor,Light Plank Floor
-PROPCTRL_TXT_000263,Light Brick Floor,Light Brick Floor
-PROPCTRL_TXT_000264,Scrap Wood Floor,Scrap Wood Floor
-PROPCTRL_TXT_000265,Pale Wood Floor,Pale Wood Floor
-PROPCTRL_TXT_000266,Mossy Brick Floor,Mossy Brick Floor
-PROPCTRL_TXT_000267,Shipwreck Floor,Shipwreck Floor
-PROPCTRL_TXT_000268,Construction Floor,Construction Floor
-PROPCTRL_TXT_000269,Mars Floor,Mars Floor
-PROPCTRL_TXT_000270,Forsaken Brick Floor,Forsaken Brick Floor
-PROPCTRL_TXT_000271,Ominous Floor,Ominous Floor
-PROPCTRL_TXT_000272,Golden Floor,Golden Floor
-PROPCTRL_TXT_000273,Bordered Secret Floor,Bordered Secret Floor
-PROPCTRL_TXT_000274,Plain Secret Floor,Plain Secret Floor
-PROPCTRL_TXT_000275,Darkon Wooden Plain Floor,Darkon Wooden Plain Floor
-PROPCTRL_TXT_000276,Darkon Wooden Mosaic Floor,Darkon Wooden Mosaic Floor
-PROPCTRL_TXT_000277,Forsaken Blue Floor,Forsaken Blue Floor
-PROPCTRL_TXT_000278,Plain Forsaken Blue Floor,Plain Forsaken Blue Floor
-PROPCTRL_TXT_000279,Wilds Floor,Wilds Floor
-PROPCTRL_TXT_000280,Pebble Floor,Pebble Floor
-PROPCTRL_TXT_000281,Fortress Floor,Fortress Floor
-PROPCTRL_TXT_000282,Cracked Floor,Cracked Floor
-PROPCTRL_TXT_000283,Volcanic Floor,Volcanic Floor
-PROPCTRL_TXT_000284,Modern Floor,Modern Floor
-PROPCTRL_TXT_000285,Pipe Floor,Pipe Floor
-PROPCTRL_TXT_000286,Darkon Metal Mosaic Floor,Darkon Metal Mosaic Floor
-PROPCTRL_TXT_000287,Darkon Metal Grid Lattice Floor,Darkon Metal Grid Lattice Floor
-PROPCTRL_TXT_000288,Darkon Metal Plain Floor,Darkon Metal Plain Floor
-PROPCTRL_TXT_000289,Forged Floor,Forged Floor
-PROPCTRL_TXT_000290,Industrial Floor,Industrial Floor
-PROPCTRL_TXT_000291,Colosseum Floor,Colosseum Floor
-PROPCTRL_TXT_000292,Dungeon Floor,Dungeon Floor
-PROPCTRL_TXT_000293,Bright Wooden Floor,Bright Wooden Floor
-PROPCTRL_TXT_000294,Honey Wooden Floor,Honey Wooden Floor
-PROPCTRL_TXT_000295,Ancient Floor,Ancient Floor
-PROPCTRL_TXT_000296,Pier Floor,Pier Floor
-PROPCTRL_TXT_000297,Dark Stacked Wooden Floor,Dark Stacked Wooden Floor
-PROPCTRL_TXT_000298,Light Stacked Wooden Floor,Light Stacked Wooden Floor
-PROPCTRL_TXT_000299,Dark Plank Floor,Dark Plank Floor
-PROPCTRL_TXT_000300,Cracked Marble Floor,Cracked Marble Floor
-PROPCTRL_TXT_000301,Battle Floor,Battle Floor
-PROPCTRL_TXT_000302,Branch Floor,Branch Floor
-PROPCTRL_TXT_000303,Tree Floor,Tree Floor
-PROPCTRL_TXT_000304,Royal Carpet Floor,Royal Carpet Floor
-PROPCTRL_TXT_000305,Rhisis Floor,Rhisis Floor
-PROPCTRL_TXT_000306,Dirt Floor,Dirt Floor
-PROPCTRL_TXT_000307,Flarine Floor,Flarine Floor
-PROPCTRL_TXT_000308,Gravel Floor,Gravel Floor
-PROPCTRL_TXT_000309,Bordered Plank Floor,Bordered Plank Floor
-PROPCTRL_TXT_000310,Basic Ceiling,Basic Ceiling
-PROPCTRL_TXT_000311,White Ceiling,White Ceiling
-PROPCTRL_TXT_000312,Bordered Cove Ceiling,Bordered Cove Ceiling
-PROPCTRL_TXT_000313,Plain Cove Ceiling,Plain Cove Ceiling
-PROPCTRL_TXT_000314,Small Plank Ceiling,Small Plank Ceiling
-PROPCTRL_TXT_000315,Crate Ceiling,Crate Ceiling
-PROPCTRL_TXT_000316,Platform Ceiling,Platform Ceiling
-PROPCTRL_TXT_000317,Light Plank Ceiling,Light Plank Ceiling
-PROPCTRL_TXT_000318,Light Brick Ceiling,Light Brick Ceiling
-PROPCTRL_TXT_000319,Scrap Wood Ceiling,Scrap Wood Ceiling
-PROPCTRL_TXT_000320,Pale Wood Ceiling,Pale Wood Ceiling
-PROPCTRL_TXT_000321,Mossy Brick Ceiling,Mossy Brick Ceiling
-PROPCTRL_TXT_000322,Shipwreck Ceiling,Shipwreck Ceiling
-PROPCTRL_TXT_000323,Construction Ceiling,Construction Ceiling
-PROPCTRL_TXT_000324,Mars Ceiling,Mars Ceiling
-PROPCTRL_TXT_000325,Forsaken Brick Ceiling,Forsaken Brick Ceiling
-PROPCTRL_TXT_000326,Ominous Ceiling,Ominous Ceiling
-PROPCTRL_TXT_000327,Golden Ceiling,Golden Ceiling
-PROPCTRL_TXT_000328,Bordered Secret Ceiling,Bordered Secret Ceiling
-PROPCTRL_TXT_000329,Plain Secret Ceiling,Plain Secret Ceiling
-PROPCTRL_TXT_000330,Darkon Wooden Plain Ceiling,Darkon Wooden Plain Ceiling
-PROPCTRL_TXT_000331,Darkon Wooden Mosaic Ceiling,Darkon Wooden Mosaic Ceiling
-PROPCTRL_TXT_000332,Forsaken Blue Ceiling,Forsaken Blue Ceiling
-PROPCTRL_TXT_000333,Plain Forsaken Blue Ceiling,Plain Forsaken Blue Ceiling
-PROPCTRL_TXT_000334,Wilds Ceiling,Wilds Ceiling
-PROPCTRL_TXT_000335,Pebble Ceiling,Pebble Ceiling
-PROPCTRL_TXT_000336,Fortress Ceiling,Fortress Ceiling
-PROPCTRL_TXT_000337,Cracked Ceiling,Cracked Ceiling
-PROPCTRL_TXT_000338,Volcanic Ceiling,Volcanic Ceiling
-PROPCTRL_TXT_000339,Modern Ceiling,Modern Ceiling
-PROPCTRL_TXT_000340,Pipe Ceiling,Pipe Ceiling
-PROPCTRL_TXT_000341,Darkon Metal Mosaic Ceiling,Darkon Metal Mosaic Ceiling
-PROPCTRL_TXT_000342,Darkon Metal Grid Lattice Ceiling,Darkon Metal Grid Lattice Ceiling
-PROPCTRL_TXT_000343,Darkon Metal Plain Ceiling,Darkon Metal Plain Ceiling
-PROPCTRL_TXT_000344,Forged Ceiling,Forged Ceiling
-PROPCTRL_TXT_000345,Industrial Ceiling,Industrial Ceiling
-PROPCTRL_TXT_000346,Colosseum Ceiling,Colosseum Ceiling
-PROPCTRL_TXT_000347,Dungeon Ceiling,Dungeon Ceiling
-PROPCTRL_TXT_000348,Bright Wooden Ceiling,Bright Wooden Ceiling
-PROPCTRL_TXT_000349,Honey Wooden Ceiling,Honey Wooden Ceiling
-PROPCTRL_TXT_000350,Ancient Ceiling,Ancient Ceiling
-PROPCTRL_TXT_000351,Pier Ceiling,Pier Ceiling
-PROPCTRL_TXT_000352,Dark Stacked Wooden Ceiling,Dark Stacked Wooden Ceiling
-PROPCTRL_TXT_000353,Light Stacked Wooden Ceiling,Light Stacked Wooden Ceiling
-PROPCTRL_TXT_000354,Dark Plank Ceiling,Dark Plank Ceiling
-PROPCTRL_TXT_000355,Cracked Marble Ceiling,Cracked Marble Ceiling
-PROPCTRL_TXT_000356,Battle Ceiling,Battle Ceiling
-PROPCTRL_TXT_000357,Branch Ceiling,Branch Ceiling
-PROPCTRL_TXT_000358,Tree Ceiling,Tree Ceiling
-PROPCTRL_TXT_000359,Royal Carpet Ceiling,Royal Carpet Ceiling
-PROPCTRL_TXT_000360,Rhisis Ceiling,Rhisis Ceiling
-PROPCTRL_TXT_000361,Dirt Ceiling,Dirt Ceiling
-PROPCTRL_TXT_000362,Flarine Ceiling,Flarine Ceiling
-PROPCTRL_TXT_000363,Gravel Ceiling,Gravel Ceiling
-PROPCTRL_TXT_000364,Bordered Plank Ceiling,Bordered Plank Ceiling
-PROPCTRL_TXT_000365,Common Green Tree 2,Common Green Tree 2
-PROPCTRL_TXT_000366,Common Green Tree 3,Common Green Tree 3
-PROPCTRL_TXT_000367,Common Green Tree 4,Common Green Tree 4
-PROPCTRL_TXT_000368,Common Green Tree 5,Common Green Tree 5
-PROPCTRL_TXT_000369,Common Green Tree 6,Common Green Tree 6
-PROPCTRL_TXT_000370,Common Green Tree 7,Common Green Tree 7
-PROPCTRL_TXT_000371,Common Green Tree 8,Common Green Tree 8
-PROPCTRL_TXT_000372,Common Green Tree 9,Common Green Tree 9
-PROPCTRL_TXT_000373,Common Green Tree 10,Common Green Tree 10
-PROPCTRL_TXT_000374,Common Green Tree 11,Common Green Tree 11
-PROPCTRL_TXT_000375,Common Green Tree 12,Common Green Tree 12
-PROPCTRL_TXT_000376,Common Green Tree 13,Common Green Tree 13
-PROPCTRL_TXT_000377,Common Green Tree 14,Common Green Tree 14
-PROPCTRL_TXT_000378,Common Sakura Tree 2,Common Sakura Tree 2
-PROPCTRL_TXT_000379,Common Wooden Box 2,Common Wooden Box 2
-PROPCTRL_TXT_000380,Common Wooden Box Pile 2,Common Wooden Box Pile 2
-PROPCTRL_TXT_000381,Common Wooden Box Pile 3,Common Wooden Box Pile 3
-PROPCTRL_TXT_000382,Common Wooden Box Pile 4,Common Wooden Box Pile 4
-PROPCTRL_TXT_000383,Common Wooden Barrel 2,Common Wooden Barrel 2
-PROPCTRL_TXT_000384,Common Wooden Barrel 3,Common Wooden Barrel 3
-PROPCTRL_TXT_000385,Common Wooden Barrel 4,Common Wooden Barrel 4
-PROPCTRL_TXT_000386,Common Wooden Barrel Pile 2,Common Wooden Barrel Pile 2
-PROPCTRL_TXT_000387,Common Wooden Barrel Pile 3,Common Wooden Barrel Pile 3
-PROPCTRL_TXT_000388,Common Wooden Barrel Pile 4,Common Wooden Barrel Pile 4
-PROPCTRL_TXT_000389,Common Wooden Barrel Pile 5,Common Wooden Barrel Pile 5
-PROPCTRL_TXT_000390,Common Wooden Barrel Pile 6,Common Wooden Barrel Pile 6
-PROPCTRL_TXT_000391,Common Wooden Barrel Pile 7,Common Wooden Barrel Pile 7
-PROPCTRL_TXT_000392,Common Wooden Barrel Pile 8,Common Wooden Barrel Pile 8
-PROPCTRL_TXT_000393,Common Wooden Barrel Pile 9,Common Wooden Barrel Pile 9
-PROPCTRL_TXT_000394,Common Wooden Barrel Pile 10,Common Wooden Barrel Pile 10
-PROPCTRL_TXT_000395,Common Flowers 2,Common Flowers 2
-PROPCTRL_TXT_000396,Common Flowers 3,Common Flowers 3
-PROPCTRL_TXT_000397,Common Flowers 4,Common Flowers 4
-PROPCTRL_TXT_000398,Common Flowers 5,Common Flowers 5
-PROPCTRL_TXT_000399,Common Flowers 6,Common Flowers 6
-PROPCTRL_TXT_000400,Common Flowers 7,Common Flowers 7
-PROPCTRL_TXT_000401,Common Flowers 8,Common Flowers 8
-PROPCTRL_TXT_000402,Common Grass 2,Common Grass 2
-PROPCTRL_TXT_000403,Common Grass 3,Common Grass 3
-PROPCTRL_TXT_000404,Common Grass 4,Common Grass 4
-PROPCTRL_TXT_000405,Common Grass 5,Common Grass 5
-PROPCTRL_TXT_000406,Common Grass 6,Common Grass 6
-PROPCTRL_TXT_000407,Common Grass 7,Common Grass 7
-PROPCTRL_TXT_000408,Common Grass 8,Common Grass 8
-PROPCTRL_TXT_000409,Common Grass 9,Common Grass 9
-PROPCTRL_TXT_000410,Common Grass 10,Common Grass 10
-PROPCTRL_TXT_000411,Common Grass 11,Common Grass 11
-PROPCTRL_TXT_000412,Common Grass 12,Common Grass 12
-PROPCTRL_TXT_000413,Common Grass 13,Common Grass 13
-PROPCTRL_TXT_000414,Common Mushroom 2,Common Mushroom 2
-PROPCTRL_TXT_000415,Common Mushroom 3,Common Mushroom 3
-PROPCTRL_TXT_000416,Common Mushroom 4,Common Mushroom 4
-PROPCTRL_TXT_000417,Common Rock 2,Common Rock 2
-PROPCTRL_TXT_000418,Common Rock 3,Common Rock 3
-PROPCTRL_TXT_000419,Common Rock 4,Common Rock 4
-PROPCTRL_TXT_000420,Common Rock 5,Common Rock 5
-PROPCTRL_TXT_000421,Common Rock 6,Common Rock 6
-PROPCTRL_TXT_000422,Common Rock 7,Common Rock 7
-PROPCTRL_TXT_000423,Common Rock 8,Common Rock 8
-PROPCTRL_TXT_000424,Common Rock 9,Common Rock 9
-PROPCTRL_TXT_000425,Common Rock 10,Common Rock 10
-PROPCTRL_TXT_000426,St Morning Rock Arch 2,St Morning Rock Arch 2
-PROPCTRL_TXT_000427,St Morning Rock Arch 3,St Morning Rock Arch 3
-PROPCTRL_TXT_000428,St Morning Flag 2,St Morning Flag 2
-PROPCTRL_TXT_000429,St Morning Flag 3,St Morning Flag 3
-PROPCTRL_TXT_000430,St Morning Flag 4,St Morning Flag 4
-PROPCTRL_TXT_000431,St Morning Flag 5,St Morning Flag 5
-PROPCTRL_TXT_000432,St Morning Rock 2,St Morning Rock 2
-PROPCTRL_TXT_000433,St Morning Rock 3,St Morning Rock 3
-PROPCTRL_TXT_000434,St Morning Rock 4,St Morning Rock 4
-PROPCTRL_TXT_000435,St Morning Rock 5,St Morning Rock 5
-PROPCTRL_TXT_000436,St Morning Rock 6,St Morning Rock 6
-PROPCTRL_TXT_000437,St Morning Rock 7,St Morning Rock 7
-PROPCTRL_TXT_000438,St Morning Rock 8,St Morning Rock 8
-PROPCTRL_TXT_000439,St Morning Rock 9,St Morning Rock 9
-PROPCTRL_TXT_000440,St Morning Rock 10,St Morning Rock 10
-PROPCTRL_TXT_000441,St Morning Rock 11,St Morning Rock 11
-PROPCTRL_TXT_000442,St Morning Rock 12,St Morning Rock 12
-PROPCTRL_TXT_000443,St Morning Rock 13,St Morning Rock 13
-PROPCTRL_TXT_000444,St Morning Rock 14,St Morning Rock 14
-PROPCTRL_TXT_000445,St Morning Rock 15,St Morning Rock 15
-PROPCTRL_TXT_000446,St Morning Light 2,St Morning Light 2
-PROPCTRL_TXT_000447,Darkon Wagon 2,Darkon Wagon 2
-PROPCTRL_TXT_000448,Darkon Wagon 3,Darkon Wagon 3
-PROPCTRL_TXT_000449,Darkon Wagon 4,Darkon Wagon 4
-PROPCTRL_TXT_000450,Darkon Wagon 5,Darkon Wagon 5
-PROPCTRL_TXT_000451,Darkon Sign 2,Darkon Sign 2
-PROPCTRL_TXT_000452,Darkon Sign 3,Darkon Sign 3
-PROPCTRL_TXT_000453,Darkon Sign 4,Darkon Sign 4
-PROPCTRL_TXT_000454,Darkon Sign 5,Darkon Sign 5
-PROPCTRL_TXT_000455,Darkon Sign 6,Darkon Sign 6
-PROPCTRL_TXT_000456,Darkon Sign 7,Darkon Sign 7
-PROPCTRL_TXT_000457,Darkon Big Box 2,Darkon Big Box 2
-PROPCTRL_TXT_000458,Darkon Big Box 3,Darkon Big Box 3
-PROPCTRL_TXT_000459,Darkon Big Box 4,Darkon Big Box 4
-PROPCTRL_TXT_000460,Darkon Big Box 5,Darkon Big Box 5
-PROPCTRL_TXT_000461,Darkon Brown Rock 2,Darkon Brown Rock 2
-PROPCTRL_TXT_000462,Darkon Brown Rock 3,Darkon Brown Rock 3
-PROPCTRL_TXT_000463,Darkon Brown Rock 4,Darkon Brown Rock 4
-PROPCTRL_TXT_000464,Darkon Brown Rock 5,Darkon Brown Rock 5
-PROPCTRL_TXT_000465,Darkon Brown Rock 6,Darkon Brown Rock 6
-PROPCTRL_TXT_000466,Darkon Brown Rock 7,Darkon Brown Rock 7
-PROPCTRL_TXT_000467,Darkon Barrel 2,Darkon Barrel 2
-PROPCTRL_TXT_000468,Darkon Light 2,Darkon Light 2
-PROPCTRL_TXT_000469,Darkon Light 3,Darkon Light 3
-PROPCTRL_TXT_000470,Darkon Light 4,Darkon Light 4
-PROPCTRL_TXT_000471,Darkon Light 5,Darkon Light 5
-PROPCTRL_TXT_000472,Darkon Light 6,Darkon Light 6
-PROPCTRL_TXT_000473,Darkon Mushroom 2,Darkon Mushroom 2
-PROPCTRL_TXT_000474,Darkon Mushroom 3,Darkon Mushroom 3
-PROPCTRL_TXT_000475,Darkon Mushroom 4,Darkon Mushroom 4
-PROPCTRL_TXT_000476,Darkon Mushroom 5,Darkon Mushroom 5
-PROPCTRL_TXT_000477,Darkon Tree 2,Darkon Tree 2
-PROPCTRL_TXT_000478,Darkon Tree 3,Darkon Tree 3
-PROPCTRL_TXT_000479,Darkon Tree 4,Darkon Tree 4
-PROPCTRL_TXT_000480,Darkon Tree 5,Darkon Tree 5
-PROPCTRL_TXT_000481,Darkon Tree 6,Darkon Tree 6
-PROPCTRL_TXT_000482,Darkon Tree 7,Darkon Tree 7
-PROPCTRL_TXT_000483,Darkon Tree 8,Darkon Tree 8
-PROPCTRL_TXT_000484,Darkon Tree 9,Darkon Tree 9
-PROPCTRL_TXT_000485,Azria Plant 2,Azria Plant 2
-PROPCTRL_TXT_000486,Azria Plant 3,Azria Plant 3
-PROPCTRL_TXT_000487,Azria Plant 4,Azria Plant 4
-PROPCTRL_TXT_000488,Azria Plant 5,Azria Plant 5
-PROPCTRL_TXT_000489,Azria Tree 2,Azria Tree 2
-PROPCTRL_TXT_000490,Azria Tree 3,Azria Tree 3
-PROPCTRL_TXT_000491,Azria Tree 4,Azria Tree 4
-PROPCTRL_TXT_000492,Azria Tree 5,Azria Tree 5
-PROPCTRL_TXT_000493,Azria Tree 6,Azria Tree 6
-PROPCTRL_TXT_000494,Azria Tree 7,Azria Tree 7
-PROPCTRL_TXT_000495,Azria Tree 8,Azria Tree 8
-PROPCTRL_TXT_000496,Azria Tree 9,Azria Tree 9
-PROPCTRL_TXT_000497,Azria Tree 10,Azria Tree 10
-PROPCTRL_TXT_000498,Azria Tree 11,Azria Tree 11
-PROPCTRL_TXT_000499,Azria Tree 12,Azria Tree 12
-PROPCTRL_TXT_000500,Azria Tree 13,Azria Tree 13
-PROPCTRL_TXT_000501,Azria Tree 14,Azria Tree 14
-PROPCTRL_TXT_000502,Azria Tree 15,Azria Tree 15
-PROPCTRL_TXT_000503,Azria Tree 16,Azria Tree 16
-PROPCTRL_TXT_000504,Azria Tree 17,Azria Tree 17
-PROPCTRL_TXT_000505,Azria Tree 18,Azria Tree 18
-PROPCTRL_TXT_000506,Azria Tree 19,Azria Tree 19
-PROPCTRL_TXT_000507,Azria Tree 20,Azria Tree 20
-PROPCTRL_TXT_000508,Azria Tree 21,Azria Tree 21
-PROPCTRL_TXT_000509,Azria Light 2,Azria Light 2
-PROPCTRL_TXT_000510,Azria Light 3,Azria Light 3
-PROPCTRL_TXT_000511,Azria Rock 2,Azria Rock 2
-PROPCTRL_TXT_000512,Azria Rock 3,Azria Rock 3
-PROPCTRL_TXT_000513,Azria Rock 4,Azria Rock 4
-PROPCTRL_TXT_000514,Azria Rock 5,Azria Rock 5
-PROPCTRL_TXT_000515,Azria Rock 6,Azria Rock 6
-PROPCTRL_TXT_000516,Azria Rock 7,Azria Rock 7
-PROPCTRL_TXT_000517,Azria Rock 8,Azria Rock 8
-PROPCTRL_TXT_000518,Azria Rock 9,Azria Rock 9
-PROPCTRL_TXT_000519,Azria Rock 10,Azria Rock 10
-PROPCTRL_TXT_000520,Azria Rock 11,Azria Rock 11
-PROPCTRL_TXT_000521,Azria Rock 12,Azria Rock 12
-PROPCTRL_TXT_000522,Azria Rock 13,Azria Rock 13
-PROPCTRL_TXT_000523,Azria Mushroom 2,Azria Mushroom 2
-PROPCTRL_TXT_000524,Azria Mushroom 3,Azria Mushroom 3
-PROPCTRL_TXT_000525,Azria Mushroom 4,Azria Mushroom 4
-PROPCTRL_TXT_000526,Azria Grass 2,Azria Grass 2
-PROPCTRL_TXT_000527,Azria Grass 3,Azria Grass 3
-PROPCTRL_TXT_000528,Azria Sign 2,Azria Sign 2
-PROPCTRL_TXT_000529,Azria Sign 3,Azria Sign 3
-PROPCTRL_TXT_000530,Azria Sign 4,Azria Sign 4
-PROPCTRL_TXT_000531,Azria Box 2,Azria Box 2
-PROPCTRL_TXT_000532,Coral Island Tree 2,Coral Island Tree 2
-PROPCTRL_TXT_000533,Coral Island Shellfish 2,Coral Island Shellfish 2
-PROPCTRL_TXT_000534,Coral Island Shellfish 3,Coral Island Shellfish 3
-PROPCTRL_TXT_000535,Coral Island Shellfish 4,Coral Island Shellfish 4
-PROPCTRL_TXT_000536,Coral Island Shellfish 5,Coral Island Shellfish 5
-PROPCTRL_TXT_000537,Coral Island Shellfish 6,Coral Island Shellfish 6
-PROPCTRL_TXT_000538,Coral Island Shellfish 7,Coral Island Shellfish 7
-PROPCTRL_TXT_000539,Coral Island Shellfish 8,Coral Island Shellfish 8
-PROPCTRL_TXT_000540,Coral Island Shellfish 9,Coral Island Shellfish 9
-PROPCTRL_TXT_000541,Coral Island Coral 2,Coral Island Coral 2
-PROPCTRL_TXT_000542,Coral Island Coral 3,Coral Island Coral 3
-PROPCTRL_TXT_000543,Coral Island Coral 4,Coral Island Coral 4
-PROPCTRL_TXT_000544,Coral Island Coral 5,Coral Island Coral 5
-PROPCTRL_TXT_000545,Coral Island Coral 6,Coral Island Coral 6
-PROPCTRL_TXT_000546,Coral Island Coral 7,Coral Island Coral 7
-PROPCTRL_TXT_000547,Coral Island Coral 8,Coral Island Coral 8
-PROPCTRL_TXT_000548,Coral Island Coral 9,Coral Island Coral 9
-PROPCTRL_TXT_000549,Coral Island Coral 10,Coral Island Coral 10
-PROPCTRL_TXT_000550,Coral Island Coral 11,Coral Island Coral 11
-PROPCTRL_TXT_000551,Coral Island Coral 12,Coral Island Coral 12
-PROPCTRL_TXT_000552,Coral Island Starfish 2,Coral Island Starfish 2
-PROPCTRL_TXT_000553,Coral Island Starfish 3,Coral Island Starfish 3
-PROPCTRL_TXT_000554,Coral Island Table 2,Coral Island Table 2
-PROPCTRL_TXT_000555,Flaris Pot 2,Flaris Pot 2
-PROPCTRL_TXT_000556,Flaris Fence 2,Flaris Fence 2
-PROPCTRL_TXT_000557,Flaris Fence 3,Flaris Fence 3
-PROPCTRL_TXT_000558,Flaris Fence 4,Flaris Fence 4
-PROPCTRL_TXT_000559,Flaris Fence 5,Flaris Fence 5
-PROPCTRL_TXT_000560,Flaris Fence 6,Flaris Fence 6
-PROPCTRL_TXT_000561,1st Anniversary Flaris Cake,1st Anniversary Flaris Cake
-PROPCTRL_TXT_000562,1st Anniversary Saint Morning Cake,1st Anniversary Saint Morning Cake
-PROPCTRL_TXT_000563,1st Anniversary Darkon Cake,1st Anniversary Darkon Cake
-PROPCTRL_TXT_000564,2nd Anniversary Flaris Cake,2nd Anniversary Flaris Cake
-PROPCTRL_TXT_000565,2nd Anniversary Saint Morning Cake,2nd Anniversary Saint Morning Cake
-PROPCTRL_TXT_000566,2nd Anniversary Darkon Cake,2nd Anniversary Darkon Cake
-PROPCTRL_TXT_000567,2nd Anniversary Presents 1,2nd Anniversary Presents 1
-PROPCTRL_TXT_000568,2nd Anniversary Presents 2,2nd Anniversary Presents 2
-PROPCTRL_TXT_000569,2nd Anniversary Arch 1,2nd Anniversary Arch 1
-PROPCTRL_TXT_000570,Luxury Chandelier,Luxury Chandelier
-PROPCTRL_TXT_000571,Luxury Table,Luxury Table
-PROPCTRL_TXT_000572,Luxury Dressing Table,Luxury Dressing Table
-PROPCTRL_TXT_000573,Luxury Wardrobe,Luxury Wardrobe
-PROPCTRL_TXT_000574,Luxury Bookcase,Luxury Bookcase
-PROPCTRL_TXT_000575,Luxury Sofa,Luxury Sofa
-PROPCTRL_TXT_000576,Luxury Armchair,Luxury Armchair
-PROPCTRL_TXT_000577,Luxury Chair,Luxury Chair
-PROPCTRL_TXT_000578,Luxury Bed,Luxury Bed
+PROPCTRL_TXT_000063,Dungeon Warp 05,副本传送 05
+PROPCTRL_TXT_000064,Dungeon Warp 06,副本传送 06
+PROPCTRL_TXT_000065,Ship Wheel,船舵
+PROPCTRL_TXT_000066,Cushion Chair,靠垫椅
+PROPCTRL_TXT_000067,Spinning Globe,地球仪
+PROPCTRL_TXT_000068,Compass,指南针
+PROPCTRL_TXT_000069,Chandelier,吊灯
+PROPCTRL_TXT_000070,Command Desk,指挥桌
+PROPCTRL_TXT_000071,Command Platform,指挥台
+PROPCTRL_TXT_000072,Small Table,小型桌
+PROPCTRL_TXT_000073,Drawer,抽屉柜
+PROPCTRL_TXT_000074,Twin Bed,双人床
+PROPCTRL_TXT_000075,Incident Painting,场景挂画
+PROPCTRL_TXT_000076,Home Painting,家居挂画
+PROPCTRL_TXT_000077,Metaverse Ball,元宇宙球
+PROPCTRL_TXT_000078,Metaverse Bath Rug,元宇宙风浴室地垫
+PROPCTRL_TXT_000079,Metaverse Twin Bed,元宇宙风双人床
+PROPCTRL_TXT_000080,Metaverse King Bed,元宇宙风豪华大床
+PROPCTRL_TXT_000081,Metaverse Single Bed,元宇宙风单人床
+PROPCTRL_TXT_000082,Metaverse Beer Cup,元宇宙风啤酒杯
+PROPCTRL_TXT_000083,Metaverse Bench,元宇宙风长椅
+PROPCTRL_TXT_000084,Metaverse Candle,元宇宙风蜡烛
+PROPCTRL_TXT_000085,Metaverse Cat Supplies,元宇宙风猫具
+PROPCTRL_TXT_000086,Metaverse Chair,元宇宙风椅子
+PROPCTRL_TXT_000087,Metaverse Basic Desk,元宇宙风普通书桌
+PROPCTRL_TXT_000088,Metaverse Wooden Desk,元宇宙风实木书桌
+PROPCTRL_TXT_000089,Metaverse Boss Desk,元宇宙风老板桌
+PROPCTRL_TXT_000090,Metaverse Student Desk,元宇宙风学生桌
+PROPCTRL_TXT_000091,Metaverse Pencil Case,元宇宙风铅笔盒
+PROPCTRL_TXT_000092,Metaverse Plant,元宇宙风植物
+PROPCTRL_TXT_000093,Metaverse Tree Pot,元宇宙风树盆
+PROPCTRL_TXT_000094,Metaverse Slippers,元宇宙风拖鞋
+PROPCTRL_TXT_000095,Metaverse Single Sofa,元宇宙风单人沙发
+PROPCTRL_TXT_000096,Metaverse Pouffe Seat,元宇宙风坐垫椅
+PROPCTRL_TXT_000097,Metaverse Sofa,元宇宙风沙发
+PROPCTRL_TXT_000098,Metaverse Round Table,元宇宙风圆桌
+PROPCTRL_TXT_000099,Metaverse Storage Table,元宇宙风储物桌
+PROPCTRL_TXT_000100,Metaverse Decorative Table,元宇宙风陈列桌
+PROPCTRL_TXT_000101,Metaverse Violin,元宇宙风小提琴
+PROPCTRL_TXT_000102,Wooden Yellow Chair,黄色实木椅
+PROPCTRL_TXT_000103,Wooden Yellow Table,黄色实木桌
+PROPCTRL_TXT_000104,Wooden Yellow Dressing Table,黄色实木梳妆台
+PROPCTRL_TXT_000105,Wooden Yellow Closet,黄色实木衣柜
+PROPCTRL_TXT_000106,Wooden Yellow Bench,黄色实木长椅
+PROPCTRL_TXT_000107,Wooden Yellow Cabinet,黄色实木橱柜
+PROPCTRL_TXT_000108,Wooden Yellow Bed,黄色实木床
+PROPCTRL_TXT_000109,Wooden Blue Chair,蓝色实木椅
+PROPCTRL_TXT_000110,Wooden Blue Table,蓝色实木桌
+PROPCTRL_TXT_000111,Wooden Blue Dressing Table,蓝色实木梳妆台
+PROPCTRL_TXT_000112,Wooden Blue Closet,蓝色实木衣柜
+PROPCTRL_TXT_000113,Wooden Blue Bench,蓝色实木长椅
+PROPCTRL_TXT_000114,Wooden Blue Cabinet,蓝色实木橱柜
+PROPCTRL_TXT_000115,Wooden Blue Bed,蓝色实木床
+PROPCTRL_TXT_000116,Wooden Red Chair,红色实木椅
+PROPCTRL_TXT_000117,Wooden Red Table,红色实木桌
+PROPCTRL_TXT_000118,Wooden Red Dressing Table,红色实木梳妆台
+PROPCTRL_TXT_000119,Wooden Red Closet,红色实木衣柜
+PROPCTRL_TXT_000120,Wooden Red Bench,红色实木长椅
+PROPCTRL_TXT_000121,Wooden Red Cabinet,红色实木橱柜
+PROPCTRL_TXT_000122,Wooden Red Bed,红色实木床
+PROPCTRL_TXT_000123,Music Chair,音乐风椅
+PROPCTRL_TXT_000124,Music Table,音乐风桌
+PROPCTRL_TXT_000125,Music Dressing Table,音乐风梳妆台
+PROPCTRL_TXT_000126,Music Wardrobe,音乐风衣柜
+PROPCTRL_TXT_000127,Music Sofa,音乐风沙发
+PROPCTRL_TXT_000128,Music Cabinet,音乐风橱柜
+PROPCTRL_TXT_000129,Music Bed,音乐风床
+PROPCTRL_TXT_000130,Heart Chair,心形椅
+PROPCTRL_TXT_000131,Heart Table,心形桌
+PROPCTRL_TXT_000132,Heart Dressing Table,心形梳妆台
+PROPCTRL_TXT_000133,Heart Wardrobe,心形衣柜
+PROPCTRL_TXT_000134,Heart Sofa,心形沙发
+PROPCTRL_TXT_000135,Heart Cabinet,心形橱柜
+PROPCTRL_TXT_000136,Heart Bed,心形床
+PROPCTRL_TXT_000137,Modern Chair,摩登椅
+PROPCTRL_TXT_000138,Modern Table,摩登桌
+PROPCTRL_TXT_000139,Modern Dressing Table,摩登梳妆台
+PROPCTRL_TXT_000140,Modern Wardrobe,摩登衣柜
+PROPCTRL_TXT_000141,Modern Sofa,摩登沙发
+PROPCTRL_TXT_000142,Modern Cabinet,摩登橱柜
+PROPCTRL_TXT_000143,Modern Bed,摩登床
+PROPCTRL_TXT_000144,Royal Chair,皇室椅
+PROPCTRL_TXT_000145,Royal Table,皇室桌
+PROPCTRL_TXT_000146,Royal Dressing Table,皇室梳妆台
+PROPCTRL_TXT_000147,Royal Wardrobe,皇室衣柜
+PROPCTRL_TXT_000148,Royal Sofa,皇室沙发
+PROPCTRL_TXT_000149,Royal Bed,皇室床
+PROPCTRL_TXT_000150,Royal Drawer,皇室抽屉柜
+PROPCTRL_TXT_000151,Royal Bookcase,皇室书柜
+PROPCTRL_TXT_000152,Royal Desk,皇室桌
+PROPCTRL_TXT_000153,Royal Bath,皇室浴缸
+PROPCTRL_TXT_000154,Golden Royal Chair,金色皇家椅
+PROPCTRL_TXT_000155,Golden Royal Table,金色皇家桌
+PROPCTRL_TXT_000156,Golden Royal Dressing Table,金色皇家梳妆台
+PROPCTRL_TXT_000157,Golden Royal Wardrobe,金色皇家衣柜
+PROPCTRL_TXT_000158,Golden Royal Sofa,金色皇家沙发
+PROPCTRL_TXT_000159,Golden Royal Bed,金色皇家床
+PROPCTRL_TXT_000160,Golden Royal Drawer,金色皇家抽屉柜
+PROPCTRL_TXT_000161,Golden Royal Bookcase,金色皇家书柜
+PROPCTRL_TXT_000162,Golden Royal Desk,金色皇家桌
+PROPCTRL_TXT_000163,Golden Royal Bath,金色皇家浴缸
+PROPCTRL_TXT_000164,Design Black Chair,富有设计的黑色椅子
+PROPCTRL_TXT_000165,Design White Chair,富有设计的白色椅子
+PROPCTRL_TXT_000166,Design Table,富有设计的桌子
+PROPCTRL_TXT_000167,Design Drawer,富有设计的抽屉柜
+PROPCTRL_TXT_000168,Design Bookcase,富有设计的书柜
+PROPCTRL_TXT_000169,Design Sofa,富有设计的沙发
+PROPCTRL_TXT_000170,Wooden Chair,实木椅
+PROPCTRL_TXT_000171,Wooden Table,实木桌
+PROPCTRL_TXT_000172,Wooden Drawer,实木抽屉柜
+PROPCTRL_TXT_000173,Wooden Bookcase,实木书柜
+PROPCTRL_TXT_000174,Wooden Sofa,实木沙发
+PROPCTRL_TXT_000175,Flaris Ground Field,帕里地面
+PROPCTRL_TXT_000176,Flaris Anvil,帕里铁砧
+PROPCTRL_TXT_000177,Flaris Bench,帕里长椅
+PROPCTRL_TXT_000178,Flaris Chariot,帕里板车
+PROPCTRL_TXT_000179,Flaris Fence 1,帕里篱笆 1
+PROPCTRL_TXT_000180,Flaris Floor Lamp,帕里路灯
+PROPCTRL_TXT_000181,Flaris Wall Lamp,帕里壁灯
+PROPCTRL_TXT_000182,Flaris Pot 1,帕里陶罐 1
+PROPCTRL_TXT_000183,Flaris Small Sign,帕里指示牌(小)
+PROPCTRL_TXT_000184,Flaris Medium Sign,帕里指示牌(中)
+PROPCTRL_TXT_000185,Flaris Large Sign,帕里指示牌(大)
+PROPCTRL_TXT_000186,Flaris Boat Sign,帕里指示牌(飞船造型)
+PROPCTRL_TXT_000187,Flaris Rotating Sign,帕里指示牌(旋转款)
+PROPCTRL_TXT_000188,Common Green Tree 1,寻常的绿树 1
+PROPCTRL_TXT_000189,Common Wooden Box 1,寻常的木箱 1
+PROPCTRL_TXT_000190,Common Wooden Box Pile 1,寻常的一堆木箱 1
+PROPCTRL_TXT_000191,Common Wooden Barrel 1,寻常的木桶 1
+PROPCTRL_TXT_000192,Common Wooden Barrel Pile 1,寻常的一堆木桶 1
+PROPCTRL_TXT_000193,Common Flowers 1,寻常的花丛 1
+PROPCTRL_TXT_000194,Common Grass 1,寻常的草丛 1
+PROPCTRL_TXT_000195,Common Mushroom 1,寻常的蘑菇 1
+PROPCTRL_TXT_000196,Common Rock 1,寻常的石块 1
+PROPCTRL_TXT_000197,Common Autumn Tree,寻常的秋季树木
+PROPCTRL_TXT_000198,Common Sakura Tree 1,寻常的樱花树 1
+PROPCTRL_TXT_000199,Common Burned Tree,烧焦的树木
+PROPCTRL_TXT_000200,St Morning Bench,晨光长椅
+PROPCTRL_TXT_000201,St Morning Chariot,晨光板车
+PROPCTRL_TXT_000202,St Morning Rock Arch 1,晨光石拱 1
+PROPCTRL_TXT_000203,St Morning Flag 1,晨光道旗 1
+PROPCTRL_TXT_000204,St Morning Flower Bed,晨光花池
+PROPCTRL_TXT_000205,St Morning Rock 1,晨光岩石 1
+PROPCTRL_TXT_000206,St Morning Light 1,晨光路灯 1
+PROPCTRL_TXT_000207,St Morning Sign,晨光公告牌
+PROPCTRL_TXT_000208,Darkon Wagon 1,达肯矿车 1
+PROPCTRL_TXT_000209,Darkon Sign 1,达肯立牌 1
+PROPCTRL_TXT_000210,Darkon Big Box 1,达肯货箱 1
+PROPCTRL_TXT_000211,Darkon Brown Rock 1,达肯岩石 1
+PROPCTRL_TXT_000212,Darkon Barrel 1,达肯油桶 1
+PROPCTRL_TXT_000213,Darkon Ground Window,达肯指示灯
+PROPCTRL_TXT_000214,Darkon Light 1,达肯灯具(探照灯) 1
+PROPCTRL_TXT_000215,Darkon Mushroom 1,达肯蘑菇 1
+PROPCTRL_TXT_000216,Darkon Tree 1,达肯树木 1
+PROPCTRL_TXT_000217,Darkon Plant,达肯植物
+PROPCTRL_TXT_000218,Azria Plant 1,雪地植物 1
+PROPCTRL_TXT_000219,Azria Tree 1,雪地树木 1
+PROPCTRL_TXT_000220,Azria Light 1,雪地路灯 1
+PROPCTRL_TXT_000221,Azria Rock 1,雪地岩石 1
+PROPCTRL_TXT_000222,Azria Mushroom 1,雪地蘑菇 1
+PROPCTRL_TXT_000223,Azria Chariot,阿兹利亚板车
+PROPCTRL_TXT_000224,Azria Crystal,雪地水晶
+PROPCTRL_TXT_000225,Azria Grass 1,雪地草丛 1
+PROPCTRL_TXT_000226,Azria Sign 1,雪地指示牌 1
+PROPCTRL_TXT_000227,Azria Box Pile,雪地里的一堆箱子
+PROPCTRL_TXT_000228,Azria Box 1,雪地箱子 1
+PROPCTRL_TXT_000229,Coral Island Tree 1,沙滩树木 1
+PROPCTRL_TXT_000230,Coral Island Shellfish 1,贝类 1
+PROPCTRL_TXT_000231,Coral Island Coral 1,珊瑚 1
+PROPCTRL_TXT_000232,Coral Island Starfish 1,海星 1
+PROPCTRL_TXT_000233,Coral Island Table 1,珊瑚岛桌子 1
+PROPCTRL_TXT_000234,Coral Island Beach Umbrella ,沙滩伞
+PROPCTRL_TXT_000235,Basic Wall,普通墙
+PROPCTRL_TXT_000236,Flaris Wall,帕里墙
+PROPCTRL_TXT_000237,Cove Wall,海湾墙
+PROPCTRL_TXT_000238,Coral Island Wall,珊瑚岛墙
+PROPCTRL_TXT_000239,Forsaken Wall,深渊之塔墙
+PROPCTRL_TXT_000240,Secret Wall,秘密房间墙
+PROPCTRL_TXT_000241,Colosseum Wall,竞技场墙
+PROPCTRL_TXT_000242,Darkon Light Wall,达肯亮光墙
+PROPCTRL_TXT_000243,Darkon Wooden Wall,达肯木质墙
+PROPCTRL_TXT_000244,Darkon Metal Wall,达肯金属墙
+PROPCTRL_TXT_000245,Mechanical Wall,机械风格墙
+PROPCTRL_TXT_000246,Cottage Wall,乡村小屋墙
+PROPCTRL_TXT_000247,Ivillis Wall,Ivillis 墙
+PROPCTRL_TXT_000248,Royal Wall,皇室墙
+PROPCTRL_TXT_000249,Plain Wall,朴素墙
+PROPCTRL_TXT_000250,Deck Wall,甲板墙
+PROPCTRL_TXT_000251,Forest Wall,森林墙
+PROPCTRL_TXT_000252,Metallic Wall,金属墙
+PROPCTRL_TXT_000253,Construction Wall,建筑墙
+PROPCTRL_TXT_000254,Saint Morning Wall,晨光墙
+PROPCTRL_TXT_000255,Basic Floor,普通地面
+PROPCTRL_TXT_000256,White Floor,白色地面
+PROPCTRL_TXT_000257,Bordered Cove Floor,带边框的海湾地面
+PROPCTRL_TXT_000258,Plain Cove Floor,朴素海湾地面
+PROPCTRL_TXT_000259,Small Plank Floor,小木板地面
+PROPCTRL_TXT_000260,Crate Floor,板条箱地面
+PROPCTRL_TXT_000261,Platform Floor,平台地面
+PROPCTRL_TXT_000262,Light Plank Floor,浅色木板地面
+PROPCTRL_TXT_000263,Light Brick Floor,浅色砖墙地面
+PROPCTRL_TXT_000264,Scrap Wood Floor,碎木板地面
+PROPCTRL_TXT_000265,Pale Wood Floor,苍白木质地面
+PROPCTRL_TXT_000266,Mossy Brick Floor,长满苔藓的地面
+PROPCTRL_TXT_000267,Shipwreck Floor,沉船地面
+PROPCTRL_TXT_000268,Construction Floor,建筑地面
+PROPCTRL_TXT_000269,Mars Floor,魔域密殿地面
+PROPCTRL_TXT_000270,Forsaken Brick Floor,深渊之塔地面
+PROPCTRL_TXT_000271,Ominous Floor,阴森地面
+PROPCTRL_TXT_000272,Golden Floor,金色地面
+PROPCTRL_TXT_000273,Bordered Secret Floor,带边框的秘密房间地面
+PROPCTRL_TXT_000274,Plain Secret Floor,朴素秘密房间地面
+PROPCTRL_TXT_000275,Darkon Wooden Plain Floor,达肯素色木质天花板
+PROPCTRL_TXT_000276,Darkon Wooden Mosaic Floor,达肯马赛克木质天花板
+PROPCTRL_TXT_000277,Forsaken Blue Floor,深渊之塔蓝色地面
+PROPCTRL_TXT_000278,Plain Forsaken Blue Floor,朴素深渊之塔蓝色地面
+PROPCTRL_TXT_000279,Wilds Floor,荒野地面
+PROPCTRL_TXT_000280,Pebble Floor,卵石地面
+PROPCTRL_TXT_000281,Fortress Floor,神秘城堡地面
+PROPCTRL_TXT_000282,Cracked Floor,开裂的地面
+PROPCTRL_TXT_000283,Volcanic Floor,熔岩秘境地面
+PROPCTRL_TXT_000284,Modern Floor,摩登地面
+PROPCTRL_TXT_000285,Pipe Floor,管网地面
+PROPCTRL_TXT_000286,Darkon Metal Mosaic Floor,达肯马赛克金属地面
+PROPCTRL_TXT_000287,Darkon Metal Grid Lattice Floor,达肯金属格栅地面
+PROPCTRL_TXT_000288,Darkon Metal Plain Floor,达肯马赛克素色地面
+PROPCTRL_TXT_000289,Forged Floor,锻造铺地面
+PROPCTRL_TXT_000290,Industrial Floor,工业地面
+PROPCTRL_TXT_000291,Colosseum Floor,竞技场地面
+PROPCTRL_TXT_000292,Dungeon Floor,副本地面
+PROPCTRL_TXT_000293,Bright Wooden Floor,明亮木质地面
+PROPCTRL_TXT_000294,Honey Wooden Floor,蜜色木质地面
+PROPCTRL_TXT_000295,Ancient Floor,远古地面
+PROPCTRL_TXT_000296,Pier Floor,码头地面
+PROPCTRL_TXT_000297,Dark Stacked Wooden Floor,深色堆叠木质地面
+PROPCTRL_TXT_000298,Light Stacked Wooden Floor,浅色堆叠木质地面
+PROPCTRL_TXT_000299,Dark Plank Floor,深色木板地面
+PROPCTRL_TXT_000300,Cracked Marble Floor,开裂的大理石地面
+PROPCTRL_TXT_000301,Battle Floor,战场地面
+PROPCTRL_TXT_000302,Branch Floor,Branch 地面
+PROPCTRL_TXT_000303,Tree Floor,树木地面
+PROPCTRL_TXT_000304,Royal Carpet Floor,皇家地毯地面
+PROPCTRL_TXT_000305,Rhisis Floor,莱斯地面
+PROPCTRL_TXT_000306,Dirt Floor,泥土地面
+PROPCTRL_TXT_000307,Flarine Floor,弗拉林地面
+PROPCTRL_TXT_000308,Gravel Floor,沙砾地面
+PROPCTRL_TXT_000309,Bordered Plank Floor,带边框的木板地面
+PROPCTRL_TXT_000310,Basic Ceiling,普通天花板
+PROPCTRL_TXT_000311,White Ceiling,白色天花板
+PROPCTRL_TXT_000312,Bordered Cove Ceiling,带边框的海湾天花板
+PROPCTRL_TXT_000313,Plain Cove Ceiling,朴素海湾天花板
+PROPCTRL_TXT_000314,Small Plank Ceiling,小木板天花板
+PROPCTRL_TXT_000315,Crate Ceiling,板条箱天花板
+PROPCTRL_TXT_000316,Platform Ceiling,平台天花板
+PROPCTRL_TXT_000317,Light Plank Ceiling,浅色木板天花板
+PROPCTRL_TXT_000318,Light Brick Ceiling,浅色砖墙天花板
+PROPCTRL_TXT_000319,Scrap Wood Ceiling,碎木板天花板
+PROPCTRL_TXT_000320,Pale Wood Ceiling,苍白木质天花板
+PROPCTRL_TXT_000321,Mossy Brick Ceiling,长满苔藓的砖墙天花板
+PROPCTRL_TXT_000322,Shipwreck Ceiling,沉船天花板
+PROPCTRL_TXT_000323,Construction Ceiling,施工天花板
+PROPCTRL_TXT_000324,Mars Ceiling,魔域密殿天花板
+PROPCTRL_TXT_000325,Forsaken Brick Ceiling,深渊之塔地砖天花板
+PROPCTRL_TXT_000326,Ominous Ceiling,阴森天花板
+PROPCTRL_TXT_000327,Golden Ceiling,金色天花板
+PROPCTRL_TXT_000328,Bordered Secret Ceiling,带边框的秘密房间天花板
+PROPCTRL_TXT_000329,Plain Secret Ceiling,朴素秘密房间天花板
+PROPCTRL_TXT_000330,Darkon Wooden Plain Ceiling,达肯素色木质天花板
+PROPCTRL_TXT_000331,Darkon Wooden Mosaic Ceiling,达肯马赛克木质天花板
+PROPCTRL_TXT_000332,Forsaken Blue Ceiling,深渊之塔蓝色天花板
+PROPCTRL_TXT_000333,Plain Forsaken Blue Ceiling,朴素深渊之塔蓝色天花板
+PROPCTRL_TXT_000334,Wilds Ceiling,荒野天花板
+PROPCTRL_TXT_000335,Pebble Ceiling,卵石天花板
+PROPCTRL_TXT_000336,Fortress Ceiling,城堡天花板
+PROPCTRL_TXT_000337,Cracked Ceiling,开裂的天花板
+PROPCTRL_TXT_000338,Volcanic Ceiling,熔岩秘境天花板
+PROPCTRL_TXT_000339,Modern Ceiling,摩登天花板
+PROPCTRL_TXT_000340,Pipe Ceiling,管网天花板
+PROPCTRL_TXT_000341,Darkon Metal Mosaic Ceiling,达肯马赛克金属天花板
+PROPCTRL_TXT_000342,Darkon Metal Grid Lattice Ceiling,达肯金属格栅天花板
+PROPCTRL_TXT_000343,Darkon Metal Plain Ceiling,达肯素色金属天花板
+PROPCTRL_TXT_000344,Forged Ceiling,锻造铺天花板
+PROPCTRL_TXT_000345,Industrial Ceiling,工业天花板
+PROPCTRL_TXT_000346,Colosseum Ceiling,竞技场天花板
+PROPCTRL_TXT_000347,Dungeon Ceiling,副本天花板
+PROPCTRL_TXT_000348,Bright Wooden Ceiling,明亮木质天花板
+PROPCTRL_TXT_000349,Honey Wooden Ceiling,蜜色木质天花板
+PROPCTRL_TXT_000350,Ancient Ceiling,远古天花板
+PROPCTRL_TXT_000351,Pier Ceiling,码头天花板
+PROPCTRL_TXT_000352,Dark Stacked Wooden Ceiling,深色堆叠木质天花板
+PROPCTRL_TXT_000353,Light Stacked Wooden Ceiling,浅色堆叠木质天花板
+PROPCTRL_TXT_000354,Dark Plank Ceiling,深色木板天花板
+PROPCTRL_TXT_000355,Cracked Marble Ceiling,开裂的大理石天花板
+PROPCTRL_TXT_000356,Battle Ceiling,战场天花板
+PROPCTRL_TXT_000357,Branch Ceiling,Branch 天花板
+PROPCTRL_TXT_000358,Tree Ceiling,树木天花板
+PROPCTRL_TXT_000359,Royal Carpet Ceiling,皇家地毯天花板
+PROPCTRL_TXT_000360,Rhisis Ceiling,莱斯天花板
+PROPCTRL_TXT_000361,Dirt Ceiling,泥土天花板
+PROPCTRL_TXT_000362,Flarine Ceiling,弗拉林天花板
+PROPCTRL_TXT_000363,Gravel Ceiling,沙砾天花板
+PROPCTRL_TXT_000364,Bordered Plank Ceiling,带边框的木板天花板
+PROPCTRL_TXT_000365,Common Green Tree 2,寻常的绿树 2
+PROPCTRL_TXT_000366,Common Green Tree 3,寻常的绿树 3
+PROPCTRL_TXT_000367,Common Green Tree 4,寻常的绿树 4
+PROPCTRL_TXT_000368,Common Green Tree 5,寻常的绿树 5
+PROPCTRL_TXT_000369,Common Green Tree 6,寻常的绿树 6
+PROPCTRL_TXT_000370,Common Green Tree 7,寻常的绿树 7
+PROPCTRL_TXT_000371,Common Green Tree 8,寻常的绿树 8
+PROPCTRL_TXT_000372,Common Green Tree 9,寻常的绿树 9
+PROPCTRL_TXT_000373,Common Green Tree 10,寻常的绿树 10
+PROPCTRL_TXT_000374,Common Green Tree 11,寻常的绿树 11
+PROPCTRL_TXT_000375,Common Green Tree 12,寻常的绿树 12
+PROPCTRL_TXT_000376,Common Green Tree 13,寻常的绿树 13
+PROPCTRL_TXT_000377,Common Green Tree 14,寻常的绿树 14
+PROPCTRL_TXT_000378,Common Sakura Tree 2,寻常的樱花树 2
+PROPCTRL_TXT_000379,Common Wooden Box 2,寻常的木箱 2
+PROPCTRL_TXT_000380,Common Wooden Box Pile 2,寻常的一堆木箱 2
+PROPCTRL_TXT_000381,Common Wooden Box Pile 3,寻常的一堆木箱 3
+PROPCTRL_TXT_000382,Common Wooden Box Pile 4,寻常的一堆木箱 4
+PROPCTRL_TXT_000383,Common Wooden Barrel 2,寻常的木桶 2
+PROPCTRL_TXT_000384,Common Wooden Barrel 3,寻常的木桶 3
+PROPCTRL_TXT_000385,Common Wooden Barrel 4,寻常的木桶 4
+PROPCTRL_TXT_000386,Common Wooden Barrel Pile 2,寻常的一堆木桶 2
+PROPCTRL_TXT_000387,Common Wooden Barrel Pile 3,寻常的一堆木桶 3
+PROPCTRL_TXT_000388,Common Wooden Barrel Pile 4,寻常的一堆木桶 4
+PROPCTRL_TXT_000389,Common Wooden Barrel Pile 5,寻常的一堆木桶 5
+PROPCTRL_TXT_000390,Common Wooden Barrel Pile 6,寻常的一堆木桶 6
+PROPCTRL_TXT_000391,Common Wooden Barrel Pile 7,寻常的一堆木桶 7
+PROPCTRL_TXT_000392,Common Wooden Barrel Pile 8,寻常的一堆木桶 8
+PROPCTRL_TXT_000393,Common Wooden Barrel Pile 9,寻常的一堆木桶 9
+PROPCTRL_TXT_000394,Common Wooden Barrel Pile 10,寻常的一堆木桶 10
+PROPCTRL_TXT_000395,Common Flowers 2,寻常的花丛 2
+PROPCTRL_TXT_000396,Common Flowers 3,寻常的花丛 3
+PROPCTRL_TXT_000397,Common Flowers 4,寻常的花丛 4
+PROPCTRL_TXT_000398,Common Flowers 5,寻常的花丛 5
+PROPCTRL_TXT_000399,Common Flowers 6,寻常的花丛 6
+PROPCTRL_TXT_000400,Common Flowers 7,寻常的花丛 7
+PROPCTRL_TXT_000401,Common Flowers 8,寻常的花丛 8
+PROPCTRL_TXT_000402,Common Grass 2,寻常的草丛 2
+PROPCTRL_TXT_000403,Common Grass 3,寻常的草丛 3
+PROPCTRL_TXT_000404,Common Grass 4,寻常的草丛 4
+PROPCTRL_TXT_000405,Common Grass 5,寻常的草丛 5
+PROPCTRL_TXT_000406,Common Grass 6,寻常的草丛 6
+PROPCTRL_TXT_000407,Common Grass 7,寻常的草丛 7
+PROPCTRL_TXT_000408,Common Grass 8,寻常的草丛 8
+PROPCTRL_TXT_000409,Common Grass 9,寻常的草丛 9
+PROPCTRL_TXT_000410,Common Grass 10,寻常的草丛 10
+PROPCTRL_TXT_000411,Common Grass 11,寻常的草丛 11
+PROPCTRL_TXT_000412,Common Grass 12,寻常的草丛 12
+PROPCTRL_TXT_000413,Common Grass 13,寻常的草丛 13
+PROPCTRL_TXT_000414,Common Mushroom 2,寻常的蘑菇 2
+PROPCTRL_TXT_000415,Common Mushroom 3,寻常的蘑菇 3
+PROPCTRL_TXT_000416,Common Mushroom 4,寻常的蘑菇 4
+PROPCTRL_TXT_000417,Common Rock 2,寻常的石块 2
+PROPCTRL_TXT_000418,Common Rock 3,寻常的石块 3
+PROPCTRL_TXT_000419,Common Rock 4,寻常的石块 4
+PROPCTRL_TXT_000420,Common Rock 5,寻常的石块 5
+PROPCTRL_TXT_000421,Common Rock 6,寻常的石块 6
+PROPCTRL_TXT_000422,Common Rock 7,寻常的石块 7
+PROPCTRL_TXT_000423,Common Rock 8,寻常的石块 8
+PROPCTRL_TXT_000424,Common Rock 9,寻常的石块 9
+PROPCTRL_TXT_000425,Common Rock 10,寻常的石块 10
+PROPCTRL_TXT_000426,St Morning Rock Arch 2,晨光石拱 2
+PROPCTRL_TXT_000427,St Morning Rock Arch 3,晨光石拱 3
+PROPCTRL_TXT_000428,St Morning Flag 2,晨光道旗 2
+PROPCTRL_TXT_000429,St Morning Flag 3,晨光道旗 3
+PROPCTRL_TXT_000430,St Morning Flag 4,晨光道旗 4
+PROPCTRL_TXT_000431,St Morning Flag 5,晨光道旗 5
+PROPCTRL_TXT_000432,St Morning Rock 2,晨光岩石 2
+PROPCTRL_TXT_000433,St Morning Rock 3,晨光岩石 3
+PROPCTRL_TXT_000434,St Morning Rock 4,晨光岩石 4
+PROPCTRL_TXT_000435,St Morning Rock 5,晨光岩石 5
+PROPCTRL_TXT_000436,St Morning Rock 6,晨光岩石 6
+PROPCTRL_TXT_000437,St Morning Rock 7,晨光岩石 7
+PROPCTRL_TXT_000438,St Morning Rock 8,晨光岩石 8
+PROPCTRL_TXT_000439,St Morning Rock 9,晨光岩石 9
+PROPCTRL_TXT_000440,St Morning Rock 10,晨光岩石 10
+PROPCTRL_TXT_000441,St Morning Rock 11,晨光岩石 11
+PROPCTRL_TXT_000442,St Morning Rock 12,晨光岩石 12
+PROPCTRL_TXT_000443,St Morning Rock 13,晨光岩石 13
+PROPCTRL_TXT_000444,St Morning Rock 14,晨光岩石 14
+PROPCTRL_TXT_000445,St Morning Rock 15,晨光岩石 15
+PROPCTRL_TXT_000446,St Morning Light 2,晨光路灯 2
+PROPCTRL_TXT_000447,Darkon Wagon 2,达肯矿车 2
+PROPCTRL_TXT_000448,Darkon Wagon 3,达肯矿车 3
+PROPCTRL_TXT_000449,Darkon Wagon 4,达肯矿车 4
+PROPCTRL_TXT_000450,Darkon Wagon 5,达肯矿车 5
+PROPCTRL_TXT_000451,Darkon Sign 2,达肯立牌 2
+PROPCTRL_TXT_000452,Darkon Sign 3,达肯立牌 3
+PROPCTRL_TXT_000453,Darkon Sign 4,达肯立牌 4
+PROPCTRL_TXT_000454,Darkon Sign 5,达肯立牌 5
+PROPCTRL_TXT_000455,Darkon Sign 6,达肯立牌 6
+PROPCTRL_TXT_000456,Darkon Sign 7,达肯立牌 7
+PROPCTRL_TXT_000457,Darkon Big Box 2,达肯货箱 2
+PROPCTRL_TXT_000458,Darkon Big Box 3,达肯货箱 3
+PROPCTRL_TXT_000459,Darkon Big Box 4,达肯货箱 4
+PROPCTRL_TXT_000460,Darkon Big Box 5,达肯货箱 5
+PROPCTRL_TXT_000461,Darkon Brown Rock 2,达肯岩石 2
+PROPCTRL_TXT_000462,Darkon Brown Rock 3,达肯岩石 3
+PROPCTRL_TXT_000463,Darkon Brown Rock 4,达肯岩石 4
+PROPCTRL_TXT_000464,Darkon Brown Rock 5,达肯岩石 5
+PROPCTRL_TXT_000465,Darkon Brown Rock 6,达肯岩石 6
+PROPCTRL_TXT_000466,Darkon Brown Rock 7,达肯岩石 7
+PROPCTRL_TXT_000467,Darkon Barrel 2,达肯油桶 2
+PROPCTRL_TXT_000468,Darkon Light 2,达肯灯具(探照灯) 2
+PROPCTRL_TXT_000469,Darkon Light 3,达肯灯具(路灯) 3
+PROPCTRL_TXT_000470,Darkon Light 4,达肯灯具(路灯) 4
+PROPCTRL_TXT_000471,Darkon Light 5,达肯灯具(信号灯) 5
+PROPCTRL_TXT_000472,Darkon Light 6,达肯灯具(信号灯) 6
+PROPCTRL_TXT_000473,Darkon Mushroom 2,达肯蘑菇 2
+PROPCTRL_TXT_000474,Darkon Mushroom 3,达肯蘑菇 3
+PROPCTRL_TXT_000475,Darkon Mushroom 4,达肯蘑菇 4
+PROPCTRL_TXT_000476,Darkon Mushroom 5,达肯蘑菇 5
+PROPCTRL_TXT_000477,Darkon Tree 2,达肯树木 2
+PROPCTRL_TXT_000478,Darkon Tree 3,达肯树木 3
+PROPCTRL_TXT_000479,Darkon Tree 4,达肯树木 4
+PROPCTRL_TXT_000480,Darkon Tree 5,达肯树木 5
+PROPCTRL_TXT_000481,Darkon Tree 6,达肯树木 6
+PROPCTRL_TXT_000482,Darkon Tree 7,达肯树木 7
+PROPCTRL_TXT_000483,Darkon Tree 8,达肯树木 8
+PROPCTRL_TXT_000484,Darkon Tree 9,达肯树木 9
+PROPCTRL_TXT_000485,Azria Plant 2,雪地植物 2
+PROPCTRL_TXT_000486,Azria Plant 3,雪地植物 3
+PROPCTRL_TXT_000487,Azria Plant 4,雪地植物 4
+PROPCTRL_TXT_000488,Azria Plant 5,雪地植物 5
+PROPCTRL_TXT_000489,Azria Tree 2,雪地树木 2
+PROPCTRL_TXT_000490,Azria Tree 3,雪地树木 3
+PROPCTRL_TXT_000491,Azria Tree 4,雪地树木 4
+PROPCTRL_TXT_000492,Azria Tree 5,雪地树木 5
+PROPCTRL_TXT_000493,Azria Tree 6,雪地树木 6
+PROPCTRL_TXT_000494,Azria Tree 7,雪地树木 7
+PROPCTRL_TXT_000495,Azria Tree 8,雪地树木 8
+PROPCTRL_TXT_000496,Azria Tree 9,雪地树木 9
+PROPCTRL_TXT_000497,Azria Tree 10,雪地树木 10
+PROPCTRL_TXT_000498,Azria Tree 11,雪地树木 11
+PROPCTRL_TXT_000499,Azria Tree 12,雪地树木 12
+PROPCTRL_TXT_000500,Azria Tree 13,雪地树木 13
+PROPCTRL_TXT_000501,Azria Tree 14,雪地树木 14
+PROPCTRL_TXT_000502,Azria Tree 15,雪地树木 15
+PROPCTRL_TXT_000503,Azria Tree 16,雪地树木 16
+PROPCTRL_TXT_000504,Azria Tree 17,雪地树木 17
+PROPCTRL_TXT_000505,Azria Tree 18,雪地树木 18
+PROPCTRL_TXT_000506,Azria Tree 19,雪地树木 19
+PROPCTRL_TXT_000507,Azria Tree 20,雪地树木 20
+PROPCTRL_TXT_000508,Azria Tree 21,雪地树木 21
+PROPCTRL_TXT_000509,Azria Light 2,雪地路灯 2
+PROPCTRL_TXT_000510,Azria Light 3,雪地路灯 3
+PROPCTRL_TXT_000511,Azria Rock 2,雪地岩石 2
+PROPCTRL_TXT_000512,Azria Rock 3,雪地岩石 3
+PROPCTRL_TXT_000513,Azria Rock 4,雪地岩石 4
+PROPCTRL_TXT_000514,Azria Rock 5,雪地岩石 5
+PROPCTRL_TXT_000515,Azria Rock 6,雪地岩石 6
+PROPCTRL_TXT_000516,Azria Rock 7,雪地岩石 7
+PROPCTRL_TXT_000517,Azria Rock 8,雪地岩石 8
+PROPCTRL_TXT_000518,Azria Rock 9,雪地岩石 9
+PROPCTRL_TXT_000519,Azria Rock 10,雪地岩石 10
+PROPCTRL_TXT_000520,Azria Rock 11,雪地岩石 11
+PROPCTRL_TXT_000521,Azria Rock 12,雪地岩石 12
+PROPCTRL_TXT_000522,Azria Rock 13,雪地岩石 13
+PROPCTRL_TXT_000523,Azria Mushroom 2,雪地蘑菇 2
+PROPCTRL_TXT_000524,Azria Mushroom 3,雪地蘑菇 3
+PROPCTRL_TXT_000525,Azria Mushroom 4,雪地蘑菇 4
+PROPCTRL_TXT_000526,Azria Grass 2,雪地草丛 2
+PROPCTRL_TXT_000527,Azria Grass 3,雪地草丛 3
+PROPCTRL_TXT_000528,Azria Sign 2,雪地指示牌 2
+PROPCTRL_TXT_000529,Azria Sign 3,雪地指示牌 3
+PROPCTRL_TXT_000530,Azria Sign 4,雪地指示牌 4
+PROPCTRL_TXT_000531,Azria Box 2,雪地箱子 2
+PROPCTRL_TXT_000532,Coral Island Tree 2,沙滩树木 2
+PROPCTRL_TXT_000533,Coral Island Shellfish 2,贝类 2
+PROPCTRL_TXT_000534,Coral Island Shellfish 3,贝类 3
+PROPCTRL_TXT_000535,Coral Island Shellfish 4,贝类 4
+PROPCTRL_TXT_000536,Coral Island Shellfish 5,贝类 5
+PROPCTRL_TXT_000537,Coral Island Shellfish 6,贝类 6
+PROPCTRL_TXT_000538,Coral Island Shellfish 7,贝类 7
+PROPCTRL_TXT_000539,Coral Island Shellfish 8,贝类 8
+PROPCTRL_TXT_000540,Coral Island Shellfish 9,贝类 9
+PROPCTRL_TXT_000541,Coral Island Coral 2,珊瑚 2
+PROPCTRL_TXT_000542,Coral Island Coral 3,珊瑚 3
+PROPCTRL_TXT_000543,Coral Island Coral 4,珊瑚 4
+PROPCTRL_TXT_000544,Coral Island Coral 5,珊瑚 5
+PROPCTRL_TXT_000545,Coral Island Coral 6,珊瑚 6
+PROPCTRL_TXT_000546,Coral Island Coral 7,珊瑚 7
+PROPCTRL_TXT_000547,Coral Island Coral 8,珊瑚 8
+PROPCTRL_TXT_000548,Coral Island Coral 9,珊瑚 9
+PROPCTRL_TXT_000549,Coral Island Coral 10,珊瑚 10
+PROPCTRL_TXT_000550,Coral Island Coral 11,珊瑚 11
+PROPCTRL_TXT_000551,Coral Island Coral 12,珊瑚 12
+PROPCTRL_TXT_000552,Coral Island Starfish 2,海星 2
+PROPCTRL_TXT_000553,Coral Island Starfish 3,海星 3
+PROPCTRL_TXT_000554,Coral Island Table 2,珊瑚岛桌子 2
+PROPCTRL_TXT_000555,Flaris Pot 2,帕里陶罐 2
+PROPCTRL_TXT_000556,Flaris Fence 2,帕里篱笆 2
+PROPCTRL_TXT_000557,Flaris Fence 3,帕里篱笆 3
+PROPCTRL_TXT_000558,Flaris Fence 4,帕里篱笆 4
+PROPCTRL_TXT_000559,Flaris Fence 5,帕里篱笆 5
+PROPCTRL_TXT_000560,Flaris Fence 6,帕里篱笆 6
+PROPCTRL_TXT_000561,1st Anniversary Flaris Cake,1 周年庆帕里蛋糕
+PROPCTRL_TXT_000562,1st Anniversary Saint Morning Cake,1 周年庆晨光蛋糕
+PROPCTRL_TXT_000563,1st Anniversary Darkon Cake,1 周年庆达肯蛋糕
+PROPCTRL_TXT_000564,2nd Anniversary Flaris Cake,2 周年庆帕里蛋糕
+PROPCTRL_TXT_000565,2nd Anniversary Saint Morning Cake,2 周年庆晨光蛋糕
+PROPCTRL_TXT_000566,2nd Anniversary Darkon Cake,2 周年庆达肯蛋糕
+PROPCTRL_TXT_000567,2nd Anniversary Presents 1,2 周年庆礼物1
+PROPCTRL_TXT_000568,2nd Anniversary Presents 2,2 周年庆礼物2
+PROPCTRL_TXT_000569,2nd Anniversary Arch 1,2 周年庆拱门1
+PROPCTRL_TXT_000570,Luxury Chandelier,豪华吊灯
+PROPCTRL_TXT_000571,Luxury Table,豪华桌
+PROPCTRL_TXT_000572,Luxury Dressing Table,豪华梳妆台
+PROPCTRL_TXT_000573,Luxury Wardrobe,豪华衣柜
+PROPCTRL_TXT_000574,Luxury Bookcase,豪华书柜
+PROPCTRL_TXT_000575,Luxury Sofa,豪华沙发
+PROPCTRL_TXT_000576,Luxury Armchair,豪华扶手椅
+PROPCTRL_TXT_000577,Luxury Chair,豪华椅
+PROPCTRL_TXT_000578,Luxury Bed,豪华床
 PROPCTRL_TXT_000579,Ordinary Herb,低级草药
 PROPCTRL_TXT_000580,Regular Herb,普通草药
 PROPCTRL_TXT_000581,Unique Herb,稀有草药
@@ -575,25 +575,25 @@ PROPCTRL_TXT_000595,Hearth,火炉
 PROPCTRL_TXT_000596,Carpentry Workspace,木匠台
 PROPCTRL_TXT_000597,Smithing Workspace,锻造台
 PROPCTRL_TXT_000598,Halloween Pumpkin,万圣南瓜
-PROPCTRL_TXT_000599,Message Sign,Message Sign
-PROPCTRL_TXT_000600,Medieval Bed,Medieval Bed
-PROPCTRL_TXT_000601,Medieval Sofa,Medieval Sofa
-PROPCTRL_TXT_000602,Medieval Armchair,Medieval Armchair
-PROPCTRL_TXT_000603,Medieval Bookcase,Medieval Bookcase
-PROPCTRL_TXT_000604,Medieval Wardrobe,Medieval Wardrobe
-PROPCTRL_TXT_000605,Medieval Table,Medieval Table
-PROPCTRL_TXT_000606,Medieval Chair,Medieval Chair
-PROPCTRL_TXT_000607,Medieval Floor Lamp,Medieval Floor Lamp
-PROPCTRL_TXT_000608,Medieval Drawer,Medieval Drawer
-PROPCTRL_TXT_000609,Halloween 2024 Bed,Halloween 2024 Bed
-PROPCTRL_TXT_000610,Halloween 2024 Sofa,Halloween 2024 Sofa
-PROPCTRL_TXT_000611,Halloween 2024 Armchair,Halloween 2024 Armchair
-PROPCTRL_TXT_000612,Halloween 2024 Bookcase,Halloween 2024 Bookcase
-PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,Halloween 2024 Wardrobe
-PROPCTRL_TXT_000614,Halloween 2024 Table,Halloween 2024 Table
-PROPCTRL_TXT_000615,Halloween 2024 Chair,Halloween 2024 Chair
-PROPCTRL_TXT_000616,Halloween 2024 Lantern,Halloween 2024 Lantern
-PROPCTRL_TXT_000617,Halloween 2024 Drawer,Halloween 2024 Drawer
+PROPCTRL_TXT_000599,Message Sign,留言板
+PROPCTRL_TXT_000600,Medieval Bed,中世纪床
+PROPCTRL_TXT_000601,Medieval Sofa,中世纪沙发
+PROPCTRL_TXT_000602,Medieval Armchair,中世纪扶手椅
+PROPCTRL_TXT_000603,Medieval Bookcase,中世纪书柜
+PROPCTRL_TXT_000604,Medieval Wardrobe,中世纪衣柜
+PROPCTRL_TXT_000605,Medieval Table,中世纪桌
+PROPCTRL_TXT_000606,Medieval Chair,中世纪椅
+PROPCTRL_TXT_000607,Medieval Floor Lamp,中世纪落地灯
+PROPCTRL_TXT_000608,Medieval Drawer,中世纪抽屉柜
+PROPCTRL_TXT_000609,Halloween 2024 Bed,2024 万圣节床
+PROPCTRL_TXT_000610,Halloween 2024 Sofa,2024 万圣节沙发
+PROPCTRL_TXT_000611,Halloween 2024 Armchair,2024 万圣节扶手椅
+PROPCTRL_TXT_000612,Halloween 2024 Bookcase,2024 万圣节书柜
+PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,2024 万圣节衣柜
+PROPCTRL_TXT_000614,Halloween 2024 Table,2024 万圣节桌
+PROPCTRL_TXT_000615,Halloween 2024 Chair,2024 万圣节椅
+PROPCTRL_TXT_000616,Halloween 2024 Lantern,2024 万圣节灯笼
+PROPCTRL_TXT_000617,Halloween 2024 Drawer,2024 万圣节抽屉柜
 PROPCTRL_TXT_000618,Flaris House 1,帕里小屋 1
 PROPCTRL_TXT_000619,Flaris House 2,帕里小屋 2
 PROPCTRL_TXT_000620,Flaris House 3,帕里小屋 3
@@ -604,116 +604,116 @@ PROPCTRL_TXT_000624,Flaris House 7,帕里小屋 7
 PROPCTRL_TXT_000625,Flaris House 8,帕里小屋 8
 PROPCTRL_TXT_000626,Flaris House 9,帕里小屋 9
 PROPCTRL_TXT_000627,Flaris House 10,帕里小屋 10
-PROPCTRL_TXT_000628,Saint Morning House 1,Saint Morning House 1
-PROPCTRL_TXT_000629,Saint Morning House 2,Saint Morning House 2
-PROPCTRL_TXT_000630,Saint Morning House 3,Saint Morning House 3
-PROPCTRL_TXT_000631,Saint Morning House 4,Saint Morning House 4
-PROPCTRL_TXT_000632,Saint Morning House 5,Saint Morning House 5
-PROPCTRL_TXT_000633,Saint Morning House 6,Saint Morning House 6
-PROPCTRL_TXT_000634,Saint Morning House 7,Saint Morning House 7
-PROPCTRL_TXT_000635,Saint Morning House 8,Saint Morning House 8
-PROPCTRL_TXT_000636,Saint Morning House 9,Saint Morning House 9
-PROPCTRL_TXT_000637,Saint Morning House 10,Saint Morning House 10
-PROPCTRL_TXT_000638,Saint Morning House 11,Saint Morning House 11
-PROPCTRL_TXT_000639,Pumpkin Town House 1,Pumpkin Town House 1
-PROPCTRL_TXT_000640,Pumpkin Town House 2,Pumpkin Town House 2
-PROPCTRL_TXT_000641,Pumpkin Town House 3,Pumpkin Town House 3
-PROPCTRL_TXT_000642,Darkon House 1,Darkon House 1
-PROPCTRL_TXT_000643,Darkon House 2,Darkon House 2
-PROPCTRL_TXT_000644,Darkon House 3,Darkon House 3
-PROPCTRL_TXT_000645,Darkon House 4,Darkon House 4
-PROPCTRL_TXT_000646,Darkon House 5,Darkon House 5
-PROPCTRL_TXT_000647,Azria House 1,Azria House 1
-PROPCTRL_TXT_000648,Azria House 2,Azria House 2
-PROPCTRL_TXT_000649,Azria House 3,Azria House 3
-PROPCTRL_TXT_000650,Azria House 4,Azria House 4
-PROPCTRL_TXT_000651,Flaris Street Lamp,Flaris Street Lamp
-PROPCTRL_TXT_000652,Flaris Tent 1,Flaris Tent 1
-PROPCTRL_TXT_000653,Madrigal Floating Sign 1,Madrigal Floating Sign 1
-PROPCTRL_TXT_000654,Madrigal Floating Sign 2,Madrigal Floating Sign 2
-PROPCTRL_TXT_000655,Madrigal No-fly Sign,Madrigal No-fly Sign
-PROPCTRL_TXT_000656,Madrigal Floating Ring,Madrigal Floating Ring
-PROPCTRL_TXT_000657,Flaris Box and cover,Flaris Box and cover
-PROPCTRL_TXT_000658,Magic Crystal Object,Magic Crystal Object
-PROPCTRL_TXT_000659,Flaris Tent 2,Flaris Tent 2
-PROPCTRL_TXT_000662,Flaris Carriage,Flaris Carriage
-PROPCTRL_TXT_000663,Flaris Torch,Flaris Torch
-PROPCTRL_TXT_000664,Flaris Floating Island,Flaris Floating Island
-PROPCTRL_TXT_000665,Saint Morning Lighthouse,Saint Morning Lighthouse
-PROPCTRL_TXT_000666,Saint Morning Crane,Saint Morning Crane
-PROPCTRL_TXT_000667,Saint Morning Campfire,Saint Morning Campfire
-PROPCTRL_TXT_000668,Saint Morning Palm Tree,Saint Morning Palm Tree
-PROPCTRL_TXT_000669,Saint Morning Pumpkin Fence,Saint Morning Pumpkin Fence
-PROPCTRL_TXT_000670,Saint Morning Scarecrow,Saint Morning Scarecrow
-PROPCTRL_TXT_000672,Saint Morning Cactus 1,Saint Morning Cactus 1
-PROPCTRL_TXT_000673,Saint Morning Cactus 2,Saint Morning Cactus 2
-PROPCTRL_TXT_000674,Saint Morning Cactus 3,Saint Morning Cactus 3
-PROPCTRL_TXT_000675,Rhisis Stone Pillar 1,Rhisis Stone Pillar 1
-PROPCTRL_TXT_000676,Rhisis Stone Pillar 2,Rhisis Stone Pillar 2
-PROPCTRL_TXT_000677,Rhisis Broken Temple,Rhisis Broken Temple
-PROPCTRL_TXT_000678,Darkon Steel Frame 1,Darkon Steel Frame 1
-PROPCTRL_TXT_000679,Darkon Steel Frame 2,Darkon Steel Frame 2
-PROPCTRL_TXT_000680,Darkon Structure,Darkon Structure
-PROPCTRL_TXT_000681,Darkon Water Tank,Darkon Water Tank
-PROPCTRL_TXT_000682,Darkon Large crane,Darkon Large crane
-PROPCTRL_TXT_000683,Darkon Dirt pile,Darkon Dirt pile
-PROPCTRL_TXT_000684,Darkon Shack,Darkon Shack
-PROPCTRL_TXT_000685,Darkon Market,Darkon Market
-PROPCTRL_TXT_000686,Darkon Tree Bark,Darkon Tree Bark
-PROPCTRL_TXT_000687,Darkon Fossil,Darkon Fossil
-PROPCTRL_TXT_000688,Darkon Large Fossil,Darkon Large Fossil
-PROPCTRL_TXT_000689,Guardiane Structure,Guardiane Structure
-PROPCTRL_TXT_000690,Guardiane Platform,Guardiane Platform
-PROPCTRL_TXT_000691,Azria Ground Window,Azria Ground Window
-PROPCTRL_TXT_000692,Azria Large Crane,Azria Large Crane
-PROPCTRL_TXT_000693,Azria Water Tank,Azria Water Tank
-PROPCTRL_TXT_000694,Azria Arch,Azria Arch
-PROPCTRL_TXT_000695,Azria Stone Pile,Azria Stone Pile
-PROPCTRL_TXT_000696,Azria Stone Pillar,Azria Stone Pillar
-PROPCTRL_TXT_000697,Azria Stone Tower,Azria Stone Tower
-PROPCTRL_TXT_000698,Coral Island Wrecked Ship Part,Coral Island Wrecked Ship Part
-PROPCTRL_TXT_000699,Coral Island Wrecked Ship,Coral Island Wrecked Ship
-PROPCTRL_TXT_000700,Coral Island Sea Weed 1,Coral Island Sea Weed 1
-PROPCTRL_TXT_000701,Coral Island Sea Weed 2,Coral Island Sea Weed 2
-PROPCTRL_TXT_000702,Coral Island Sea Weed 3,Coral Island Sea Weed 3
-PROPCTRL_TXT_000703,Coral Island Coral Platform,Coral Island Coral Platform
-PROPCTRL_TXT_000704,Coral Island Coral 13,Coral Island Coral 13
-PROPCTRL_TXT_000705,Coral Island Coral 14,Coral Island Coral 14
-PROPCTRL_TXT_000706,Coral Island Coral 15,Coral Island Coral 15
-PROPCTRL_TXT_000707,Coral Island Coral 16,Coral Island Coral 16
-PROPCTRL_TXT_000708,Coral Island Campfire,Coral Island Campfire
-PROPCTRL_TXT_000709,Saint Morning Wall Pillar,Saint Morning Wall Pillar
-PROPCTRL_TXT_000710,Neon Valentines Black Lamp,Neon Valentines Black Lamp
-PROPCTRL_TXT_000711,Neon Valentines Black Desk,Neon Valentines Black Desk
-PROPCTRL_TXT_000712,Neon Valentines Black Drawer,Neon Valentines Black Drawer
-PROPCTRL_TXT_000713,Neon Valentines Black Dresser,Neon Valentines Black Dresser
-PROPCTRL_TXT_000714,Neon Valentines Black Bookshelf,Neon Valentines Black Bookshelf
-PROPCTRL_TXT_000715,Neon Valentines Black Chair,Neon Valentines Black Chair
-PROPCTRL_TXT_000716,Neon Valentines Black Bath,Neon Valentines Black Bath
-PROPCTRL_TXT_000717,Neon Valentines Black Bed,Neon Valentines Black Bed
-PROPCTRL_TXT_000718,Neon Valentines Black Sofa,Neon Valentines Black Sofa
-PROPCTRL_TXT_000719,Neon Valentines White Lamp,Neon Valentines White Lamp
-PROPCTRL_TXT_000720,Neon Valentines White Desk,Neon Valentines White Desk
-PROPCTRL_TXT_000721,Neon Valentines White Drawer,Neon Valentines White Drawer
-PROPCTRL_TXT_000722,Neon Valentines White Dresser,Neon Valentines White Dresser
-PROPCTRL_TXT_000723,Neon Valentines White Bookshelf,Neon Valentines White Bookshelf
-PROPCTRL_TXT_000724,Neon Valentines White Chair,Neon Valentines White Chair
-PROPCTRL_TXT_000725,Neon Valentines White Bath,Neon Valentines White Bath
-PROPCTRL_TXT_000726,Neon Valentines White Bed,Neon Valentines White Bed
-PROPCTRL_TXT_000727,Neon Valentines White Sofa,Neon Valentines White Sofa
-PROPCTRL_TXT_000728,Pastel Bed,Pastel Bed
-PROPCTRL_TXT_000729,Pastel Sofa,Pastel Sofa
-PROPCTRL_TXT_000730,Pastel Stool,Pastel Stool
-PROPCTRL_TXT_000731,Pastel Bookshelf,Pastel Bookshelf
-PROPCTRL_TXT_000732,Pastel Lamp,Pastel Lamp
-PROPCTRL_TXT_000733,Pastel Desk,Pastel Desk
-PROPCTRL_TXT_000734,Pastel Chair,Pastel Chair
-PROPCTRL_TXT_000735,Pastel Nightstand,Pastel Nightstand
-PROPCTRL_TXT_000736,Pastel Bathtub,Pastel Bathtub
-PROPCTRL_TXT_000737,[Event] Chroma Ore,[Event] Chroma Ore
-PROPCTRL_TXT_000738,Statue Base,Statue Base
-PROPCTRL_TXT_000739,3rd Anniversary Flaris Cake,3rd Anniversary Flaris Cake
-PROPCTRL_TXT_000740,3rd Anniversary Saint Morning Cake,3rd Anniversary Saint Morning Cake
-PROPCTRL_TXT_000741,3rd Anniversary Darkon Cake,3rd Anniversary Darkon Cake
-PROPCTRL_TXT_000742,Dungeon Warp 07,Dungeon Warp 07
-PROPCTRL_TXT_000743,First Aid Kit,First Aid Kit
+PROPCTRL_TXT_000628,Saint Morning House 1,晨光小屋 1
+PROPCTRL_TXT_000629,Saint Morning House 2,晨光小屋 2
+PROPCTRL_TXT_000630,Saint Morning House 3,晨光小屋 3
+PROPCTRL_TXT_000631,Saint Morning House 4,晨光小屋 4
+PROPCTRL_TXT_000632,Saint Morning House 5,晨光小屋 5
+PROPCTRL_TXT_000633,Saint Morning House 6,晨光小屋 6
+PROPCTRL_TXT_000634,Saint Morning House 7,晨光小屋 7
+PROPCTRL_TXT_000635,Saint Morning House 8,晨光小屋 8
+PROPCTRL_TXT_000636,Saint Morning House 9,晨光小屋 9
+PROPCTRL_TXT_000637,Saint Morning House 10,晨光小屋 10
+PROPCTRL_TXT_000638,Saint Morning House 11,晨光小屋 11
+PROPCTRL_TXT_000639,Pumpkin Town House 1,南瓜镇小屋 1
+PROPCTRL_TXT_000640,Pumpkin Town House 2,南瓜镇小屋 2
+PROPCTRL_TXT_000641,Pumpkin Town House 3,南瓜镇小屋 3
+PROPCTRL_TXT_000642,Darkon House 1,达肯小屋 1
+PROPCTRL_TXT_000643,Darkon House 2,达肯小屋 2
+PROPCTRL_TXT_000644,Darkon House 3,达肯小屋 3
+PROPCTRL_TXT_000645,Darkon House 4,达肯小屋 4
+PROPCTRL_TXT_000646,Darkon House 5,达肯小屋 5
+PROPCTRL_TXT_000647,Azria House 1,雪地小屋 1
+PROPCTRL_TXT_000648,Azria House 2,雪地小屋 2
+PROPCTRL_TXT_000649,Azria House 3,雪地小屋 3
+PROPCTRL_TXT_000650,Azria House 4,雪地小屋 4
+PROPCTRL_TXT_000651,Flaris Street Lamp,帕里路灯
+PROPCTRL_TXT_000652,Flaris Tent 1,帕里帐篷 1
+PROPCTRL_TXT_000653,Madrigal Floating Sign 1,瑞加大陆浮空指示牌 1
+PROPCTRL_TXT_000654,Madrigal Floating Sign 2,瑞加大陆浮空指示牌 2
+PROPCTRL_TXT_000655,Madrigal No-fly Sign,瑞加大陆禁飞标志
+PROPCTRL_TXT_000656,Madrigal Floating Ring,瑞加大陆浮空环
+PROPCTRL_TXT_000657,Flaris Box and cover,帕里箱子及盖子
+PROPCTRL_TXT_000658,Magic Crystal Object,魔法水晶体
+PROPCTRL_TXT_000659,Flaris Tent 2,帕里帐篷 2
+PROPCTRL_TXT_000662,Flaris Carriage,帕里马车
+PROPCTRL_TXT_000663,Flaris Torch,帕里火把
+PROPCTRL_TXT_000664,Flaris Floating Island,帕里浮空岛
+PROPCTRL_TXT_000665,Saint Morning Lighthouse,晨光灯塔
+PROPCTRL_TXT_000666,Saint Morning Crane,晨光起重机
+PROPCTRL_TXT_000667,Saint Morning Campfire,晨光篝火
+PROPCTRL_TXT_000668,Saint Morning Palm Tree,晨光棕榈树
+PROPCTRL_TXT_000669,Saint Morning Pumpkin Fence,晨光南瓜篱笆
+PROPCTRL_TXT_000670,Saint Morning Scarecrow,晨光稻草人
+PROPCTRL_TXT_000672,Saint Morning Cactus 1,晨光仙人掌 1
+PROPCTRL_TXT_000673,Saint Morning Cactus 2,晨光仙人掌 2
+PROPCTRL_TXT_000674,Saint Morning Cactus 3,晨光仙人掌 3
+PROPCTRL_TXT_000675,Rhisis Stone Pillar 1,莱斯石柱 1
+PROPCTRL_TXT_000676,Rhisis Stone Pillar 2,莱斯石柱 2
+PROPCTRL_TXT_000677,Rhisis Broken Temple,莱斯残破神庙
+PROPCTRL_TXT_000678,Darkon Steel Frame 1,达肯钢架 1
+PROPCTRL_TXT_000679,Darkon Steel Frame 2,达肯钢架 2
+PROPCTRL_TXT_000680,Darkon Structure,达肯建筑
+PROPCTRL_TXT_000681,Darkon Water Tank,达肯水箱
+PROPCTRL_TXT_000682,Darkon Large crane,达肯大型起重机
+PROPCTRL_TXT_000683,Darkon Dirt pile,达肯土堆
+PROPCTRL_TXT_000684,Darkon Shack,达肯棚屋
+PROPCTRL_TXT_000685,Darkon Market,达肯集市
+PROPCTRL_TXT_000686,Darkon Tree Bark,达肯树皮
+PROPCTRL_TXT_000687,Darkon Fossil,达肯化石
+PROPCTRL_TXT_000688,Darkon Large Fossil,达肯大型化石
+PROPCTRL_TXT_000689,Guardiane Structure,堕落圣域建筑
+PROPCTRL_TXT_000690,Guardiane Platform,堕落圣域平台
+PROPCTRL_TXT_000691,Azria Ground Window,雪地指示灯
+PROPCTRL_TXT_000692,Azria Large Crane,雪地大型起重机
+PROPCTRL_TXT_000693,Azria Water Tank,雪地水箱
+PROPCTRL_TXT_000694,Azria Arch,雪地石拱
+PROPCTRL_TXT_000695,Azria Stone Pile,雪地石堆
+PROPCTRL_TXT_000696,Azria Stone Pillar,雪地石柱
+PROPCTRL_TXT_000697,Azria Stone Tower,雪地石塔
+PROPCTRL_TXT_000698,Coral Island Wrecked Ship Part,珊瑚岛沉船残骸
+PROPCTRL_TXT_000699,Coral Island Wrecked Ship,珊瑚岛沉船
+PROPCTRL_TXT_000700,Coral Island Sea Weed 1,珊瑚岛海藻 1
+PROPCTRL_TXT_000701,Coral Island Sea Weed 2,珊瑚岛海藻 2
+PROPCTRL_TXT_000702,Coral Island Sea Weed 3,珊瑚岛海藻 3
+PROPCTRL_TXT_000703,Coral Island Coral Platform,珊瑚岛 Coral Platform
+PROPCTRL_TXT_000704,Coral Island Coral 13,珊瑚 13
+PROPCTRL_TXT_000705,Coral Island Coral 14,珊瑚 14
+PROPCTRL_TXT_000706,Coral Island Coral 15,珊瑚 15
+PROPCTRL_TXT_000707,Coral Island Coral 16,珊瑚 16
+PROPCTRL_TXT_000708,Coral Island Campfire,珊瑚岛篝火
+PROPCTRL_TXT_000709,Saint Morning Wall Pillar,晨光墙壁柱
+PROPCTRL_TXT_000710,Neon Valentines Black Lamp,霓虹情人节黑色灯
+PROPCTRL_TXT_000711,Neon Valentines Black Desk,霓虹情人节黑色桌
+PROPCTRL_TXT_000712,Neon Valentines Black Drawer,霓虹情人节黑色抽屉柜
+PROPCTRL_TXT_000713,Neon Valentines Black Dresser,霓虹情人节黑色梳妆柜
+PROPCTRL_TXT_000714,Neon Valentines Black Bookshelf,霓虹情人节黑色书架
+PROPCTRL_TXT_000715,Neon Valentines Black Chair,霓虹情人节黑色椅
+PROPCTRL_TXT_000716,Neon Valentines Black Bath,霓虹情人节黑色浴缸
+PROPCTRL_TXT_000717,Neon Valentines Black Bed,霓虹情人节黑色床
+PROPCTRL_TXT_000718,Neon Valentines Black Sofa,霓虹情人节黑色沙发
+PROPCTRL_TXT_000719,Neon Valentines White Lamp,霓虹情人节白色灯
+PROPCTRL_TXT_000720,Neon Valentines White Desk,霓虹情人节白色桌
+PROPCTRL_TXT_000721,Neon Valentines White Drawer,霓虹情人节白色抽屉柜
+PROPCTRL_TXT_000722,Neon Valentines White Dresser,霓虹情人节白色梳妆柜
+PROPCTRL_TXT_000723,Neon Valentines White Bookshelf,霓虹情人节白色书架
+PROPCTRL_TXT_000724,Neon Valentines White Chair,霓虹情人节白色椅
+PROPCTRL_TXT_000725,Neon Valentines White Bath,霓虹情人节白色浴缸
+PROPCTRL_TXT_000726,Neon Valentines White Bed,霓虹情人节白色床
+PROPCTRL_TXT_000727,Neon Valentines White Sofa,霓虹情人节白色沙发
+PROPCTRL_TXT_000728,Pastel Bed,粉彩床
+PROPCTRL_TXT_000729,Pastel Sofa,粉彩沙发
+PROPCTRL_TXT_000730,Pastel Stool,粉彩凳子
+PROPCTRL_TXT_000731,Pastel Bookshelf,粉彩书架
+PROPCTRL_TXT_000732,Pastel Lamp,粉彩灯
+PROPCTRL_TXT_000733,Pastel Desk,粉彩桌
+PROPCTRL_TXT_000734,Pastel Chair,粉彩椅
+PROPCTRL_TXT_000735,Pastel Nightstand,粉彩床头柜
+PROPCTRL_TXT_000736,Pastel Bathtub,粉彩浴缸
+PROPCTRL_TXT_000737,[Event] Chroma Ore,[活动] 绚丽矿石
+PROPCTRL_TXT_000738,Statue Base,雕像基座
+PROPCTRL_TXT_000739,3rd Anniversary Flaris Cake,3 周年庆帕里蛋糕
+PROPCTRL_TXT_000740,3rd Anniversary Saint Morning Cake,3 周年庆晨光蛋糕
+PROPCTRL_TXT_000741,3rd Anniversary Darkon Cake,3 周年庆达肯蛋糕
+PROPCTRL_TXT_000742,Dungeon Warp 07,副本传送 07
+PROPCTRL_TXT_000743,First Aid Kit,急救包
