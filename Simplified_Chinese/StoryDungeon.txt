@@ -1,7 +1,7 @@
-﻿Welcome, adventurers! #bStory mode#nb dungeons have monsters with reduced attack, health, and experience compared to the normal version of a dungeon.
+﻿欢迎，冒险者们！与普通版本的地下城相比， #b故事模式#nb 副本中的怪物攻击力、生命值均有所降低。
 
-Players may use Story mode difficulty to complete quests with friends, or enjoy a casual stroll through the scenario in a #blow risk#nb environment. Enjoy!
+玩家可以使用故事模式难度与朋友一起完成任务，或者在 #b低难度#nb 的环境中悠闲地漫步于剧情之中。尽情享受吧！
 
-- Masquerpets in Story mode dungeons do not drop items
-- Pet cages and treasure chests do not spawn in Story mode
-- Players do not earn achievement credit in Story mode
+- 故事模式中不掉落物品
+- 故事模式中不会生成宠物笼子和宝箱
+- 玩家在故事模式中不会获得成就点数
