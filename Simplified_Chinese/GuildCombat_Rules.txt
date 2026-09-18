@@ -1,10 +1,10 @@
-﻿#b#cff0000ff* Basic Rules#nb#nc
-- Every party and buff are canceled after the entry.
-- Item trading is banned from 5 minutes before the combat.
-- Combat progresses for 10 minutes.
-- 5 members of advance party join first. 
-- The next character joins after a character died. 
-- The dead character becomes the last in the list.
-- A character has 3 chances of revival.
-* Guild Master: Gets bonus point when defeating the enemy.
-* Defender(except for Guild Master): Gives bonus point to the enemy when dying.
+﻿#b#cff0000ff* 基本规则#nb#nc
+- 入场后，所有队伍和增益将被取消。
+- 战斗开始前5分钟，禁止物品交易。
+- 战斗时长为10分钟。
+- 先锋队（先发队伍）的5名成员率先入场。
+- 当有角色死亡后，下一个角色才会加入战斗。
+- 死亡角色将排至列表末尾。
+- 每个角色拥有3次复活机会。
+* 公会会长：击败敌人时获得额外分数。
+* 防守方（公会会长除外）：死亡时会给予敌人额外分数。
