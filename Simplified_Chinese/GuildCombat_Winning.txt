@@ -1,13 +1,13 @@
-﻿#b#cff0000ff* Winning#nb#nc
-#b#cff0000ff* Priority#nb#nc
-1. The highest final point
-2. The most amount of revival chance of survived characters
-3. The lowest average level of survived characters
-#b#cff0000ff* Point Gaining#nb#nc
-Defeating the enemy (+2)
-#b#cff0000ff* Bonus Point Gaining (Overlapping is possible)#nb#nc
-- Killing the enemy who was not defeated by the character before (+1)
-- Killing the enemy by Guild Master (+1)
-- Killing Defender (+1)
-- Killing the enemy when the revival chance of the character is 0 (+1)
-- To every revival chance of survived characters (+1)
+﻿#b#cff0000ff* 胜利条件#nb#nc
+#b#cff0000ff* 优先级#nb#nc
+1. 最高最终积分
+2. 存活角色剩余复活次数最多
+3. 存活角色平均等级最低
+#b#cff0000ff* 得分#nb#nc
+击败敌人（+2）
+#b#cff0000ff* 额外得分（可叠加）#nb#nc
+- 击杀该角色此前未击败过的敌人（+1）
+- 由公会会长击杀敌人（+1）
+- 击杀防守方（+1）
+- 当角色复活次数为0时击杀敌人（+1）
+- 存活角色的每次复活机会（+1）
