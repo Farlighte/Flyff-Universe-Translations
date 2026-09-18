@@ -19,7 +19,7 @@ UI_EVENT_DIAMONDINTHESKY_DAY,"Nighttime has passed, the stars are disappearing."
 UI_EVENT_DUNGEONCOINS,Dungeon Coins Discount!,副本币消耗减少！
 UI_EVENT_DUNGEONCOINS_DESC,Spend fewer Dungeon Coins when taking on missions or entering dungeons!,接受任务、进入副本时，消耗的副本币更少！
 UI_EVENT_ANNIVERSARY,1st Anniversary!,一周年！
-UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,Flyff Universe 周年庆来啦！真诚的感谢每一位助力达成这一里程碑的玩家！
+UI_EVENT_ANNIVERSARY_DESC,Flyff Universe is turning 1! A huge thank you to all of our players who made this milestone possible!,Flyff Universe 迎来1周年！真诚感谢每一位助力达成这一里程碑的玩家！
 UI_EVENT_ANNIVERSARY_ATTENDANCE,1st Anniversary Playtime Event,周年庆在线时间活动
 UI_EVENT_ANNIVERSARY_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,每日登录满 40 分钟即可领取奖励！
 UI_EVENT_FWC,Flyff World Championship,Flyff世界锦标赛
@@ -69,7 +69,7 @@ UI_EVENT_ATTACK_OF_THE_HUNGRY_MONSTERS,Attack of the Hungry Monsters,饥饿的�
 UI_EVENT_2ND_ANNIVERSARY_CONNECTION,Daily Login,每日登录
 UI_EVENT_2ND_ANNIVERSARY_CONNECTION_DESC,Let's celebrate the 2nd anniversary of Flyff Universe!,Let's celebrate the 2nd anniversary of Flyff Universe!
 UI_EVENT_ANNIVERSARY2,2nd Anniversary!,2nd Anniversary!
-UI_EVENT_ANNIVERSARY2_DESC,Flyff Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,Flyff Universe 周年庆来啦！真诚的感谢每一位助力达成这一里程碑的玩家！
+UI_EVENT_ANNIVERSARY2_DESC,Flyff Universe is turning 2! A huge thank you to all of our players who made this milestone possible!,Flyff Universe 1周年啦！真诚的感谢每一位助力达成这一里程碑的玩家！
 UI_EVENT_ANNIVERSARY2_CAKE,Cake,蛋糕
 UI_EVENT_COUPLE_RING_OF_LEGEND,Couple Ring from the Legend,传奇情侣对戒
 UI_EVENT_EXPBOOST_DESC_100,Experience x2!,经验值翻倍！
@@ -112,7 +112,7 @@ UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC竞猜活动!
 UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,是时候开始强化了！
 UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,活动期间，成功将一件装备从 + 1 强化至 + 10 的每个等级，均可领取对应奖励。完成全部 10 个阶段，即可获得终极饰品选择箱。
 UI_EVENT_PTS,Public Test Server,这是测试服务器
-UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.",倍率全开，副本CD缩短。
+UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.",倍率提升，副本冷却时间缩短，更多详情请访问 Discord！
 UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026情人节
 UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.",2026年情人节活动期间，击杀怪物后有概率掉落情人节信函，从中可获得I♥YOU系列道具；仅低于角色等级10级以内的怪物才会掉落。
 UI_EVENT_LOGIN,Login Event,累计在线

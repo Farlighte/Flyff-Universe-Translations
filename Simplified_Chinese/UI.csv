@@ -2076,7 +2076,7 @@ UI_HOUSINGSETUP_FILTER_HDR,Filter,筛选
 UI_HOUSINGSETUP_FILTER_HDR_ALL,All,全部
 UI_HOUSINGSETUP_FILTER_TREE,Trees,树
 UI_HOUSINGSETUP_FILTER_OTHER,Other,其他
-UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",你可以为此公会飞船提交竞标。在 #b#u%s#nb#nu 之后，出价最高的公会将获得此公会船的所有权。\n#b#u注意：#nu#nb\n-同一时间只能对一个公会飞船进行竞标。\n-用于竞标的金币将从你的公会银行中扣除。\n-你可以在竞标期结束前的任意时间追加出价。
+UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",你可以为此公会飞船提交竞标。在 #b#u%s#nb#nu 之后，出价最高的公会将获得此公会飞船的所有权。\n#b#u注意：#nu#nb\n-同一时间只能对一个公会飞船进行竞标。\n-用于竞标的金币将从你的公会银行中扣除。\n-你可以在竞标期结束前的任意时间追加出价。
 UI_GUILDHOUSINGBIDS_HDR,Guild Bids,公会竞标
 UI_GUILDHOUSINGBIDS_PLACE,Place Bid,提交竞标
 UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,请输入你希望竞标的金额。#b#u竞标将使用你公会银行中的金币进行。#nu#nb
@@ -3118,7 +3118,7 @@ UI_3RD_ANNIV_PASS,3rd Anniversary Pass,三周年通行证
 UI_BATTLEPASS_REPEAT,Repeat,重复
 UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,失败: #b%s#nb
 UI_UPGRADE_BREAK_PROB,Break: #b%s#nb,损毁: #b%s#nb
-UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,精炼剩余: %d
+UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,剩余精炼次数: %d
 UI_BATTLEPASS_MISSION_FIELDBOSS,Participate in a Field Boss Battle: %s,参与世界BOSS战: %s
 UI_QUEST_CONSUMABLE_ITEM_COUNT,Use Consumable Items #cffc32f07#b%d/%d#nb#nc,使用消耗品 #cffc32f07#b%d/%d#nb#nc
 UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,个人雕像已创建
@@ -3332,7 +3332,7 @@ UI_DONATION_CURRENTEVENT,Current Event:,当前活动:
 UI_DONATION_MINDONATION,Minimum Donation:,最小捐赠数额:
 UI_DONATION_GOAL,Goal,目标
 UI_DONATION_BUFF,Buff,全服加成
-UI_DONATION_DONATOR,Donator,捐赠追加
+UI_DONATION_DONATOR,Donator,捐赠独享
 UI_DONATION_DONATE,Donate,捐赠
 UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,输入你想要为 #b%s#nb 增益捐赠的数额。请注意，捐赠不可退还。
 UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 版本通行证

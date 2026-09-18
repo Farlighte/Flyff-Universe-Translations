@@ -3038,9 +3038,9 @@ PROPITEM_TXT_005405,Quest Item: Proof that proves the continents of Madrigal sep
 PROPITEM_TXT_005406,Recommendation of Gothante,高潭提拉的推荐书
 PROPITEM_TXT_005407,Quest Item: A recommendation from Gothante.,写给扎森特所信任的人的推荐书
 PROPITEM_TXT_005408,Piece of Strange Cloth,诡异的布料
-PROPITEM_TXT_005409,Quest Item: A piece of cloth with the same pattern as the one in the Field of Bubble.,外型与波布尔平原的样子很相同，有点破掉的布料
+PROPITEM_TXT_005409,Quest Item: A piece of cloth with the same pattern as the one in the Field of Bubble.,外型与波卜尔平原的样子很相同，有点破掉的布料
 PROPITEM_TXT_005410,Unknown Mark,无法知道的纹样
-PROPITEM_TXT_005411,Quest Item: Cloth with a weird pattern on it. Found in the Field of Bubble.,在波布尔平原中找到的整个布料。
+PROPITEM_TXT_005411,Quest Item: Cloth with a weird pattern on it. Found in the Field of Bubble.,在波卜尔平原中找到的整个布料。
 PROPITEM_TXT_005412,Piece of Unknown Cloth,无法知道的布料
 PROPITEM_TXT_005413,Quest Item: A piece of cloth with the same pattern as the one in the Hill of Shade.,外型与谢莉德之丘的样子很相同，有点像破掉的布料
 PROPITEM_TXT_005414,Book of Troubled History,苦难的历史
@@ -3052,7 +3052,7 @@ PROPITEM_TXT_005419,Quest Item: An ancient book written in an ancient language.,
 PROPITEM_TXT_005420,Mysterious Black Gem,诡异的晶球(黑)
 PROPITEM_TXT_005421,Quest Item: Black gem found in the center of the Hill of Shade.,在谢莉德之丘中找到的黑色晶球。
 PROPITEM_TXT_005422,Mysterious Red Gem,诡异的晶球(红)
-PROPITEM_TXT_005423,Quest Item: Red gem found in the center of the Field of Bubble.,在波布尔平原中找到的红色晶球。
+PROPITEM_TXT_005423,Quest Item: Red gem found in the center of the Field of Bubble.,在波卜尔平原中找到的红色晶球。
 PROPITEM_TXT_005424,Book of Laola,拉宇的奇迹
 PROPITEM_TXT_005425,Quest Item: A book that seems to be useful to Gothante.,拉宇制作的证书，对于扎森特来说可能是一个很重要的文书
 PROPITEM_TXT_005426,Scroll of Gothante,扎森特的卷轴
@@ -3500,8 +3500,8 @@ PROPITEM_TXT_006144,Iblis Trans,幻魔依普利变身球
 PROPITEM_TXT_006145,Transform into Iblis,可以变成幻魔依普利的变身球
 PROPITEM_TXT_006146,Shade Trans,美丽小丑谢莉德变身球
 PROPITEM_TXT_006147,Transform into Shade,可以变成谢莉德的变身球
-PROPITEM_TXT_006148,Bubble Trans,胖小丑波布尔变身球
-PROPITEM_TXT_006149,Transform into Bubble,可以变成波布尔的变身球
+PROPITEM_TXT_006148,Bubble Trans,胖小丑波卜尔变身球
+PROPITEM_TXT_006149,Transform into Bubble,可以变成波卜尔的变身球
 PROPITEM_TXT_006150,Baby Lawolf,山地野狼
 PROPITEM_TXT_006151,"A cute, baby, Lawolf that follows its master around and picks up dropped items",自动捡取落在周围的物品
 PROPITEM_TXT_006152,Baby Aibatt,独眼蝠
@@ -6369,7 +6369,7 @@ PROPITEM_TXT_014942,Hobo Sword,独臂浪人的剑
 PROPITEM_TXT_014704,Memory Shard,记忆碎片
 PROPITEM_TXT_014860,Fragment of Memories,记忆片段
 PROPITEM_TXT_014708,Ancient Inscription,古代铭文
-PROPITEM_TXT_014710,Essence of Bubble,波布尔的意识
+PROPITEM_TXT_014710,Essence of Bubble,波卜尔的意识
 PROPITEM_TXT_014712,Essence of Shade,谢莉德的意识
 PROPITEM_TXT_014870,Parchment of War,战争卷轴
 PROPITEM_TXT_014714,Forsaken Soul,被遗忘的灵魂
@@ -9218,7 +9218,7 @@ PROPITEM_TXT_400343,Quest Item: A lightning rod that can draw away small amounts
 PROPITEM_TXT_400344,Supercharged Lightning Rod,过载的避雷装置
 PROPITEM_TXT_400345,Quest Item: A supercharged lightning rod that can draw away massive amounts of lightning from an area.,任务物品：一根能引开区域内大量雷电的过载避雷针。
 PROPITEM_TXT_400346,Heart of Red Otem,昏聩者之心
-PROPITEM_TXT_400347,Quest Item: The heart of a Red Otem from deep inside the Iblis dungeon.,任务物品：来自幻魔依普莉神殿中密殿昏聩者(红色陶陶)的心脏。
+PROPITEM_TXT_400347,Quest Item: The heart of a Red Otem from deep inside the Iblis dungeon.,任务物品：来自幻魔依普利神殿中密殿昏聩者(红色陶陶)的心脏。
 PROPITEM_TXT_400348,Clothing Scrap,遗留的衣物
 PROPITEM_TXT_400349,Quest Item: The remaining clothing of adventurers lost inside the Rhisis Catacombs.,任务物品：在莱斯神之墓中失踪的冒险者留下的衣物。
 PROPITEM_TXT_400350,Broken Shield,遗留的盾牌
