@@ -3098,7 +3098,7 @@ UI_GENERIC_4,Setting 4,Setting 4
 UI_SBX_TIME,Time,Time
 UI_SBX_LIGHT_OFFSET,Light Offset,Light Offset
 UI_SSAO_SHD_STR,Strength,力量
-UI_SSAO_SHD_MAX_D,Max Distance,极致
+UI_SSAO_SHD_MAX_D,Max Distance,最远
 UI_SSAO_SHD_FALLOFF,Falloff,衰减
 UI_SSAO_SHD_RADIUS,Radius,半径
 UI_SSAO_SHD_ALPHA,Alpha,阿尔法
