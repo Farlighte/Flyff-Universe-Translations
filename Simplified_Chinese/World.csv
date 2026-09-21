@@ -20,16 +20,16 @@ WDARENA_WLD_000002,Training Center,训练中心
 WDARENA_WLD_000003,Test your capabilities against dummies!,攻击训练稻草人检验你的实力吧！
 WDARENA_WLD_000004,,
 WDARENA_WLD_000005,,
-WDARENA_WLD_000006,The Bronze Vagrant,The Bronze Vagrant
-WDARENA_WLD_000007,The Bronze Elementor,The Bronze Elementor
-WDARENA_WLD_000008,The Bronze Knight,The Bronze Knight
-WDARENA_WLD_000009,The Bronze Psykeeper,The Bronze Psykeeper
-WDARENA_WLD_000010,The Bronze Billposter,The Bronze Billposter
-WDARENA_WLD_000011,The Bronze Blade,The Bronze Blade
-WDARENA_WLD_000012,The Bronze Jester,The Bronze Jester
-WDARENA_WLD_000013,The Bronze Ranger,The Bronze Ranger
-WDARENA_WLD_000014,The Bronze Ringmaster,The Bronze Ringmaster
-WDCOLOSSEUM_WLD_000001,The Colosseum,The Colosseum
+WDARENA_WLD_000006,The Bronze Vagrant,青铜初心者
+WDARENA_WLD_000007,The Bronze Elementor,青铜元素使者
+WDARENA_WLD_000008,The Bronze Knight,青铜骑士
+WDARENA_WLD_000009,The Bronze Psykeeper,青铜精神使者
+WDARENA_WLD_000010,The Bronze Billposter,青铜暴力技师
+WDARENA_WLD_000011,The Bronze Blade,青铜刀锋战士
+WDARENA_WLD_000012,The Bronze Jester,青铜暗杀者
+WDARENA_WLD_000013,The Bronze Ranger,青铜游侠
+WDARENA_WLD_000014,The Bronze Ringmaster,青铜守护使者
+WDCOLOSSEUM_WLD_000001,The Colosseum,斗兽场
 WDCOLOSSEUM_WLD_000002,Colosseum Stadium,斗兽运动场
 WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,时空毁灭者巢穴
 WDCOLOSSEUM_WLD_000004,Clockworks was sealed here after the Clockworks War.,时空毁灭战争之后，时空毁灭者便被囚禁于此。
@@ -43,14 +43,14 @@ WORLD_WDGUILDWAR_KAILLUN_RGN_000000,Prove yourself!\nShow them that you are the 
 WORLD_WDGUILDWAR_SNOW_RGN_000000,Prove yourself!\nShow them that you are the best!,证明自己！\n向他们证明你是最强的！
 WORLD_WDGUILDWAR_UNDERWATER_RGN_000000,Prove yourself!\nShow them that you are the best!,证明自己！\n向他们证明你是最强的！
 WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the best!,证明你自己！\n向他们展示你是最强的！
-WDKEBARAS_WLD_000000,Lodelight,生命之塔
+WDKEBARAS_WLD_000000,Lodelight,光明之塔
 WDKEBARAS_WLD_000001,This is a safe place.,这里是安全区，可以避开敌人的攻击。
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,卡巴拉斯
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",这里是卡巴拉斯镇。\n很久之前，这里曾是关押罪犯的监狱。
-WDKEBARAS2_WLD_000000,Lodelight,Lodelight
-WDKEBARAS2_WLD_000001,This is a safe place.,This is a safe place.
-WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,Kebaras 2
-WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals..."
+WDKEBARAS2_WLD_000000,Lodelight,光明之塔
+WDKEBARAS2_WLD_000001,This is a safe place.,这里是安全的。
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,卡巴拉斯 2
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...",欢迎来到卡巴拉斯 2!\n很久以前，这里曾经是罪犯的监狱……
 WDMADRIGAL_WLD_000000,Mysterious Castle,神秘城堡
 WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,地图上未标注此地点。没人知道怎么进去……
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,乐雅山脉中部的避难所
