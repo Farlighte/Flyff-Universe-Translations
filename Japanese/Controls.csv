@@ -206,8 +206,8 @@ PROPCTRL_TXT_000226,Azria Sign 1,アズリアサイン1
 PROPCTRL_TXT_000227,Azria Box Pile,アズリアボックスパイル
 PROPCTRL_TXT_000228,Azria Box 1,アズリアボックス1
 PROPCTRL_TXT_000229,Coral Island Tree 1,コーラルアイランドツリー1
-PROPCTRL_TXT_000230,Coral Island Shellfish 1,珊瑚島貝類1
-PROPCTRL_TXT_000231,Coral Island Coral 1,コーラルアイランドコーラル1
+PROPCTRL_TXT_000230,Coral Island Shellfish 1,コーラルアイランド貝類1
+PROPCTRL_TXT_000231,Coral Island Coral 1,コーラルアイランドサンゴ1
 PROPCTRL_TXT_000232,Coral Island Starfish 1,コーラルアイランドヒトデ1
 PROPCTRL_TXT_000233,Coral Island Table 1,コーラルアイランドテーブル1
 PROPCTRL_TXT_000234,Coral Island Beach Umbrella ,コーラルアイランドビーチパラソル
@@ -508,29 +508,29 @@ PROPCTRL_TXT_000528,Azria Sign 2,アズリアサイン2
 PROPCTRL_TXT_000529,Azria Sign 3,アズリアサイン3
 PROPCTRL_TXT_000530,Azria Sign 4,アズリアサイン4
 PROPCTRL_TXT_000531,Azria Box 2,アズリアボックス2
-PROPCTRL_TXT_000532,Coral Island Tree 2,珊瑚の島の木2
-PROPCTRL_TXT_000533,Coral Island Shellfish 2,珊瑚島貝類2
-PROPCTRL_TXT_000534,Coral Island Shellfish 3,珊瑚島貝類 3
-PROPCTRL_TXT_000535,Coral Island Shellfish 4,珊瑚島貝類4
-PROPCTRL_TXT_000536,Coral Island Shellfish 5,珊瑚島貝類5
-PROPCTRL_TXT_000537,Coral Island Shellfish 6,珊瑚島貝類6
-PROPCTRL_TXT_000538,Coral Island Shellfish 7,珊瑚島貝類7
-PROPCTRL_TXT_000539,Coral Island Shellfish 8,珊瑚島貝類8
-PROPCTRL_TXT_000540,Coral Island Shellfish 9,珊瑚島貝類9
-PROPCTRL_TXT_000541,Coral Island Coral 2,コーラルアイランドコーラル2
-PROPCTRL_TXT_000542,Coral Island Coral 3,コーラルアイランドコーラル3
-PROPCTRL_TXT_000543,Coral Island Coral 4,コーラルアイランドコーラル4
-PROPCTRL_TXT_000544,Coral Island Coral 5,コーラルアイランドコーラル5
-PROPCTRL_TXT_000545,Coral Island Coral 6,コーラルアイランドコーラル6
-PROPCTRL_TXT_000546,Coral Island Coral 7,コーラルアイランドコーラル7
-PROPCTRL_TXT_000547,Coral Island Coral 8,コーラルアイランドコーラル8
-PROPCTRL_TXT_000548,Coral Island Coral 9,コーラルアイランドコーラル9
-PROPCTRL_TXT_000549,Coral Island Coral 10,コーラルアイランドコーラル10
-PROPCTRL_TXT_000550,Coral Island Coral 11,コーラルアイランドコーラル11
-PROPCTRL_TXT_000551,Coral Island Coral 12,コーラルアイランドコーラル12
+PROPCTRL_TXT_000532,Coral Island Tree 2,コーラルアイランドツリー2
+PROPCTRL_TXT_000533,Coral Island Shellfish 2,コーラルアイランド貝類2
+PROPCTRL_TXT_000534,Coral Island Shellfish 3,コーラルアイランド貝類3
+PROPCTRL_TXT_000535,Coral Island Shellfish 4,コーラルアイランド貝類4
+PROPCTRL_TXT_000536,Coral Island Shellfish 5,コーラルアイランド貝類5
+PROPCTRL_TXT_000537,Coral Island Shellfish 6,コーラルアイランド貝類6
+PROPCTRL_TXT_000538,Coral Island Shellfish 7,コーラルアイランド貝類7
+PROPCTRL_TXT_000539,Coral Island Shellfish 8,コーラルアイランド貝類8
+PROPCTRL_TXT_000540,Coral Island Shellfish 9,コーラルアイランド貝類9
+PROPCTRL_TXT_000541,Coral Island Coral 2,コーラルアイランドサンゴ2
+PROPCTRL_TXT_000542,Coral Island Coral 3,コーラルアイランドサンゴ3
+PROPCTRL_TXT_000543,Coral Island Coral 4,コーラルアイランドサンゴ4
+PROPCTRL_TXT_000544,Coral Island Coral 5,コーラルアイランドサンゴ5
+PROPCTRL_TXT_000545,Coral Island Coral 6,コーラルアイランドサンゴ6
+PROPCTRL_TXT_000546,Coral Island Coral 7,コーラルアイランドサンゴ7
+PROPCTRL_TXT_000547,Coral Island Coral 8,コーラルアイランドサンゴ8
+PROPCTRL_TXT_000548,Coral Island Coral 9,コーラルアイランドサンゴ9
+PROPCTRL_TXT_000549,Coral Island Coral 10,コーラルアイランドサンゴ10
+PROPCTRL_TXT_000550,Coral Island Coral 11,コーラルアイランドサンゴ11
+PROPCTRL_TXT_000551,Coral Island Coral 12,コーラルアイランドサンゴ12
 PROPCTRL_TXT_000552,Coral Island Starfish 2,コーラルアイランドヒトデ2
-PROPCTRL_TXT_000553,Coral Island Starfish 3,珊瑚島ヒトデ 3
-PROPCTRL_TXT_000554,Coral Island Table 2,珊瑚島テーブル2
+PROPCTRL_TXT_000553,Coral Island Starfish 3,コーラルアイランドヒトデ3
+PROPCTRL_TXT_000554,Coral Island Table 2,コーラルアイランドテーブル2
 PROPCTRL_TXT_000555,Flaris Pot 2,フラリスポット2
 PROPCTRL_TXT_000556,Flaris Fence 2,フラリスフェンス2
 PROPCTRL_TXT_000557,Flaris Fence 3,フラリスフェンス3
