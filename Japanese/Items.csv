@@ -27215,6 +27215,7 @@ PROPITEM_TXT_904182,KR Muppet,KR マペット
 PROPITEM_TXT_904185,Concerned Emote,心配エモート
 PROPITEM_TXT_904186,Embarassed Emote,照れエモート
 PROPITEM_TXT_904187,Angry Emote,怒りエモート
+PROPITEM_TXT_904188,Me Me! Emote,Me Me! Emote
 PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)",Facebookログイン問題補償ボックス(7日、FWC専用)
 PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,Facebookログイン問題に対する報酬が含まれたパッケージです。
 PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Facebookログイン問題補償ボックス(7日)
@@ -30433,3 +30434,167 @@ PROPITEM_TXT_1903551,Chuseok Hanbok Set (F),秋夕韓服セット(F)
 PROPITEM_TXT_1903552,"A package containing 1x Chuseok Hanbok Set (F), 2x White Cake, 2x Green Cake and 2x Pink Cake.",秋夕韓服セット(F)と3種類の大福が2個ずつ入ったパッケージ。
 PROPITEM_TXT_1903553,Dice Pang,ダイスパン
 PROPITEM_TXT_1903554,Special Dice Pang pet for the 2026 FWC Prediction event.,FWC 2026 勝者予想イベントでもらえる限定ペット。
+PROPITEM_TXT_1903555,FWC 2026 Buff - MP Consumption Decrease,FWC 2026 Buff - MP Consumption Decrease
+PROPITEM_TXT_1903556,This FWC 2026 Buff will grant you MP Consumption Decrease +10% for 1 hour.,This FWC 2026 Buff will grant you MP Consumption Decrease +10% for 1 hour.
+PROPITEM_TXT_1903557,FWC 2026 Buff - FP Consumption Decrease,FWC 2026 Buff - FP Consumption Decrease
+PROPITEM_TXT_1903558,This FWC 2026 Buff will grant you FP Consumption Decrease +10% for 1 hour.,This FWC 2026 Buff will grant you FP Consumption Decrease +10% for 1 hour.
+PROPITEM_TXT_1903559,FWC 2026 Buff - Max FP,FWC 2026 Buff - Max FP
+PROPITEM_TXT_1903560,This FWC 2026 Buff will grant you Increased FP +10% for 1 hour.,This FWC 2026 Buff will grant you Increased FP +10% for 1 hour.
+PROPITEM_TXT_1903561,FWC 2026 Buff - Max HP,FWC 2026 Buff - Max HP
+PROPITEM_TXT_1903562,This FWC 2026 Buff will grant you Increased HP +10% for 1 hour.,This FWC 2026 Buff will grant you Increased HP +10% for 1 hour.
+PROPITEM_TXT_1903563,FWC 2026 Buff - PvP Damage,FWC 2026 Buff - PvP Damage
+PROPITEM_TXT_1903564,This FWC 2026 Buff will grant you PvP Damage +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Damage +3% for 1 hour.
+PROPITEM_TXT_1903565,FWC 2026 Buff - PvP Damage Reduction,FWC 2026 Buff - PvP Damage Reduction
+PROPITEM_TXT_1903566,This FWC 2026 Buff will grant you PvP Damage Reduction +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Damage Reduction +3% for 1 hour.
+PROPITEM_TXT_1903567,FWC 2026 Buff - PvP Block,FWC 2026 Buff - PvP Block
+PROPITEM_TXT_1903568,This FWC 2026 Buff will grant you PvP Melee/Range Block +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Melee/Range Block +3% for 1 hour.
+PROPITEM_TXT_1903569,FWC 2026 Buff - PvP Block Penetration,FWC 2026 Buff - PvP Block Penetration
+PROPITEM_TXT_1903570,This FWC 2026 Buff will grant you PvP Block Penetration +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Block Penetration +3% for 1 hour.
+PROPITEM_TXT_1903571,FWC 2026 Buff - PvP Critical Chance,FWC 2026 Buff - PvP Critical Chance
+PROPITEM_TXT_1903572,This FWC 2026 Buff will grant you PvP Critical Chance +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Critical Chance +3% for 1 hour.
+PROPITEM_TXT_1903573,FWC 2026 Buff - PvP Critical Damage,FWC 2026 Buff - PvP Critical Damage
+PROPITEM_TXT_1903574,This FWC 2026 Buff will grant you PvP Critical Damage +3% for 1 hour.,This FWC 2026 Buff will grant you PvP Critical Damage +3% for 1 hour.
+PROPITEM_TXT_1903575,FWC 2026 Buff - Healing,FWC 2026 Buff - Healing
+PROPITEM_TXT_1903576,This FWC 2026 Buff will grant you Healing +3% for 1 hour.,This FWC 2026 Buff will grant you Healing +3% for 1 hour.
+PROPITEM_TXT_1903577,FWC 2026 Buff - Magic Resistance,FWC 2026 Buff - Magic Resistance
+PROPITEM_TXT_1903578,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.
+PROPITEM_TXT_1903579,FWC 2026 Buff - Critical Resist,FWC 2026 Buff - Critical Resist
+PROPITEM_TXT_1903580,This FWC 2026 Buff will grant you Critical Resist +3% for 1 hour.,This FWC 2026 Buff will grant you Critical Resist +3% for 1 hour.
+PROPITEM_TXT_1903581,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 FWC 2026 Popcorn Select box.","Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 FWC 2026 Popcorn Select box."
+PROPITEM_TXT_1903582,Midgard Legacy 10% Red Set,Midgard Legacy 10% Red Set
+PROPITEM_TXT_1903583,Midgard Legacy Red Backpack,Midgard Legacy Red Backpack
+PROPITEM_TXT_1903584,Midgard Legacy Red Runes 01,Midgard Legacy Red Runes 01
+PROPITEM_TXT_1903585,Midgard Legacy Red Hat (M),Midgard Legacy Red Hat (M)
+PROPITEM_TXT_1903586,Midgard Legacy Red Suit (M),Midgard Legacy Red Suit (M)
+PROPITEM_TXT_1903587,Midgard Legacy Red Shoes (M),Midgard Legacy Red Shoes (M)
+PROPITEM_TXT_1903588,Midgard Legacy 10% Red Set (M),Midgard Legacy 10% Red Set (M)
+PROPITEM_TXT_1903589,The Midgard Legacy 10% Red Set for male characters.,The Midgard Legacy 10% Red Set for male characters.
+PROPITEM_TXT_1903590,Midgard Legacy Red Hat (F),Midgard Legacy Red Hat (F)
+PROPITEM_TXT_1903591,Midgard Legacy Red Suit (F),Midgard Legacy Red Suit (F)
+PROPITEM_TXT_1903592,Midgard Legacy Red Shoes (F),Midgard Legacy Red Shoes (F)
+PROPITEM_TXT_1903593,Midgard Legacy 10% Red Set (F),Midgard Legacy 10% Red Set (F)
+PROPITEM_TXT_1903594,The Midgard Legacy 10% Red Set for female characters.,The Midgard Legacy 10% Red Set for female characters.
+PROPITEM_TXT_1903595,Midgard Legacy 10% Orange Set,Midgard Legacy 10% Orange Set
+PROPITEM_TXT_1903596,Midgard Legacy Orange Backpack,Midgard Legacy Orange Backpack
+PROPITEM_TXT_1903597,Midgard Legacy Orange Runes 01,Midgard Legacy Orange Runes 01
+PROPITEM_TXT_1903598,Midgard Legacy Orange Hat (M),Midgard Legacy Orange Hat (M)
+PROPITEM_TXT_1903599,Midgard Legacy Orange Suit (M),Midgard Legacy Orange Suit (M)
+PROPITEM_TXT_1903600,Midgard Legacy Orange Shoes (M),Midgard Legacy Orange Shoes (M)
+PROPITEM_TXT_1903601,Midgard Legacy 10% Orange Set (M),Midgard Legacy 10% Orange Set (M)
+PROPITEM_TXT_1903602,The Midgard Legacy 10% Orange Set for male characters.,The Midgard Legacy 10% Orange Set for male characters.
+PROPITEM_TXT_1903603,Midgard Legacy Orange Hat (F),Midgard Legacy Orange Hat (F)
+PROPITEM_TXT_1903604,Midgard Legacy Orange Suit (F),Midgard Legacy Orange Suit (F)
+PROPITEM_TXT_1903605,Midgard Legacy Orange Shoes (F),Midgard Legacy Orange Shoes (F)
+PROPITEM_TXT_1903606,Midgard Legacy 10% Orange Set (F),Midgard Legacy 10% Orange Set (F)
+PROPITEM_TXT_1903607,The Midgard Legacy 10% Orange Set for female characters.,The Midgard Legacy 10% Orange Set for female characters.
+PROPITEM_TXT_1903608,Midgard Legacy 8% Green Set,Midgard Legacy 8% Green Set
+PROPITEM_TXT_1903609,Midgard Legacy Green Backpack,Midgard Legacy Green Backpack
+PROPITEM_TXT_1903610,Midgard Legacy Green Runes 01,Midgard Legacy Green Runes 01
+PROPITEM_TXT_1903611,Midgard Legacy Green Hat (M),Midgard Legacy Green Hat (M)
+PROPITEM_TXT_1903612,Midgard Legacy Green Suit (M),Midgard Legacy Green Suit (M)
+PROPITEM_TXT_1903613,Midgard Legacy Green Shoes (M),Midgard Legacy Green Shoes (M)
+PROPITEM_TXT_1903614,Midgard Legacy 8% Green Set (M),Midgard Legacy 8% Green Set (M)
+PROPITEM_TXT_1903615,The Midgard Legacy 8% Green Set for male characters.,The Midgard Legacy 8% Green Set for male characters.
+PROPITEM_TXT_1903616,Midgard Legacy Green Hat (F),Midgard Legacy Green Hat (F)
+PROPITEM_TXT_1903617,Midgard Legacy Green Suit (F),Midgard Legacy Green Suit (F)
+PROPITEM_TXT_1903618,Midgard Legacy Green Shoes (F),Midgard Legacy Green Shoes (F)
+PROPITEM_TXT_1903619,Midgard Legacy 8% Green Set (F),Midgard Legacy 8% Green Set (F)
+PROPITEM_TXT_1903620,The Midgard Legacy 8% Green Set for female characters.,The Midgard Legacy 8% Green Set for female characters.
+PROPITEM_TXT_1903621,Midgard Legacy 8% Cyan Set,Midgard Legacy 8% Cyan Set
+PROPITEM_TXT_1903622,Midgard Legacy Cyan Backpack,Midgard Legacy Cyan Backpack
+PROPITEM_TXT_1903623,Midgard Legacy Cyan Runes 01,Midgard Legacy Cyan Runes 01
+PROPITEM_TXT_1903624,Midgard Legacy Cyan Hat (M),Midgard Legacy Cyan Hat (M)
+PROPITEM_TXT_1903625,Midgard Legacy Cyan Suit (M),Midgard Legacy Cyan Suit (M)
+PROPITEM_TXT_1903626,Midgard Legacy Cyan Shoes (M),Midgard Legacy Cyan Shoes (M)
+PROPITEM_TXT_1903627,Midgard Legacy 8% Cyan Set (M),Midgard Legacy 8% Cyan Set (M)
+PROPITEM_TXT_1903628,The Midgard Legacy 8% Cyan Set for male characters.,The Midgard Legacy 8% Cyan Set for male characters.
+PROPITEM_TXT_1903629,Midgard Legacy Cyan Hat (F),Midgard Legacy Cyan Hat (F)
+PROPITEM_TXT_1903630,Midgard Legacy Cyan Suit (F),Midgard Legacy Cyan Suit (F)
+PROPITEM_TXT_1903631,Midgard Legacy Cyan Shoes (F),Midgard Legacy Cyan Shoes (F)
+PROPITEM_TXT_1903632,Midgard Legacy 8% Cyan Set (F),Midgard Legacy 8% Cyan Set (F)
+PROPITEM_TXT_1903633,The Midgard Legacy 8% Cyan Set for female characters.,The Midgard Legacy 8% Cyan Set for female characters.
+PROPITEM_TXT_1903634,Midgard Legacy 6% Blue Set,Midgard Legacy 6% Blue Set
+PROPITEM_TXT_1903635,Midgard Legacy Blue Backpack,Midgard Legacy Blue Backpack
+PROPITEM_TXT_1903636,Midgard Legacy Blue Runes 01,Midgard Legacy Blue Runes 01
+PROPITEM_TXT_1903637,Midgard Legacy Blue Hat (M),Midgard Legacy Blue Hat (M)
+PROPITEM_TXT_1903638,Midgard Legacy Blue Suit (M),Midgard Legacy Blue Suit (M)
+PROPITEM_TXT_1903639,Midgard Legacy Blue Shoes (M),Midgard Legacy Blue Shoes (M)
+PROPITEM_TXT_1903640,Midgard Legacy 6% Blue Set (M),Midgard Legacy 6% Blue Set (M)
+PROPITEM_TXT_1903641,The Midgard Legacy 6% Blue Set for male characters.,The Midgard Legacy 6% Blue Set for male characters.
+PROPITEM_TXT_1903642,Midgard Legacy Blue Hat (F),Midgard Legacy Blue Hat (F)
+PROPITEM_TXT_1903643,Midgard Legacy Blue Suit (F),Midgard Legacy Blue Suit (F)
+PROPITEM_TXT_1903644,Midgard Legacy Blue Shoes (F),Midgard Legacy Blue Shoes (F)
+PROPITEM_TXT_1903645,Midgard Legacy 6% Blue Set (F),Midgard Legacy 6% Blue Set (F)
+PROPITEM_TXT_1903646,The Midgard Legacy 6% Blue Set for female characters.,The Midgard Legacy 6% Blue Set for female characters.
+PROPITEM_TXT_1903647,Midgard Legacy 4% Purple Set,Midgard Legacy 4% Purple Set
+PROPITEM_TXT_1903648,Midgard Legacy Purple Backpack,Midgard Legacy Purple Backpack
+PROPITEM_TXT_1903649,Midgard Legacy Purple Runes 01,Midgard Legacy Purple Runes 01
+PROPITEM_TXT_1903650,Midgard Legacy Purple Hat (M),Midgard Legacy Purple Hat (M)
+PROPITEM_TXT_1903651,Midgard Legacy Purple Suit (M),Midgard Legacy Purple Suit (M)
+PROPITEM_TXT_1903652,Midgard Legacy Purple Shoes (M),Midgard Legacy Purple Shoes (M)
+PROPITEM_TXT_1903653,Midgard Legacy 4% Purple Set (M),Midgard Legacy 4% Purple Set (M)
+PROPITEM_TXT_1903654,The Midgard Legacy 4% Purple Set for male characters.,The Midgard Legacy 4% Purple Set for male characters.
+PROPITEM_TXT_1903655,Midgard Legacy Purple Hat (F),Midgard Legacy Purple Hat (F)
+PROPITEM_TXT_1903656,Midgard Legacy Purple Suit (F),Midgard Legacy Purple Suit (F)
+PROPITEM_TXT_1903657,Midgard Legacy Purple Shoes (F),Midgard Legacy Purple Shoes (F)
+PROPITEM_TXT_1903658,Midgard Legacy 4% Purple Set (F),Midgard Legacy 4% Purple Set (F)
+PROPITEM_TXT_1903659,The Midgard Legacy 4% Purple Set for female characters.,The Midgard Legacy 4% Purple Set for female characters.
+PROPITEM_TXT_1903660,Midgard Legacy 2% Magenta Set,Midgard Legacy 2% Magenta Set
+PROPITEM_TXT_1903661,Midgard Legacy Magenta Backpack,Midgard Legacy Magenta Backpack
+PROPITEM_TXT_1903662,Midgard Legacy Magenta Runes 01,Midgard Legacy Magenta Runes 01
+PROPITEM_TXT_1903663,Midgard Legacy Magenta Hat (M),Midgard Legacy Magenta Hat (M)
+PROPITEM_TXT_1903664,Midgard Legacy Magenta Suit (M),Midgard Legacy Magenta Suit (M)
+PROPITEM_TXT_1903665,Midgard Legacy Magenta Shoes (M),Midgard Legacy Magenta Shoes (M)
+PROPITEM_TXT_1903666,Midgard Legacy 2% Magenta Set (M),Midgard Legacy 2% Magenta Set (M)
+PROPITEM_TXT_1903667,The Midgard Legacy 2% Magenta Set for male characters.,The Midgard Legacy 2% Magenta Set for male characters.
+PROPITEM_TXT_1903668,Midgard Legacy Magenta Hat (F),Midgard Legacy Magenta Hat (F)
+PROPITEM_TXT_1903669,Midgard Legacy Magenta Suit (F),Midgard Legacy Magenta Suit (F)
+PROPITEM_TXT_1903670,Midgard Legacy Magenta Shoes (F),Midgard Legacy Magenta Shoes (F)
+PROPITEM_TXT_1903671,Midgard Legacy 2% Magenta Set (F),Midgard Legacy 2% Magenta Set (F)
+PROPITEM_TXT_1903672,The Midgard Legacy 2% Magenta Set for female characters.,The Midgard Legacy 2% Magenta Set for female characters.
+PROPITEM_TXT_1903673,Midgard Legacy 2% Black Set,Midgard Legacy 2% Black Set
+PROPITEM_TXT_1903674,Midgard Legacy Black Backpack,Midgard Legacy Black Backpack
+PROPITEM_TXT_1903675,Midgard Legacy Black Runes 01,Midgard Legacy Black Runes 01
+PROPITEM_TXT_1903676,Midgard Legacy Black Hat (M),Midgard Legacy Black Hat (M)
+PROPITEM_TXT_1903677,Midgard Legacy Black Suit (M),Midgard Legacy Black Suit (M)
+PROPITEM_TXT_1903678,Midgard Legacy Black Shoes (M),Midgard Legacy Black Shoes (M)
+PROPITEM_TXT_1903679,Midgard Legacy 2% Black Set (M),Midgard Legacy 2% Black Set (M)
+PROPITEM_TXT_1903680,The Midgard Legacy 2% Black Set for male characters.,The Midgard Legacy 2% Black Set for male characters.
+PROPITEM_TXT_1903681,Midgard Legacy Black Hat (F),Midgard Legacy Black Hat (F)
+PROPITEM_TXT_1903682,Midgard Legacy Black Suit (F),Midgard Legacy Black Suit (F)
+PROPITEM_TXT_1903683,Midgard Legacy Black Shoes (F),Midgard Legacy Black Shoes (F)
+PROPITEM_TXT_1903684,Midgard Legacy 2% Black Set (F),Midgard Legacy 2% Black Set (F)
+PROPITEM_TXT_1903685,The Midgard Legacy 2% Black Set for female characters.,The Midgard Legacy 2% Black Set for female characters.
+PROPITEM_TXT_1903686,Midgard Legacy Costume Lucky Box,Midgard Legacy Costume Lucky Box
+PROPITEM_TXT_1903687,This box contains a Midgard Legacy Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Midgard Legacy Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_1903688,Midgard Legacy Red Runes 02,Midgard Legacy Red Runes 02
+PROPITEM_TXT_1903689,Midgard Legacy Orange Runes 02,Midgard Legacy Orange Runes 02
+PROPITEM_TXT_1903690,Midgard Legacy Green Runes 02,Midgard Legacy Green Runes 02
+PROPITEM_TXT_1903691,Midgard Legacy Cyan Runes 02,Midgard Legacy Cyan Runes 02
+PROPITEM_TXT_1903692,Midgard Legacy Blue Runes 02,Midgard Legacy Blue Runes 02
+PROPITEM_TXT_1903693,Midgard Legacy Purple Runes 02,Midgard Legacy Purple Runes 02
+PROPITEM_TXT_1903694,Midgard Legacy Magenta Runes 02,Midgard Legacy Magenta Runes 02
+PROPITEM_TXT_1903695,Midgard Legacy Black Runes 02,Midgard Legacy Black Runes 02
+PROPITEM_TXT_1903696,Brown Road Hog Set (M),Brown Road Hog Set (M)
+PROPITEM_TXT_1903697,This box contains an entire Brown Road Hog Set for a Male Character.,This box contains an entire Brown Road Hog Set for a Male Character.
+PROPITEM_TXT_1903698,Brown Road Hog Set (F),Brown Road Hog Set (F)
+PROPITEM_TXT_1903699,This box contains an entire Brown Road Hog Set for a Female Character.,This box contains an entire Brown Road Hog Set for a Female Character.
+PROPITEM_TXT_1903700,Brown Road Hog Hat (M),Brown Road Hog Hat (M)
+PROPITEM_TXT_1903701,Brown Road Hog Hat for Male characters.,Brown Road Hog Hat for Male characters.
+PROPITEM_TXT_1903702,Brown Road Hog Hat (F),Brown Road Hog Hat (F)
+PROPITEM_TXT_1903703,Brown Road Hog Hat for Female characters.,Brown Road Hog Hat for Female characters.
+PROPITEM_TXT_1903704,Brown Road Hog Suit (M),Brown Road Hog Suit (M)
+PROPITEM_TXT_1903705,Brown Road Hog Suit for Male characters.,Brown Road Hog Suit for Male characters.
+PROPITEM_TXT_1903706,Brown Road Hog Suit (F),Brown Road Hog Suit (F)
+PROPITEM_TXT_1903707,Brown Road Hog Suit for Female characters.,Brown Road Hog Suit for Female characters.
+PROPITEM_TXT_1903708,Brown Road Hog Gloves (M),Brown Road Hog Gloves (M)
+PROPITEM_TXT_1903709,Brown Road Hog Gloves for Male characters.,Brown Road Hog Gloves for Male characters.
+PROPITEM_TXT_1903710,Brown Road Hog Gloves (F),Brown Road Hog Gloves (F)
+PROPITEM_TXT_1903711,Brown Road Hog Gloves for Female characters.,Brown Road Hog Gloves for Female characters.
+PROPITEM_TXT_1903712,Brown Road Hog Boots (M),Brown Road Hog Boots (M)
+PROPITEM_TXT_1903713,Brown Road Hog Boots for Male characters.,Brown Road Hog Boots for Male characters.
+PROPITEM_TXT_1903714,Brown Road Hog Boots (F),Brown Road Hog Boots (F)
+PROPITEM_TXT_1903715,Brown Road Hog Boots for Female characters.,Brown Road Hog Boots for Female characters.
+PROPITEM_TXT_1903716,Brown Road Hog Set,Brown Road Hog Set
+PROPITEM_TXT_1903717,FWC 2026 Buff Select Box,FWC 2026 Buff Select Box
+PROPITEM_TXT_1903718,A Select Box filled with FWC 2026 Buff items. You can choose 1 item from it.,A Select Box filled with FWC 2026 Buff items. You can choose 1 item from it.
