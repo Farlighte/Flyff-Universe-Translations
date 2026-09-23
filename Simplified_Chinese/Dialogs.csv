@@ -20,14 +20,14 @@ NPC_FINALIZESTATSELECTION,Finalize Stat selection,最终站选择点...
 NPC_DEKANEMINE,Dekane Mine,达肯矿洞
 NPC_CELL,Cell,飞儿
 NPC_AZRIAMINE,Azria Mine,阿兹利亚矿山
-NPC_CURSEDSYMBOL,Cursed Symbol,Cursed Symbol
-NPC_GIVESYMBOL,Give the Symbol,Give the Symbol
-NPC_HAELLETTER,Hael's Letter,Hael's Letter
-NPC_GIVELETTER,Give Letter,Give Letter
-NPC_TREASURE_BOX,Treasure,Treasure
-NPC_LOSTMEMORIES,Lost Memories,Lost Memories
-NPC_BREWINGPOTIONS,Brewing Potions,Brewing Potions
-NPC_THECURE,The Cure,The Cure
+NPC_CURSEDSYMBOL,Cursed Symbol,诅咒象征
+NPC_GIVESYMBOL,Give the Symbol,交出象征
+NPC_HAELLETTER,Hael's Letter,海尔的信
+NPC_GIVELETTER,Give Letter,交出信笺
+NPC_TREASURE_BOX,Treasure,财宝
+NPC_LOSTMEMORIES,Lost Memories,遗失记忆
+NPC_BREWINGPOTIONS,Brewing Potions,酿造药水
+NPC_THECURE,The Cure,治愈
 NPC_GUIDETOFLYING,Guide to Flying,飞行操作指南
 NPC_GUIDETOCOMBATFLYING,Guide to Combat Flying,飞行战斗指南
 NPC_SHOPS,Shops?,购买
@@ -880,7 +880,7 @@ NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting create
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!",你好！我为帕里的居民提供首饰服务，并为那些想要改装稀有武器的人制作和安装宝石。我也可以移除物品上的祝福和等级降低的属性等等！
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,我叫皮奇！我来这里是为了帮助波波酷，补充他的升级业务。欢迎你随时过来！
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!",保重。记住，不管是什么宝石，你都可以来我这里进行处理！
-NPC_001130,We're running out of time! The newly appointed lord will be here soon!,We're running out of time! The newly appointed lord will be here soon!
+NPC_001130,We're running out of time! The newly appointed lord will be here soon!,我们没时间了！新上任的领主马上就要来了！
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,各位请注意！我们正在寻找新的导师。我会为你提供一些初步指导！
 NPC_001220,Come see me if you want to become a Mentor. ,如果你想成为一名导师，就来找我吧。
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",找到合适的人走导师的道路并不容易，这条路它并不适合所有人。
@@ -1064,7 +1064,7 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,谁将参加 #b马尼拉的决赛#nb 并赢得 #bFlyff2026年世界锦标赛#nb? 证明你是最棒的！
 NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",欢迎你，参赛者！我是 Flyff 世界锦标赛 (Flyff World Championship) 的负责人艾娃。我会用最好的装备和你交易，助你赢得这场比赛！
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!",嗯…… 我能感觉到你是最强的 PvE 选手！不对，等等…… 或许是 PvP？哈哈，我也说不清。祝你好运！
 NPC_100124,May the best win!,愿强者胜出！
@@ -1122,12 +1122,12 @@ NPC_100174,"Should your determination remain steady, the day may dawn when the k
 NPC_100175,"The journey to uncover the island's arcane mysteries lies before you, should you dare to embark upon it.",揭开这座岛屿神秘奥秘的旅程，就在你眼前 ———— 只要你敢踏上征途。
 NPC_100176,My desire is to witness the revelation of Ultimate power in those who prove themselves worthy of such extraordinary gifts.,我渴望见证，终极之力在那些证明自己配得上这份非凡馈赠的人身上，彻底显现。
 NPC_100177,"Return to my side bearing the essence of Ultima, and in exchange, I shall bestow upon you a fragment of the unfathomable Ultimate power.",带着终极精粹回到我身边，作为交换，我将赠予你一丝深不可测的终极之力碎片。
-NPC_100178,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!
+NPC_100178,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!,新年快乐~!\n愿2024年的新年充满乐趣的冒险！
 NPC_100179,"Hi! I would like to ask you a favor, could you hear me out?",你好！我想请你帮个忙，你愿意听我说说吗？
 NPC_100180,"Have you heard of the rumor? The rumor that a blacksmith made a couple ring thinking only about his beloved until he died after losing her in an accident! When lovers put on the couple's ring and think about going to their lover, they fly to their lover in an instant, which is amazing, isn't it?",你听过那个传闻吗？有个铁匠，满心只想着他深爱的人，可他的爱人在一场意外中离世，他也随之逝去了。当情侣戴上这对戒指，心里想着要去见对方时，就能瞬间飞到爱人身边 ———— 这简直太神奇了，不是吗？
 NPC_100181,Do you want to exit the dungeon?,你想要退出副本吗？
 NPC_100182,"Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you",你知道吗？贝壳在海里打磨得越久，就会变得越漂亮。我曾见过被打磨得无比精美的贝壳，美极了。\n我知道去哪里找能打磨蛤蜊的材料。你能去那里取来材料，帮我打磨贝壳吗？那里虽然危险，但对你来说，或许会是一场超棒的冒险之旅呢。
-NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...","It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history..."
+NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...",今天是Flyff成立20周年！您如何庆祝这个美好的时刻？我要回忆，阅读各种历史……
 NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!",要想让我把任务交给你，和你结成情侣的另一方必须同时在线才行！
 NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!",我是丘比特，天界派来的爱之使者。我奉命让瑞加这片大地充满爱意。如果你心有所属，别再犹豫 ———— 用戒指，向你爱的人告白吧！
 NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.",你好呀。在瑞加过得还愉快吗？如果你想开拓眼界、提升实力，就来找我吧。
@@ -1168,7 +1168,7 @@ NPC_150023,Call me Kras. I protect this village.,叫我克拉斯就好。我守�
 NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,我以前也和你一样是个冒险家…… 直到我的膝盖中了一箭。
 NPC_150025,A new face. I hope we stay on friendly terms.,新面孔啊，希望我们能和睦相处。
 NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.",我是梅伦。我已经战斗很久了，而且我会一直战斗下去，直到我们胜利。
-NPC_150027,You’re not ready.,You’re not ready.
+NPC_150027,You’re not ready.,您还没有准备好。
 NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,今天真是巡逻的好日子。对我来说，根本就没有所谓的坏天气。
 NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,我是凯里恩，正在巡逻 —— 如果发现任何可疑情况，立刻告诉我。
 NPC_150030,"Go, adventurer… go.",去吧，冒险者…… 去吧。
@@ -1346,40 +1346,40 @@ NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may t
 NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,我是艾尔伦的镇长。繁花与人民的和谐共生，是我最珍视的瑰宝。今日在这巨木荫蔽之下，有何事我能为您效劳？
 NPC_150200,Farewell!,再见!
 NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,我发现一个亟待处理的安全隐患，您能即刻应对吗？
-NPC_100198,Let luck do its thing.,Let luck do its thing.
-NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,I deal in pieces and fortune.\nCare to try your luck?
-NPC_100200,Wanna test your luck?,Wanna test your luck?
-NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb
-NPC_150203,Good Luck!,Good Luck!
-NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.
-NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…","O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…"
-NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.","So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them."
-NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.","Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately."
-NPC_155010,"P-Please help! The plants here... they're moving, they're alive!","P-Please help! The plants here... they're moving, they're alive!"
-NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...","I'm Sprout. I used to work on this farm... well, I guess it WAS a farm..."
-NPC_155012,Please save me... I just want to get out of here...,Please save me... I just want to get out of here...
-NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!","Tch, those damn Lycan... If I get out of here alive, they'll pay...!"
-NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.","Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it."
-NPC_155015,"Damn it, there are still people trapped inside!","Damn it, there are still people trapped inside!"
-NPC_155016,You're the rescue team? Good. You'll need my observation records.,You're the rescue team? Good. You'll need my observation records.
-NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.","I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident."
-NPC_155018,Hmm... I should document that mutation pattern...,Hmm... I should document that mutation pattern...
-NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast."
-NPC_155020,Baron here. Have you found the three yet?,Baron here. Have you found the three yet?
-NPC_155021,We don’t have much time. Every delay makes things worse.,We don’t have much time. Every delay makes things worse.
-NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...
-NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...","W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone..."
-NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...
-NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.
-NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!","Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!"
-NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.
-NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.
-NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.","Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback."
-NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.
-NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.","Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now."
-NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.
-NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.
-NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.
-NPC_156013,Oh... alright. Come find me whenever you feel ready.,Oh... alright. Come find me whenever you feel ready.
-NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.
-NPC_156015,"Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!","Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!"
+NPC_100198,Let luck do its thing.,让运气发挥到极致。
+NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,我用碎片和财富来交易。 \n 想试试你的运气吗？
+NPC_100200,Wanna test your luck?,想试试你的运气吗？
+NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Lv165公会战申请 #cff8a004f已开启! 三转之前可参加，享受其中吧!#nc#nb
+NPC_150203,Good Luck!,祝你好运！
+NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,野外依然危机四伏。打起精神——里面那东西还没完呢。
+NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",噢噢，你是警卫，对吧？我，我发誓，这不仅仅是耕作不好！蘑菇只是……变了。呃--有些不对劲，我告诉你……
+NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.",看守终于注意到了，哼。花了你很长时间。如果您想，最好做好听取答案的准备。
+NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.",很吸引人，不是吗？这里的农作物不仅在腐化，还在改变。现在您来了，我们应立即报告此事。
+NPC_155010,"P-Please help! The plants here... they're moving, they're alive!",求求你，救命啊！这里的植物……它们在动，它们是活物！
+NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...",我是娅苗，我以前在这个农场工作……嗯，我想那应该算是个农场……
+NPC_155012,Please save me... I just want to get out of here...,请救救我……我只是想离开这里……
+NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!",切 ，那些该死的狼人……如果我活着离开这里，他们会付出代价的…… ！
+NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.",我叫索棘。这本来不是什么要见血的事……不过现在可变得真有意思了，对吧？
+NPC_155015,"Damn it, there are still people trapped inside!",该死，还有人被困在里面！
+NPC_155016,You're the rescue team? Good. You'll need my observation records.,你是救援队派来的吗？太好了，你肯定需要我的观察记录。
+NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.",我是根须博士。我负责植物变异管理与栽培……好吧，以前是。现在我正在调查这起事件。
+NPC_155018,Hmm... I should document that mutation pattern...,嗯……我应该记录一下那个变异的方式……
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",事态很严重……想想如果在村子里发生这样的事情……\n我们需要控制它，而且要快。
+NPC_155020,Baron here. Have you found the three yet?,我是巴伦。你找到那三个了吗？
+NPC_155021,We don’t have much time. Every delay makes things worse.,我们时间不多了。每次延误都会让事情变得更糟。
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,帮、帮帮我！我、我这样没法回村子！万、万一那些东西又出现了怎么办？我、我一个人不行的……
+NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",等等……你要把我丢在这里？ ！拜托，我求求你……我一个人做不到……
+NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,你...你做到了，非常感谢你！我……我不知道没有你我该怎么办，谢谢……
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,是你。很好。外面有什么东西在盯着我们……我绝不会让它破坏这次行动。保持警惕，跟紧我。
+NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",胆小鬼，没有你的帮助，我怎么能保护外面的人呢？不可原谅！
+NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,做得好。您已经证明了自己的价值。这就是我们需要的力量。我对此表示感谢和尊敬。
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,……这太出乎意料了，土壤下面的某些东西正在对你的出现积极做出反应。我需要时间观察它。数据可能至关重要。
+NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",别慢下来。要是那些生物打断了我的读数，一切就全完了。我可不能再承受一次挫败了。
+NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,读数现在很清楚了。您的保护使我能够收集我们需要的信息。做得好。这扭转了一切。
+NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",就像我说的，我们不应该继续呆在这里了。土壤下方的活动升级速度比预期的要快。我们现在需要搬迁。
+NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,不要把我丢在这里。这些生物对我携带的东西有反应。我需要你的掩护才能安全逃脱。
+NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,你成功脱险了。很好。数据已安全回收，样本完好无损。这次远征圆满成功。谨此致谢。
+NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,嘿嘿~ 觉得自己够勇？我这就把你送进去，再跟恩塔妮丝过过招！
+NPC_156013,Oh... alright. Come find me whenever you feel ready.,哦……好吧，准备好就来找我。
+NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,我是蘑莎。我负责看守此地，并为那些想再挑战一次恩塔妮丝的冒险者引路。
+NPC_156015,"Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!",嗨，我叫艾琳，这附近的 PvP 擂台我说了算。觉得你有两下子？进来练练，让我瞧瞧！
