@@ -2049,85 +2049,85 @@ PROPQUEST_INC_132305,"Already gathered everything? …Oh, not yet? Very well—c
 PROPQUEST_INC_132306,Splendid! This should be more than enough for the blacksmiths to continue their research. You’ve done well.,見事だ！これで鍛冶師たちが研究を続けるには十分すぎるほどだろう。よくやった。
 PROPQUEST_INC_200000,3rd Job Change,3次転職
 PROPQUEST_INC_140009,Chapter 1 Expedition,第1章 遠征
-PROPQUEST_INC_150000,A Hand of Compassion,思いやりの手
-PROPQUEST_INC_150001,I have a funny story and a favor to ask. Want to hear it?,面白い話と、頼みがあるんだ。聞いてくれるかい？
-PROPQUEST_INC_150002,"I don’t know if you’re aware, but there are many races in this world. For some reason, I’m especially drawn to beastfolk, so I’ve been looking for information about them.",知っているかどうかわからないが、この世界には多くの種族がいるんだ。なぜか私は特に獣人に惹かれていてね、彼らについての情報を探しているんだ。
-PROPQUEST_INC_150003,"I found some clues, secured funding, formed an expedition, and sent them to a rumored location. But… I still haven’t heard anything back.",手がかりを見つけ、資金を確保し、遠征隊を編成して、噂の場所へ送り出したんだ。だが……まだ何の知らせも届いていない。
-PROPQUEST_INC_150004,"There should have been at least a letter by now. My investors keep nagging me to take responsibility, but the mayor of Saint City, who invested the most, hasn’t said a single word. Isn’t it obvious he knows something? Could you ask him about the expedition for me?",今頃、せめて手紙くらいは届いていてもいいはずなんだ。出資者たちは責任を取れとうるさいんだが、最も多く出資したセイントモーニングの市長は一言も発していない。何か知っているのは明らかじゃないか？私の代わりに、遠征について彼に聞いてもらえないか？
-PROPQUEST_INC_150005,Thank you! You know where to find him.,ありがとう！彼がどこにいるかは知っているな。
+PROPQUEST_INC_150000,A Hand of Compassion,差し伸べられた手
+PROPQUEST_INC_150001,I have a funny story and a favor to ask. Want to hear it?,ちょっと面白い話があってね。それと、ひとつ頼みたいことがあるんだ。聞いてくれるかい？
+PROPQUEST_INC_150002,"I don’t know if you’re aware, but there are many races in this world. For some reason, I’m especially drawn to beastfolk, so I’ve been looking for information about them.",知っていると思うが、この世界にはさまざまな種族がいる。どういうわけか、わたしは特に獣人に惹かれてしまってね。ずっと彼らについて情報を集めているんだ。
+PROPQUEST_INC_150003,"I found some clues, secured funding, formed an expedition, and sent them to a rumored location. But… I still haven’t heard anything back.",いくつか手がかりを見つけて、資金を集め、遠征隊を結成して噂の場所へ送り出したんだ。ところが...いまだに何の連絡もない。
+PROPQUEST_INC_150004,"There should have been at least a letter by now. My investors keep nagging me to take responsibility, but the mayor of Saint City, who invested the most, hasn’t said a single word. Isn’t it obvious he knows something? Could you ask him about the expedition for me?",もう手紙のひとつくらい届いていてもいい頃なんだがね。出資者たちからは責任を取れとうるさく言われているのに、最も多く出資したセイントモーニング市長だけは何も言ってこない。どう考えても、何か知っていると思わないかい？ わたしの代わりに、遠征隊のことを聞いてきてくれないか？
+PROPQUEST_INC_150005,Thank you! You know where to find him.,ありがとう！市長がどこにいるかは知っているよな。
 PROPQUEST_INC_150006,Come back if you change your mind. I’ll be waiting.,気が変わったら戻ってきてくれ。待っているよ。
-PROPQUEST_INC_150007,"Did you ask him? I’d go myself, but… I’m too afraid to face him.",彼に聞いてくれたか？自分で行ってもいいんだが……彼と向き合うのが怖くてね。
-PROPQUEST_INC_150008,"Oh, a great adventurer. What brings you here?",おや、偉大な冒険者じゃないか。何の用だ？
-PROPQUEST_INC_150009,Meet with the Mayor of Saint City,セイントモーニングの市長に会う
+PROPQUEST_INC_150007,"Did you ask him? I’d go myself, but… I’m too afraid to face him.",市長には聞いてくれたかい？わたしが直接行ければいいんだが...どうにも怖くて、顔を合わせる勇気がなくてね。
+PROPQUEST_INC_150008,"Oh, a great adventurer. What brings you here?",おや、名高い冒険者ではありませんか。今日はどういったご用件で？
+PROPQUEST_INC_150009,Meet with the Mayor of Saint City,セイントモーニング市長に会う
 PROPQUEST_INC_150010,The Truth of the Expedition,遠征の真実
-PROPQUEST_INC_150011,"Ah, I see. Did the Strange Collector send you?",ああ、なるほど。謎のコレクターに送られてきたのか？
-PROPQUEST_INC_150012,I have nothing to tell you about that. Just go back.,それについて話すことは何もない。戻ってくれ。
-PROPQUEST_INC_150013,"Hmm? If not, then why did you come to me?",うん？違うなら、なぜ私のところへ来たんだ？
-PROPQUEST_INC_150014,"Even for you, I have nothing more to say.",お前が相手でも、これ以上言うことはない。
-PROPQUEST_INC_150015,Hmm? Do I know anything about the mayor?,うん？私が市長について何か知っているかだと？
-PROPQUEST_INC_150016,Meet with Helgar,ヘルガースに会う
+PROPQUEST_INC_150011,"Ah, I see. Did the Strange Collector send you?",ああ、なるほど。謎のコレクターに頼まれて来たのですね？
+PROPQUEST_INC_150012,I have nothing to tell you about that. Just go back.,その件について、私から話すことは何もありません。お引き取りください。
+PROPQUEST_INC_150013,"Hmm? If not, then why did you come to me?",ん？ 違うのですか？ では、なぜ私のところへ？
+PROPQUEST_INC_150014,"Even for you, I have nothing more to say.",あなたが相手でも、これ以上お話しすることはありません。
+PROPQUEST_INC_150015,Hmm? Do I know anything about the mayor?,ん？ 市長について何か知らないかって？
+PROPQUEST_INC_150016,Meet with Helgar,[鑑定士] ヘルガースに会う
 PROPQUEST_INC_150017,Trapped in the Maze,迷宮に囚われて
-PROPQUEST_INC_150018,"Well… I don’t know much, but lately the mayor of Flaris has been visiting his house quite often. Why don’t you try talking to Flarine?",そうだな……あまり詳しくは知らないが、最近フラリスの市長が彼の家をよく訪ねているんだ。フラリスに話しかけてみたらどうだ？
-PROPQUEST_INC_150019,"You know the way, right?",道はわかっているな？
-PROPQUEST_INC_150020,"You’re the one asking, and yet… If it’s nothing important, could you step aside?",聞いてきたのはお前の方だが……大したことじゃないなら、どいてもらえるか？
-PROPQUEST_INC_150021,That’s all I know. Go see Flarine.,私が知っているのはそれだけだ。フラリスに会いに行け。
-PROPQUEST_INC_150022,Hmm? It’s been a while. What brings you here?,うん？久しぶりだな。何の用だ？
-PROPQUEST_INC_150023,Meet with the Mayor of Flarine,フラリスの市長に会う
+PROPQUEST_INC_150018,"Well… I don’t know much, but lately the mayor of Flaris has been visiting his house quite often. Why don’t you try talking to Flarine?",そうだな...詳しいことは知らんが、最近はフラリス市長がよく市長の家を訪ねてるな。フラリスに行って話を聞いてみたらどうだ？
+PROPQUEST_INC_150019,"You know the way, right?",場所は分かるよな？
+PROPQUEST_INC_150020,"You’re the one asking, and yet… If it’s nothing important, could you step aside?",聞いてきたのはお前の方だが...大した用じゃないなら、どいてもらえるか？
+PROPQUEST_INC_150021,That’s all I know. Go see Flarine.,おれが知ってるのはそれだけだ。フラリス市長に聞いてみな。
+PROPQUEST_INC_150022,Hmm? It’s been a while. What brings you here?,おや？ お久しぶりですね。今日はどうなさいました？
+PROPQUEST_INC_150023,Meet with the Mayor of Flarine,フラリス市長に会う
 PROPQUEST_INC_150024,Friend’s Testimony,友の証言
-PROPQUEST_INC_150025,Actually… something like this was found in western Flaris.,実は……西フラリスでこんなものが見つかったんだ。
-PROPQUEST_INC_150026,"Look at this Saint City logo. I thought I should let him know, so I brought it to him.",このセイントモーニングの紋章を見てくれ。彼に知らせるべきだと思って、持ってきたんだ。
-PROPQUEST_INC_150027,"But more pieces like this keep turning up, so I’ve been visiting him often.",だがこういう破片が次々と見つかるものだから、よく彼のところを訪ねているんだ。
-PROPQUEST_INC_150028,"He was shocked when he saw it, took it away, and told me not to speak of it to anyone. Do you want this?",彼はこれを見て衝撃を受け、持ち去って、誰にも話すなと言ったんだ。これが欲しいか？
-PROPQUEST_INC_150029,"As far as I know, these pieces came from the central region of the Leren Mountains. Fortunately for him, powerful masquerpets wander the area, keeping people away and stopping any rumors from spreading. But that shouldn’t be a problem for you.",私が知る限り、この破片はレルエン山脈の中央地域から出たものだ。彼にとって幸運なことに、あの辺りには強力なモンスターがうろついていて、人を近づけず、噂が広まるのも防いでいる。だがお前にとっては問題にならないはずだ。
-PROPQUEST_INC_150030,"Hmm? You don’t need it? Well, I can’t give you this piece, but if you need another one, feel free to ask.",うん？いらないのか？まあ、この破片は渡せないが、別のものが必要なら、遠慮なく聞いてくれ。
-PROPQUEST_INC_150031,"I’ve already told you where it is, haven’t I? Someone like you shouldn’t have any trouble handling the monsters there and finding what you need.",場所はもう教えたはずだが？お前ほどの者なら、あそこのモンスターを相手にして必要なものを見つけるのに苦労はしないはずだ。
-PROPQUEST_INC_150032,Wait… this is…! How did you get this?,待て……これは……！これをどうやって手に入れたんだ？
-PROPQUEST_INC_150033,Find “Fragment of ???”,「???の破片」を見つける
-PROPQUEST_INC_150034,His True Intention,彼の本当の狙い
-PROPQUEST_INC_150035,"Now that you’ve come this far, I have no choice but to tell you everything. Are you ready? That fragment is from the ship the expedition used when they set sail.",ここまで来たからには、すべてを話すしかないな。心の準備はいいか？その破片は、遠征隊が出航に使った船のものだ。
-PROPQUEST_INC_150036,"How do I know that from a single piece of debris? Because I was involved in everything—from its design to its construction. But so far, all we’ve found are scattered fragments like this.",なぜたった一つの破片からそれがわかるのかって？設計から建造まで、すべてに関わっていたからだ。だが今のところ、見つかっているのはこういう散らばった破片だけなんだ。
-PROPQUEST_INC_150037,"I’ve done my best to stop the news from spreading, but there’s only so much I can do. At this point, I have no one left to turn to but you. Could you help find more clues about the expedition?",この知らせが広まらないよう最善を尽くしてきたが、私にできることには限りがある。今となっては、頼れるのはお前しかいない。遠征についての手がかりをもっと見つける手伝いをしてくれないか？
-PROPQUEST_INC_150038,Thank you. The expedition followed the Darkon 1 mountain range. Start searching from there.,ありがとう。遠征隊はダーコン1の山脈沿いに進んだ。そこから探索を始めてくれ。
-PROPQUEST_INC_150039,"So even my last hope is fading. If you change your mind, please come back.",私の最後の望みすら、消えかけているのか。気が変わったら、戻ってきてくれ。
-PROPQUEST_INC_150040,Have you found anything? Oh… this is getting serious.,何か見つかったか？ああ……これは深刻なことになってきたな。
-PROPQUEST_INC_150041,"Welcome, adventurer. Hmm? What is this?",ようこそ、冒険者よ。うん？これは何だ？
-PROPQUEST_INC_150042,Bring “Fragment of a Fallen Ship” to the Darken Mayor,「難破船の破片」をダーコンの市長に届ける
-PROPQUEST_INC_150043,Seeking the Witness… 1,証人を求めて…1
-PROPQUEST_INC_150044,"Well… I don’t know anything about this shipwreck, but there is someone who might.",そうだな……この難破船については何も知らないが、知っているかもしれない者がいる。
-PROPQUEST_INC_150045,A High-Dwarpet named Liekyen might know something. You should go see him.,リエキエンというハイドワーフが何か知っているかもしれない。彼に会いに行くべきだ。
-PROPQUEST_INC_150046,"Of course, you can search elsewhere first if you prefer.",もちろん、先に他の場所を探したいなら構わない。
-PROPQUEST_INC_150047,You haven’t gone yet? That’s really all I can think of.,まだ行っていないのか？私に思いつくのは本当にそれだけだ。
-PROPQUEST_INC_150048,A shipwreck? Ah… you mean that one.,難破船だと？ああ……あれのことか。
-PROPQUEST_INC_150049,Meet with Liekyen,リエキエンに会う
-PROPQUEST_INC_150050,Seeking the Witness… 2,証人を求めて…2
-PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,山奥でのことだった。影が見えてモンスターかと思ったんだが……空から落ちてきた船だったんだ。
-PROPQUEST_INC_150052,"There was no one on board, even when I searched it the first time. Not a single body. I checked around to see if there was anything useful, but all I found was a book full of strange codes. Curious what it says?",最初に調べた時、船には誰も乗っていなかった。遺体すら一つもない。何か使えるものがないか調べたんだが、見つかったのは奇妙な暗号だらけの本だけだった。何が書いてあるか気になるか？
-PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",私にはさっぱりわからなかったから、ロッテンマイヤーに渡したんだ。興味があるなら、彼女に話しかけてみてくれ。
-PROPQUEST_INC_150054,"Not curious? Well, that’s your choice.",気にならないのか？まあ、それはお前次第だ。
-PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",ロッテンマイヤーなら詳細を知っている。解読が終わったら、彼女が見つけたことを教えに戻ってきてくれないか？
-PROPQUEST_INC_150056,"Ah, you’ve come for the logbook?",ああ、航海日誌のことで来たのか？
-PROPQUEST_INC_150057,Meet with Inisis,ロッテンマイヤーに会う
-PROPQUEST_INC_150058,Searching for Clues… 1,手がかりを求めて…1
-PROPQUEST_INC_150059,It turned out to be just a simple sailing logbook. There’s nothing special written in it. Are you still looking for more clues?,結局、ただの簡単な航海日誌だったわ。特別なことは何も書かれていないの。まだ手がかりを探しているの？
-PROPQUEST_INC_150060,"Actually, after reading it, Amadolka decided to search the Darken mountains again to see if anything else turns up. You should meet him before heading back to Saint City.",実は、それを読んだ後、アマドルカーが何か他に見つかるか、ダーコンの山をもう一度探すことにしたのよ。セイントモーニングへ戻る前に、彼に会っておくべきね。
-PROPQUEST_INC_150061,"If you’re too busy, I understand. Take care of yourself.",忙しすぎるなら仕方ないわ。気をつけてね。
-PROPQUEST_INC_150062,You haven’t left yet?,まだ出発していないの？
-PROPQUEST_INC_150063,Inisis sent you?,ロッテンマイヤーがお前をよこしたのか？
-PROPQUEST_INC_150064,Meet with Amadolka,アマドルカーに会う
-PROPQUEST_INC_150065,Searching for Clues… 2,手がかりを求めて…2
-PROPQUEST_INC_150066,That sharp woman… How did she know to send you without me saying anything? Do you really need this?,あの鋭い女め……私が何も言っていないのに、どうしてお前をよこすとわかったんだ？本当にこれが必要なのか？
-PROPQUEST_INC_150067,"Sigh… Fine, take it. You can find it right next to me. I tried to analyze that material at Erons Factory, but I couldn’t even figure out what it’s made of.",はぁ……いいだろう、持っていけ。私のすぐ隣にある。エランパークスでその材料を分析しようとしたんだが、何でできているのかすら突き止められなかった。
-PROPQUEST_INC_150068,"If you manage to discover anything, let me know. I guess I owe you one now.",何かわかったら教えてくれ。まあ、これで借りができたようなものだな。
-PROPQUEST_INC_150069,"So I can keep this? Tch… the more I look at it, the more uneasy I feel. Just take it and go.",これを持っていていいのか？チッ……見れば見るほど落ち着かない気分になる。さっさと持っていってくれ。
-PROPQUEST_INC_150070,This logbook…!,この航海日誌は……！
-PROPQUEST_INC_150071,Find “Trace of the New Continent”,「新大陸の痕跡」を見つける
+PROPQUEST_INC_150025,Actually… something like this was found in western Flaris.,実は...西フラリスで、このようなものが見つかりましてね。
+PROPQUEST_INC_150026,"Look at this Saint City logo. I thought I should let him know, so I brought it to him.",ここにセイントモーニングの紋章があるでしょう？ これは彼に知らせるべきだと思い、わたくしが持っていったのです。
+PROPQUEST_INC_150027,"But more pieces like this keep turning up, so I’ve been visiting him often.",ところが、その後も同じような破片が次々と見つかりましてね。それで、たびたび彼のもとを訪ねているのです。
+PROPQUEST_INC_150028,"He was shocked when he saw it, took it away, and told me not to speak of it to anyone. Do you want this?",彼はこれを見るなりひどく驚き、破片を受け取ると、このことは誰にも話さないようにと言いました。...これが必要ですか？
+PROPQUEST_INC_150029,"As far as I know, these pieces came from the central region of the Leren Mountains. Fortunately for him, powerful masquerpets wander the area, keeping people away and stopping any rumors from spreading. But that shouldn’t be a problem for you.",わたくしの知る限り、こうした破片はレルエン山脈の中央付近で見つかっています。彼にとって幸いなことに、あの辺りには強力なモンスターが徘徊しているため、人が寄りつかず、噂も広まっていません。もっとも、あなたなら問題ないでしょう。
+PROPQUEST_INC_150030,"Hmm? You don’t need it? Well, I can’t give you this piece, but if you need another one, feel free to ask.",おや？ 必要ないのですか？ まあ、この破片をお渡しすることはできませんが、また必要になりましたら、いつでも声をかけてください。
+PROPQUEST_INC_150031,"I’ve already told you where it is, haven’t I? Someone like you shouldn’t have any trouble handling the monsters there and finding what you need.",場所はもうお伝えしましたよね？ あなたほどの方なら、あの辺りのモンスターにも手こずることなく、必要なものを見つけられるでしょう。
+PROPQUEST_INC_150032,Wait… this is…! How did you get this?,待ってください...これは...！ いったい、どこでこれを？
+PROPQUEST_INC_150033,Find “Fragment of ???”,＜???の破片＞を見つける
+PROPQUEST_INC_150034,His True Intention,彼の真意
+PROPQUEST_INC_150035,"Now that you’ve come this far, I have no choice but to tell you everything. Are you ready? That fragment is from the ship the expedition used when they set sail.",ここまでたどり着いた以上、すべてお話しするしかありませんね。心の準備はいいですか？ その破片は、遠征隊が出発した際に使った船のものです。
+PROPQUEST_INC_150036,"How do I know that from a single piece of debris? Because I was involved in everything—from its design to its construction. But so far, all we’ve found are scattered fragments like this.",なぜ、この破片ひとつで分かるのか？ 私はあの船の設計から建造まで、すべてに関わっていたからです。しかし今のところ、見つかっているのはこうした破片ばかりです。
+PROPQUEST_INC_150037,"I’ve done my best to stop the news from spreading, but there’s only so much I can do. At this point, I have no one left to turn to but you. Could you help find more clues about the expedition?",このことが広まらないよう、私もできる限り手を尽くしてきました。しかし、それにも限界があります。もはや頼れるのはあなただけです。遠征隊について、さらに手がかりを探していただけませんか？
+PROPQUEST_INC_150038,Thank you. The expedition followed the Darkon 1 mountain range. Start searching from there.,ありがとうございます。遠征隊はダーコン1の山脈に沿って進みました。まずはその辺りから探してみてください。
+PROPQUEST_INC_150039,"So even my last hope is fading. If you change your mind, please come back.",最後の望みまで消えようとしているのですね...。気が変わったら、どうか戻ってきてください。
+PROPQUEST_INC_150040,Have you found anything? Oh… this is getting serious.,何か見つかりましたか？ ...これは、事態が深刻になってきましたね。
+PROPQUEST_INC_150041,"Welcome, adventurer. Hmm? What is this?",ようこそ、冒険者さん。...ん？ これは何ですかな？
+PROPQUEST_INC_150042,Bring “Fragment of a Fallen Ship” to the Darken Mayor,＜難破船の破片＞をダーコン市長に届ける
+PROPQUEST_INC_150043,Seeking the Witness… 1,目撃者を求めて...(1)
+PROPQUEST_INC_150044,"Well… I don’t know anything about this shipwreck, but there is someone who might.",ふむ...この難破船について、私は何も知りません。ただ、心当たりのある人物ならいますよ。
+PROPQUEST_INC_150045,A High-Dwarpet named Liekyen might know something. You should go see him.,リエキエンというハイドワーフなら、何か知っているかもしれません。一度、彼を訪ねてみるといいでしょう。
+PROPQUEST_INC_150046,"Of course, you can search elsewhere first if you prefer.",もちろん、先に他を当たってみたいというなら、それでも構いませんよ。
+PROPQUEST_INC_150047,You haven’t gone yet? That’s really all I can think of.,おや、まだ行っていなかったのですか？ 私に思い当たるのは、本当にそれくらいですよ。
+PROPQUEST_INC_150048,A shipwreck? Ah… you mean that one.,難破船？ ああ...あれのことなのだ。
+PROPQUEST_INC_150049,Meet with Liekyen,[ハイドワーフ] リエキエンに会う
+PROPQUEST_INC_150050,Seeking the Witness… 2,目撃者を求めて...(2)
+PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,山奥でのことなのだ。何かの影が見えたから、てっきりモンスターかと思ったんだが...なんと、空から船が落ちてきたのだ！
+PROPQUEST_INC_150052,"There was no one on board, even when I searched it the first time. Not a single body. I checked around to see if there was anything useful, but all I found was a book full of strange codes. Curious what it says?",最初に船を調べたときから、誰も乗っていなかったのだ。遺体ひとつなかった。何か役に立つものはないかと辺りを調べてみたが、見つかったのは奇妙な暗号だらけの本だけだったのだ。...何が書いてあるか、気になるだろ？
+PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",僕にはさっぱり分からなかったから、ロッテンマイヤーに渡しておいたのだ。気になるなら、彼女に聞いてみるといいのだ。
+PROPQUEST_INC_150054,"Not curious? Well, that’s your choice.",気にならないのか？ ふん、まあ好きにするのだ。
+PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",詳しいことはロッテンマイヤーが知っているのだ。解読が終わったら、何が分かったのか僕にも教えに来てくれないか？
+PROPQUEST_INC_150056,"Ah, you’ve come for the logbook?",ああ、航海日誌を取りに来たのですね？
+PROPQUEST_INC_150057,Meet with Inisis,[伝説の師匠] ロッテンマイヤーに会う
+PROPQUEST_INC_150058,Searching for Clues… 1,手がかりを求めて...(1)
+PROPQUEST_INC_150059,It turned out to be just a simple sailing logbook. There’s nothing special written in it. Are you still looking for more clues?,調べてみましたが、ただの航海日誌でした。特に変わったことは書かれていません。それでも、まだ手がかりを探すつもりですか？
+PROPQUEST_INC_150060,"Actually, after reading it, Amadolka decided to search the Darken mountains again to see if anything else turns up. You should meet him before heading back to Saint City.",実は、これを読んだアマドルカーが、ほかに何か見つからないかダーコンの山岳地帯をもう一度調べることにしたそうです。セイントモーニングへ戻る前に、彼に会っておくといいでしょう。
+PROPQUEST_INC_150061,"If you’re too busy, I understand. Take care of yourself.",お忙しいのでしたら仕方ありませんね。無理はなさらないように。
+PROPQUEST_INC_150062,You haven’t left yet?,...まだ行っていないのですか？
+PROPQUEST_INC_150063,Inisis sent you?,ロッテンマイヤーに言われて来たのか？
+PROPQUEST_INC_150064,Meet with Amadolka,[警備長] アマドルカーに会う
+PROPQUEST_INC_150065,Searching for Clues… 2,手がかりを求めて...(2)
+PROPQUEST_INC_150066,That sharp woman… How did she know to send you without me saying anything? Do you really need this?,あの勘の鋭い女め...。私が何も言っていないのに、よく君をよこしたものだ。これが必要なんだろう？
+PROPQUEST_INC_150067,"Sigh… Fine, take it. You can find it right next to me. I tried to analyze that material at Erons Factory, but I couldn’t even figure out what it’s made of.",まったく...仕方ないな。持っていけ。すぐそこにある。エランパークスでその材料を分析してみたんだが、何でできているのかさえ分からなかった。
+PROPQUEST_INC_150068,"If you manage to discover anything, let me know. I guess I owe you one now.",何か分かったら、私にも知らせてくれ。ハハッ、これで君にはひとつ借りができたな。
+PROPQUEST_INC_150069,"So I can keep this? Tch… the more I look at it, the more uneasy I feel. Just take it and go.",これは私が預かっていていいのか？ ...チッ。見れば見るほど嫌な感じがする。さっさと持っていってくれ。
+PROPQUEST_INC_150070,This logbook…!,この航海日誌は...！
+PROPQUEST_INC_150071,Find “Trace of the New Continent”,＜新大陸の痕跡＞を見つける
 PROPQUEST_INC_150072,The Gear Begins to Turn Again,再び回り始める歯車
-PROPQUEST_INC_150073,"So that’s how it was… What on earth happened to the crew of that ship? For now, let me examine this strange material.",そういうことだったのか……あの船の乗組員に一体何が起きたんだ？とりあえず、この奇妙な材料を調べさせてくれ。
-PROPQUEST_INC_150074,"I can use it to calm the investors. With this logbook, we might even be able to send a follow-up expedition. Hmm… Could you show the logbook and this material to the Strange Collector?",これで出資者たちを落ち着かせられそうだ。この航海日誌があれば、追加の遠征隊を送ることもできるかもしれない。うーむ……この航海日誌とこの材料を、謎のコレクターに見せてきてもらえないか？
-PROPQUEST_INC_150075,He should be the first to know. Thank you.,彼が一番に知るべきだ。ありがとう。
-PROPQUEST_INC_150076,"Well, if you change your mind, you can come back anytime.",まあ、気が変わったら、いつでも戻ってきてくれ。
-PROPQUEST_INC_150077,"Have you shown it to him yet? Don’t worry, I’m not rushing you.",もう彼に見せたか？心配するな、急かしているわけじゃない。
-PROPQUEST_INC_150078,"Welcome back. How did it go? I knew it—my research wasn’t wrong after all. I truly owe you. It’s not much, but please accept this as my thanks. Things are going to get busy from here on…",おかえり。どうだった？やはりな——私の研究は間違っていなかった。本当に世話になったな。大したものではないが、感謝の印として受け取ってくれ。これから忙しくなりそうだ……
+PROPQUEST_INC_150073,"So that’s how it was… What on earth happened to the crew of that ship? For now, let me examine this strange material.",そういうことでしたか...。あの船の乗組員に、いったい何が起きたのでしょう？ ひとまず、この奇妙な材料を調べてみましょう。
+PROPQUEST_INC_150074,"I can use it to calm the investors. With this logbook, we might even be able to send a follow-up expedition. Hmm… Could you show the logbook and this material to the Strange Collector?",これがあれば、出資者たちを落ち着かせることができます。この航海日誌があれば、後続の遠征隊を送ることもできるかもしれません。...そうですね。この航海日誌と材料を、謎のコレクターに見せてもらえませんか？
+PROPQUEST_INC_150075,He should be the first to know. Thank you.,まず彼に知らせるべきでしょう。ありがとうございます。
+PROPQUEST_INC_150076,"Well, if you change your mind, you can come back anytime.",まあ、気が変わったらいつでも戻ってきてください。
+PROPQUEST_INC_150077,"Have you shown it to him yet? Don’t worry, I’m not rushing you.",もう彼には見せましたか？ いえ、急かしているわけではありませんよ。
+PROPQUEST_INC_150078,"Welcome back. How did it go? I knew it—my research wasn’t wrong after all. I truly owe you. It’s not much, but please accept this as my thanks. Things are going to get busy from here on…",おかえり。どうだった？ やはり...わたしの研究は間違っていなかったんだ！ 本当に君には感謝しているよ。大したものじゃないが、お礼にこれを受け取ってくれ。さて...これから忙しくなりそうだ。
 PROPQUEST_INC_150079,Meet with the Strange Collector,謎のコレクターに会う
 PROPQUEST_INC_150080,Chapter 2 Eillun Town,第2章 エルリウンタウン
 PROPQUEST_INC_150081,Reignited Passion,再燃する情熱
