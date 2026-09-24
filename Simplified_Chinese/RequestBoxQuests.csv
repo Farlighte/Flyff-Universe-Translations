@@ -242,7 +242,7 @@ PROPQUEST_REQUESTBOX_INC_020006,Obsessed with Crystals! (2),沉迷于水晶！ (
 PROPQUEST_REQUESTBOX_INC_020007,Obsessed with Crystals! (3),沉迷于水晶！ (3)
 PROPQUEST_REQUESTBOX_INC_020008,Obsessed with Crystals! (4),沉迷于水晶！ (4)
 PROPQUEST_REQUESTBOX_INC_020009,Obsessed with Crystals! (5),沉迷于水晶！ (5)
-PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,水晶! 嗯哼... $QUEST_END_ITEM_NAME$s! 你可以帮我带些 $QUEST_END_ITEM_NAME$!?
+PROPQUEST_REQUESTBOX_INC_020010,Crystals! Hmmm.... $QUEST_END_ITEM_NAME$s! Could you please bring me some $QUEST_END_ITEM_NAME$!?,水晶! 嗯哼... $QUEST_END_ITEM_NAME$! 你可以帮我带些 $QUEST_END_ITEM_NAME$!?
 PROPQUEST_REQUESTBOX_INC_020011,You can get $QUEST_END_ITEM_NAME$ from any type of Medumet.,您可以从任何类型的 机械水母 中获得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020012,You can get $QUEST_END_ITEM_NAME$ from any type of Yetti.,您可以从任何类型的怪力羊中获得 $QUEST_END_ITEM_NAME$。
 PROPQUEST_REQUESTBOX_INC_020013,You can get $QUEST_END_ITEM_NAME$ from any type of Augu.,您可以从任何类型的尖角蜥中获得 $QUEST_END_ITEM_NAME$。

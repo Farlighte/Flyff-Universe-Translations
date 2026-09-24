@@ -961,7 +961,7 @@ PROPQUEST_INC_001596,"I believe you've come here by mistake, Assist. Have you fo
 PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",去打倒守护兽贝纳卡蒂诺，并取得他的心脏，再去找守护使者隆波艾达！
 PROPQUEST_INC_001600,"So, you think you're ready to become a Successor of the Psykeeper Hero? You've come a long way, Magician. I think you're ready.",精神使者需要坚强的意志和精神力！你能做得到吗？
 PROPQUEST_INC_001601,"First, we'll need to test your skills in combat if we are to continue down this path.",首先，测试你的战斗技巧及能力，看你是否有资格继续下去
-PROPQUEST_INC_001602,"I want you to defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s. Not Small $QUEST_END_KILL_NAME$s or Giant $QUEST_END_KILL_NAME$s, just $QUEST_END_KILL_NAME$s. They are located southwest of the Gouthan Mountains.",我想让你去击杀$QUEST_END_KILL_COUNT$个$QUEST_END_KILL_NAME$s。不是小型$QUEST_END_KILL_NAME$也不是巨型$QUEST_END_KILL_NAME$，而是$QUEST_END_KILL_NAME$。他们位于永恒森林的西南部。
+PROPQUEST_INC_001602,"I want you to defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s. Not Small $QUEST_END_KILL_NAME$s or Giant $QUEST_END_KILL_NAME$s, just $QUEST_END_KILL_NAME$s. They are located southwest of the Gouthan Mountains.",我想让你去击杀$QUEST_END_KILL_COUNT$个$QUEST_END_KILL_NAME$。不是小型$QUEST_END_KILL_NAME$也不是巨型$QUEST_END_KILL_NAME$，而是$QUEST_END_KILL_NAME$。他们位于永恒森林的西南部。
 PROPQUEST_INC_001603,"I will be watching you, Magician. Good luck!",我在看着你，魔导士。祝你好运
 PROPQUEST_INC_001604,You're giving up now before you've even started?,你还没开始就要放弃了吗？
 PROPQUEST_INC_001605,"Yes, very well done, Magician. You've certainly come a long way. You're ready to become a Successor to the Psykeeper Hero.",辛苦你了！果然我没看错人了，你可以成为继承者了！
@@ -1490,7 +1490,7 @@ PROPQUEST_INC_110178,You did it! Thanks to you Christmas is saved! Unless the mo
 PROPQUEST_INC_110179,"Well, I guess picking up snow and carrots is too hard for you, huh...",好吧，看来捡雪球和胡萝卜对你来说太难了，是吧……
 PROPQUEST_INC_110180,"The polar bear asked me to bring back $QUEST_END_ITEM_COUNT,2$ snowballs and $QUEST_END_ITEM_COUNT$ carrots by midnight.","北极熊要我在午夜之前带回$QUEST_END_ITEM_COUNT,2$个雪球和$QUEST_END_ITEM_COUNT$根胡萝卜。"
 PROPQUEST_INC_110181,"Welcome hero! Another request has come in to clear out $QUEST_END_KILL_NAME$ from the Forsaken Tower. Could you please slay 50 $QUEST_END_KILL_NAME$, and return to me once you are done?",欢迎你，英雄！又有一项委托来了 —— 肃清深渊之塔内的 $QUEST_END_KILL_NAME$，请你斩杀50只 $QUEST_END_KILL_NAME$，完成之后再回来找我。
-PROPQUEST_INC_110182,"Well done, we'll have plenty of $QUEST_END_ITEM_NAME$s to fulfill all the requests!",做得好！这样我们就有足够的 $QUEST_END_ITEM_NAME$s来完成所有委托了！
+PROPQUEST_INC_110182,"Well done, we'll have plenty of $QUEST_END_ITEM_NAME$s to fulfill all the requests!",做得好！这样我们就有足够的 $QUEST_END_ITEM_NAME$来完成所有委托了！
 PROPQUEST_INC_110183,"You haven't defeated the $QUEST_END_KILL_NAME$ yet? That's okay, just return once you have.",你还没有击败 $QUEST_END_KILL_NAME$吗？没关系，等你完成之后再回来就好。
 PROPQUEST_INC_110184,Welcome back hero! There are reports of a new threat in the Forsaken Tower. Please seek out and get rid of the $QUEST_END_KILL_NAME$. ,欢迎回来，英雄！据报告，深渊之塔中出现了新的威胁。请前去找到并消灭 $QUEST_END_KILL_NAME$
 PROPQUEST_INC_110185,"Thank you hero, the $QUEST_END_KILL_NAME$ threat has been eliminated.","感谢你英雄, $QUEST_END_KILL_NAME$ 的威胁被终结了。"
@@ -1864,7 +1864,7 @@ PROPQUEST_INC_132120,Under Shade's Command,受影之势力掌控
 PROPQUEST_INC_132121,"What?! Monsters? Whole hordes?! Listen… Shade must already be at work, and if she’s there, she won’t waste any time.",什么？！怪物？成群结队的怪物？你听我说…… 影之势力肯定已经开始行动了，要是她在那里，绝对不会浪费一分一秒。
 PROPQUEST_INC_132122,"I’ll need you to return there. Observe, fight, assess their strengths… If these creatures are really under Shade’s control, we need to know what awaits us.",我需要你再回去一趟。观察、战斗、评估它们的实力…… 如果这些生物真的受影之势力操控，我们必须弄清楚等待我们的是什么。
 PROPQUEST_INC_132123,"When you’ve dealt with the monsters, return to see Dr. Estly. He should have finished the analysis of the water by then, and we’ll finally know if this submerged city is indeed Herneos…",等你解决掉那些怪物，就回来见Dr. 依斯特里。到那时他应该已经完成了对水石的分析，我们终将确认这座沉没之城是否就是赫涅奥斯……
-PROPQUEST_INC_132124,"Kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s, $QUEST_END_KILL_COUNT,2$ $QUEST_END_KILL_NAME,2$s, $QUEST_END_KILL_COUNT,3$ $QUEST_END_KILL_NAME,3$s and return talk to Sovann.","击杀 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s, $QUEST_END_KILL_COUNT,2$ $QUEST_END_KILL_NAME,2$s, $QUEST_END_KILL_COUNT,3$ $QUEST_END_KILL_NAME,3$s 之后返回与索万交谈。"
+PROPQUEST_INC_132124,"Kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s, $QUEST_END_KILL_COUNT,2$ $QUEST_END_KILL_NAME,2$s, $QUEST_END_KILL_COUNT,3$ $QUEST_END_KILL_NAME,3$s and return talk to Sovann.","击杀 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$, $QUEST_END_KILL_COUNT,2$ $QUEST_END_KILL_NAME,2$, $QUEST_END_KILL_COUNT,3$ $QUEST_END_KILL_NAME,3$ 之后返回与索万交谈。"
 PROPQUEST_INC_132125,"Excellent! I knew I could count on you. The creatures under Shade’s command won’t go down easily, but with your skills, I’m confident you can handle them. Go, and show them that we won’t back down! Once you've dealt with them, check back with Sovann.",太好了！我就知道我能指望你。受影之势力操控的怪物可不简单，但凭你的实力，我相信你完全能应付。去吧，让他们知道我们不会退缩！解决掉它们之后，回去向索万复命。
 PROPQUEST_INC_132126,"What?! You’re refusing?! Don’t you see how serious this is? Shade’s forces won’t stop they’ll only get stronger if we ignore them. Fine, if you’re not willing to help, I’ll find someone who is up to the challenge. But don’t forget you might regret standing by if Shade succeeds.",什么？！你拒绝了？你看不出事态有多严重吗？影之势力的军队不会善罢甘休，如果我们置之不理，他们只会变得更强大。好吧，如果你不愿意帮忙，我会找其他能胜任这项挑战的人。但别忘了，如果影之势力得逞了，你可能会为自己袖手旁观而后悔。
 PROPQUEST_INC_132127,"You’re back again? But… have you not dealt with those monsters yet? We need to know what we’re up against! Shade’s forces are growing stronger every moment you delay. Go back and finish the job! Time is of the essence, and the fate of Herneos depends on it!",你又回来了？可是…… 那些怪物你还没解决掉吗？我们必须弄清楚对手的底细！你每拖延一刻，影之势力的力量就会壮大一分。回去完成任务！时间至关重要，赫涅奥斯的命运就系于此！
@@ -2697,13 +2697,13 @@ PROPQUEST_INC_150644,"It says that long ago, all continents were connected, and 
 PROPQUEST_INC_150645,This is exactly the kind of thing the Strange Collector in Saint City loves. He’d be thrilled if you brought it to him.,晨光镇的诡异的收藏家就好这口。你要是把这个带去给他，他肯定会很兴奋。
 PROPQUEST_INC_150646,Now then… shall we speak about your awakening?,那么…… 我们来谈谈你的觉醒之事吧？
 PROPQUEST_INC_150647,True strength awakens when you fight with your life on the line. It’s always been that way.,真正的力量，会在你浴血奋战、以命相搏时觉醒。向来如此。
-PROPQUEST_INC_150648,Enter the instance dungeon and defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s to test your limits.,进入副本，击败 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s，挑战你的极限。
+PROPQUEST_INC_150648,Enter the instance dungeon and defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s to test your limits.,进入副本，击败 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$，挑战你的极限。
 PROPQUEST_INC_150649,"Is there another way? Maybe. It’s worth trying whatever you can. If you change your mind, come find me.",还有别的办法吗？或许有。只要能尝试的，都值得一试。如果你改变主意了，就来找我。
 PROPQUEST_INC_150650,You haven’t finished yet? Hmm… I thought you’d be done by now.,还没完成吗？嗯…… 我还以为你早就搞定了。
 PROPQUEST_INC_150651,Well done. But you still haven’t awakened? How strange…,做得不错。可你依然没有觉醒？真是奇怪……
 PROPQUEST_INC_150652,I know someone who can definitely help—if you’re willing to meet them.,我认识一个绝对能帮上忙的人 —— 只要你愿意去见他。
 PROPQUEST_INC_150653,"Here, take this letter of introduction.",来，拿好这封介绍信。
-PROPQUEST_INC_150654,Kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s,杀死 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s
+PROPQUEST_INC_150654,Kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s,杀死 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$
 PROPQUEST_INC_150655,"He is my master. Since he’s also a transcendent, he should know how.",他是我的导师。而且他也是一位超越者，理应知道该怎么做。
 PROPQUEST_INC_150656,"Because of certain circumstances, he doesn’t appear in public, so most people don’t know he exists.",由于一些特殊情况，他从不公开露面，所以大多数人都不知道他的存在。
 PROPQUEST_INC_150657,I just realized I gave you the letter without even hearing your answer.,我才发现，我连你的答复都没听，就把信交给你了。

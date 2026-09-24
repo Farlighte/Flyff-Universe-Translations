@@ -49,7 +49,7 @@ QUEST_DESTINATION_0067,Drian exists in the first room,德里安在第一个房�
 QUEST_DESTINATION_0068,Kill keakoon in the third room and obtain key.,在第三个房间中杀死奇昆，并且取得钥匙
 QUEST_DESTINATION_0069,Move to the third room and check a cell where Nevil is locked.,去到第三个房间，并且检查关住蓝彼的牢房
 QUEST_DESTINATION_0070,Kill Elite Keakoon Guard Leaders in the third room.,在第三个房间中杀死精英奇昆警卫队长
-QUEST_DESTINATION_0071,Talk with Nevin in prison,和监狱里的Nevin对话
+QUEST_DESTINATION_0071,Talk with Nevin in prison,和监狱里的蓝彼对话
 QUEST_DESTINATION_0072,Break Roach egg in fifth room and obtain 15 Pink Roach Fluids,在第五个房间中破坏毒花乳虫的蛋，并且取得15个粉红毒花乳虫的毒液
 QUEST_DESTINATION_0073,Break Roach egg in fourth room and obtain 15 Blue Roach Fluids,在第四个房间中破坏毒花乳虫的蛋，并且取得15个蓝毒花乳虫的毒液
 QUEST_DESTINATION_0074,Break Roach egg in fifth room and obtain 1 Pink Roach Queen Fluid,在第五个房间中破坏毒花乳虫的蛋，并且取得1个粉红毒花乳虫女王的毒液
@@ -85,9 +85,9 @@ QUEST_DESTINATION_1010,Collect Erons from Erons Catchers.,从帕里灵兽上收�
 QUEST_DESTINATION_1011,Collect Krasec from Krasec Catchers.,从晨光灵兽上收集炽红石花。
 QUEST_DESTINATION_1012,Collect Mineral from Mineral Catchers.,从莱斯灵兽上收集奇异金属。
 QUEST_DESTINATION_1013,Collect Guru from Guru Catchers.,从达肯灵兽上收集石电磁矿。
-QUEST_DESTINATION_1014,Give the Smelted Steels to Chenbing.,将精炼钢交给查宾。
-QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,将冶金公牛戒指交给华乐。
-QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,将充能完毕的避雷针交给[历史研究会长] 扎森特。
+QUEST_DESTINATION_1014,Give the Smelted Steels to Chenbing.,将炼制钢交给查宾。
+QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,将荒原牛的金刚鼻环交给华乐。
+QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,将充能完毕的避雷装置交给[历史研究会长] 扎森特。
 QUEST_DESTINATION_1017,Collect $QUEST_END_ITEM_NAME$ from final dungeon bosses.,从副本最终 boss 处收集 $QUEST_END_ITEM_NAME$。
 QUEST_DESTINATION_1018,Give the Elixir of Cleansing to Hael.,将净化灵药交给海尔。
 QUEST_DESTINATION_1019,Collect Ultima from giants and treasure chests.,从巨型怪物与宝箱中收集终极精粹。
