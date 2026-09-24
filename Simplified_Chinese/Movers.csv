@@ -933,12 +933,12 @@ PROPMOVER_TXT_110002,Dark Valentine's Bear,黑色情人节小熊
 PROPMOVER_TXT_110003,Orange Valentine's Bear,橙色情人节小熊
 PROPMOVER_TXT_110004,Green Valentine's Bear,绿色情人节小熊
 PROPMOVER_TXT_110005,Purple Valentine's Bear,紫色情人节小熊
-PROPMOVER_TXT_110006,Pink Little Cacti,粉色小Cacti
-PROPMOVER_TXT_110007,Green Little Cacti,绿色小Cacti
-PROPMOVER_TXT_110008,Purple Little Cacti,紫色小Cacti
-PROPMOVER_TXT_110009,Orange Little Cacti,橙色小Cacti
-PROPMOVER_TXT_110010,Red Little Cacti,红色小Cacti
-PROPMOVER_TXT_110011,Cyan Little Cacti,青色小Cacti
+PROPMOVER_TXT_110006,Pink Little Cacti,粉色小仙人掌
+PROPMOVER_TXT_110007,Green Little Cacti,绿色小仙人掌
+PROPMOVER_TXT_110008,Purple Little Cacti,紫色小仙人掌
+PROPMOVER_TXT_110009,Orange Little Cacti,橙色小仙人掌
+PROPMOVER_TXT_110010,Red Little Cacti,红色小仙人掌
+PROPMOVER_TXT_110011,Cyan Little Cacti,青色小仙人掌
 PROPMOVER_TXT_110012,Phantom General,幻影
 PROPMOVER_TXT_110013,Golden Aibatt,黄金独眼蝠
 PROPMOVER_TXT_110014,Pink Modern Sports Bear,粉色现代运动风小熊
@@ -1203,7 +1203,7 @@ PROPMOVER_TXT_400230,[Event] Harpy,[活动] 鹰身女妖
 PROPMOVER_TXT_400231,[Event] Kern,[活动] 石魔
 PROPMOVER_TXT_400232,[Event] Small Medumet,[活动] 小机械水母
 PROPMOVER_TXT_400233,[Event] Yetti,[活动] 怪力羊
-PROPMOVER_TXT_400234,[Event] Small Dantalian,[活动] Small Dantalian
+PROPMOVER_TXT_400234,[Event] Small Dantalian,[活动] 小型巫师
 PROPMOVER_TXT_400235,[Event] Mutant Augu,[活动] 变异尖角蜥
 PROPMOVER_TXT_400236,[Event] Ghost of the forgotten king,[活动] 被遗忘的冰封亡灵
 PROPMOVER_TXT_400237,[Event] Small Asuras,[活动] 小阿修罗
@@ -1220,7 +1220,7 @@ PROPMOVER_TXT_400031,Yellow Pixel Rabbit,黄色像素兔
 PROPMOVER_TXT_001319,[Event] Leyena,[活动] 高地猎犬
 PROPMOVER_TXT_001321,[Event] Giant Kraken,[活动] 巨型北海巨妖
 PROPMOVER_TXT_400032,[Event] Giggle Box,[活动] 怪笑箱
-PROPMOVER_TXT_400033,[Event] Violet Giggle Box,[活动] 紫罗兰怪笑箱
+PROPMOVER_TXT_400033,[Event] Violet Giggle Box,[活动] 堕落的怪笑箱
 PROPMOVER_TXT_400034,Fox Spirit,狐灵
 PROPMOVER_TXT_400035,Ninja Toad,忍蛙
 PROPMOVER_TXT_400036,Steambot,蒸汽机器人
@@ -1243,13 +1243,13 @@ PROPMOVER_TXT_400255,Red Magical Toad,红色魔法蛙蛙
 PROPMOVER_TXT_400256,Dark Magical Toad,暗色魔法蛙蛙
 PROPMOVER_TXT_400258,[Event] Creper,[活动] 巨钳蟹
 PROPMOVER_TXT_400259,[Event] Violet Creper,[活动] 堕落的巨钳蟹
-PROPMOVER_TXT_400260,Red Earless Seal,红色无耳海豹
-PROPMOVER_TXT_400261,Purple Earless Seal,紫色无耳海豹
-PROPMOVER_TXT_400262,Burgundy Earless Seal,酒红无耳海豹
-PROPMOVER_TXT_400263,Pink Earless Seal,粉色无耳海豹
-PROPMOVER_TXT_400264,Orange Earless Seal,橘色无耳海豹
-PROPMOVER_TXT_400265,Blue Earless Seal,蓝色无耳海豹
-PROPMOVER_TXT_400266,White Earless Seal,白色无耳海豹
+PROPMOVER_TXT_400260,Red Earless Seal,红色海豹
+PROPMOVER_TXT_400261,Purple Earless Seal,紫色海豹
+PROPMOVER_TXT_400262,Burgundy Earless Seal,酒红海豹
+PROPMOVER_TXT_400263,Pink Earless Seal,粉色海豹
+PROPMOVER_TXT_400264,Orange Earless Seal,橘色海豹
+PROPMOVER_TXT_400265,Blue Earless Seal,蓝色海豹
+PROPMOVER_TXT_400266,White Earless Seal,白色海豹
 PROPMOVER_TXT_400267,Brown Butterflies,棕蝶
 PROPMOVER_TXT_400268,Purple Butterflies,紫蝶
 PROPMOVER_TXT_400269,Green Butterflies,绿蝶
@@ -1544,7 +1544,7 @@ PROPMOVER_TXT_110182,[Event] Mage Redcloud,[活动] 绯云术士
 PROPMOVER_TXT_110183,[Event] Small Taiaha,[活动] 小型泰亚哈战士
 PROPMOVER_TXT_110184,[Event] Taiaha,[活动] 泰亚哈战士
 PROPMOVER_TXT_110185,[Event] Chief Keokuk,[活动] 酋长基奥卡克
-PROPMOVER_TXT_110186,Vroom,飞行扫帚
+PROPMOVER_TXT_110186,Vroom,轰鸣
 PROPMOVER_TXT_110187,Red Horse,红色小马
 PROPMOVER_TXT_500075,Green Pawzer,绿色咆爪号
 PROPMOVER_TXT_500076,Blue Pawzer,蓝色咆爪号

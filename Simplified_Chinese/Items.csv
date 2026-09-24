@@ -10833,7 +10833,7 @@ PROPITEM_TXT_009899,"Traditional Philippines Set for male characters. Includes s
 PROPITEM_TXT_009908,Traditional Philippines Set (F),传统菲律宾套装(女)
 PROPITEM_TXT_009909,"Traditional Philippines Set for female characters. Includes suit, shoes, hat, and gloves.",女性角色的传统菲律宾套装。包含衣服、鞋子、帽子和手套。
 PROPITEM_TXT_121029,Mocomochi Box 2023,Mocomochi Box 2023
-PROPITEM_TXT_121030,Capsule Coin,Capsule Coin
+PROPITEM_TXT_121030,Capsule Coin,胶囊形代币
 PROPITEM_TXT_121031,Use them at the Gacha Machine to get extraordinary rewards!,可在扭蛋机使用获得非凡奖励！
 PROPITEM_TXT_121032,Children's Cage Key,钥匙
 PROPITEM_TXT_121033,You can use it to open the children's cage! Save them quickly!,您可以用它来打开小孩笼子！快点救他们！
@@ -21920,7 +21920,7 @@ PROPITEM_TXT_134767,I am PANG! Shoes (F),I am PANG! 鞋子 (女)
 PROPITEM_TXT_134768,I am PANG! Hands (F),I am PANG! 手套 (女)
 PROPITEM_TXT_134769,"Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful.","Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful."
 PROPITEM_TXT_134770,"To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it.","To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it."
-PROPITEM_TXT_134771,Congratulations You've reached the highest level. Break the eggs and get your rewards.,Congratulations You've reached the highest level. Break the eggs and get your rewards.
+PROPITEM_TXT_134771,Congratulations You've reached the highest level. Break the eggs and get your rewards.,恭喜您达到最高等级。打破彩蛋并获得奖励。
 PROPITEM_TXT_900010,Easter Bunny 2025 10% Pink Set,2025粉色复活节邦尼兔套装 10% 移速
 PROPITEM_TXT_900011,Easter Bunny 2025 Pink Backpack,2025粉色复活节邦尼兔背包
 PROPITEM_TXT_900012,Easter Bunny 2025 Pink Band-aid,2025粉色复活节邦尼兔创可贴
@@ -23626,8 +23626,8 @@ PROPITEM_TXT_901750,Special Casual Shoes for Male Characters.,男性角色的个
 PROPITEM_TXT_901751,Special Casual Set (M),个性休闲套装 (男)
 PROPITEM_TXT_901752,The Special Casual Set for male characters.,男性个性休闲套装。
 PROPITEM_TXT_901753,Special Casual Set,个性休闲套装
-PROPITEM_TXT_901754,FWC Consumable SET (Finalist),FWC Consumable SET (Finalist)
-PROPITEM_TXT_901755,"May the odds be ever in your favor, young adventurer.","May the odds be ever in your favor, young adventurer."
+PROPITEM_TXT_901754,FWC Consumable SET (Finalist),FWC消耗品套餐（决赛）
+PROPITEM_TXT_901755,"May the odds be ever in your favor, young adventurer.",愿机会永远对你有利，年轻的冒险家。
 PROPITEM_TXT_901756,2025 FWC Grand Final Coupon 1,2025 FWC Grand Final Coupon 1
 PROPITEM_TXT_901757,"A package containing 1x Card Disc (7days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activation. All items are Soul-Linked.","A package containing 1x Card Disc (7days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activation. All items are Soul-Linked."
 PROPITEM_TXT_901758,2025 FWC Grand Final Coupon 2,2025 FWC Grand Final Coupon 2
@@ -24786,22 +24786,22 @@ PROPITEM_TXT_134970,[Limited] Weapon Lucky Box,[Limited] Weapon Lucky Box
 PROPITEM_TXT_134971,A limited Weapon lucky box. May the odds be ever in your favor!,A limited Weapon lucky box. May the odds be ever in your favor!
 PROPITEM_TXT_134972,[Limited] Enhancement Lucky Box,[Limited] Enhancement Lucky Box
 PROPITEM_TXT_134973,A limited Enhancement lucky box. May the odds be ever in your favor!,A limited Enhancement lucky box. May the odds be ever in your favor!
-PROPITEM_TXT_134974,Lucky Box Scroll of AProtect (1-100),Lucky Box Scroll of AProtect (1-100)
-PROPITEM_TXT_134975,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.
-PROPITEM_TXT_134976,Lucky Box Scroll of SProtect (1-100),Lucky Box Scroll of SProtect (1-100)
-PROPITEM_TXT_134977,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.
-PROPITEM_TXT_134978,Lucky Box Scroll of GProtect (1-100),Lucky Box Scroll of GProtect (1-100)
-PROPITEM_TXT_134979,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.
-PROPITEM_TXT_134980,Lucky Box Scroll of EProtect (1-100),Lucky Box Scroll of EProtect (1-100)
-PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.
-PROPITEM_TXT_134982,Lucky Box Scroll of XProtect (1-100),Lucky Box Scroll of XProtect (1-100)
-PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.
-PROPITEM_TXT_134984,Lucky Box Scroll of Ultimate Bonus (1-10),Lucky Box Scroll of Ultimate Bonus (1-10)
-PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.
-PROPITEM_TXT_134986,Lucky Box Scroll of Ultimate Power (1-100),Lucky Box Scroll of Ultimate Power (1-100)
-PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.
-PROPITEM_TXT_134988,Lucky Box Blessing of the Goddess and the Demon (1-100),Lucky Box Blessing of the Goddess and the Demon (1-100)
-PROPITEM_TXT_134989,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.
+PROPITEM_TXT_134974,Lucky Box Scroll of AProtect (1-100),首饰防护卷轴幸运箱 (1-100)
+PROPITEM_TXT_134975,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.,包含随机数量的首饰防护卷轴，范围从1到100。
+PROPITEM_TXT_134976,Lucky Box Scroll of SProtect (1-100),装备防护卷轴幸运箱 (1-100)
+PROPITEM_TXT_134977,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.,包含随机数量的装备防护卷轴，范围从1到100。
+PROPITEM_TXT_134978,Lucky Box Scroll of GProtect (1-100),穿洞防护卷轴幸运箱 (1-100)
+PROPITEM_TXT_134979,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.,包含随机数量的穿洞防护卷轴，范围从1到100。
+PROPITEM_TXT_134980,Lucky Box Scroll of EProtect (1-100),卡片防护卷轴幸运箱 (1-100)
+PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,包含随机数量的卡片防护卷轴，范围从1到100。
+PROPITEM_TXT_134982,Lucky Box Scroll of XProtect (1-100),终极防护卷轴幸运箱 (1-100)
+PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,包含随机数量的终极防护卷轴，范围从1到100。
+PROPITEM_TXT_134984,Lucky Box Scroll of Ultimate Bonus (1-10),终极加成卷轴幸运箱 (1-10)
+PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,包含随机数量的终极加成卷轴，范围从1到10。
+PROPITEM_TXT_134986,Lucky Box Scroll of Ultimate Power (1-100),终极之力卷轴幸运箱 (1-100)
+PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,包含随机数量的终极之力卷轴，范围从1到100。
+PROPITEM_TXT_134988,Lucky Box Blessing of the Goddess and the Demon (1-100),女神与恶魔的祝福幸运箱 (1-100)
+PROPITEM_TXT_134989,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.,包含随机数量的女神的祝福或恶魔的祝福，范围从1到100。
 PROPITEM_TXT_134990,Cloak of Equilibrium,均衡披风
 PROPITEM_TXT_134991,"A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.",华美披风，可在活动期间限时赋予佩戴者强力力量；整体调校均衡，提升综合能力。
 PROPITEM_TXT_134992,Cloak of Ascension,飞升披风
@@ -24989,7 +24989,7 @@ PROPITEM_TXT_902194,Ancient pages whisper forbidden secrets of death itself. To 
 PROPITEM_TXT_902195,A crystallized fragment of the death god's essence. It pulses with stolen life.,死神精华的结晶碎片。它随着窃取的生命而脉动。
 PROPITEM_TXT_135020,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)",增加剧团经验获得率50%并增强剧团技能，不受距离限制。允许剧团技能叠加、组合提高它们持续时间，但不影响其效果。当你的剧团达到新的等级将会获得双倍点数。当团长激活它时有效。(持续3天)
 PROPITEM_TXT_135021,Pet's pickup range is increased by 100% for 3 days,宠物拾取范围提升100% ，持续3天
-PROPITEM_TXT_135022,A package containing a random costume in celebration of Black Friday! You can only receive one random item.,A package containing a random costume in celebration of Black Friday! You can only receive one random item.
+PROPITEM_TXT_135022,A package containing a random costume in celebration of Black Friday! You can only receive one random item.,包含一件庆祝黑色星期五的随机时装的礼包！您只能获得一个随机道具。
 PROPITEM_TXT_135023,2025 Black Friday Costume Lucky Box,2025 Black Friday Costume Lucky Box
 PROPITEM_TXT_135024,A package containing various items in celebration of v1.5 update! You can only receive one random item.,A package containing various items in celebration of v1.5 update! You can only receive one random item.
 PROPITEM_TXT_902196,Thanksgiving 2025 10% Blue Set,2025蓝色感恩节套装 10% 移速
@@ -26122,14 +26122,14 @@ PROPITEM_TXT_903249,All-in-One Pet Package,All-in-One Pet Package
 PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.","A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked."
 PROPITEM_TXT_903251,Spring Hunting Package,Spring Hunting Package
 PROPITEM_TXT_903252,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked."
-PROPITEM_TXT_903253,Elixir Select Box A,Elixir Select Box A
-PROPITEM_TXT_903254,Select which Elixir you want to receive!,Select which Elixir you want to receive!
+PROPITEM_TXT_903253,Elixir Select Box A,药剂选择箱 A
+PROPITEM_TXT_903254,Select which Elixir you want to receive!,选择你想要的药剂!
 PROPITEM_TXT_903255,Spring Exp Power Package,Spring Exp Power Package
 PROPITEM_TXT_903256,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.","A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked."
 PROPITEM_TXT_903257,Guardian Easter Bunny Pet Select Box,Guardian Easter Bunny Pet Select Box
 PROPITEM_TXT_903258,Select which Guardian Easter Bunny Pet you want to receive!,Select which Guardian Easter Bunny Pet you want to receive!
 PROPITEM_TXT_903259,Jeff's 2026 Easter Egg,Jeff's 2026 Easter Egg
-PROPITEM_TXT_903260,Good luck Adventurer !,Good luck Adventurer !
+PROPITEM_TXT_903260,Good luck Adventurer !,祝你好运，冒险者！
 PROPITEM_TXT_903261,Pixel Rabbit Pet Select Box,Pixel Rabbit Pet Select Box
 PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,Select which Pixel Rabbit Pet you want to receive!
 PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,PlayPark Community Gathering Giveaway
@@ -26776,7 +26776,7 @@ PROPITEM_TXT_135193,Neigh-Sayer Suit (F),Neigh-Sayer 衣服 (女)
 PROPITEM_TXT_135194,Neigh-Sayer Shoes (F),Neigh-Sayer 鞋子 (女)
 PROPITEM_TXT_135195,Neigh-Sayer Hands (F),Neigh-Sayer 手套 (女)
 PROPITEM_TXT_135196,Red HorseHead Broom,红色马首扫帚
-PROPITEM_TXT_135197,Vroom,飞行扫帚
+PROPITEM_TXT_135197,Vroom,轰鸣
 PROPITEM_TXT_903710,Carnival Master 10% Red Set,红色嘉年华主角套装 10% 移速
 PROPITEM_TXT_903711,Carnival Master Red Popcorn Bucket,红色嘉年华主角爆米花桶
 PROPITEM_TXT_903712,Carnival Master Lion Red Mask,红色嘉年华主角狮子面具
@@ -27033,7 +27033,7 @@ PROPITEM_TXT_903962,Summer 2026 Mycard Promotion Box C,Summer 2026 Mycard Promot
 PROPITEM_TXT_903963,"A package containing 2x Flask Box, 1x Grilled Eel, 2x Power Scroll, 2x Scroll of Resurrection, 2x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box and 1x 2023 Summer 10% Red Set. All items are also linked.","A package containing 2x Flask Box, 1x Grilled Eel, 2x Power Scroll, 2x Scroll of Resurrection, 2x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box and 1x 2023 Summer 10% Red Set. All items are also linked."
 PROPITEM_TXT_903964,Summer 2026 Mycard Promotion Box A,Summer 2026 Mycard Promotion Box A
 PROPITEM_TXT_903965,4th Anniversary Boboko's Lucky Box,4th Anniversary Boboko's Lucky Box
-PROPITEM_TXT_903966,"Who could have possibly put this car into the hands of a completely insane Demian? With its twin horns and dual turbos, this little maniac speeds everywhere, collecting items for its owner along the way!","Who could have possibly put this car into the hands of a completely insane Demian? With its twin horns and dual turbos, this little maniac speeds everywhere, collecting items for its owner along the way!"
+PROPITEM_TXT_903966,"Who could have possibly put this car into the hands of a completely insane Demian? With its twin horns and dual turbos, this little maniac speeds everywhere, collecting items for its owner along the way!",谁这么缺德，把这车给了那个迪米疯子？顶着俩角，装着俩涡轮，这小家伙满世界乱窜，顺道还帮主人捡东西！
 PROPITEM_TXT_903967,Summer Hunting Package,Summer Hunting Package
 PROPITEM_TXT_903968,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.","A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked."
 PROPITEM_TXT_903969,Madrigal Element Package,Madrigal Element Package
@@ -27152,7 +27152,7 @@ PROPITEM_TXT_904081,Blue Fawkes,蓝色天界凤凰
 PROPITEM_TXT_904082,Amethyst Fawkes,紫晶天界凤凰
 PROPITEM_TXT_904083,Magenta Fawkes,洋红天界凤凰
 PROPITEM_TXT_904084,Gold Fawkes,金色天界凤凰
-PROPITEM_TXT_904085,"Blazing across the skies with radiant wings and fiery grace, Fawkes embodies rebirth, courage, and untamed power. This legendary phoenix mount carries its rider through every battle and journey with dazzling speed and an eternal flame that never fades. Maximum Speed: 64 km/h.",展耀翼掠过长空，携烈焰之姿驰骋天际。福克斯象征重生、勇气与不羁之力。这只传说凤凰坐骑载着骑手穿行于每一场战斗与旅途，速度炫目，永燃之火永不熄灭。最高速度：64 公里 / 小时。
+PROPITEM_TXT_904085,"Blazing across the skies with radiant wings and fiery grace, Fawkes embodies rebirth, courage, and untamed power. This legendary phoenix mount carries its rider through every battle and journey with dazzling speed and an eternal flame that never fades. Maximum Speed: 64 km/h.",展耀翼掠过长空，携烈焰之姿驰骋天际。天界凤凰象征重生、勇气与不羁之力。这只传说凤凰坐骑载着骑手穿行于每一场战斗与旅途，速度炫目，永燃之火永不熄灭。最高速度：64 公里 / 小时。
 PROPITEM_TXT_135198,Obtained by defeating monsters.\nCan be exchanged for Music Notes and Music Score Scrolls from the NPC 'Bach' in town,Obtained by defeating monsters.\nCan be exchanged for Music Notes and Music Score Scrolls from the NPC 'Bach' in town
 PROPITEM_TXT_135199,Mysterious Music Score Scroll,神秘乐章
 PROPITEM_TXT_135200,Obtained by defeating monsters with a low chance.\nCan obtain one of the 3 scores at random,击败怪物有概率获得。\n可从3种中随机获得一个。
@@ -27215,7 +27215,7 @@ PROPITEM_TXT_904182,KR Muppet,KR 吉祥玩偶
 PROPITEM_TXT_904185,Concerned Emote,担心
 PROPITEM_TXT_904186,Embarassed Emote,尴尬
 PROPITEM_TXT_904187,Angry Emote,愤怒
-PROPITEM_TXT_904188,Me Me! Emote,Me Me! Emote
+PROPITEM_TXT_904188,Me Me! Emote,Me Me! 
 PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)","Facebook Login issue Compensation Box(7days, FWC Only)"
 PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,This is a package containing rewards for the Facebook login issue.
 PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Facebook Login issue Compensation Box(7days)
