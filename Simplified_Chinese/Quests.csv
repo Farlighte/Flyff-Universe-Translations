@@ -2,24 +2,24 @@
 PROPQUEST_INC_000000,,
 PROPQUEST_INC_010000,Daily,日常
 PROPQUEST_INC_000291,Save the Garden! (Part 1),拯救遗址大作战 一
-PROPQUEST_INC_000292,The Garden of Rhisis is dying! Could you help me?,莱斯庭院快要荒废掉了，为了拯救莱斯庭院，需要找到生命之茶，但之前必须要收集10个碑石工匠的匠人之心。
+PROPQUEST_INC_000292,The Garden of Rhisis is dying! Could you help me?,莱斯庭院快要荒废掉了，你能帮帮我吗？
 PROPQUEST_INC_000293,You need 10 Bearer Hearts from Tombstone Bearers to save the Garden of Rhisis.,你需要从碑石工匠那里获得 10 个匠人之心来拯救莱斯庭院。
 PROPQUEST_INC_000294,Thank you!,谢谢你！
-PROPQUEST_INC_000295,"If you change your mind later, please come back to me!",好不容易才帮她弄到了匠人之心，还以为事情就结束了，没想到她还让我去找珍妮，看来想拯救遗址也不是件容易的事。
-PROPQUEST_INC_000296,Thank you! You should really talk to Janne.,谢谢你！你真的应该和珍妮聊聊！
+PROPQUEST_INC_000295,"If you change your mind later, please come back to me!",如果您以后改变主意，请回来找我！
+PROPQUEST_INC_000296,Thank you! You should really talk to Janne.,谢谢你！你真的应该和珍妮聊聊！（下一步任务：与晨光NPC 珍妮 见面）
 PROPQUEST_INC_000297,Come back when you have the Bearer Hearts.,当你得到匠人之心后，再回来找我。
 PROPQUEST_INC_000298,Save the Garden! (Part 2),拯救遗址大作战 二
-PROPQUEST_INC_000299,You have a message from my sister!,听说有一个神秘的装饰品叫做骨质御碗，它的来历也非常奇特，据说是怪物和人类爱情的结晶。听说现在由金贝利来保管。
-PROPQUEST_INC_000300,I see. The Garden of Rhisis is dying... Could you inform my sister Kimberley?,我知道了。瑞希思的花园快要枯萎了，能请你去告诉我的姐姐金伯利吗
+PROPQUEST_INC_000299,You have a message from my sister!,你收到我姐姐的消息了！
+PROPQUEST_INC_000300,I see. The Garden of Rhisis is dying... Could you inform my sister Kimberley?,我知道了。莱斯庭院快要荒废掉了，能请你去告诉我的姐姐金贝利吗？（下一步任务：与晨光NPC 金贝利 见面）
 PROPQUEST_INC_000302,The problem with the Garden of Rhisis can wait. I guess...,我认为，莱斯庭院的问题可以往后稍稍
-PROPQUEST_INC_000303,Thank you from bringing me this message. I think you should talk to Marche in Eastern Flarine.,谢谢你告诉了我这个消息。我认为你应该去帕里镇东边的玛尔琪聊聊。
-PROPQUEST_INC_000304,You still haven't found Kimberley? She is in Saint City.,你还没有找到金伯利吗？她在晨光镇
+PROPQUEST_INC_000303,Thank you from bringing me this message. I think you should talk to Marche in Eastern Flarine.,谢谢你告诉了我这个消息。我认为你应该去帕里镇东边的玛尔琪聊聊。（下一步任务：与帕里 [魔法商店]玛尔琪 见面）
+PROPQUEST_INC_000304,You still haven't found Kimberley? She is in Saint City.,你还没有找到金贝利吗？她在晨光镇
 PROPQUEST_INC_000308,Save the Garden! (Part 3),拯救遗址大作战 三
 PROPQUEST_INC_000309,The Saint City sisters say that the Garden of Rhisis is dying.,将匠人之心和骨质御碗送给了玛尔琪，她就把散发着奇妙香味的生命之茶拿给了我，并让我回送给安妮。真是很香啊～不知道这东西可不可以吃呢？
-PROPQUEST_INC_000310,Could you bring a Live Tea to Ann? You can find it the east of the Leren Mountains.,你能给安带来一杯生命之茶吗？你可以在乐雅山脉的东边找到安。
+PROPQUEST_INC_000310,Could you bring a Live Tea to Ann? You can find it the east of the Leren Mountains.,你能给安带来一杯生命茶吗？你可以在乐雅山脉的东边找到。
 PROPQUEST_INC_000311,Thank you! If you help her she will give you an Earring.,谢谢！如果你帮助了她，她会送给你一副耳环
-PROPQUEST_INC_000313,I will save the Garden of Rhisis with this tea! Here is an Earring to thank you.,我会用这杯茶来拯救莱斯花园！送给你一副耳环，来表达我对你的感谢。
-PROPQUEST_INC_000314,Bring a Live Tea to Ann at Saint City.,将生命之茶带给晨光的安。
+PROPQUEST_INC_000313,I will save the Garden of Rhisis with this tea! Here is an Earring to thank you.,我会用这杯茶来拯救莱斯庭院！送给你一副耳环，来表达我对你的感谢。
+PROPQUEST_INC_000314,Bring a Live Tea to Ann at Saint City.,将生命之茶带给晨光的安妮。
 PROPQUEST_INC_000422,Find Santa's Socks!,寻找圣诞袜
 PROPQUEST_INC_000423,It is a sad Christmas here in Madrigal. Santa Claus has lost all of the stockings that hold the children's presents! We must find the red stockings!,可怜的圣诞老公公，找不到遗失的圣诞袜…我来努力帮他找找吧！我想那些袜子应该是被怪物拿走了…
 PROPQUEST_INC_000461,A Favor for the Pastor,给牧师的爱心
@@ -38,7 +38,7 @@ PROPQUEST_INC_000479,Acrobat Weaponry,弓箭手的武器
 PROPQUEST_INC_000480,Now it's time for the next step on your path to becoming an Acrobat.,你已经通过第一个测试了，辛苦你了！好，现在开始要进行第2个测试了！
 PROPQUEST_INC_000481,"I want you to return to collect 10 Twinkle Stones from Aibatts in the area, 5 Peakyrinds from Peakyturtles and 1 Slain from Lawolf.",我要你去收集这一带独眼蝠身上的10个发光石、山岭剑龙身上的5个硬壳，以及山地野狼身上的1个狼趾甲。
 PROPQUEST_INC_000482,"Once you've gathered the Twinkle Stones, bring them to Pyre in the north of Flarine.",收集完足够的发光石就把它们带给飞蕊吧，他就在帕里北广场。
-PROPQUEST_INC_000483,Good luck! You're going to need it!,祝你一路顺风喔～
+PROPQUEST_INC_000483,Good luck! You're going to need it!,祝你好运！你会需要它的！
 PROPQUEST_INC_000484,You must like being a Vagrant. It would certainly be a shame if you quit now. I'll be here if you have a change of heart.,你要继续当初心者吗？如果你这么觉得初心者好的话，我也没意见啦！可是、你要记住机会是很难得的喔！
 PROPQUEST_INC_000485,"Thank you for the Twinkle Stones, Apprentice. I will cover Acrobat weaponry with you now. Acrobats are able to wield both Bows and Yo-Yos.",呵呵...看你拿这些东西来，这代表你已经通过训练了，我告诉你关于武器的事情好了。弓箭手的武器有2种，一种是飞轮、另一种是弓箭。
 PROPQUEST_INC_000486,Bows are long range weapons that consume arrows for each shot. The strength of the basic shot is determined by how long you wait before releasing the arrow.,弓箭是远程攻击武器，每一次射击都要消耗弓箭。基础射击的伤害取决于你释放攻击前的蓄力时间。
@@ -77,11 +77,11 @@ PROPQUEST_INC_000521,I doubt you have what it takes to be a Jester if you can't 
 PROPQUEST_INC_000522,You are already on a different path. You cannot become a successor of the Jester Hero.,你没资格走暗杀的路了...
 PROPQUEST_INC_000523,"I'll need to see what you can do before I'll allow your training. Slay $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s southwest of the Gouthan Mountains. They must be regular $QUEST_END_KILL_NAME$s, not the small or captain variety.",在我允许你去训练之前，我需要知道你的实力。请杀死$QUEST_END_KILL_COUNT$个在永恒森林西南部的中型 $QUEST_END_KILL_NAME$怪物。请注意，不是小型或者大型的$QUEST_END_KILL_NAME$怪物。
 PROPQUEST_INC_000525,Successor of Hero - Ring,英雄的后继-戒指
-PROPQUEST_INC_000526,"Here is a Letter of Recommendation. You will need to give this to Radyon, the Jester Wise Man in Flaris.",恭喜你通过测试。拿这个“推荐书”去[亡者之泉]找[暗杀贤者]拉迪温吧！
-PROPQUEST_INC_000527,"Radyon can be found at the Fountain of Dead Person north of the River of Weeping. Before meeting with him, you need to find the ring he lost and return it to him.",不要与[大贤者]雷迪温搞混了喔。你要去找的是[亡者之泉]的[暗杀贤者]拉迪温喔！
-PROPQUEST_INC_000528,"Far to the south of Saint City, lies the Fantasy Desert. It is believed that a gentleman named Ren is in possession of the ring. Slay Ren and bring the ring to Radyon.",你应该要去猎杀，晨光南部[梦幻沙漠]的“莲”，然后把“拉迪温”的戒指找回去给他吧！
-PROPQUEST_INC_000529,I hope I'm right about you. Don't let me down!,祝你一路顺风！
-PROPQUEST_INC_000530,I guess I was wrong about you. You're not ready to walk the path of the successor of the Jester hero. See me again when you think you're ready.,没信心吗？只要有信心没有不可能的任务啦！我相信你一定可以的！
+PROPQUEST_INC_000526,"Here is a Letter of Recommendation. You will need to give this to Radyon, the Jester Wise Man in Flaris.",恭喜你通过测试。拿这个“推荐书”去[亡者之泉]找[智愚贤者]雷迪恩吧！
+PROPQUEST_INC_000527,"Radyon can be found at the Fountain of Dead Person north of the River of Weeping. Before meeting with him, you need to find the ring he lost and return it to him.",[智愚贤者]雷迪恩位于雨之河以北的亡者之泉。在与他见面之前，您需要找到他丢失的戒指并将其归还给他。
+PROPQUEST_INC_000528,"Far to the south of Saint City, lies the Fantasy Desert. It is believed that a gentleman named Ren is in possession of the ring. Slay Ren and bring the ring to Radyon.",据说晨光镇以南，一个名叫莲的家伙拥有这枚戒指。干掉他，把戒指给雷迪恩。
+PROPQUEST_INC_000529,I hope I'm right about you. Don't let me down!,我希望我对你的看法是对的。别让我失望！
+PROPQUEST_INC_000530,I guess I was wrong about you. You're not ready to walk the path of the successor of the Jester hero. See me again when you think you're ready.,我想我错怪你了。你还没准备好走暗杀者英雄的继任者之路。当你认为你准备好了的时候再来见我。
 PROPQUEST_INC_000531,"Is that… the ring? My goodness, thank you so much! This ring belongs to the Jester Hero Curenen. Ren has always wanted to acquire this ring, or so the story goes.",这就是…那个戒指吗？我的天，感激不尽！这个其实是暗杀英雄[凯奈]的戒指。[莲]为了得到它不择手段。
 PROPQUEST_INC_000532,"After the war ended, and Curenen passed on, Ren searched for this ring for hundreds of years. He finally discovered it a couple of years ago.",<凯奈>过世之后，他好像为了找这个戒指找了好几百年，总之～谢谢你啦！
 PROPQUEST_INC_000533,"Have you met Lorein? If you did, you should have something for me. Think carefully.",你有见到<萝丽安>吗？那怎么什么都没带来呢？嗯...她应该会叫你拿东西给我的啊～仔细的想一下啦！
@@ -2713,7 +2713,7 @@ PROPQUEST_INC_150660,Show him my letter. He won’t ignore it.,把我的信交�
 PROPQUEST_INC_150661,"Even for me, this is a big favor to ask. If you feel you’re not ready, you can come back later.",就算对我而言，这也是个不小的请求。如果你觉得还没准备好，可以稍后再来。
 PROPQUEST_INC_150662,Go meet him quickly. He’s… a busy man.,快去见他吧。他…… 可是个大忙人。
 PROPQUEST_INC_150663,"Only a handful of people know I’m here. Who are you, and what do you want?",知道我在此处的人寥寥无几。你是谁，又有何目的？
-PROPQUEST_INC_150664,Deliver “Master’s Letter of Introduction” to [Mysterious] ???,Deliver “导师介绍信” → [未知] ???
+PROPQUEST_INC_150664,Deliver “Master’s Letter of Introduction” to [Mysterious] ???,把 “导师介绍信” → [未知] ???
 PROPQUEST_INC_150665,I see… the power inside you isn’t enough to awaken as a transcendent.,我明白了…… 你体内的力量尚不足以觉醒成为超越者。
 PROPQUEST_INC_150666,"Still, you have the potential to reach a whole new realm.",尽管如此，你依然拥有突破至全新境界的潜力。
 PROPQUEST_INC_150667,[Knight Master] Karandur even wrote you a letter of introduction just to send you to me.,就连 [骑士首领] 卡朗杜都特意为你写了介绍信，把你引荐到我这里。
@@ -2738,7 +2738,7 @@ PROPQUEST_INC_150685,"I need to rest, so go back to the sage who sent you here."
 PROPQUEST_INC_150686,"The ritual definitely worked. Take a bit more time to reflect on yourself, then come to me again.",仪式确实奏效了。再多花点时间审视自我，然后再来找我。
 PROPQUEST_INC_150687,I said you may go now.,我说了，你可以走了。
 PROPQUEST_INC_150688,"Welcome, adventurer. Have you finally awakened?\nThis is my first time seeing a transcendent in person.",欢迎你，冒险者。你终于觉醒了吗？\n这还是我第一次亲眼见到超越者。
-PROPQUEST_INC_150689,"You say you haven’t awakened, yet I can clearly sense your power.\nSo, what happened?","You say you haven’t awakened,可我能清晰地感受到你的力量。\n那么，发生了什么事？"
+PROPQUEST_INC_150689,"You say you haven’t awakened, yet I can clearly sense your power.\nSo, what happened?","你说你没有觉醒,可我能清晰地感受到你的力量。\n那么，发生了什么事？"
 PROPQUEST_INC_150690,"I see. So that’s how it went.\nYou may not have become a transcendent, but I’ll give you a small gift to celebrate your new strength.",原来如此，事情是这样啊。\n你虽未成为超越者，但我还是送你一份薄礼，庆贺你获得新的力量。
 PROPQUEST_INC_150691,I look forward to seeing what you do next.,我很期待看你接下来的表现。
 PROPQUEST_INC_150692,Go to [Sage] Radyon,前往 [智愚贤者] 雷迪恩 处。
@@ -2755,88 +2755,88 @@ PROPQUEST_INC_150803,No problem. Come back if you want to join the celebration!,
 PROPQUEST_INC_150804,Here is your banner. Use it to collect letters and win rewards. Happy Anniversary!,这是你的横幅。用它收集字母，赢取奖励。周年快乐！
 PROPQUEST_INC_155001,Chapter Ex) Dungeon,章节示例) 副本
 PROPQUEST_INC_155002,Something Is Very Wrong with the Plants,植物有些非常不对劲
-PROPQUEST_INC_155003,"Something's wrong in the fields. Farmers are panicking, claiming crops are walking around and attacking them.",农田里出了事。农户们惊慌失措，说庄稼会自己走动，还会攻击人。
-PROPQUEST_INC_155004,"Rumors are spreading faster than weeds, and I don't like rumors.",流言传得比野草还快，而我不喜欢流言。
-PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. He hasn't returned from the fields. He must know something.",这场令人作呕的战争总算要结束了，我不会让这种传言拖垮我们。去找娅苗。他还没从田里回来，一定知道些什么。
-PROPQUEST_INC_155006,"Good. Keep your eyes open and your weapon ready.\nIf this is just rotten soil, fine. If it's something worse, I want to know immediately.",很好。睁大眼睛，武器备好。\n如果只是土壤腐坏，那还好。如果是更糟的东西，我要立刻知道。
-PROPQUEST_INC_155007,"Hmph. I won't force you.\nBut if this turns into a real problem, the village could be in danger.",哼。我不会强迫你。\n但如果这事真闹大了，村庄可能会有危险。
-PROPQUEST_INC_155008,"O-oh! You're from the guard, r-right?\nI-I swear, it's not just bad farming! The mushrooms just... changed.\nS-something's not right, I'm telling you...",啊-啊！你是卫队的，对-对吧？\n我-我发誓，这不只是种坏了！蘑菇就……变了。\n有-有什么不对劲，我说真的……
-PROPQUEST_INC_155009,You can reach the farm through that portal over there.\nFind out what's happening. Worry won't fix this answers will.,从那边的传送门就能到农场。\n去查明发生了什么。光担心解决不了问题，答案才能。
-PROPQUEST_INC_155010,Go find Sprout. He hasn't returned from the fields he must know something.,去找娅苗。他还没从田里回来，一定知道些什么。
+PROPQUEST_INC_155003,"Something's wrong in the fields. Farmers are panicking, claiming crops are walking around and attacking them.",农田里出事了！农户们惊慌失措，说庄稼会自己走动，还会攻击人！
+PROPQUEST_INC_155004,"Rumors are spreading faster than weeds, and I don't like rumors.",流言传得比野草还快，而我不喜欢流言......
+PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. He hasn't returned from the fields. He must know something.",这场令人作呕的战争总算要结束了，我不会让这种传言拖垮我们！去找娅苗，娅苗还没从田里回来，一定知道些什么。
+PROPQUEST_INC_155006,"Good. Keep your eyes open and your weapon ready.\nIf this is just rotten soil, fine. If it's something worse, I want to know immediately.",很好。睁大眼睛，备好武器。\n如果只是土壤腐坏，那还好。如果是更糟的东西，我得立刻查明！
+PROPQUEST_INC_155007,"Hmph. I won't force you.\nBut if this turns into a real problem, the village could be in danger.",哼。我不会强迫你。\n但如果这事真闹大了，村庄可能会有危险！
+PROPQUEST_INC_155008,"O-oh! You're from the guard, r-right?\nI-I swear, it's not just bad farming! The mushrooms just... changed.\nS-something's not right, I'm telling you...",啊-啊！你是卫队的人，对-对吧？\n我-我发誓，这不只是种坏了！蘑菇不知怎的就……变了。\n一定有-有什么不对劲，我说真的……
+PROPQUEST_INC_155009,You can reach the farm through that portal over there.\nFind out what's happening. Worry won't fix this answers will.,从那边的传送门就能直达农场。\n去查明发生了什么。光担心解决不了问题，找到答案才能。
+PROPQUEST_INC_155010,Go find Sprout. He hasn't returned from the fields he must know something.,去找娅苗。娅苗还没从田里回来，一定知道些什么。
 PROPQUEST_INC_155011,Sprout Has a Bad Feeling About This,娅苗有种不祥的预感
 PROPQUEST_INC_155012,P-please help me! I-I can't go back to the village like this!\nWh-what if those things show up again? I-I won't make it on my own...,求-求你帮帮我！我-我不能就这样回村子里去！\n万-万一那些东西又出现了怎么办？我-我一个人撑不下去……
-PROPQUEST_INC_155013,"R-really? You'll walk with me?\nTh-thank you... j-just stay close, okay? The portal's right over there...",真-真的吗？你愿意陪我走？\n谢-谢谢你……就-就待在我旁边，好吗？传送门就在那边……
+PROPQUEST_INC_155013,"R-really? You'll walk with me?\nTh-thank you... j-just stay close, okay? The portal's right over there...",真-真的吗？你愿意带我走？\n谢-谢谢你……就-就别离开我，好吗？传送门就在那边……
 PROPQUEST_INC_155014,O-oh... I s-see...\nI-I guess I'll j-just... hide here until something eats me...,哦-哦……我-我明白了……\n我-我想我-我就……躲在这里，直到被什么东西吃掉吧……
 PROPQUEST_INC_155015,"P-please don't leave me behind...\nI-I can see the portal, b-but my legs won't move...",求-求你别丢下我……\n我-我能看见传送门，可-可是我的腿动不了……
 PROPQUEST_INC_155016,"You made it back safely... good.\nSprout, take a breath. Now tell me everything, slowly.",你平安回来了……很好。\n娅苗，喘口气。现在把一切慢慢告诉我。
 PROPQUEST_INC_155017,Rescue Sprout and escort him back to the portal.,救出娅苗，并护送他回到传送门。
 PROPQUEST_INC_155018,"Noises, Nightmares, and a Bad Hunch",声响、噩梦与不祥的预感
-PROPQUEST_INC_155019,"I've heard enough. Strange noises at night, farmers too afraid to sleep and now they're seeing crops that move and attack.",我听够了。夜里传来奇怪的声响，农户们吓得不敢睡觉，现在又说看见了会走动、会攻击人的庄稼。
+PROPQUEST_INC_155019,"I've heard enough. Strange noises at night, farmers too afraid to sleep and now they're seeing crops that move and attack.",我听够了！夜里传来的奇怪声响，搞得农户们吓得不敢睡觉......现在大伙又说看见了会走动、会攻击人的庄稼。
 PROPQUEST_INC_155020,This isn't a coincidence. Something is stirring out there.,这不是巧合。外面有什么东西在蠢蠢欲动。
-PROPQUEST_INC_155021,"I need facts, not panic.\nCheck the nearby fields and woods. Listen. Observe.\nWe gathered everyone who worked there except two: Thorn and the doctor.\nThorn's strong. If anyone's still holding out against those mutations, it's him.\nFind him, and help if you can.",我要的是事实，不是恐慌。\n去附近的农田和树林查探。听。观察。\n在那里干活的人我们都聚齐了，只差两个：索棘和医生。\n索棘很强。如果还有人能顶住那些变异，那就是他。\n找到他，能帮就帮。
-PROPQUEST_INC_155022,"I won't push you.\nBut if we ignore this, the next scream might come from inside the village.",我不会勉强你。\n但如果我们坐视不管，下一声尖叫可能就来自村子里了。
-PROPQUEST_INC_155023,Don't rush in blindly.\nPay attention to what you hear and see and find Thorn. He won't stay quiet if something's wrong.,别盲目冲进去。\n留意你的所见所闻，找到索棘。要真出了事，他不会一声不吭。
-PROPQUEST_INC_155024,"So the guard finally noticed, huh.\nTook you long enough. If you want answers, you'd better be ready to hear them.",卫队总算注意到了啊。\n你们花了够久的时间。想要答案的话，最好做好听的准备。
+PROPQUEST_INC_155021,"I need facts, not panic.\nCheck the nearby fields and woods. Listen. Observe.\nWe gathered everyone who worked there except two: Thorn and the doctor.\nThorn's strong. If anyone's still holding out against those mutations, it's him.\nFind him, and help if you can.",我要的是事实，不是恐慌！\n去附近的农田和树林查探。仔细听，仔细看。\n在那里干活的人我们都聚齐了，除了两个：索棘和根须博士。\n索棘很强，如果还有人能顶住那些变异的家伙，那就是他。\n找到他，能帮就帮！
+PROPQUEST_INC_155022,"I won't push you.\nBut if we ignore this, the next scream might come from inside the village.",我不会勉强你。\n但如果我们坐视不管，下一次，哀嚎可能就来自村子里了！
+PROPQUEST_INC_155023,Don't rush in blindly.\nPay attention to what you hear and see and find Thorn. He won't stay quiet if something's wrong.,别盲目冲进去！\n留意你的所见所闻，找到索棘。要真出了事，他不会一声不吭。
+PROPQUEST_INC_155024,"So the guard finally noticed, huh.\nTook you long enough. If you want answers, you'd better be ready to hear them.",卫队总算注意到了啊......\n你们花了够久的时间。想要答案的话，最好做好听的准备。
 PROPQUEST_INC_155025,Find Thorn in the fields.,在农田里找到索棘。
 PROPQUEST_INC_155026,Thorn Is Angry for a Reason,索棘的愤怒自有原因
-PROPQUEST_INC_155027,"You. Good.\nIf the guard wants a report, they'll get one but I'm not walking back alone.\nSomething out there is watching the fields... and I'm not letting it touch my people.",是你。很好。\n卫队要报告，我会给，但我不会一个人走回去。\n外面有什么东西在盯着农田……我不会让它碰我的人。
-PROPQUEST_INC_155028,"Doctor is still out there! Hrr... Alright. Stay sharp and stay close.\nWe're heading to the portal. If anything moves that shouldn't, you put it down.\nAnd if I start yelling, don't take it personal-just keep walking.",医生还在外面！哼……好吧。保持警惕，跟紧我。\n我们往传送门走。要是有不该动的东西动了，你就把它放倒。\n还有，要是我开始吼，别往心里去——继续走就是了。
-PROPQUEST_INC_155029,"Tch. Typical.\nFine. I'll go myself. If I don't make it back, tell Baron he can be angry at a grave.",啧。果然如此。\n行。我自己走。要是我回不来，告诉巴伦，他可以对着一座坟生气。
-PROPQUEST_INC_155030,"Stop staring and start moving.\nThe portal's not going to walk to us and neither are the monsters, if we're lucky.",别盯着看了，动起来。\n传送门不会自己走到我们面前，运气好的话怪物也不会。
-PROPQUEST_INC_155031,"You brought Thorn back safely. Good work.\nThorn, tell me what you know. One person is still out there, and we need to bring her back.\nI need information.",你把索棘平安带回来了。干得好。\n索棘，把你知道的告诉我。还有一个人留在那边，我们必须把她带回来。\n我需要情报。
+PROPQUEST_INC_155027,"You. Good.\nIf the guard wants a report, they'll get one but I'm not walking back alone.\nSomething out there is watching the fields... and I'm not letting it touch my people.",是你来了，好。\n卫队要报告，我会给，但我不会一个人回去。\n外面有什么东西在盯着农田……我不会让它碰我的人！
+PROPQUEST_INC_155028,"Doctor is still out there! Hrr... Alright. Stay sharp and stay close.\nWe're heading to the portal. If anything moves that shouldn't, you put it down.\nAnd if I start yelling, don't take it personal-just keep walking.",博士还在外面！哼……好吧。保持警惕，跟紧了。\n我们往传送门走。要是有不该动的东西动了，你就把它放倒。\n还有，要是我开始大喊，别分心——继续走就是了。
+PROPQUEST_INC_155029,"Tch. Typical.\nFine. I'll go myself. If I don't make it back, tell Baron he can be angry at a grave.",切，果然如此。\n行。我自己走。要是我回不来，告诉巴伦，他大可对着一座坟生气。
+PROPQUEST_INC_155030,"Stop staring and start moving.\nThe portal's not going to walk to us and neither are the monsters, if we're lucky.",别盯着看了，动起来! \n传送门不会自己走到我们面前，运气好的话怪物也不会。
+PROPQUEST_INC_155031,"You brought Thorn back safely. Good work.\nThorn, tell me what you know. One person is still out there, and we need to bring her back.\nI need information.",你把索棘平安带回来了。干得好! \n索棘，把你知道的告诉我。还有一个人留在那边，我们必须把她带回来。\n我需要情报。
 PROPQUEST_INC_155032,Rescue Thorn and escort him back to the portal.,救出索棘，并护送他回到传送门。
 PROPQUEST_INC_155033,Rotten Crops and Rotter Truths,腐烂的庄稼与更腐烂的真相
-PROPQUEST_INC_155034,"Damn it... this just keeps getting worse.\nLike I said to Baron, the doctor Root went deeper into the fields to check the crops and hasn't come back yet.",该死……情况越来越糟了。\n就像我跟巴伦说的，根须博士为了检查庄稼深入了农田，到现在还没回来。
-PROPQUEST_INC_155035,"She's stubborn, but not careless.\nIf she's still out there, something's holding her up. Go find her and please bring her back-before this gets uglier.",她固执，但不粗心。\n如果她还在外面，一定是被什么绊住了。去找她，务必把她带回来——趁事情还没变得更糟。
-PROPQUEST_INC_155036,"Tch... figures.\nIf the doctor gets hurt out there, that's on all of us.",啧……意料之中。\n如果医生在外面出了事，那是我们所有人的责任。
-PROPQUEST_INC_155037,"Don't waste time.\nIf Root's still digging around in that mess, she's walking straight into trouble.",别浪费时间。\n如果鲁特还在那堆烂摊子里翻找，她就是在自找麻烦。
+PROPQUEST_INC_155034,"Damn it... this just keeps getting worse.\nLike I said to Baron, the doctor Root went deeper into the fields to check the crops and hasn't come back yet.",该死……情况越来越糟了! \n就像我跟巴伦说的，根须博士为了研究那些变异的作物深入了农田，到现在还没回来！
+PROPQUEST_INC_155035,"She's stubborn, but not careless.\nIf she's still out there, something's holding her up. Go find her and please bring her back-before this gets uglier.",她是固执，但不粗心。\n如果她还在外面，一定是被什么绊住了。去找她，务必把她带回来——趁事情还没变得更糟。
+PROPQUEST_INC_155036,"Tch... figures.\nIf the doctor gets hurt out there, that's on all of us.",切……意料之中。\n如果博士在外面出了事，那是我们所有人的责任！
+PROPQUEST_INC_155037,"Don't waste time.\nIf Root's still digging around in that mess, she's walking straight into trouble.",别浪费时间。\n如果博士还在那堆烂摊子里翻找答案，她就是在自找麻烦！
 PROPQUEST_INC_155038,"Ah, so the guards in town finally noticed something...\nFascinating, isn't it? The crops here aren't simply rotting-they're changing.\nNow that you're here, we should report this immediately.",啊，镇上的卫队总算察觉到什么了……\n很有意思，不是吗？这里的庄稼不是在单纯地腐烂——它们在变异。\n既然你来了，我们应该立刻上报这件事。
 PROPQUEST_INC_155039,"Find Dr. Root, who has been studying the plant mutations.",找到一直在研究植物变异的根须博士。
 PROPQUEST_INC_155040,"Digging Too Deep, Literally",挖得太深了，字面意义上的
-PROPQUEST_INC_155041,...This is unexpected.\nSomething beneath the soil is actively reacting to your presence.\nI need time to observe it. This may be the key to restoring everything to peace.,……这出乎意料。\n土壤深处有什么东西正在对你的出现产生反应。\n我需要时间观察它。这可能是让一切恢复平静的关键。
-PROPQUEST_INC_155042,"I'll remain here and focus on the readings.\nFor three minutes, do not let anything interrupt me. If these creatures get too close, the data will be compromised.",我留在这里专心记录数据。\n三分钟内，别让任何东西打扰我。如果这些生物靠得太近，数据就会受影响。
+PROPQUEST_INC_155041,...This is unexpected.\nSomething beneath the soil is actively reacting to your presence.\nI need time to observe it. This may be the key to restoring everything to peace.,……这太出乎意料了。\n土壤深处有什么东西正在对你的出现做出反应。\n我需要时间观察它们。这可能是让一切恢复祥和的关键。
+PROPQUEST_INC_155042,"I'll remain here and focus on the readings.\nFor three minutes, do not let anything interrupt me. If these creatures get too close, the data will be compromised.",我留在这里专心记录数据。\n三分钟内！别让任何东西打扰到我！如果这些生物靠得太近，数据就会受到影响。
 PROPQUEST_INC_155043,"I understand.\nHowever, this opportunity may not present itself again. That would be... unfortunate.",我明白。\n不过，这样的机会可能不会再有第二次。那未免……太可惜了。
-PROPQUEST_INC_155044,"Please stay alert.\nThe closer I get to the source, the more aggressive the surrounding organisms become.",请保持警惕。\n我越接近源头，周围的生物就变得越具攻击性。
-PROPQUEST_INC_155045,...That's enough. I've seen what I needed to see.\nThis isn't a natural mutation. Something is deliberately altering these plants.\nWe can't stay here any longer. We need to move-now.,……够了。我看到了需要看的东西。\n这不是自然变异。有什么东西在蓄意改造这些植物。\n我们不能在这里再待下去了。得马上转移——现在。
+PROPQUEST_INC_155044,"Please stay alert.\nThe closer I get to the source, the more aggressive the surrounding organisms become.",务必保持警惕。\n我越接近源头，周围的生物就变得越具攻击性。
+PROPQUEST_INC_155045,...That's enough. I've seen what I needed to see.\nThis isn't a natural mutation. Something is deliberately altering these plants.\nWe can't stay here any longer. We need to move-now.,……证据足够了。我看到了需要的东西！\n这不是自然变异！有什么东西在刻意改造这些植物。\n我们不能在这里再待下去了。得马上转移——现在！
 PROPQUEST_INC_155046,Protect Dr. Root for 3 minutes while she collects data.,在根须博士收集数据的3分钟内保护她。
 PROPQUEST_INC_155047,Escort the Evidence,护送证据
-PROPQUEST_INC_155048,"Like I just said, we should not stay here any longer.\nThe activity beneath the soil is escalating faster than expected.\nWe need to relocate before it becomes impossible.",就像我刚才说的，我们不该再在这里待下去。\n土壤下的活动加剧得比预期更快。\n我们必须在走不了之前转移。
+PROPQUEST_INC_155048,"Like I just said, we should not stay here any longer.\nThe activity beneath the soil is escalating faster than expected.\nWe need to relocate before it becomes impossible.",就像我刚才说的：我们不该在这里继续待下去了。\n土壤下的活动加剧得比预期更快。\n我们必须在被困住之前转移。
 PROPQUEST_INC_155049,"Good. I'll follow your lead.\nIf anything approaches us, remove it quickly. I can't afford another interruption.",好的。我跟着你走。\n要是有东西靠近我们，迅速解决掉。我经不起再一次中断了。
 PROPQUEST_INC_155050,...I see.\nThen I'll wait here a little longer. Just be aware every minute increases the risk.,……我明白了。\n那我就在这里再多等一会儿。但要清楚，每多待一分钟，风险就增加一分。
-PROPQUEST_INC_155051,"Don't slow down for me.\nThese creatures are reacting to the information I'm carrying, not to you.",别为我放慢脚步。\n这些生物是针对我携带的信息产生反应，不是针对你。
-PROPQUEST_INC_155052,"You made it out alive and with the doctor. Good.\nDr. Root, start from the beginning. If this is what I think it is, we don't have much time.",你活着出来了，还带着医生。很好。\n根须博士，从头说起吧。如果真是我所想的那样，我们的时间不多了。
+PROPQUEST_INC_155051,"Don't slow down for me.\nThese creatures are reacting to the information I'm carrying, not to you.",别为我放慢脚步！\n这些生物是针对我携带的信息产生反应，不是针对你。
+PROPQUEST_INC_155052,"You made it out alive and with the doctor. Good.\nDr. Root, start from the beginning. If this is what I think it is, we don't have much time.",你活着出来了，还带博士回来了。很好！\n根须博士，从头说起吧。如果真是我所想的那样，我们的时间不多了。
 PROPQUEST_INC_155053,Escort Dr. Root safely through the portal.,护送根须博士安全穿过传送门。
 PROPQUEST_INC_155054,Shiny Bits from Very Angry Things,来自愤怒生物的闪亮碎片
-PROPQUEST_INC_155055,"So it's confirmed. Those things aren't just wild animals anymore.\nIf they're changing this fast, we need proof of what is in charge of all this and we need it now.",这就确认了。那些东西不再只是普通野兽了。\n如果它们变异得这么快，我们需要证据来证明幕后主使——而且是现在就要。
-PROPQUEST_INC_155056,"Please take down the creatures deep inside the fields and bring back whatever's left of them.\nI don't care how ugly it looks. If it moved, it matters.",请除掉农田深处的那些生物，把它们剩下的部分带回来。\n我不在乎有多难看。只要它动过，就有意义。
+PROPQUEST_INC_155055,"So it's confirmed. Those things aren't just wild animals anymore.\nIf they're changing this fast, we need proof of what is in charge of all this and we need it now.",所以可以确定，那些东西不再只是普通的田间野兽了。\n如果它们变异得这么快，我们需要证据来证明幕后主使——而且是现在就要。
+PROPQUEST_INC_155056,"Please take down the creatures deep inside the fields and bring back whatever's left of them.\nI don't care how ugly it looks. If it moved, it matters.",请除掉农田深处的那些东西，把它们剩下的部分带回来。\n我不在乎有多难看。只要它动过，就有意义。
 PROPQUEST_INC_155057,...I won't force you.\nBut please understand this every one of those things left alive puts the village at risk.,……我不会强迫你。\n但请明白，那些东西每活下来一个，村子就多一分危险。
 PROPQUEST_INC_155058,"Don't hesitate.\nThe longer they roam free, the bolder they'll get.",别犹豫。\n它们逍遥得越久，就会越猖狂。
-PROPQUEST_INC_155059,...So this is what we're dealing with.\nThat's no ordinary monster tissue. This confirms it we're facing something unnatural.,……原来我们要对付的是这个。\n这不是普通的怪物组织。这证实了——我们在面对某种非自然的东西。
+PROPQUEST_INC_155059,...So this is what we're dealing with.\nThat's no ordinary monster tissue. This confirms it we're facing something unnatural.,……原来我们要对付的是这个。\n这不是普通的怪物。这证实了——我们在面对某种非自然的东西。
 PROPQUEST_INC_155060,Hunt 30 Nightmyst and collect 5 Mutated Vine Cores.,猎杀30只夜隐，并收集5个变异藤蔓核心。
 PROPQUEST_INC_155061,That Smell Is Definitely Not Normal,那股味道绝对不正常
-PROPQUEST_INC_155062,I don't know how to put this... but something's wrong.\nThere's a smell coming from deeper inside. Not rot something sharper.,我不知道该怎么说……但有些不对劲。\n更深处传来一股气味。不是腐臭，而是更刺鼻的味道。
-PROPQUEST_INC_155063,"I can't be sure what it is, but I've smelled it before.\nWhen something isn't meant to exist.\nGo to Elder Silar. If anyone can make sense of this, it's him.",我不能确定那是什么，但我以前闻到过。\n当某种不该存在的东西出现时。\n去找西拉长者。如果有谁弄得了这事，那就是他。
+PROPQUEST_INC_155062,I don't know how to put this... but something's wrong.\nThere's a smell coming from deeper inside. Not rot something sharper.,我不知道该怎么说……但有些不对劲。\n从更深处传来了一股气味。不是腐臭，而是更刺鼻的味道。
+PROPQUEST_INC_155063,"I can't be sure what it is, but I've smelled it before.\nWhen something isn't meant to exist.\nGo to Elder Silar. If anyone can make sense of this, it's him.",我不能确定那是什么，但我以前闻到过。\n当某种不该存在的东西出现时。\n去找[长者]西拉。现在只有他能弄清这事。
 PROPQUEST_INC_155064,...Very well.\nJust remember this isn't just about a bad smell. Someone will have to face it sooner or later.,……好吧。\n但要记住，这不只是难闻的问题。迟早有人得去面对它。
-PROPQUEST_INC_155065,Don't ignore it.\nThat stench isn't natural and it's getting stronger.,别不当回事。\n那股恶臭不自然，而且越来越浓了。
+PROPQUEST_INC_155065,Don't ignore it.\nThat stench isn't natural and it's getting stronger.,别不当回事。\n那股恶臭非同寻常，而且越来越浓了。
 PROPQUEST_INC_155066,"...The stench of beasts fills the air.\nThis is no ordinary decay. Something is being twisted by force.\nIf we are to understand it, we'll need more samples.",……空气中弥漫着野兽的恶臭。\n这不是普通的腐烂。有什么东西正在被强行扭曲。\n要想弄清它，我们需要更多样本。
-PROPQUEST_INC_155068,Meet Elder Silar and hand over the Mutated Vine Cores.,与西拉长者会面，并交出变异藤蔓核心。
-PROPQUEST_INC_155069,Research Requires Excessive Violence,研究需要过量的暴力
+PROPQUEST_INC_155068,Meet Elder Silar and hand over the Mutated Vine Cores.,与长者]西拉会面，并交出变异藤蔓核心。
+PROPQUEST_INC_155069,Research Requires Excessive Violence,研究需要绝对的暴力
 PROPQUEST_INC_155070,The truth won't reveal itself willingly.\nWe'll have to force it out.,真相不会主动现身。\n我们只能把它逼出来。
-PROPQUEST_INC_155071,Bring me samples from the creatures inside.\nTwenty should suffice. Only then can I determine what we are truly facing.,给我带来里面那些生物的样本。\n二十份应该够了。只有这样，我才能确定我们真正面对的是什么。
+PROPQUEST_INC_155071,Bring me samples from the creatures inside.\nTwenty should suffice. Only then can I determine what we are truly facing.,给我带些里面那些东西的样本回来。\n二十份应该够了。只有这样，我才能确定我们真正面对的是什么。
 PROPQUEST_INC_155072,I see.\nThen we remain in the dark and darkness is rarely merciful.,我明白了。\n那我们就只能继续蒙在鼓里——而黑暗很少仁慈。
-PROPQUEST_INC_155073,Do not hesitate.\nThese creatures are no longer part of the natural order.,别犹豫。\n这些生物已经不属于自然秩序的一部分了。
+PROPQUEST_INC_155073,Do not hesitate.\nThese creatures are no longer part of the natural order.,别犹豫。\n这些生物已经不属于自然规律的一部分了。
 PROPQUEST_INC_155074,"...So this confirms it.\nThe corruption is spreading, but it is being guided drawn toward something.\nIf this continues, it will reach the heart of the farm, then flood into village.",……这下证实了。\n腐蚀正在蔓延，而且是被引向某个方向。\n再这样下去，它会蔓延到农场中心，然后涌入村庄。
 PROPQUEST_INC_155075,"Collect 20 booty items each from Mushbro, Blossom, Oldroot, Minimusha, Lady Bloom, and Nightmyst.",从布罗菇、花灵、古老根须、小蘑菇莎、花爵夫人和夜隐身上各收集20个战利品。
 PROPQUEST_INC_155076,Drop Everything and Move,放下一切，立刻转移
-PROPQUEST_INC_155077,This is beyond research now.\nWhatever is causing this is gathering strength and it's doing so quickly.,这已经超出研究的范畴了。\n引发这一切的东西正在积聚力量，而且速度很快。
-PROPQUEST_INC_155078,"You must inform Captain Baron immediately.\nIf we delay any longer, the village itself will be at risk.",你必须立刻通知巴伦队长。\n再拖下去，村庄本身就危险了。
-PROPQUEST_INC_155079,...Then we will lose the little time we have left.\nI strongly advise against hesitation.,……那我们就会浪费掉所剩无几的时间。\n我强烈建议你不要犹豫。
+PROPQUEST_INC_155077,This is beyond research now.\nWhatever is causing this is gathering strength and it's doing so quickly.,这已经超出研究的范畴了！\n引发这一切的东西正在积聚力量，而且速度很快。
+PROPQUEST_INC_155078,"You must inform Captain Baron immediately.\nIf we delay any longer, the village itself will be at risk.",你必须立刻通知巴伦队长。\n再拖下去，整个村庄都要陷入危险了。
+PROPQUEST_INC_155079,...Then we will lose the little time we have left.\nI strongly advise against hesitation.,……那样会浪费掉我们所剩无几的时间。\n我真心希望你不要再犹豫了。
 PROPQUEST_INC_155080,Go.\nEvery moment we waste gives it more time to grow.,快去。\n我们每浪费一刻，它就多一分壮大的时间。
-PROPQUEST_INC_155081,"...So it's reached that point.\nThen we don't wait. We move now.\nAll units, prepare yourselves. This ends today.",……已经到这一步了吗。\n那就不再等了。现在就行动。\n全体人员，做好准备。今天就做个了断。
-PROPQUEST_INC_155082,Report Elder Silar's findings to Captain Baron at his post.,到岗位上向巴伦队长报告西拉长者的发现。
+PROPQUEST_INC_155081,"...So it's reached that point.\nThen we don't wait. We move now.\nAll units, prepare yourselves. This ends today.",……已经到这一步了吗？\n那就不能再等了，现在就行动。\n全体人员，做好准备。今天就做个了断。
+PROPQUEST_INC_155082,Report Elder Silar's findings to Captain Baron at his post.,向巴伦队长报告[长者]西拉的发现。
 PROPQUEST_INC_155083,One Last Favor Before Total Disaster,全面灾难前的最后请求
 PROPQUEST_INC_155084,This is it.\nEverything we've seen leads here.,就是这里了。\n我们看到的一切都指向此处。
-PROPQUEST_INC_155085,"No more waiting. No more guesses.\nYou go in, find the source, and end it.\nWe'll hold the line out here.",不再等待，不再猜测。\n你进去，找到源头，终结它。\n我们在外面守住防线。
+PROPQUEST_INC_155085,"No more waiting. No more guesses.\nYou go in, find the source, and end it.\nWe'll hold the line out here.",不用等了，也不再猜了。\n你进去，找到源头，终结它。\n我们在外面守住防线。
 PROPQUEST_INC_155086,"...I won't push you.\nBut once you step back, there may not be another chance.",……我不会勉强你。\n但你一旦退缩，可能就不会再有第二次机会了。
 PROPQUEST_INC_155087,"The entrance is unstable.\nOnce you go in, don't expect an easy way out.",入口很不稳定。\n一旦进去，就别指望能轻松出来。
 PROPQUEST_INC_155088,So... it's over. At least for now.\nYou did well. Whatever was nesting in there won't threaten us again.,那么……结束了。至少暂时如此。\n你做得很好。盘踞在里面的东西不会再威胁我们了。
@@ -2844,25 +2844,25 @@ PROPQUEST_INC_155089,"...But the fields are still ruined.\nNo crops, no food-thi
 PROPQUEST_INC_155090,"We'll have to adapt. Find new ingredients, new methods... maybe even new recipes to cook what we have.\nWhen the time comes, I'll need your help again.",我们得想办法适应。寻找新的食材、新的方法……也许还得有新食谱来料理现有的东西。\n到时候，我还需要你的帮助。
 PROPQUEST_INC_155091,Hunt [Queen of Thorns] Entaness inside the dungeon.,在副本内猎杀[荆棘女王] 恩塔妮丝。
 PROPQUEST_INC_155092,Escorting the Nervous Farmer,护送紧张的农夫
-PROPQUEST_INC_155093,"O-oh… it’s you again. I-I know I should be used to this by now, b-but I really don’t like walking alone…",啊-哦……又是你。我-我知道我早该习惯了，可-可我真的很不喜欢一个人走……
-PROPQUEST_INC_155094,"Y-you’ll walk with me, r-right? Th-thank you… j-just don’t leave me behind, okay?",你-你会陪我走，对-对吧？谢-谢谢你……就-就别丢下我，好吗？
+PROPQUEST_INC_155093,"O-oh… it’s you again. I-I know I should be used to this by now, b-but I really don’t like walking alone…",啊-哦……又是你。我-我知道我早该习惯了，可-可我真的很不喜欢一个人行动……
+PROPQUEST_INC_155094,"Y-you’ll walk with me, r-right? Th-thank you… j-just don’t leave me behind, okay?",你-你会带我走，对-对吧？谢-谢谢你……就-就别丢下我，好吗？
 PROPQUEST_INC_155095,O-oh… I s-see… I-I guess I’ll wait here a bit longer… maybe it’ll be safer later…,哦-哦……我-我明白了……我-我想我就在这里再等一会儿吧……也许过会儿会更安全……
 PROPQUEST_INC_155096,Aah! D-don't leave me here! I-I knew this was a mistake... I-I'm going back to hide in the village b-before something eats me!,啊！别-别把我丢在这里！我-我就知道这是个错误……我-我要回村子里躲起来，趁-趁还没被什么东西吃掉！
-PROPQUEST_INC_155097,"Sprout made it back safely. Good. He’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it.",娅苗平安回来了。很好。他受了点惊吓，但没有受伤——这才是最重要的。你已经尽了自己的一份力。村子感激你。
+PROPQUEST_INC_155097,"Sprout made it back safely. Good. He’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it.",娅苗平安回来了。很好。虽然受了点惊吓，但没有受伤——这才是最重要的。你已经尽了自己的一份力。村子感激你。
 PROPQUEST_INC_155098,Escort Sprout safely to Baron.,护送娅苗安全抵达巴伦处。
 PROPQUEST_INC_155099,Walking with a Short Fuse,与暴脾气同行
-PROPQUEST_INC_155100,"Great. Just the person I was hoping to see. I need to get back, and I’m not in the mood to deal with trouble alone.",好啊。正想见你呢。我得回去了，可没心情一个人应付麻烦。
+PROPQUEST_INC_155100,"Great. Just the person I was hoping to see. I need to get back, and I’m not in the mood to deal with trouble alone.",好啊，正想见你呢。我得回去了，可没心情一个人应付麻烦。
 PROPQUEST_INC_155101,"Alright. Stay sharp. If something jumps out, I’ll handle the front—you watch my back.",行。保持警惕。要是有东西跳出来，我对付前面——你掩护后方。
-PROPQUEST_INC_155102,Tch. Figures. Fine. I’ll make the walk myself. Wouldn’t be the first time.,啧。果然。行吧。我自己走回去。又不是第一次了。
-PROPQUEST_INC_155103,Tch. I knew I couldn't count on the guard. You're just dead weight. I'll make it back myself and don't expect me to be quiet about this.,啧。我就知道指望不上卫队。你纯粹是个累赘。我自己能走回去，这事我也不会替你瞒着。
+PROPQUEST_INC_155102,Tch. Figures. Fine. I’ll make the walk myself. Wouldn’t be the first time.,切，果然。行吧，我自己走回去。又不是第一次了。
+PROPQUEST_INC_155103,Tch. I knew I couldn't count on the guard. You're just dead weight. I'll make it back myself and don't expect me to be quiet about this.,切，我就知道指望不上卫队。你纯粹是个累赘。我自己能走回去，这事我也不会替你瞒着。
 PROPQUEST_INC_155104,"You’re back and Thorn too, in one piece. That’s no small feat. I’ll consider this route secured for now.",你回来了，索棘也完好无损。这可不是小事。我暂且认为这条路已经安全了。
 PROPQUEST_INC_155105,Escort Thorn safely to Baron.,护送索棘安全抵达巴伦处。
 PROPQUEST_INC_155106,Escorting the Mind Behind the Research,护送研究背后的智囊
-PROPQUEST_INC_155107,I was just about to return. Your timing is convenient these paths are rarely quiet anymore.,我正要回去呢。你来得正好——这条路如今很少安静了。
+PROPQUEST_INC_155107,I was just about to return. Your timing is convenient these paths are rarely quiet anymore.,我正打算回去呢，你来的挺凑巧的，这些路现在难得清静了。
 PROPQUEST_INC_155108,"Good. I’ll proceed at my own pace. If anything interferes, remove it. I’d rather not lose my train of thought.",好的。我按自己的节奏走。要是有东西来打扰，就解决掉。我可不想断了思路。
 PROPQUEST_INC_155109,"I understand. Then I’ll wait. Though waiting, in this environment, carries its own risks.",我理解。那我就等着。不过在这种环境里，等待本身也有风险。
-PROPQUEST_INC_155110,An unfortunate tactical error. The environmental risk has exceeded my safety parameters... I must abort this extraction to prevent further data loss.,一个不幸的战术失误。环境风险已超出我的安全参数……我必须中止这次撤离，以免造成更多数据损失。
-PROPQUEST_INC_155111,"Doctor, you’re back safely. Good work. Keeping minds like yours protected is just as important as guarding the walls. You’ve earned today’s reward.",医生，你平安回来了。干得好。保护像你这样的头脑，和守卫城墙同样重要。这是你今天应得的奖励。
+PROPQUEST_INC_155110,An unfortunate tactical error. The environmental risk has exceeded my safety parameters... I must abort this extraction to prevent further data loss.,这是一个重大战术失误。环境风险已超出我的安全参数……我必须中止这次撤离，以免造成更多数据损失。
+PROPQUEST_INC_155111,"Doctor, you’re back safely. Good work. Keeping minds like yours protected is just as important as guarding the walls. You’ve earned today’s reward.",博士，你平安归来了。干得好。保护像你这样的头脑，和守卫城墙同样重要。这是你今天应得的奖励。
 PROPQUEST_INC_155112,Escort Dr. Root safely to Baron.,护送根须博士安全抵达巴伦处。
 PROPQUEST_INC_155113,"The $QUEST_END_KILL_NAME,1,1$, $QUEST_END_KILL_NAME,1,2$, $QUEST_END_KILL_NAME,1,3$, $QUEST_END_KILL_NAME,1,4$ have been spotted on the eighth floor of the Forsaken Tower.","$QUEST_END_KILL_NAME,1,1$、$QUEST_END_KILL_NAME,1,2$、$QUEST_END_KILL_NAME,1,3$、$QUEST_END_KILL_NAME,1,4$ 已在深渊之塔八层被发现。"
 PROPQUEST_INC_155114,"The $QUEST_END_KILL_NAME,1,1$, $QUEST_END_KILL_NAME,1,2$, $QUEST_END_KILL_NAME,1,3$, $QUEST_END_KILL_NAME,1,4$ have been spotted on the ninth floor of the Forsaken Tower.","$QUEST_END_KILL_NAME,1,1$、$QUEST_END_KILL_NAME,1,2$、$QUEST_END_KILL_NAME,1,3$、$QUEST_END_KILL_NAME,1,4$ 已在深渊之塔九层被发现。"
