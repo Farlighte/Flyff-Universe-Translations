@@ -24069,8 +24069,8 @@ PROPITEM_TXT_155020,Stolen Supply,盗まれた物資
 PROPITEM_TXT_155021,A cache of goods taken under suspicious circumstances. Its original owner might be looking for it,不審な状況下で奪われた物資。元の持ち主が探しているかもしれない
 PROPITEM_TXT_155022,Secret Letter,秘密の手紙
 PROPITEM_TXT_155023,A confidential message sealed with care. Its contents could reveal something important.,丁寧に封をされた機密の手紙。中身には重要な何かが記されているかもしれない。
-PROPITEM_TXT_155024,All about Muran!,ムランのすべて！
-PROPITEM_TXT_155025,A detailed manuscript containing insights into the mysterious Muran.,謎めいたムランについての知見をまとめた詳細な原稿。
+PROPITEM_TXT_155024,All about Muran!,ミューランのすべて！
+PROPITEM_TXT_155025,A detailed manuscript containing insights into the mysterious Muran.,謎めいたミューラン族についての知見をまとめた詳細な原稿。
 PROPITEM_TXT_155026,Fragment of Scroll,巻物の断片
 PROPITEM_TXT_155027,"A torn piece of an ancient scroll with faded, cryptic markings. Its meaning remains unknown.",色褪せた謎の記号が記された、古代の巻物の破れた断片。その意味は未だ解明されていない。
 PROPITEM_TXT_155028,Lycan Orders,ライカンの命令書
@@ -24967,23 +24967,23 @@ PROPITEM_TXT_135016,Jewel (3) Select Box,ジュエル(3) 選択ボックス
 PROPITEM_TXT_135017,Select which Jewel you want!,受け取りたいジュエルを選択してください！
 PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,ジュエル合成確率上昇の巻物選択ボックス
 PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,受け取りたいジュエル合成確率上昇の巻物を選択してください！
-PROPITEM_TXT_902176,Muran Sword,ムランソード
-PROPITEM_TXT_902177,Muran Axe,ムランアクス
-PROPITEM_TXT_902178,Muran Big Sword,ムランビッグソード
-PROPITEM_TXT_902179,Muran Big Axe,ムランビッグアクス
-PROPITEM_TXT_902180,Muran Stick,ムランスティック
-PROPITEM_TXT_902181,Muran Knuckle,ムランナックル
-PROPITEM_TXT_902182,Muran Bow,ムランボウ
-PROPITEM_TXT_902183,Muran Yo-Yo,ムランヨーヨー
-PROPITEM_TXT_902184,Muran Staff,ムランスタッフ
-PROPITEM_TXT_902185,Muran Wand,ムランワンド
-PROPITEM_TXT_902186,Muran Shield,ムランシールド
-PROPITEM_TXT_902187,Muran Force Gem,ムランフォースジェム
-PROPITEM_TXT_902188,Muran Book,ムランブック
-PROPITEM_TXT_902189,Muran  Weapon Set,ムランウェポンセット
-PROPITEM_TXT_902190,Select which Muran Weapon you want to receive!,受け取りたいムラン武器を選択してください！
-PROPITEM_TXT_902191,Muran Guardian Lion,ムランガーディアンライオン
-PROPITEM_TXT_902192,"Muran Guardian Lion was born to rule the skies. With wings as proud as its roar, this imperial lion carries its rider with unmatched majesty. Maximum Speed: 64 km/h.",ムランガーディアンライオンは空を支配するために生まれた。その咆哮に劣らぬ誇り高き翼を持ち、この皇帝の獅子は乗り手を比類なき威厳と共に運ぶ。(最高速度:64 km/h)
+PROPITEM_TXT_902176,Muran Sword,ミューランソード
+PROPITEM_TXT_902177,Muran Axe,ミューランアクス
+PROPITEM_TXT_902178,Muran Big Sword,ミューランビッグソード
+PROPITEM_TXT_902179,Muran Big Axe,ミューランビッグアクス
+PROPITEM_TXT_902180,Muran Stick,ミューランスティック
+PROPITEM_TXT_902181,Muran Knuckle,ミューランナックル
+PROPITEM_TXT_902182,Muran Bow,ミューランボウ
+PROPITEM_TXT_902183,Muran Yo-Yo,ミューランヨーヨー
+PROPITEM_TXT_902184,Muran Staff,ミューランスタッフ
+PROPITEM_TXT_902185,Muran Wand,ミューランワンド
+PROPITEM_TXT_902186,Muran Shield,ミューランシールド
+PROPITEM_TXT_902187,Muran Force Gem,ミューランフォースジェム
+PROPITEM_TXT_902188,Muran Book,ミューランブック
+PROPITEM_TXT_902189,Muran  Weapon Set,ミューランウェポンセット
+PROPITEM_TXT_902190,Select which Muran Weapon you want to receive!,受け取りたいミューラン武器を選択してください！
+PROPITEM_TXT_902191,Muran Guardian Lion,ミューランガーディアンライオン
+PROPITEM_TXT_902192,"Muran Guardian Lion was born to rule the skies. With wings as proud as its roar, this imperial lion carries its rider with unmatched majesty. Maximum Speed: 64 km/h.",ミューランガーディアンライオンは空を支配するために生まれた。その咆哮に劣らぬ誇り高き翼を持ち、この皇帝の獅子は乗り手を比類なき威厳と共に運ぶ。(最高速度:64 km/h)
 PROPITEM_TXT_902193,A cursed bulwark forged from the asylum's iron doors. It weighs heavy with the souls it has denied.,ベヒモス神殿の鉄の扉から鍛え上げられた呪われた盾。拒まれた魂の重みが、今もそこに宿っている。
 PROPITEM_TXT_902194,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.,古びた頁が死そのものにまつわる禁断の秘密を囁く。それを読むことは、虚無を垣間見ることに等しい。
 PROPITEM_TXT_902195,A crystallized fragment of the death god's essence. It pulses with stolen life.,死神の本質が結晶化した欠片。奪われた生命が今も脈打っている。
