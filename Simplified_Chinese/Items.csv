@@ -29589,25 +29589,25 @@ PROPITEM_TXT_1902818,Veiled Wardens Red Shield,红色覆面守望者盾
 PROPITEM_TXT_1902819,Veiled Wardens Orange Shield,橙色覆面守望者盾
 PROPITEM_TXT_1902820,Veiled Wardens Beige Shield,米色覆面守望者盾
 PROPITEM_TXT_1902821,Baron's Daily Reward,巴伦的日常奖励
-PROPITEM_TXT_1902822,Old Baron's Daily Reward,Old Baron's Daily Reward
-PROPITEM_TXT_904086,Wraithbark Trans,Wraithbark Trans
-PROPITEM_TXT_904087,Transform into a Wraithbark,Transform into a Wraithbark
-PROPITEM_TXT_904088,Ironback Trans,Ironback Trans
-PROPITEM_TXT_904089,Transform into an Ironback,Transform into an Ironback
-PROPITEM_TXT_904090,Swift Spiderling Trans,Swift Spiderling Trans
-PROPITEM_TXT_904091,Transform into a Swift Spiderling,Transform into a Swift Spiderling
-PROPITEM_TXT_904092,Caboom Trans,Caboom Trans
-PROPITEM_TXT_904093,Transform into a Caboom,Transform into a Caboom
-PROPITEM_TXT_904094,Winged Manticore Trans,Winged Manticore Trans
-PROPITEM_TXT_904095,Transform into a Winged Manticore,Transform into a Winged Manticore
-PROPITEM_TXT_904096,Gorvak Bonecrusher Trans,Gorvak Bonecrusher Trans
-PROPITEM_TXT_904097,Transform into a Gorvak Bonecrusher,Transform into a Gorvak Bonecrusher
-PROPITEM_TXT_904098,Chief Zekaru Trans,Chief Zekaru Trans
-PROPITEM_TXT_904099,Transform into Chief Zekaru,Transform into Chief Zekaru
-PROPITEM_TXT_904100,Tyrant Ankou Trans,Tyrant Ankou Trans
-PROPITEM_TXT_904101,Transform into Tyrant Ankou,Transform into Tyrant Ankou
-PROPITEM_TXT_904102,Last Beacon Trans Random Box,Last Beacon Trans Random Box
-PROPITEM_TXT_904103,"A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss.","A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss."
+PROPITEM_TXT_1902822,Old Baron's Daily Reward,[旧] 巴伦的日常奖励
+PROPITEM_TXT_904086,Wraithbark Trans,熊皮变身球
+PROPITEM_TXT_904087,Transform into a Wraithbark,使角色自身暂时变形为熊皮
+PROPITEM_TXT_904088,Ironback Trans,铁脊变身球
+PROPITEM_TXT_904089,Transform into an Ironback,使角色自身暂时变形为铁脊
+PROPITEM_TXT_904090,Swift Spiderling Trans,迅捷幼蛛变身球
+PROPITEM_TXT_904091,Transform into a Swift Spiderling,使角色自身暂时变形为迅捷幼蛛
+PROPITEM_TXT_904092,Caboom Trans,咔嘣变身球
+PROPITEM_TXT_904093,Transform into a Caboom,使角色自身暂时变形为咔嘣
+PROPITEM_TXT_904094,Winged Manticore Trans,翼之曼提柯尔变身球
+PROPITEM_TXT_904095,Transform into a Winged Manticore,使角色自身暂时变形为翼之曼提柯尔
+PROPITEM_TXT_904096,Gorvak Bonecrusher Trans,戈瓦克·碎骨者变身球
+PROPITEM_TXT_904097,Transform into a Gorvak Bonecrusher,使角色自身暂时变形为戈瓦克·碎骨者
+PROPITEM_TXT_904098,Chief Zekaru Trans,酋长泽卡鲁变身球
+PROPITEM_TXT_904099,Transform into Chief Zekaru,使角色自身暂时变形为酋长泽卡鲁
+PROPITEM_TXT_904100,Tyrant Ankou Trans,暴君安库变身球
+PROPITEM_TXT_904101,Transform into Tyrant Ankou,使角色自身暂时变形为暴君安库
+PROPITEM_TXT_904102,Last Beacon Trans Random Box,最终信标变身球随机箱
+PROPITEM_TXT_904103,"A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss.",一个随机盒子，内含[最终信标]PvE竞赛中出现的怪物的一个随机变身道具，包括BOSS。
 PROPITEM_TXT_904104,FWC Firework,FWC烟火
 PROPITEM_TXT_904105,"If you shoot, FWC 2026 is drawn in the sky or on the ground.",发射后，天空或地面会显现 FWC 2026 字样。
 PROPITEM_TXT_904106,[5K] Guild Ship Supply Box,[5K] Guild Ship Supply Box
