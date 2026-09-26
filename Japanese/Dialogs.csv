@@ -1178,18 +1178,18 @@ NPC_150033,You can’t pass.,お前は通れない。
 NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?",落ち着け。兵士が取り乱していては、村人たちは誰を頼ればいい？
 NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.",私はドレオン、バロン隊長の忠実な左腕だ。すべては、この村のために。
 NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,隣の奴か？ 顔が広いらしい。ウォルドとかいう奴と友達だそうだ。そいつが誰か知ってるか？
-NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.",ここまでよく来たな……だが、ここから先は危険が増すかもしれない。
-NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?",私はメルク、斥候隊長だ。ライカンの動きを見なかったか？
-NPC_150039,Quiet. Scouting only works if we stay hidden.,静かに。斥候の仕事は隠れていてこそ成り立つんだ。
+NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.",ここまでよく来たな...だが、この先は危険だぞ。
+NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?",私はメルク、偵察隊を率いている。ライカンどもに何か動きはあったか？
+NPC_150039,Quiet. Scouting only works if we stay hidden.,静かに。姿を隠せなければ、偵察にならん。
 NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.",村を守るのは誇り高いことだが、簡単じゃない。特に、外の獣どもが牙をむき続けているとな。
 NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.",私はバロン、エルリウン衛兵の隊長だ。この地の盾であり剣である以上、住民に迫るいかなる脅威も許しはしない。私の指揮下では、誰一人怠けることは許されない。
 NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,ライカンどもが大胆になってきている。武器をいつでも使えるようにしておけ。
 NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,この村には長い歴史がある...実に長い歴史がな。だが、すべてを知る必要はない。知ることが、時に重荷となることもある。
 NPC_150044,"I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?",わしの名はガウラン。この村の族長だ。何十年もこの村を守ってきた。老いで身体の節々が痛むというのに、あの世はまだ私を迎える気がないらしい。妙なものだろう？
 NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,エルリウンの村へようこそ。滞在を楽しんでくれ。
-NPC_150046,A new visitor… Let’s hope that’s a good sign.,新しい客人か……いい兆しだといいが。
-NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.",私はエア、長老の一人だ。長いことこの村を支えてきた。だが最近はどんどん難しくなっている。もしかすると、お前が変化をもたらしてくれるかもしれないな。
-NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,（ため息）今日もまたヤールに仕事を押し付けられた……\n年寄りにはきついよ。静かに引退することもできやしない。
+NPC_150046,A new visitor… Let’s hope that’s a good sign.,新しい客人か...。よい兆しだといいがの。
+NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.",わしはエア。この村の長老の一人だ。長いこと村を支えてきたが、最近はそれもなかなか骨が折れる。お前が何かを変えてくれるかもしれんな。
+NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,はぁ...今日もまた族長に仕事を押しつけられてしまった...\nわしももう歳だというのに。静かに隠居することすらできんのか。
 NPC_150049,Do you always trust what you see? Think it through.,いつも見たものをそのまま信じるのか？よく考えてみるといい。
 NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?",私はトレイタス長老、物資の管理を任されている。さて……今日の分をどうやって工面したものか。
 NPC_150051,We’re not like the Khajiit… not like them at all.,私たちはカジートとは違う……まったく違う。
@@ -1265,10 +1265,10 @@ NPC_150120,Turn back. You’re not qualified.,引き返せ。お前にその資�
 NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…",いったい、どこでこんなことになっちまったんだ！？ 奴らが襲ってこないだけマシだが、それにしたって...
 NPC_150122,"I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.",俺はベック。セイントモーニングから来た。新大陸遠征隊に参加したんだが、ここに取り残されちまってな。残念ながら、帰りの船に乗り損ねたんだ。
 NPC_150123,People—! A person is here! Help!,誰か――！ここに人がいるぞ！助けてくれ！
-NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,ここの見張りは楽じゃない。闇の中から何が這い出してくるか分からないんだ。
-NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,俺か？俺はベヒモス神殿の守衛だ。悪夢がちゃんと中に留まっているか、誰かが見張らなきゃならないんでね。
+NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,ここを見張るのも楽じゃない。暗闇の中から、いつ何が這い出してくるか分からないからな。
+NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,俺か？ 俺はベヒモス神殿の番人だ。中にいる悪夢が外へ出ないよう、誰かが見張ってなきゃならないだろ。
 NPC_150126,Feeling brave today? Just remember—I warned you.,今日は勇気があるみたいだな。ただ、警告はしたからな。
-NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.",もしベヒモスの狂気を乗り越えられたら、俺に会いに来てくれ。お前の話を聞きたいもんだ……その時にまだ正気ならな。
+NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.",ベヒモスの狂気をくぐり抜けて戻ってきたら、俺のところへ来い。ぜひ話を聞かせてくれ。...その時まで正気でいられたら、だけどな。
 NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,ランダムな石像効果（バフまたはデバフ）を2つ獲得する。
 NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,石像バフ（バフのみ）を1つ獲得する。
 NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,現在の石像バフをランダムに変更する。
