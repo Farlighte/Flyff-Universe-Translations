@@ -825,13 +825,13 @@ PROPQUEST_INC_001411,This is the Mark of Heroes. It is a special sigil from the 
 PROPQUEST_INC_001412,You only need one more item to finally become a Knight. You will find it in Guardiane.,距离成为骑士只差最后一个物品了。你会在圣堂找到它。
 PROPQUEST_INC_001413,"In Guardiane, in the Guardian's Room, you will find a spirit called the Venel Guardian.",就在圣堂的守护之室，那里会看到一个叫贝纳卡度温的守护兽！
 PROPQUEST_INC_001414,"Defeat this spirit, and take his heart. This will be your final test.",击败它，拿走它的心脏。这是最后的考验了
-PROPQUEST_INC_001415,"Once you have completed this task, present the heart to Boneper, the Knight Guardian.",完成此任务后，将心脏交给[骑士守护使者]波内佩拉 ！
+PROPQUEST_INC_001415,"Once you have completed this task, present the heart to Boneper, the Knight Guardian.",完成此任务后，将心脏交给[骑士护侍]波内佩拉 ！
 PROPQUEST_INC_001416,"I wish you luck, Mercenary!",祝你成功喔！
 PROPQUEST_INC_001417,"You’re almost finished, Mercenary. Don’t give up now.",你已经快完成了，战士，不要在此处放弃
 PROPQUEST_INC_001418,Well done! I now officially bestow the title of Knight upon you.,恭喜你！你已经通过最后的测验，你成为骑士的继承者了！
 PROPQUEST_INC_001419,"Billaon, please bless and encourage this Knight as they follow your will!",毕雷恩啊！这里有要继承你的人，祝福它吧！
 PROPQUEST_INC_001420,Only one recognized as a Knight may pass. Please turn back.,这里只有英雄的继承者才可以进入喔，请回去吧！
-PROPQUEST_INC_001421,"Defeat the Venel Guardian, take his heart, and present it to Boneper the Knight Guardian.",去圣堂的守护之室打守护兽贝纳卡度温获得他的心脏之后，请你再去找[骑士守护使者]波内佩拉！
+PROPQUEST_INC_001421,"Defeat the Venel Guardian, take his heart, and present it to Boneper the Knight Guardian.",去圣堂的守护之室打守护兽贝纳卡度温获得他的心脏之后，请你再去找[骑士护侍]波内佩拉！
 PROPQUEST_INC_001424,"So you think you're ready to become a Blade? It isn't easy, but since you've made it this far I think you're up to the challenge.",要成为刀锋战士英雄的继承者可不简单，你要有心理准备喔！
 PROPQUEST_INC_001427,"Good luck, warrior. I'll be watching.",祝你好运！
 PROPQUEST_INC_001428,Quitting already? But this is the easy part.,如果想要放弃，就早点放弃比较好喔！
@@ -868,19 +868,19 @@ PROPQUEST_INC_001465,"Hmm, just as I thought. Even Soulstones react to it. This 
 PROPQUEST_INC_001466,"Worry not, young Mercenary. Bringing me the jewel was enough on your part. I’ll do the rest.",首先，先感谢你的协助，这件事做起来并不容易，我会查明一切的原因，请你放心。
 PROPQUEST_INC_001467,What brings you to this holy Altar for the Souls of Heroes?,这里是守护英雄的祭坛，你来到这里有什么事呢？
 PROPQUEST_INC_001468,"Take the Tear of Darkness from Scorpicon in Plateau of Silence, Saint Morning, and bring it to Priest Jeperdy in Brekin, Darkon 3.",别忘了，先到晨光的沉默高原，找沙卡毕欧取得暗黑泪珠，再交给[刀锋战士祭司]杰普迪！
-PROPQUEST_INC_001471,"Here, take this Mark of the Heroes. It along with one last item will denote your status as a true Blade.",这能证明你是英雄守护使者的继承者，但还需要另一个证明，了解你真正的实力！ 
+PROPQUEST_INC_001471,"Here, take this Mark of the Heroes. It along with one last item will denote your status as a true Blade.",拿着这个英雄纹章。再加上最后一件物品，就能证明你是一名真正的刀锋战士。
 PROPQUEST_INC_001472,"In the Guardian's Room, you will find a spirit called the $QUEST_END_KILL_NAME$.",你将会在守护之室找到一个名为$QUEST_END_KILL_NAME$的意志。
-PROPQUEST_INC_001474,"Once you have completed this task, present the heart to Sencyrit, the Blade Guardian.",请你把心脏拿给圣堂的[刀锋战士守护使者]桑希里特！
+PROPQUEST_INC_001474,"Once you have completed this task, present the heart to Sencyrit, the Blade Guardian.",请你把心脏拿给圣堂的[刀锋战士护侍]桑希里特！
 PROPQUEST_INC_001475,I wish you luck.,祝你好运
 PROPQUEST_INC_001477,Well done! I now officially bestow the title of Blade upon you.,恭喜你！你已经通过最终的测验，你已经成为了刀锋战士的继承者！
 PROPQUEST_INC_001478,"Heren, please bless and encourage this Blade as they follow your will!",海琳啊！这里有要继承你的人，请你引领他吧！
 PROPQUEST_INC_001479,Only one recognized as a Blade may pass. Please turn back.,这里只有英雄的继承者才可以进入！请离开吧！
-PROPQUEST_INC_001480,"Defeat the Venel Guardian, take his heart, and present it to Sencyrit the Blade Guardian in Guardiane.",去打倒守护兽贝纳卡度温，得取得它的心脏，再去找刀锋战士守护使者桑希里特。
+PROPQUEST_INC_001480,"Defeat the Venel Guardian, take his heart, and present it to Sencyrit the Blade Guardian in Guardiane.",去打倒守护兽贝纳卡度温，得取得它的心脏，再去找刀锋战士护侍桑希里特。
 PROPQUEST_INC_001483,"So you think you're ready to become a Billposter? It isn't easy, but since you've made it this far I think you're up to the challenge.",要成为暴力技师英雄的继承者可不简单，你要有心理准备喔！好吧，让我来为你解说！
 PROPQUEST_INC_001486,Good luck. I'll be watching.,我在这等你回来！
 PROPQUEST_INC_001488,Excellent work! Now you're on your way to becoming a Billposter.,你真厉害！恭喜你通过第一次测验！
 PROPQUEST_INC_001489,Exactly 20 Drillers. That's what you'll need to take your first steps to becoming a Billposter.,一定要打败20只钻孔机喔！为了当真正的继承者，加油吧！
-PROPQUEST_INC_001490,"Ellend is your master, young Assist. I can not help you.",你已经被选为守护使者继承者，你要去找伊岚德。
+PROPQUEST_INC_001490,"Ellend is your master, young Assist. I can not help you.",你已经被选为守护使者继承者，你要去找爱岚德。
 PROPQUEST_INC_001491,Hunt Down 20 Drillers and return to Ride in Darken City.,测验的内容很简单，只要在达肯1区，打败20只钻孔机就可以了！
 PROPQUEST_INC_001493,Successor of Hero -Hall Document-,英雄的继承者-印章文件-
 PROPQUEST_INC_001494,This letter of recommendation is proof of your achievements as a Billposter. Guard it as you would your own life.,这推荐书表示首领认定继承者的能力，若没有推荐书认定形同无效，所以要好好保管！！
@@ -909,13 +909,13 @@ PROPQUEST_INC_001522,"Someone with evil intentions using Shadow Avatar could lea
 PROPQUEST_INC_001523,"Well done! People say that only Roentel can use this, but with Billposters like you around, who knows?",请帮我找回技能魔法符咒，虽然只有罗瓦特才会使用，不过，为了以防万一… 
 PROPQUEST_INC_001524,"Until then though, I’ll do my best to protect it.",谢谢你，我以后会小心保管它~
 PROPQUEST_INC_001526,"Retrieve the Poster of Skill from the Steam Walkers, then bring it to Fera in Arians, Darkon 3.",从蒸汽机甲手中夺回技能魔法符咒，然后把它交给达肯3千泪湖的菲拉。
-PROPQUEST_INC_001529,"Here, take this Mark of the Heroes. It along with one last item will denote your status as a true Billposter.",这能证明你是英雄守护使者的继承者，但还需要另一个证明，了解你真正的实力！ 
-PROPQUEST_INC_001532,"Once you have completed this task, present the heart to Capafe, the Billposter Guardian.",然后，请你把这心脏拿给加勒迪安暴力技师守护使者卡帕菲！
+PROPQUEST_INC_001529,"Here, take this Mark of the Heroes. It along with one last item will denote your status as a true Billposter.",拿着这个英雄纹章。再加上最后一件物品，就能证明你是一名真正的暴力技师。
+PROPQUEST_INC_001532,"Once you have completed this task, present the heart to Capafe, the Billposter Guardian.",然后，请你把这心脏拿给加勒迪安暴力技师护侍卡帕菲！
 PROPQUEST_INC_001534,"You’re almost finished, Assist. Don’t give up now.",都已经来到这里了才要放弃，太可惜了，要不要再加油一下呢？
 PROPQUEST_INC_001535,Well done! I now officially bestow the title of Billposter upon you.,恭喜你喔！你已经通过最后的测验，成为了暴力技师的继承者了！
 PROPQUEST_INC_001536,"Roentel, please bless and encourage this Billposter as they follow your will!",罗瓦特啊！这里有要继承你的人，祝福它吧！ 
 PROPQUEST_INC_001537,Only one recognized as a Billposter may pass. Please turn back.,这里只有英雄的继承者才可以进入喔，请回去吧！
-PROPQUEST_INC_001538,"Defeat the guardian spirit, Venel Guardian, and get it's heart. Then please visit Capafe who is the Billposter Guardian.",去打倒守护兽贝纳卡度温，并取得他的心脏，再去找暴力技师守护使者卡帕菲！
+PROPQUEST_INC_001538,"Defeat the guardian spirit, Venel Guardian, and get it's heart. Then please visit Capafe who is the Billposter Guardian.",去打倒守护兽贝纳卡度温，并取得他的心脏，再去找暴力技师护侍卡帕菲！
 PROPQUEST_INC_001541,"So you think you're ready to become a Ringmaster? It isn't easy, but since you've made it this far I think you're up to the challenge.",要成为守护使者英雄的继承者可不简单，你要有心理准备喔！！
 PROPQUEST_INC_001544,I will be watching you.,我是新上任的首领，请多多指教！
 PROPQUEST_INC_001547,Excellent work! Now you're on your way to becoming a Ringmaster.,恭喜你通过第一次测验！！
@@ -924,14 +924,14 @@ PROPQUEST_INC_001549,"Ride is your master, young Assist. I can not help you.",�
 PROPQUEST_INC_001550,Hunt Down 20 Drillers and return to Ellend in Darken City.,就是…在达肯1区…打20只钻孔机，记得是钻孔机！
 PROPQUEST_INC_001552,Successor of Hero -Seal-,英雄的继承者-纹章-
 PROPQUEST_INC_001553,This letter of recommendation is proof of your achievements as a Ringmaster. Guard it as you would your own life.,这推荐书表示首领认定继承者的能力，若没有推荐书认定形同无效，所以，请好好保管！！
-PROPQUEST_INC_001554,"Take it to Clamb, the Ringmaster Sage. He resides at the The Fountain of Dead Person in the Northern Leren Mountains.",把那推荐书拿给位于乐雅山脉北部亡者之潭的守护使者的贤者【可伯内特】。
+PROPQUEST_INC_001554,"Take it to Clamb, the Ringmaster Sage. He resides at the The Fountain of Dead Person in the Northern Leren Mountains.",把那推荐书拿给位于乐雅山脉北部亡者之泉的守护使者的贤者【可伯内特】。
 PROPQUEST_INC_001555,"Before you do that, however, retrieve the Seal of Aenn from Roy near the Plateau of Silence in Saint Morning.",首先，请先到晨光梦幻沙漠跟找回艾诺纹章！
 PROPQUEST_INC_001556,May Aenn’s mercy be with you always.,愿艾诺的宽仁与你常在。
 PROPQUEST_INC_001558,The Seal of Aenn! Someone’s finally found the Aenn family symbol!,终于找回艾诺纹章了！这纹章可是价值连城的宝物！
 PROPQUEST_INC_001559,"I’d always heard that Roy would steal anything of value, but I never thought he’d have a mind to take the Seal!",听说是被魔域怪偷走的，真是讨厌的家伙！！
 PROPQUEST_INC_001560,Your efforts are most appreciated!,辛苦你了~
 PROPQUEST_INC_001561,You're a long way from a doctor’s office… but I am still a healer of the sick and injured.,我之前是医疗神官，虽然目前没有这职业，不过，之前满有名的~呵呵，我现在仍会帮其他人治疗看病喔！
-PROPQUEST_INC_001562,"Retrieve the Seal of Aenn from Roy near the Plateau of Silence in Saint Morning, then take it to Clamb, the Ringmaster Sage. You can find him at the Fountain of Dead Person.",去晨光梦幻沙漠的邪恶的紫草食人花那找回艾诺纹章之后，再去找位于亡者之潭的守护使者贤者可伯内特！
+PROPQUEST_INC_001562,"Retrieve the Seal of Aenn from Roy near the Plateau of Silence in Saint Morning, then take it to Clamb, the Ringmaster Sage. You can find him at the Fountain of Dead Person.",去晨光梦幻沙漠的邪恶的紫草食人花那找回艾诺纹章之后，再去找位于亡者之泉的守护使者贤者可伯内特！
 PROPQUEST_INC_001565,"Now, deliver the Seal to Teshar, the leader of Kyon Soldiers.",请把这遗物拿给在帕里的佣兵团团长特莎！
 PROPQUEST_INC_001566,Teshar and her Mercenaries can be found in Eastern Flarine.,佣兵团基地位于帕里东广场，去那里找找看吧~
 PROPQUEST_INC_001567,Make haste!,那~我先走了！
@@ -949,16 +949,16 @@ PROPQUEST_INC_001582,"Great job, now everything is at it should be.",真的辛�
 PROPQUEST_INC_001583,Thank you very much. I will do my best to keep it safe.,"谢谢!我不会再弄丢了,一定会好好的保管！"
 PROPQUEST_INC_001584,"I have given you your task, young one. Please do it.",这里是守护英雄的祭坛，来到这里有什么事情呢！
 PROPQUEST_INC_001585,"$QUEST_END_KILL_NAME$ is in Darkon 1. Find him, get back the $QUEST_END_ITEM_NAME$, and take it to Heedan in Cendil, Darkon 3.",$QUEST_END_KILL_NAME$就在达肯1区，跟他找回$QUEST_END_ITEM_NAME$之后，再拿给达肯3的守护使者祭司海登！
-PROPQUEST_INC_001588,Here is the Symbol of the Hero. You have to complete one more task in order to be recognized as a Successor of the Hero.,这标志是证明你是英雄守护使者的继承者，不过还需要另一个证明！
+PROPQUEST_INC_001588,Here is the Symbol of the Hero. You have to complete one more task in order to be recognized as a Successor of the Hero.,这是英雄的象征。你还需完成一项任务，才能被认可为英雄的继承者。
 PROPQUEST_INC_001589,"There is a place called the Room of the Guardian. You can find it in Guardiane. There, the Will of Heroes is protected.",圣堂的守护之室，去吧，去打倒那继承着英雄的意志的灵魂！
 PROPQUEST_INC_001590,"Defeat the guardian spirit, Cardinal Guardian, and retrieve his heart.",打倒守护之室的守护兽贝纳卡蒂诺，取得他的心脏，这是最后一个证明！！
-PROPQUEST_INC_001591,"Then, deliver the heart to Romvoette, the Ringmaster Guardian in Guardiane.",然后，请你把这心脏拿给圣堂的守护使者[隆波艾达]。
+PROPQUEST_INC_001591,"Then, deliver the heart to Romvoette, the Ringmaster Guardian in Guardiane.",然后，请你把这心脏拿给圣堂的守护使者护侍[隆波艾达]。
 PROPQUEST_INC_001592,"I wish you luck, Assist.",希望你能成为真正的英雄继承者，加油！
 PROPQUEST_INC_001593,"You've come all this way just to give up? This is the last step. Please, think this through.",你要放弃？都已经成为了英雄的继承者，我没听错吧？！
 PROPQUEST_INC_001594,"Welcome, Assist. You've done very well! Now, I appoint you the Successor of the Ringmaster Hero!",恭喜你喔！你已经通过最后的测验，你已经成为了守护使者的继承者了！
 PROPQUEST_INC_001595,"Aenn, bless and watch over this person who is following your will, Ringmaster!",艾诺啊！这里有要继承你意志的人，请祝福他！
 PROPQUEST_INC_001596,"I believe you've come here by mistake, Assist. Have you forgotten your task?",这里只有英雄的继承者才可以进入喔，请回吧！
-PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",去打倒守护兽贝纳卡蒂诺，并取得他的心脏，再去找守护使者隆波艾达！
+PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",去打倒守护兽贝纳卡蒂诺，并取得他的心脏，再去找守护使者护侍隆波艾达！
 PROPQUEST_INC_001600,"So, you think you're ready to become a Successor of the Psykeeper Hero? You've come a long way, Magician. I think you're ready.",精神使者需要坚强的意志和精神力！你能做得到吗？
 PROPQUEST_INC_001601,"First, we'll need to test your skills in combat if we are to continue down this path.",首先，测试你的战斗技巧及能力，看你是否有资格继续下去
 PROPQUEST_INC_001602,"I want you to defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s. Not Small $QUEST_END_KILL_NAME$s or Giant $QUEST_END_KILL_NAME$s, just $QUEST_END_KILL_NAME$s. They are located southwest of the Gouthan Mountains.",我想让你去击杀$QUEST_END_KILL_COUNT$个$QUEST_END_KILL_NAME$。不是小型$QUEST_END_KILL_NAME$也不是巨型$QUEST_END_KILL_NAME$，而是$QUEST_END_KILL_NAME$。他们位于永恒森林的西南部。
@@ -994,19 +994,19 @@ PROPQUEST_INC_001638,"I am grateful that you've brought the Trace of Offerep, Ma
 PROPQUEST_INC_001639,"You possess great potential, young Magician. Keep working hard and you will realize your dream.",真的谢谢你喔！真的好幸福喔！可以找回这遗物(哭泣声)
 PROPQUEST_INC_001640,"This is the alter where the Souls of Heroes are protected. What can I do for you, young one?",这里是守护欧布华灵魂的祭坛，你怎么会到这里来呢？
 PROPQUEST_INC_001641,"Locate the $QUEST_END_ITEM_NAME$, and present it to Pereb, the Psykeeper Priest at the Altar of Psykeeper in Darkon 3.",请到达肯第2区爱安芙凯博找到欧布华矿石，再去达肯第三区域海乐伊地区找精神使者祭司安得利尔。
-PROPQUEST_INC_001644,This is the Symbol of the Hero. There is only one more task to complete before you can be named a Successor of the Psykeeper Hero.,这标志是证明你是英雄守护使者的继承者，不过还需要另一个证明！
+PROPQUEST_INC_001644,This is the Symbol of the Hero. There is only one more task to complete before you can be named a Successor of the Psykeeper Hero.,这是英雄的象征。你只需再完成一项任务，就能被授予精神使者英雄继承者的名号。
 PROPQUEST_INC_001645,"There is a place called the Room of the Guardian. You'll find it in Guardiane. There, the Will of the Heroes is protected.",有一个地方叫守卫之室，在圣堂附近。去击败那个灵魂吧
 PROPQUEST_INC_001646,"You must confront the $QUEST_END_KILL_NAME$, who resides there, and retrieve his heart.",你必须打败驻守在那的$QUEST_END_KILL_NAME$，并且夺取他的心脏。
-PROPQUEST_INC_001647,"Deliver the Venel Heart to Shyniff, the Psykeeper Guardian in Guardiane.",然后，请你把这心脏拿给位于圣堂的精神使者守护使者【夏尼普】。
+PROPQUEST_INC_001647,"Deliver the Venel Heart to Shyniff, the Psykeeper Guardian in Guardiane.",然后，请你把这心脏拿给位于圣堂的精神使者护侍【夏尼普】。
 PROPQUEST_INC_001648,"May the wisdom of the Heroes guide you, young one.",祝你成功！
 PROPQUEST_INC_001649,"Quitting now would be foolish, young one. Give it some though and speak to me again should you change your mind.",现在放弃是很愚蠢的，等你改变主意再来找我吧
 PROPQUEST_INC_001650,"Welcome, Magician. Your journey to becoming a Psykeeper is now complete. I now appoint you, a Successor of the Psykeeper Hero!",恭喜你喔！你已经通过最后一次测验，你已经成为了精神使者的继承者！
 PROPQUEST_INC_001651,"Offerep, please guide and protect this brave soul who is following in your path, Psykeeper!",欧布华啊！这里有要继承你的人，祝福他吧！
 PROPQUEST_INC_001652,"I am awaiting a new Successor to the Psykeeper Hero. If that is you, I believe you may be forgetting something, young one.",这里只有英雄的继承者才可以进入喔，请回去吧！
-PROPQUEST_INC_001653,"Defeat the Venel Guardian, and deliver the Venel Heart to Shyniff, the Psykeeper Guardian in Guardiane.",打倒守护兽贝纳卡度温并取得他的心脏后，再去找精神使者守护使者夏尼普！
+PROPQUEST_INC_001653,"Defeat the Venel Guardian, and deliver the Venel Heart to Shyniff, the Psykeeper Guardian in Guardiane.",打倒守护兽贝纳卡度温并取得他的心脏后，再去找精神使者护侍夏尼普！
 PROPQUEST_INC_001656,"So, you think you're ready to become a Successor of the Elementor Hero? You've come a long way, Magician. I think you're ready.",要成为元素使者英雄的继承者可不简单，你要有心理准备喔！！
 PROPQUEST_INC_001661,"Yes, very well done, Magician. You've certainly come a long way. You're ready to become a Successor to the Elementor Hero.",辛苦你了！！你已经取得成为英雄继承者的资格了！ 
-PROPQUEST_INC_001663,You've already made a decision to become a Successor of the Psykeeper Hero. You have to visit Ellend to continue your training.,你已经被选定为精神使者的继承者，请你去找【爱岚．依莉迪欧】。
+PROPQUEST_INC_001663,You've already made a decision to become a Successor of the Psykeeper Hero. You have to visit Ellend to continue your training.,你已经被选定为精神使者的继承者，请你去找夏尼普。
 PROPQUEST_INC_001666,Successor of Hero -Feather-,英雄的继承者-羽毛-
 PROPQUEST_INC_001667,Here is your Letter of Recommendation. This shows that the master recognizes your potential. Do not lose this document.,这推廌书表示首领认定继承者的能力，若没有推荐书认定形同无效，所以，要好好保管！！
 PROPQUEST_INC_001668,"For your next assignment, I'll need you to get the Feather of Magic Power which is located somewhere in Magmient, in Darkon 3.",对于你的下一个任务，我需要你得到魔力羽毛，它位于达肯3的熔岩火海某处。
@@ -1032,13 +1032,13 @@ PROPQUEST_INC_001693,"Ah yes, the Perfume of Lillip. I have been looking for thi
 PROPQUEST_INC_001694,"Thank you very much, Magician. Now the relics of the Elementor Hero are safe.",总之~谢谢你啦！
 PROPQUEST_INC_001695,"This is the altar where we protect the Souls of the Heroes. What can I do for you, my friend?",这里是守护黎利灵魂的祭坛，你来这里有什么事情呢？
 PROPQUEST_INC_001696,Find the $QUEST_END_ITEM_NAME$ and deliver the Stamped Scroll to Priest Condram at the Altar of Elementor in Darkon 3.,在达肯3海乐伊地区找到黎利香水，再拿去给阴森林的元素使者祭司柯登皮斯。
-PROPQUEST_INC_001699,This is the Symbol of the Hero. There is only one more task to complete before you can be named a Successor of the Elementor Hero.,这标志能证明你是英雄守护使者的继承者，不过还需要另一个证明……
-PROPQUEST_INC_001702,"Deliver the Venel Heart to Wendien, the Elementor Guardian in Guardiane.",完成试验后，请你心脏拿给圣堂的元素使者守护使者【文嫡凌】，知道了吗？
+PROPQUEST_INC_001699,This is the Symbol of the Hero. There is only one more task to complete before you can be named a Successor of the Elementor Hero.,这是英雄的象征。你只需再完成一项任务，就能被授予元素使者英雄继承者的名号。
+PROPQUEST_INC_001702,"Deliver the Venel Heart to Wendien, the Elementor Guardian in Guardiane.",完成试验后，请你心脏拿给圣堂的元素使者护侍【文嫡凌】，知道了吗？
 PROPQUEST_INC_001703,"Maybe the wisdom of the Heroes guide you, my friend.",一切保重~
 PROPQUEST_INC_001705,"Welcome, Magician. Your journey to becoming an Elementor is complete. I now appoint you, a Successor of the Elementor Hero!",恭喜你喔！你已经通过最后的试验，你已经成为了元素使者的继承者！
 PROPQUEST_INC_001706,Lillip! Bless and guide this brave soul who is following your will! Elementor!,啊！ 这里有要继承你的人，祝福它吧！
 PROPQUEST_INC_001707,"I am awaiting a new Successor to the Elementor Hero. If that is you, I believe you may be forgetting something, Magician.",这里只有英雄的继承者才可以进入喔，请回去吧！
-PROPQUEST_INC_001708,"Defeat the Venel Guardian, and deliver the Venel Heart to Wendien, the Elementor Guardian in Guardiane.",去圣堂的守护之室打倒守护兽贝纳卡度温，取得他的心脏，再去找元素使者守护使者文嫡凌！
+PROPQUEST_INC_001708,"Defeat the Venel Guardian, and deliver the Venel Heart to Wendien, the Elementor Guardian in Guardiane.",去圣堂的守护之室打倒守护兽贝纳卡度温，取得他的心脏，再去找元素使者护侍文嫡凌！
 PROPQUEST_INC_001710,Sound which calls the Dark,召唤黑暗的声音
 PROPQUEST_INC_001711,Have you ever heard the horrible sound from Mars Mine? That strange and hair-raising sound… It's spooky!,你有听到吗？从魔域密殿出来的怪声…好可怕喔！！
 PROPQUEST_INC_001712,"Maybe you haven't, but you will. Muahahaha! I heard it clearly! I hope it's not the sound I think it is...",也许你还没听到，但你很快就会听到的。哇哈哈哈哈！我听得清清楚楚！希望那不是我想到的那种声音……
