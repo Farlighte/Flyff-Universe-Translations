@@ -1163,9 +1163,9 @@ NPC_150018,Why am I a guard? Because it’s cool. Simple as that.,なぜ衛兵�
 NPC_150019,War? I’m not afraid of it. I’ll fight until my last breath.,戦争？怖くなんかない。最後の一息まで戦い抜くさ。
 NPC_150020,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.,私はセルカン。戦う理由が要るかって？いらないね。強い敵と向き合うのが、ただ好きなだけさ。
 NPC_150021,Let’s make today a good one. Victory awaits.,今日をいい日にしよう。勝利は目前だ。
-NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,なんであの犬どもは俺たちに近づいてこないと思う？簡単さ。俺たちの爪を恐れてるのさ。
-NPC_150023,Call me Kras. I protect this village.,私はクラス。この村を守っている。
-NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,俺も昔はお前みたいな冒険者だったんだが……膝に矢を受けてしまってな。
+NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,なぜあの犬どもが俺たちに近づいてこないかって？ 簡単だ。俺たちの爪が怖いのさ。
+NPC_150023,Call me Kras. I protect this village.,クラスと呼んでくれ。俺はこの村を守っている。
+NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,俺も昔は、お前みたいな冒険者だったんだがな...膝に矢を受けてしまってな。
 NPC_150025,A new face. I hope we stay on friendly terms.,新しい顔だな。友好的な関係を築けるといいが。
 NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.",私はメイロン。長いこと戦ってきたが、勝利するまで戦い続けるつもりだ。
 NPC_150027,You’re not ready.,お前はまだ準備ができていない。
@@ -1330,11 +1330,11 @@ NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll
 NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,悪夢はどんどん強くなっている。それを封じ込める手伝いをしてくれる、勇気ある人が必要なんだ。
 NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,最近、狩りがうまくいかなくてね。獲物を追うのを手伝ってくれないか。
 NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,治安が日に日に悪化している。脅威を調べるのを手伝ってくれる人が必要だ。
-NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,#b#cffff0000エルリウン依頼所#nc#nb へようこそ！仕事をお探しですか？あなたにぴったりの仕事があるかもしれません……
-NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,こんにちは、いくつか依頼があります。以下を選択してください。
-NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",ご提供できるクエストがありません。申し訳ありません。またいらしてくださいね。
-NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!",私の名前はミオラン、エルリウン依頼所の管理人です。村の住民が討伐依頼やその他の仕事を持ち込むと、それに相応しい人材を見つけるのが私の仕事です。何か空きがないか、時々確認しに来てくださいね！
-NPC_150190,Farewell!,みなさんがんばってください～！
+NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,#b#cffff0000エルリウン依頼所#nc#nb へようこそ！お仕事をお探しですか？あなたにぴったりのものがあるかもしれません...
+NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,クエスト依頼所へようこそ！ 街のみなさんから、いくつか依頼が届いています。引き受けたい依頼を一覧から選んでくださいね。
+NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",ごめんなさい、今のところご提供できるクエストがありません。またいらしてくださいね。
+NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!",私の名前はミオラン、エルリウン依頼所の管理人です。村のみなさんから討伐やその他の依頼が届いたら、それにぴったりの冒険者を探すのが私の仕事です。何か依頼がないか、時々立ち寄ってみてくださいね！
+NPC_150190,Farewell!,また来てくださいね！
 NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,#b#cffff0000エルリウンの依頼所#nc#nb へようこそ。何かご用でしょうか？
 NPC_150192,"So what can you do for me, huh?",何ができますか？
 NPC_150193,Ugh... maybe next time.,うぐ……また今度にするか。
