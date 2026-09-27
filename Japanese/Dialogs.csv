@@ -1190,9 +1190,9 @@ NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,エルリウ�
 NPC_150046,A new visitor… Let’s hope that’s a good sign.,新しい客人か...。よい兆しだといいがの。
 NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.",わしはエア。この村の長老の一人だ。長いこと村を支えてきたが、最近はそれもなかなか骨が折れる。お前が何かを変えてくれるかもしれんな。
 NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,はぁ...今日もまた族長に仕事を押しつけられてしまった...\nわしももう歳だというのに。静かに隠居することすらできんのか。
-NPC_150049,Do you always trust what you see? Think it through.,いつも見たものをそのまま信じるのか？よく考えてみるといい。
-NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?",私はトレイタス長老、物資の管理を任されている。さて……今日の分をどうやって工面したものか。
-NPC_150051,We’re not like the Khajiit… not like them at all.,私たちはカジートとは違う……まったく違う。
+NPC_150049,Do you always trust what you see? Think it through.,目に映るものを、いつもそのまま信じているのか？ よく考えてみることだ。
+NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?",私は長老トレイタス。物資の管理を任されている。さて...今日の分をどうやって確保したものか...
+NPC_150051,We’re not like the Khajiit… not like them at all.,我々はカジートとは違う...決して、同じではない。
 NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.",村を守るには、時に犠牲が必要だ。厳しいが、それが真実だ。
 NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.",私はメラク、バロンと共に治安を担当している。日に日に状況は悪化している。頼むから、これ以上心配の種を増やさないでくれ。お前のことは見張らせてもらう。
 NPC_150054,It’s dangerous to go alone.,一人で行くのは危険だぞ。
@@ -1202,30 +1202,30 @@ NPC_150057,We have a great communicator here… want to guess who?,ここには�
 NPC_150058,"Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.",長生きは幸福なのか？ 去るべき場所にいつまでも留まっていると、やがて足元の地面まで沈んでいくように感じるものだ。
 NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.",わしはエブロン。ただの暇を持て余した老人だよ。長く生きているとな、ほかの者には見えないものまで見えてくる。
 NPC_150060,"Time is a strange thing, isn’t it?",時というものは、不思議なものだと思わんか？
-NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,旅立つ前に物資を蓄えておけ。多すぎるくらいがちょうどいい。
-NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.",私はリアナ、雑貨店の店主です。旅人でも村人でも、必要なものは必ずお渡しします。
-NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.",大人しくペニャを渡せば、誰も痛い目には遭わない。
-NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,この宝石を見てくれ！ただの装飾品じゃない――芸術品だ。
-NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.",私はテロン。宝石にかけては、誰よりも目が利く自信がある。あなたにぴったりの一品を見つけてあげよう。
-NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,宝石は芸術だ！芸術を分かるかい？目を鍛えれば、腕前も一緒に磨かれるかもしれないよ。
-NPC_150067,Good armor is like having a second life.,良い防具は、まるでもう一つの命を持つようなものだ。
-NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,私はハレット。防具選びは好みの問題じゃない――生死を分ける問題だ。他所でこれ以上の品質が見つかると思うか？まさかな。
-NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,こんな防具、他ではまず手に入らないぞ。今日買ってくれるなら、ちょっとしたおまけもつけよう。
-NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,良い武器は、使い手を決して裏切らない。自分に合う一振りを見つけろ。
-NPC_150071,"Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.",私はドミール。剣も斧も弓も、必要なものは何でも打ってやろう。
-NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,本当にその武器で満足なのか？お前ならもっといいものにふさわしい。何かいいものを見せてやろう。
-NPC_150073,"Attacking is important, but if you can’t defend yourself, you won’t last a battle.",攻撃も大事だが、自分の身を守れなければ戦いを乗り切れない。
-NPC_150074,"I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.",私はトラン、この村一番の盾職人だ。盾を打ってほしければ、私に任せろ。
-NPC_150075,"That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.",その盾はここじゃ長持ちしない。運がいいことに、もっと頑丈なやつを用意してあるぞ。
+NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,旅立つ前に、必要なものは揃えておきなさい。多すぎるくらいがちょうどいいわ。
+NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.",私はリアナ。この雑貨店の店主よ。旅人だろうと村の人だろうと、必要なものは必ず揃えてあげる。
+NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.",さあ、大人しくペニャを渡しなさい。そうすれば誰も傷つかずに済むわ。
+NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,この宝石を見てみろ！ ただの装飾品じゃない。これは芸術だ。
+NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.",俺はテロン。宝石を見る目なら誰にも負けない。お前にぴったりの逸品を見つけてやるよ。
+NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,宝石は芸術だ！ 芸術は分かるかい？ 目を鍛えれば、腕前も一緒に磨かれるかもしれないぞ。
+NPC_150067,Good armor is like having a second life.,いい防具があれば、命がもう一つあるようなものだ。
+NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,私はハレット。防具選びは好みの問題じゃない。生き残れるかどうかだ。ここより上等な防具がほかにあると思うか？ 私はそうは思わないね。
+NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,これほどの防具は、他じゃ手に入らないぞ。今日買ってくれるなら、少しくらいまけてもいい。
+NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,良い武器は、決して使い手を裏切りません。自分に合った一振りを選んでください。
+NPC_150071,"Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.",私はドミール。剣でも斧でも弓でも、必要なものがあれば何でも鍛えますよ。
+NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,その武器で満足していますか？ あなたなら、もっといい武器が似合うはずです。少し見ていきませんか？
+NPC_150073,"Attacking is important, but if you can’t defend yourself, you won’t last a battle.",攻めることも大事だが、身を守れなきゃ戦場を乗り切れないぞ。
+NPC_150074,"I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.",俺はトラン、この村一番の盾職人だ。盾が必要なら俺に任せな。
+NPC_150075,"That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.",その盾じゃ、ここでは長くもたないぞ。運がよかったな。もっと頑丈なのを用意してある。
 NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,焼きたてだよ！温かいスープも用意してある。一杯どうだい？
-NPC_150077,"I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.",私はカレン、この村一番の料理人さ。それと、秘伝のレシピは誰にも教えないからね。
+NPC_150077,"I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.",私はカレン、この村一番の料理人さ。あ、秘伝のレシピは聞いても教えないからね。
 NPC_150078,Fresh goods from the forest! Stock up before you travel.,森から届いたばかりの新鮮な品だよ！旅立つ前に買いだめしておきな。
-NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,杖や魔導具はただの道具にすぎない。本当の魔力は、それを扱う者次第だ。
-NPC_150080,"I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.",私はネブラ、魔法道具を売っている。正しい扱い方を知っていれば、これらは大きな力をもたらしてくれる。
-NPC_150081,"Interested in magic? I’ve got wands, staves, robes—take a look.",魔法に興味があるのかい？杖に魔導書、ローブも取り揃えてるよ。見ていくといい。
-NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,色には感情が宿る。この辺りに咲く花は、どんな染料にも出せない色合いを生み出すんだ。
-NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,私はセナ。花や植物で布を染めているの。私の色なら、あなたの服もきっと美しく映えるわ。
-NPC_150084,Take a look.,見ていって。
+NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,杖やワンドもただの道具にすぎない。本当の魔法の力は、それを扱う者次第だ。
+NPC_150080,"I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.",私はネブラ、魔道具を扱っている。正しく使いこなせれば、これらはどれも大きな力をもたらしてくれる。
+NPC_150081,"Interested in magic? I’ve got wands, staves, robes—take a look.",魔法に興味があるのか？ 杖に魔導書、ローブも取り揃えているぞ。見ていくといい。
+NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,色には、想いが宿るんです。この辺りに咲く花々は、どんな染料でも出せない色を見せてくれるんですよ。
+NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,私はセナ。花や草木を使って布を染めています。あなたの服も、私の色できっと素敵になりますよ。
+NPC_150084,Take a look.,よかったら、見ていってください。
 NPC_150085,Wounds heal with time… but the right treatment helps a lot.,傷は時間が経てば治る...とはいえ、ちゃんと手当てすれば治りもずっと早いけどな。
 NPC_150086,"I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.",俺はロハン。けが人の手当てをしてる。昔はのんびりした仕事だったんだけどな。最近はもう、休む暇もないよ。
 NPC_150087,"Time is money, friend.",時は金なり、だぜ。
@@ -1238,18 +1238,18 @@ NPC_150093,But I do believe you’re strong enough to face whatever comes.,何�
 NPC_150094,Hunting isn’t just catching prey—it’s understanding nature.,狩りとは、ただ獲物を捕らえることじゃない。自然を理解することだ。
 NPC_150095,"I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job.",俺はアーティン、この村の猟師だ。新鮮な肉を届けている。最近はあの犬どものせいでやりにくくなったが、それでも俺の仕事だ。
 NPC_150096,Wanna communicate with mother Nature? Follow me!,母なる自然と語り合いたいか？ついてこい！
-NPC_150097,Trees are alive. I just help shape their lives into new forms.,木々は生きている。私はただ、その命を新しい形に変える手伝いをしているだけだ。
-NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,私はパエル。大樹から落ちた枝を彫っている。その記憶は、私の作品を通して生き続ける。
-NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.",生きた木々と語り合うには、真の名を使い、心を込めなければならない。私はパエル。私はパエルだ。
+NPC_150097,Trees are alive. I just help shape their lives into new forms.,木々は生きている。私はただ、その命に新たな形を与えているだけだ。
+NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,私はパエル。街の大樹から落ちた枝を彫っている。そこに宿る記憶は、私の作品の中で生き続けるのだ。
+NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.",生きた木々と語り合うには、真の名を名乗り、心を込めなければならない。私はパエル...私はパエルだ。
 NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,夢は内なる心からのメッセージだ。それを理解すれば、真実が見えてくる。
-NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,私はルミ。人々の夢に耳を傾け、その意味を見つける手伝いをしているの。最近、何か不思議な夢は見た？
-NPC_150102,Let me show you… a world of dreams and imagination.,見せてあげる……夢と想像の世界を。
-NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,星々は先祖たちの物語を宿している。その知恵は今も私たちを導いてくれる。
-NPC_150104,"I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.",私はアイヴェリン。星座を研究している。もっと学べば、あの犬どもがいつ襲ってくるかさえ予測できるかもしれないわ。
-NPC_150105,May the ancestors watch over you.,祖先たちがあなたを見守ってくれますように。
-NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,香りは記憶を宿すことがある。私の香水の一滴が、忘れていた何かを呼び覚ますかもしれない。
-NPC_150107,"I’m Selin, a maker of perfumes. I wonder which scent suits you best.",私はセリン、香水を作っている。どの香りがあなたに一番似合うかしら。
-NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,同じ香りでも、つける人によって違う匂いになる。それがこの魔法なの。
+NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,私はルミ。人々の夢に耳を傾け、その意味を見つけるお手伝いをしています。最近、何か不思議な夢を見ませんでしたか？
+NPC_150102,Let me show you… a world of dreams and imagination.,お見せしましょう...夢と幻想の世界を。
+NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,星々には、祖先たちの物語が刻まれています。その知恵は今も、我々を導いてくれているのです。
+NPC_150104,"I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.",私はアイヴェリン。星座を研究しています。もっと多くを読み解けるようになれば、あの犬どもがいつ襲ってくるのかさえ予測できるかもしれません。
+NPC_150105,May the ancestors watch over you.,祖先たちの加護が、あなたとともにありますように。
+NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,香りは記憶を閉じ込めてくれるんです。私の香水を一滴つければ、遠い昔の記憶がよみがえるかもしれませんよ。
+NPC_150107,"I’m Selin, a maker of perfumes. I wonder which scent suits you best.",私はセリン。香水を作っています。あなたには、どんな香りが似合うかしら。
+NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,同じ香りでも、人によって違う香りになるんです。それが香水の不思議なところなんですよ。
 NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,ちょっと！ 私がここにいたこと、大人たちには言わないでよ。絶対だからね！
 NPC_150110,"I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself.",私はカエラ。家に帰れって？ 絶対イヤ。狼がいようが何だろうが、自分のことくらい自分で何とかできるわ。
 NPC_150111,Grown-ups love saying “no.” It’s the one word I can’t stand.,大人って、すぐ「ダメ」って言うでしょ。私、あの言葉が大っ嫌い。
@@ -1330,21 +1330,21 @@ NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll
 NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,悪夢はどんどん強くなっている。それを封じ込める手伝いをしてくれる、勇気ある人が必要なんだ。
 NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,最近、狩りがうまくいかなくてね。獲物を追うのを手伝ってくれないか。
 NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,治安が日に日に悪化している。脅威を調べるのを手伝ってくれる人が必要だ。
-NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,#b#cffff0000エルリウン依頼所#nc#nb へようこそ！お仕事をお探しですか？あなたにぴったりのものがあるかもしれません...
+NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,#b#cffff0000エルリウン依頼所#nc#nbにようこそ！お仕事をお探しですか？あなたにぴったりのものがあるかもしれません...
 NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,クエスト依頼所へようこそ！ 街のみなさんから、いくつか依頼が届いています。引き受けたい依頼を一覧から選んでくださいね。
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",ごめんなさい、今のところご提供できるクエストがありません。またいらしてくださいね。
 NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!",私の名前はミオラン、エルリウン依頼所の管理人です。村のみなさんから討伐やその他の依頼が届いたら、それにぴったりの冒険者を探すのが私の仕事です。何か依頼がないか、時々立ち寄ってみてくださいね！
 NPC_150190,Farewell!,また来てくださいね！
-NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,#b#cffff0000エルリウンの依頼所#nc#nb へようこそ。何かご用でしょうか？
-NPC_150192,"So what can you do for me, huh?",何ができますか？
-NPC_150193,Ugh... maybe next time.,うぐ……また今度にするか。
-NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,私の名前はチェイラン、エルリウンの依頼所を管理しています。今日はどのようなご用件でしょうか？
-NPC_150195,Farewell!,みなさんがんばってください～！
-NPC_150196,"Welcome to Eillun! Please, enjoy your stay!",エルリウンへようこそ！どうぞごゆっくりお過ごしください！
-NPC_150197,"Hello, traveler. I have some missions for you!",元気ですか？旅人さん。ミッションを用意しておきますね。
-NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.",エルリウンは、マドリガルに息づく繁栄の心臓部です。私たちの木々は空高くそびえ立ちますが、もてなしの心はさらに遠くまで届きます。導きが必要になったら、大いなる花の下で私を訪ねてください。
-NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,私はエルリウンの村長です。花々と民の調和こそ、私が最も大切にしているものです。この大樹の下で、今日はどのようなご用件でしょうか？
-NPC_150200,Farewell!,みなさんがんばってください～！
+NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,#b#cffff0000エルリウンのシティホール#nc#nbへようこそ。本日はどのようなご用でしょうか？
+NPC_150192,"So what can you do for me, huh?",...それで、今度はあなたが私を手伝ってくれるんですか？
+NPC_150193,Ugh... maybe next time.,はぁ...この仕事は、後に回しましょう...
+NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,私の名前はチェイラン、エルリウンのシティホールを管理しています。本日はどのようなご用件でしょうか？
+NPC_150195,Farewell!,それでは、またお越しください。
+NPC_150196,"Welcome to Eillun! Please, enjoy your stay!",エルリウンへようこそ。どうぞ、ゆっくりお過ごしください。
+NPC_150197,"Hello, traveler. I have some missions for you!",こんにちは、旅の方。あなたにお願いしたいことがいくつかあります。
+NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.",エルリウンは、マドリガルに息づく豊かな生命の中心ともいえる場所です。我々の木々は空高くそびえていますが、旅人を歓迎する心はそれ以上ですよ。何か困ったことがあれば、いつでも大樹のもとにいる私を訪ねてください。
+NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,私はエルリウンの村長です。花々と人々が調和して暮らすこの村を、何より大切に思っています。今日はどのようなご用でしょうか？
+NPC_150200,Farewell!,それでは、またお会いしましょう。
 NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,すぐに対応が必要な治安問題を見つけたんだ。対処してくれるか？
 NPC_100198,Let luck do its thing.,運を天に任せよう。
 NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,運試しと財運を扱っているんだ。\n運試ししてみるかい？
