@@ -290,45 +290,45 @@ PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_I
 PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,これは、私の壮大な発明の1つを構築するには、$QUEST_END_ITEM_NAME$が十分ではありません。もっと戻ってきてください!
 PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$は歓喜の声を上げます!まもなく彼らの発明は現実のものとなるでしょう。
 PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,ワークウルフの頭骨
-PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.",ワークウルフはカイルルンの国境付近に集まり、その頭骨には奇妙な紋様が刻まれています。ムランはその儀式の秘密を解き明かすため、頭骨を必要としています。
-PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,素晴らしい！ムランはあなたを頼りにしています。$QUEST_END_ITEM_NAME$を325個集めて、十分な数になったら戻ってきてください。ワークウルフから入手できます。
-PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,そうですか……ですが、あの生き物たちはますます凶暴化しています。気が変わったら戻ってきてください。
-PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.",まだ頭骨が十分集まっていませんね……。続けてください、1つ1つの標本が私たちにとって重要なのです。
-PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,完璧です！この頭骨は私たちにとって大いに役立つでしょう。カイルルンはあなたの決意に感謝します。
+PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.",ワークウルフはカイルルンの国境付近に集まり、その頭骨には奇妙な紋様が刻まれています。ミューラン族は彼らの儀式に隠された秘密を解き明かすため、その頭骨を必要としています。
+PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,ありがとうございます！ ミューラン族はあなたを頼りにしています。ワークウルフの群れから＜$QUEST_END_ITEM_NAME$＞を325個集めたら、私のところへ戻ってきてください。
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,そうですか...。でも、あの魔物たちはますます凶暴になっています。気が変わったら、また来てくださいね。
+PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.",まだ頭骨が足りないみたいですね...。もう少し頑張ってください。一つ一つが大切な資料になるんです。
+PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,ばっちりです！ これだけの頭骨なら、きっと役に立ちます。カイルルンのために力を尽くしてくれて、本当にありがとうございます。
 PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,ライカンガードの頭骨
-PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,ライカンガードの霊は、平原でますます凶暴化しています。カイルルンの賢者たちは、その異常な不穏の原因を理解するため、頭骨を求めています。
-PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,ありがとうございます！ライカンガードの霊は不安定になりつつあります。$QUEST_END_ITEM_NAME$を325個、ライカンガードから持ち帰ってください。彼らの不穏を分析するために必要です。
-PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,わかりました……ですが、彼らの不穏は日々強まっています。気が変わったら戻ってきてください。
-PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.",まだ足りません……続けてください、何が彼らを不安にさせているのか理解しなければなりません。
-PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,完璧です！この頭骨は真実を解き明かす手がかりになるでしょう。ご協力ありがとうございました。
+PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,草原にいるライカンガードたちが、ますます凶暴になっています。カイルルンの賢者たちが、その異常な荒れようの原因を調べるため、彼らの頭骨を必要としています。
+PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,ありがとうございます！ 魔物たちはますます不安定になりつつあります。原因を調査するため、ライカンガードの群れから＜$QUEST_END_ITEM_NAME$＞を325個、集めてきてください。
+PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,分かりました...。でも、彼らの異変は日に日にひどくなっています。気が変わったら、また来てくださいね。
+PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.",まだ少し足りないみたいです...。もう少し頑張ってください。何が彼らをおかしくしているのか、突き止めないと。
+PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,ばっちりです！ この頭骨があれば、きっと真相を突き止められます。力を貸してくれてありがとうございます！
 PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,ライカンセンチネルの爪
-PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,ライカンセンチネルはその腐食性の一撃で多くのムランの偵察兵を負傷させています。防護用の治療薬を作るため、その爪が必要です。
-PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,よろしい！彼らの爪は私たちの偵察兵を毒しています。$QUEST_END_ITEM_NAME$を325個、ライカンセンチネルから持ち帰ってください。
-PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,わかりました……ですが、治療薬が底をつきかけています。協力する気になったら戻ってきてください。
-PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.",まだ足りません。ライカンセンチネルは危険です、気をつけてください。
-PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.",素晴らしい！この爪があれば、治療師たちが適切な解毒剤を用意できます。
-PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,ライカンアーチャーの解毒剤
-PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,ライカンアーチャーは背中の腺に天然の解毒剤を持っています。カイルルンは、ライカンに毒された戦士たちを治療するため、これを緊急に必要としています。
-PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,ありがとうございます！彼らの天然解毒剤は、負傷した兵士たちにとって不可欠です。$QUEST_END_ITEM_NAME$を325個、ライカンアーチャーから持ち帰ってください。
-PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,残念です……何人もの戦士がまだ治療を待っています。
-PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.",まだ足りません。急いでください、一滴一滴が大切なのです。
-PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.",完璧です！あなたのおかげで、ようやく負傷者を治療できます。
+PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,ライカンセンチネルの腐食性の攻撃で、多くのミューラン族の偵察兵が傷ついています。治療薬を作るために、彼らの爪が必要です。
+PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,助かります！ あの爪の毒で、偵察兵たちが苦しんでいるんです。ライカンセンチネルの群れから＜$QUEST_END_ITEM_NAME$＞を325個、集めてきてください。
+PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,分かりました...ですが、治療薬も残り少なくなっています。力を貸してもらえるなら、また来てくださいね。
+PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.",まだ少し足りないみたいです。ライカンセンチネルは危険ですから、気をつけてくださいね。
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.",ありがとうございます！ これだけの爪があれば、治療師たちが適切な解毒薬を用意できそうです。
+PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,ライカンアーチャーの解毒薬
+PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,ライカンアーチャーの背中にある腺には、天然の解毒成分が含まれています。ライカンの毒に侵された兵士たちを治療するため、カイルルンではそれを緊急に必要としています。
+PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,ありがとうございます！負傷した兵士のために、天然の解毒成分がどうしても必要です。ライカンアーチャーの群れから＜$QUEST_END_ITEM_NAME$＞を325個、持ち帰ってください。
+PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,残念です...治療を待っている兵士が、まだ何人もいるんです。
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.",まだ足りません。急いでください。一滴だって無駄にはできないんです。
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.",ありがとうございます！ あなたのおかげで、ようやく負傷者たちを治療できます。
 PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,ライカンソーサラーの魔法の頭骨
-PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,ライカンソーサラーは頭骨の中に不思議なエネルギーを生み出します。ムランの呪術師たちは、街の防護結界を強化するため、この魔力を研究したいと考えています。
-PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,よろしい！彼らの頭骨には不思議なエネルギーが宿っています。研究しなければなりません。$QUEST_END_ITEM_NAME$を325個、ライカンソーサラーから持ち帰ってください。
-PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,わかりました……ですが、この魔力は私たちの防御を強化できるはずです。
-PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,まだエネルギーを帯びた頭骨が足りません。続けてください！
-PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,見事です！この頭骨はまさに力の源です。
-PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,デビルスピリットの牙
-PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,デビルスピリットが増殖するにつれ、カイルルンには奇妙な穢れが広がっています。その牙には悪魔の本質が宿っており、賢者たちはそれを封印したいと考えています。
-PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,勇気を出してください！デビルスピリットは数を増しています。その牙を封印しなければなりません。$QUEST_END_ITEM_NAME$を325個、デビルスピリットから持ち帰ってください。
-PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,わかりました……ですが、彼らの影響は夜ごとに広がっています。気をつけて戻ってきてください。
-PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,悪魔のエネルギーを封じ込めるには、まだ牙が足りません。集め続けてください。
-PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,とても良いです！この牙は浄化され、無力化されるでしょう。大変な貢献をしていただきました。
+PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,ライカンソーサラーの頭骨には、不思議なエネルギーが生み出されています。ミューラン族の呪術師たちは、その力を研究して、街を守る結界の強化に役立てようとしています。
+PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,いいですね！ 彼らの頭骨には不思議なエネルギーが宿っています。ぜひ調べてみないと。ライカンソーサラーの群れから＜$QUEST_END_ITEM_NAME$＞を325個、持ち帰ってください。
+PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,そうですか...。でも、あの力があれば街の守りをもっと強くできるかもしれません。
+PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,魔力を帯びた頭骨がまだ足りないみたいです。もう少し頑張ってください！
+PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,お疲れさまでした！ この頭骨には本当に強い力が宿っているんですね。
+PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,悪魔の牙
+PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,ライカンウォーリアーが増え続け、その影響でカイルルン各地に奇妙な異変が起きています。彼らが持つ武器の牙には悪魔の力が宿っていて、賢者たちはそれを封印したいと考えています。
+PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,気をつけてくださいね！ ライカンウォーリアーはどんどん増えています。あの牙に宿る力を封じなくてはいけません。ライカンウォーリアーの群れから＜$QUEST_END_ITEM_NAME$＞を325個、集めてきてください。
+PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,分かりました...ですが、彼らの影響は夜ごとに広がっています。気が変わったら、また来てくださいね。
+PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,悪魔の力を封じるには、まだ牙が足りません。もう少し集めてきてください。
+PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,ありがとうございます！ これだけの牙があれば、浄化して悪魔の力を無力化できます。本当に助かりました。
 PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,スケルトンジャッカルの血染めの牙
-PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.",スケルトンジャッカルはカイルルンの危険なほど近くを徘徊し、その血に染まった牙は治りにくい傷を残します。ムランは、この獣たちを撃退できる武器を鍛えるため、それを必要としています。
-PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,完璧です！彼らの血染めの牙は凶悪です。$QUEST_END_ITEM_NAME$を325個、スケルトンジャッカルから持ち帰ってください。鍛冶に使います。
-PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,わかりました……ですが、スケルトンジャッカルは今もカイルルン周辺に潜んでいます。
-PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,まだ足りません。彼らを撃退できる武器を鍛えるには、その牙が不可欠です。
-PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.",見事です！あなたのおかげで、最高のムラン戦士にふさわしい武器を鍛えられます。
-PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$は心の底からあなたに感謝しています！ムランに栄光あれ！
+PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.",スケルトンジャッカルがカイルルンのすぐ近くまで徘徊するようになり、その血塗られた牙で負った傷に苦しむ者も出ています。この獣たちを撃退できる武器を作るため、ミューラン族はその牙を必要としています。
+PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,ありがとうございます！ 彼らの血染めの牙はとても危険です。鍛冶に用いるため、スケルトンジャッカルの群れから＜$QUEST_END_ITEM_NAME$＞を325個、持ち帰ってください。
+PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,分かりました...ですが、スケルトンジャッカルは今もカイルルンの周辺をうろついています。
+PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,まだ足りないみたいです。彼らを退ける武器を作るには、その牙がどうしても必要なんです。
+PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.",お疲れさまでした！ あなたのおかげで、ミューラン族の精鋭戦士にふさわしい武器を作れます。
+PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$は心の底からあなたに感謝しています！ミューラン族に栄光あれ！

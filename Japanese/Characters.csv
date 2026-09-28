@@ -392,7 +392,7 @@ CHARACTER_INC_150013,[Eillun Guard] Raon,[エルリウン衛兵] ラオン
 CHARACTER_INC_150014,[Eillun Guard] Dreon,[エルリウン衛兵] ドレオン
 CHARACTER_INC_150015,[Eillun Guard] Merk,[エルリウン衛兵] メルク
 CHARACTER_INC_150016,[Captain] Baron,[隊長] バロン
-CHARACTER_INC_150017,Jarl,ヤール
+CHARACTER_INC_150017,Jarl,[族長] ガウラン
 CHARACTER_INC_150018,[Elder] Ayr,[長老] エア
 CHARACTER_INC_150019,[Elder] Traitus,[長老] トレイタス
 CHARACTER_INC_150020,[Elder] Melak,[長老] メラク
@@ -419,15 +419,15 @@ CHARACTER_INC_150040,Kaela,カエラ
 CHARACTER_INC_150041,[Pet Tamer] Livia,[ペットテイマー] リビア
 CHARACTER_INC_150042,Taila,タイラ
 CHARACTER_INC_150043,Weevs,ウィーヴス
-CHARACTER_INC_150044,[Mysterious] ??? ,[謎の] ???
+CHARACTER_INC_150044,[Mysterious] ??? ,[謎の人物] ???
 CHARACTER_INC_150045,[Expedition] Beck,[遠征隊] ベック
 CHARACTER_INC_150046,Asylum Guard,アサイラム・ガード
 CHARACTER_INC_150047,Mysterious Adventurer,謎の冒険者
-CHARACTER_INC_150048,Jarl (Dying),ヤール (瀕死)
+CHARACTER_INC_150048,Jarl (Dying),[族長] ガウラン (瀕死)
 CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTSマネージャー] ミュウデヴ
 CHARACTER_INC_150050,Miorang,ミオラン
 CHARACTER_INC_150051,Cheirang,チェイラン
-CHARACTER_INC_150052,[Village Chief] Huntrang,[族長] フンツラン
+CHARACTER_INC_150052,[Village Chief] Huntrang,[村長] フントラン
 CHARACTER_INC_150053,[Arena Manager] Aerin,[アリーナ管理人] エアリン
 CHARACTER_INC_150100,[Event] Getcha,[イベント] ゲッチャ
 CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Lv165ギルコンマネージャー] プルーン

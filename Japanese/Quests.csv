@@ -2049,587 +2049,587 @@ PROPQUEST_INC_132305,"Already gathered everything? …Oh, not yet? Very well—c
 PROPQUEST_INC_132306,Splendid! This should be more than enough for the blacksmiths to continue their research. You’ve done well.,見事だ！これで鍛冶師たちが研究を続けるには十分すぎるほどだろう。よくやった。
 PROPQUEST_INC_200000,3rd Job Change,3次転職
 PROPQUEST_INC_140009,Chapter 1 Expedition,第1章 遠征
-PROPQUEST_INC_150000,A Hand of Compassion,思いやりの手
-PROPQUEST_INC_150001,I have a funny story and a favor to ask. Want to hear it?,面白い話と、頼みがあるんだ。聞いてくれるかい？
-PROPQUEST_INC_150002,"I don’t know if you’re aware, but there are many races in this world. For some reason, I’m especially drawn to beastfolk, so I’ve been looking for information about them.",知っているかどうかわからないが、この世界には多くの種族がいるんだ。なぜか私は特に獣人に惹かれていてね、彼らについての情報を探しているんだ。
-PROPQUEST_INC_150003,"I found some clues, secured funding, formed an expedition, and sent them to a rumored location. But… I still haven’t heard anything back.",手がかりを見つけ、資金を確保し、遠征隊を編成して、噂の場所へ送り出したんだ。だが……まだ何の知らせも届いていない。
-PROPQUEST_INC_150004,"There should have been at least a letter by now. My investors keep nagging me to take responsibility, but the mayor of Saint City, who invested the most, hasn’t said a single word. Isn’t it obvious he knows something? Could you ask him about the expedition for me?",今頃、せめて手紙くらいは届いていてもいいはずなんだ。出資者たちは責任を取れとうるさいんだが、最も多く出資したセイントシティの市長は一言も発していない。何か知っているのは明らかじゃないか？私の代わりに、遠征について彼に聞いてもらえないか？
-PROPQUEST_INC_150005,Thank you! You know where to find him.,ありがとう！彼がどこにいるかは知っているな。
+PROPQUEST_INC_150000,A Hand of Compassion,差し伸べられた手
+PROPQUEST_INC_150001,I have a funny story and a favor to ask. Want to hear it?,ちょっと面白い話があってね。それと、ひとつ頼みたいことがあるんだ。聞いてくれるかい？
+PROPQUEST_INC_150002,"I don’t know if you’re aware, but there are many races in this world. For some reason, I’m especially drawn to beastfolk, so I’ve been looking for information about them.",知っていると思うが、この世界にはさまざまな種族がいる。どういうわけか、わたしは特に獣人に惹かれてしまってね。ずっと彼らについて情報を集めているんだ。
+PROPQUEST_INC_150003,"I found some clues, secured funding, formed an expedition, and sent them to a rumored location. But… I still haven’t heard anything back.",いくつか手がかりを見つけて、資金を集め、遠征隊を結成して噂の場所へ送り出したんだ。ところが...いまだに何の連絡もない。
+PROPQUEST_INC_150004,"There should have been at least a letter by now. My investors keep nagging me to take responsibility, but the mayor of Saint City, who invested the most, hasn’t said a single word. Isn’t it obvious he knows something? Could you ask him about the expedition for me?",もう手紙のひとつくらい届いていてもいい頃なんだがね。出資者たちからは責任を取れとうるさく言われているのに、最も多く出資したセイントモーニング市長だけは何も言ってこない。どう考えても、何か知っていると思わないかい？ わたしの代わりに、遠征隊のことを聞いてきてくれないか？
+PROPQUEST_INC_150005,Thank you! You know where to find him.,ありがとう！市長がどこにいるかは知っているよな。
 PROPQUEST_INC_150006,Come back if you change your mind. I’ll be waiting.,気が変わったら戻ってきてくれ。待っているよ。
-PROPQUEST_INC_150007,"Did you ask him? I’d go myself, but… I’m too afraid to face him.",彼に聞いてくれたか？自分で行ってもいいんだが……彼と向き合うのが怖くてね。
-PROPQUEST_INC_150008,"Oh, a great adventurer. What brings you here?",おや、偉大な冒険者じゃないか。何の用だ？
-PROPQUEST_INC_150009,Meet with the Mayor of Saint City,セイントシティの市長に会う
+PROPQUEST_INC_150007,"Did you ask him? I’d go myself, but… I’m too afraid to face him.",市長には聞いてくれたかい？わたしが直接行ければいいんだが...どうにも怖くて、顔を合わせる勇気がなくてね。
+PROPQUEST_INC_150008,"Oh, a great adventurer. What brings you here?",おや、名高い冒険者ではありませんか。今日はどういったご用件で？
+PROPQUEST_INC_150009,Meet with the Mayor of Saint City,セイントモーニング市長に会う
 PROPQUEST_INC_150010,The Truth of the Expedition,遠征の真実
-PROPQUEST_INC_150011,"Ah, I see. Did the Strange Collector send you?",ああ、なるほど。謎のコレクターに送られてきたのか？
-PROPQUEST_INC_150012,I have nothing to tell you about that. Just go back.,それについて話すことは何もない。戻ってくれ。
-PROPQUEST_INC_150013,"Hmm? If not, then why did you come to me?",うん？違うなら、なぜ私のところへ来たんだ？
-PROPQUEST_INC_150014,"Even for you, I have nothing more to say.",お前が相手でも、これ以上言うことはない。
-PROPQUEST_INC_150015,Hmm? Do I know anything about the mayor?,うん？私が市長について何か知っているかだと？
-PROPQUEST_INC_150016,Meet with Helgar,ヘルガースに会う
+PROPQUEST_INC_150011,"Ah, I see. Did the Strange Collector send you?",ああ、なるほど。謎のコレクターに頼まれて来たのですね？
+PROPQUEST_INC_150012,I have nothing to tell you about that. Just go back.,その件について、私から話すことは何もありません。お引き取りください。
+PROPQUEST_INC_150013,"Hmm? If not, then why did you come to me?",ん？ 違うのですか？ では、なぜ私のところへ？
+PROPQUEST_INC_150014,"Even for you, I have nothing more to say.",あなたが相手でも、これ以上お話しすることはありません。
+PROPQUEST_INC_150015,Hmm? Do I know anything about the mayor?,ん？ 市長について何か知らないかって？
+PROPQUEST_INC_150016,Meet with Helgar,[鑑定士] ヘルガースに会う
 PROPQUEST_INC_150017,Trapped in the Maze,迷宮に囚われて
-PROPQUEST_INC_150018,"Well… I don’t know much, but lately the mayor of Flaris has been visiting his house quite often. Why don’t you try talking to Flarine?",そうだな……あまり詳しくは知らないが、最近フラリスの市長が彼の家をよく訪ねているんだ。フラリスに話しかけてみたらどうだ？
-PROPQUEST_INC_150019,"You know the way, right?",道はわかっているな？
-PROPQUEST_INC_150020,"You’re the one asking, and yet… If it’s nothing important, could you step aside?",聞いてきたのはお前の方だが……大したことじゃないなら、どいてもらえるか？
-PROPQUEST_INC_150021,That’s all I know. Go see Flarine.,私が知っているのはそれだけだ。フラリスに会いに行け。
-PROPQUEST_INC_150022,Hmm? It’s been a while. What brings you here?,うん？久しぶりだな。何の用だ？
-PROPQUEST_INC_150023,Meet with the Mayor of Flarine,フラリスの市長に会う
+PROPQUEST_INC_150018,"Well… I don’t know much, but lately the mayor of Flaris has been visiting his house quite often. Why don’t you try talking to Flarine?",そうだな...詳しいことは知らんが、最近はフラリス市長がよく市長の家を訪ねてるな。フラリスに行って話を聞いてみたらどうだ？
+PROPQUEST_INC_150019,"You know the way, right?",場所は分かるよな？
+PROPQUEST_INC_150020,"You’re the one asking, and yet… If it’s nothing important, could you step aside?",聞いてきたのはお前の方だが...大した用じゃないなら、どいてもらえるか？
+PROPQUEST_INC_150021,That’s all I know. Go see Flarine.,おれが知ってるのはそれだけだ。フラリス市長に聞いてみな。
+PROPQUEST_INC_150022,Hmm? It’s been a while. What brings you here?,おや？ お久しぶりですね。今日はどうなさいました？
+PROPQUEST_INC_150023,Meet with the Mayor of Flarine,フラリス市長に会う
 PROPQUEST_INC_150024,Friend’s Testimony,友の証言
-PROPQUEST_INC_150025,Actually… something like this was found in western Flaris.,実は……西フラリスでこんなものが見つかったんだ。
-PROPQUEST_INC_150026,"Look at this Saint City logo. I thought I should let him know, so I brought it to him.",このセイントシティの紋章を見てくれ。彼に知らせるべきだと思って、持ってきたんだ。
-PROPQUEST_INC_150027,"But more pieces like this keep turning up, so I’ve been visiting him often.",だがこういう破片が次々と見つかるものだから、よく彼のところを訪ねているんだ。
-PROPQUEST_INC_150028,"He was shocked when he saw it, took it away, and told me not to speak of it to anyone. Do you want this?",彼はこれを見て衝撃を受け、持ち去って、誰にも話すなと言ったんだ。これが欲しいか？
-PROPQUEST_INC_150029,"As far as I know, these pieces came from the central region of the Leren Mountains. Fortunately for him, powerful masquerpets wander the area, keeping people away and stopping any rumors from spreading. But that shouldn’t be a problem for you.",私が知る限り、この破片はレルエン山脈の中央地域から出たものだ。彼にとって幸運なことに、あの辺りには強力なモンスターがうろついていて、人を近づけず、噂が広まるのも防いでいる。だがお前にとっては問題にならないはずだ。
-PROPQUEST_INC_150030,"Hmm? You don’t need it? Well, I can’t give you this piece, but if you need another one, feel free to ask.",うん？いらないのか？まあ、この破片は渡せないが、別のものが必要なら、遠慮なく聞いてくれ。
-PROPQUEST_INC_150031,"I’ve already told you where it is, haven’t I? Someone like you shouldn’t have any trouble handling the monsters there and finding what you need.",場所はもう教えたはずだが？お前ほどの者なら、あそこのモンスターを相手にして必要なものを見つけるのに苦労はしないはずだ。
-PROPQUEST_INC_150032,Wait… this is…! How did you get this?,待て……これは……！これをどうやって手に入れたんだ？
-PROPQUEST_INC_150033,Find “Fragment of ???”,「???の破片」を見つける
-PROPQUEST_INC_150034,His True Intention,彼の本当の狙い
-PROPQUEST_INC_150035,"Now that you’ve come this far, I have no choice but to tell you everything. Are you ready? That fragment is from the ship the expedition used when they set sail.",ここまで来たからには、すべてを話すしかないな。心の準備はいいか？その破片は、遠征隊が出航に使った船のものだ。
-PROPQUEST_INC_150036,"How do I know that from a single piece of debris? Because I was involved in everything—from its design to its construction. But so far, all we’ve found are scattered fragments like this.",なぜたった一つの破片からそれがわかるのかって？設計から建造まで、すべてに関わっていたからだ。だが今のところ、見つかっているのはこういう散らばった破片だけなんだ。
-PROPQUEST_INC_150037,"I’ve done my best to stop the news from spreading, but there’s only so much I can do. At this point, I have no one left to turn to but you. Could you help find more clues about the expedition?",この知らせが広まらないよう最善を尽くしてきたが、私にできることには限りがある。今となっては、頼れるのはお前しかいない。遠征についての手がかりをもっと見つける手伝いをしてくれないか？
-PROPQUEST_INC_150038,Thank you. The expedition followed the Darkon 1 mountain range. Start searching from there.,ありがとう。遠征隊はダーコン1の山脈沿いに進んだ。そこから探索を始めてくれ。
-PROPQUEST_INC_150039,"So even my last hope is fading. If you change your mind, please come back.",私の最後の望みすら、消えかけているのか。気が変わったら、戻ってきてくれ。
-PROPQUEST_INC_150040,Have you found anything? Oh… this is getting serious.,何か見つかったか？ああ……これは深刻なことになってきたな。
-PROPQUEST_INC_150041,"Welcome, adventurer. Hmm? What is this?",ようこそ、冒険者よ。うん？これは何だ？
-PROPQUEST_INC_150042,Bring “Fragment of a Fallen Ship” to the Darken Mayor,「難破船の破片」をダーコンの市長に届ける
-PROPQUEST_INC_150043,Seeking the Witness… 1,証人を求めて…1
-PROPQUEST_INC_150044,"Well… I don’t know anything about this shipwreck, but there is someone who might.",そうだな……この難破船については何も知らないが、知っているかもしれない者がいる。
-PROPQUEST_INC_150045,A High-Dwarpet named Liekyen might know something. You should go see him.,リエキエンというハイドワーフが何か知っているかもしれない。彼に会いに行くべきだ。
-PROPQUEST_INC_150046,"Of course, you can search elsewhere first if you prefer.",もちろん、先に他の場所を探したいなら構わない。
-PROPQUEST_INC_150047,You haven’t gone yet? That’s really all I can think of.,まだ行っていないのか？私に思いつくのは本当にそれだけだ。
-PROPQUEST_INC_150048,A shipwreck? Ah… you mean that one.,難破船だと？ああ……あれのことか。
-PROPQUEST_INC_150049,Meet with Liekyen,リエキエンに会う
-PROPQUEST_INC_150050,Seeking the Witness… 2,証人を求めて…2
-PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,山奥でのことだった。影が見えてモンスターかと思ったんだが……空から落ちてきた船だったんだ。
-PROPQUEST_INC_150052,"There was no one on board, even when I searched it the first time. Not a single body. I checked around to see if there was anything useful, but all I found was a book full of strange codes. Curious what it says?",最初に調べた時、船には誰も乗っていなかった。遺体すら一つもない。何か使えるものがないか調べたんだが、見つかったのは奇妙な暗号だらけの本だけだった。何が書いてあるか気になるか？
-PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",私にはさっぱりわからなかったから、ロッテンマイヤーに渡したんだ。興味があるなら、彼女に話しかけてみてくれ。
-PROPQUEST_INC_150054,"Not curious? Well, that’s your choice.",気にならないのか？まあ、それはお前次第だ。
-PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",ロッテンマイヤーなら詳細を知っている。解読が終わったら、彼女が見つけたことを教えに戻ってきてくれないか？
-PROPQUEST_INC_150056,"Ah, you’ve come for the logbook?",ああ、航海日誌のことで来たのか？
-PROPQUEST_INC_150057,Meet with Inisis,ロッテンマイヤーに会う
-PROPQUEST_INC_150058,Searching for Clues… 1,手がかりを求めて…1
-PROPQUEST_INC_150059,It turned out to be just a simple sailing logbook. There’s nothing special written in it. Are you still looking for more clues?,結局、ただの簡単な航海日誌だったわ。特別なことは何も書かれていないの。まだ手がかりを探しているの？
-PROPQUEST_INC_150060,"Actually, after reading it, Amadolka decided to search the Darken mountains again to see if anything else turns up. You should meet him before heading back to Saint City.",実は、それを読んだ後、アマドルカーが何か他に見つかるか、ダーコンの山をもう一度探すことにしたのよ。セイントシティへ戻る前に、彼に会っておくべきね。
-PROPQUEST_INC_150061,"If you’re too busy, I understand. Take care of yourself.",忙しすぎるなら仕方ないわ。気をつけてね。
-PROPQUEST_INC_150062,You haven’t left yet?,まだ出発していないの？
-PROPQUEST_INC_150063,Inisis sent you?,ロッテンマイヤーがお前をよこしたのか？
-PROPQUEST_INC_150064,Meet with Amadolka,アマドルカーに会う
-PROPQUEST_INC_150065,Searching for Clues… 2,手がかりを求めて…2
-PROPQUEST_INC_150066,That sharp woman… How did she know to send you without me saying anything? Do you really need this?,あの鋭い女め……私が何も言っていないのに、どうしてお前をよこすとわかったんだ？本当にこれが必要なのか？
-PROPQUEST_INC_150067,"Sigh… Fine, take it. You can find it right next to me. I tried to analyze that material at Erons Factory, but I couldn’t even figure out what it’s made of.",はぁ……いいだろう、持っていけ。私のすぐ隣にある。エランズファクトリーでその材料を分析しようとしたんだが、何でできているのかすら突き止められなかった。
-PROPQUEST_INC_150068,"If you manage to discover anything, let me know. I guess I owe you one now.",何かわかったら教えてくれ。まあ、これで借りができたようなものだな。
-PROPQUEST_INC_150069,"So I can keep this? Tch… the more I look at it, the more uneasy I feel. Just take it and go.",これを持っていていいのか？チッ……見れば見るほど落ち着かない気分になる。さっさと持っていってくれ。
-PROPQUEST_INC_150070,This logbook…!,この航海日誌は……！
-PROPQUEST_INC_150071,Find “Trace of the New Continent”,「新大陸の痕跡」を見つける
+PROPQUEST_INC_150025,Actually… something like this was found in western Flaris.,実は...西フラリスで、このようなものが見つかりましてね。
+PROPQUEST_INC_150026,"Look at this Saint City logo. I thought I should let him know, so I brought it to him.",ここにセイントモーニングの紋章があるでしょう？ これは彼に知らせるべきだと思い、わたくしが持っていったのです。
+PROPQUEST_INC_150027,"But more pieces like this keep turning up, so I’ve been visiting him often.",ところが、その後も同じような破片が次々と見つかりましてね。それで、たびたび彼のもとを訪ねているのです。
+PROPQUEST_INC_150028,"He was shocked when he saw it, took it away, and told me not to speak of it to anyone. Do you want this?",彼はこれを見るなりひどく驚き、破片を受け取ると、このことは誰にも話さないようにと言いました。...これが必要ですか？
+PROPQUEST_INC_150029,"As far as I know, these pieces came from the central region of the Leren Mountains. Fortunately for him, powerful masquerpets wander the area, keeping people away and stopping any rumors from spreading. But that shouldn’t be a problem for you.",わたくしの知る限り、こうした破片はレルエン山脈の中央付近で見つかっています。彼にとって幸いなことに、あの辺りには強力なモンスターが徘徊しているため、人が寄りつかず、噂も広まっていません。もっとも、あなたなら問題ないでしょう。
+PROPQUEST_INC_150030,"Hmm? You don’t need it? Well, I can’t give you this piece, but if you need another one, feel free to ask.",おや？ 必要ないのですか？ まあ、この破片をお渡しすることはできませんが、また必要になりましたら、いつでも声をかけてください。
+PROPQUEST_INC_150031,"I’ve already told you where it is, haven’t I? Someone like you shouldn’t have any trouble handling the monsters there and finding what you need.",場所はもうお伝えしましたよね？ あなたほどの方なら、あの辺りのモンスターにも手こずることなく、必要なものを見つけられるでしょう。
+PROPQUEST_INC_150032,Wait… this is…! How did you get this?,待ってください...これは...！ いったい、どこでこれを？
+PROPQUEST_INC_150033,Find “Fragment of ???”,＜???の破片＞を見つける
+PROPQUEST_INC_150034,His True Intention,彼の真意
+PROPQUEST_INC_150035,"Now that you’ve come this far, I have no choice but to tell you everything. Are you ready? That fragment is from the ship the expedition used when they set sail.",ここまでたどり着いた以上、すべてお話しするしかありませんね。心の準備はいいですか？ その破片は、遠征隊が出発した際に使った船のものです。
+PROPQUEST_INC_150036,"How do I know that from a single piece of debris? Because I was involved in everything—from its design to its construction. But so far, all we’ve found are scattered fragments like this.",なぜ、この破片ひとつで分かるのか？ 私はあの船の設計から建造まで、すべてに関わっていたからです。しかし今のところ、見つかっているのはこうした破片ばかりです。
+PROPQUEST_INC_150037,"I’ve done my best to stop the news from spreading, but there’s only so much I can do. At this point, I have no one left to turn to but you. Could you help find more clues about the expedition?",このことが広まらないよう、私もできる限り手を尽くしてきました。しかし、それにも限界があります。もはや頼れるのはあなただけです。遠征隊について、さらに手がかりを探していただけませんか？
+PROPQUEST_INC_150038,Thank you. The expedition followed the Darkon 1 mountain range. Start searching from there.,ありがとうございます。遠征隊はダーコン1の山脈に沿って進みました。まずはその辺りから探してみてください。
+PROPQUEST_INC_150039,"So even my last hope is fading. If you change your mind, please come back.",最後の望みまで消えようとしているのですね...。気が変わったら、どうか戻ってきてください。
+PROPQUEST_INC_150040,Have you found anything? Oh… this is getting serious.,何か見つかりましたか？ ...これは、事態が深刻になってきましたね。
+PROPQUEST_INC_150041,"Welcome, adventurer. Hmm? What is this?",ようこそ、冒険者さん。...ん？ これは何ですかな？
+PROPQUEST_INC_150042,Bring “Fragment of a Fallen Ship” to the Darken Mayor,＜難破船の破片＞をダーコン市長に届ける
+PROPQUEST_INC_150043,Seeking the Witness… 1,目撃者を求めて...(1)
+PROPQUEST_INC_150044,"Well… I don’t know anything about this shipwreck, but there is someone who might.",ふむ...この難破船について、私は何も知りません。ただ、心当たりのある人物ならいますよ。
+PROPQUEST_INC_150045,A High-Dwarpet named Liekyen might know something. You should go see him.,リエキエンというハイドワーフなら、何か知っているかもしれません。一度、彼を訪ねてみるといいでしょう。
+PROPQUEST_INC_150046,"Of course, you can search elsewhere first if you prefer.",もちろん、先に他を当たってみたいというなら、それでも構いませんよ。
+PROPQUEST_INC_150047,You haven’t gone yet? That’s really all I can think of.,おや、まだ行っていなかったのですか？ 私に思い当たるのは、本当にそれくらいですよ。
+PROPQUEST_INC_150048,A shipwreck? Ah… you mean that one.,難破船？ ああ...あれのことなのだ。
+PROPQUEST_INC_150049,Meet with Liekyen,[ハイドワーフ] リエキエンに会う
+PROPQUEST_INC_150050,Seeking the Witness… 2,目撃者を求めて...(2)
+PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,山奥でのことなのだ。何かの影が見えたから、てっきりモンスターかと思ったんだが...なんと、空から船が落ちてきたのだ！
+PROPQUEST_INC_150052,"There was no one on board, even when I searched it the first time. Not a single body. I checked around to see if there was anything useful, but all I found was a book full of strange codes. Curious what it says?",最初に船を調べたときから、誰も乗っていなかったのだ。遺体ひとつなかった。何か役に立つものはないかと辺りを調べてみたが、見つかったのは奇妙な暗号だらけの本だけだったのだ。...何が書いてあるか、気になるだろ？
+PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",僕にはさっぱり分からなかったから、ロッテンマイヤーに渡しておいたのだ。気になるなら、彼女に聞いてみるといいのだ。
+PROPQUEST_INC_150054,"Not curious? Well, that’s your choice.",気にならないのか？ ふん、まあ好きにするのだ。
+PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",詳しいことはロッテンマイヤーが知っているのだ。解読が終わったら、何が分かったのか僕にも教えに来てくれないか？
+PROPQUEST_INC_150056,"Ah, you’ve come for the logbook?",ああ、航海日誌を取りに来たのですね？
+PROPQUEST_INC_150057,Meet with Inisis,[伝説の師匠] ロッテンマイヤーに会う
+PROPQUEST_INC_150058,Searching for Clues… 1,手がかりを求めて...(1)
+PROPQUEST_INC_150059,It turned out to be just a simple sailing logbook. There’s nothing special written in it. Are you still looking for more clues?,調べてみましたが、ただの航海日誌でした。特に変わったことは書かれていません。それでも、まだ手がかりを探すつもりですか？
+PROPQUEST_INC_150060,"Actually, after reading it, Amadolka decided to search the Darken mountains again to see if anything else turns up. You should meet him before heading back to Saint City.",実は、これを読んだアマドルカーが、ほかに何か見つからないかダーコンの山岳地帯をもう一度調べることにしたそうです。セイントモーニングへ戻る前に、彼に会っておくといいでしょう。
+PROPQUEST_INC_150061,"If you’re too busy, I understand. Take care of yourself.",お忙しいのでしたら仕方ありませんね。無理はなさらないように。
+PROPQUEST_INC_150062,You haven’t left yet?,...まだ行っていないのですか？
+PROPQUEST_INC_150063,Inisis sent you?,ロッテンマイヤーに言われて来たのか？
+PROPQUEST_INC_150064,Meet with Amadolka,[警備長] アマドルカーに会う
+PROPQUEST_INC_150065,Searching for Clues… 2,手がかりを求めて...(2)
+PROPQUEST_INC_150066,That sharp woman… How did she know to send you without me saying anything? Do you really need this?,あの勘の鋭い女め...。私が何も言っていないのに、よく君をよこしたものだ。これが必要なんだろう？
+PROPQUEST_INC_150067,"Sigh… Fine, take it. You can find it right next to me. I tried to analyze that material at Erons Factory, but I couldn’t even figure out what it’s made of.",まったく...仕方ないな。持っていけ。すぐそこにある。エランパークスでその材料を分析してみたんだが、何でできているのかさえ分からなかった。
+PROPQUEST_INC_150068,"If you manage to discover anything, let me know. I guess I owe you one now.",何か分かったら、私にも知らせてくれ。ハハッ、これで君にはひとつ借りができたな。
+PROPQUEST_INC_150069,"So I can keep this? Tch… the more I look at it, the more uneasy I feel. Just take it and go.",これは私が預かっていていいのか？ ...チッ。見れば見るほど嫌な感じがする。さっさと持っていってくれ。
+PROPQUEST_INC_150070,This logbook…!,この航海日誌は...！
+PROPQUEST_INC_150071,Find “Trace of the New Continent”,＜新大陸の痕跡＞を見つける
 PROPQUEST_INC_150072,The Gear Begins to Turn Again,再び回り始める歯車
-PROPQUEST_INC_150073,"So that’s how it was… What on earth happened to the crew of that ship? For now, let me examine this strange material.",そういうことだったのか……あの船の乗組員に一体何が起きたんだ？とりあえず、この奇妙な材料を調べさせてくれ。
-PROPQUEST_INC_150074,"I can use it to calm the investors. With this logbook, we might even be able to send a follow-up expedition. Hmm… Could you show the logbook and this material to the Strange Collector?",これで出資者たちを落ち着かせられそうだ。この航海日誌があれば、追加の遠征隊を送ることもできるかもしれない。うーむ……この航海日誌とこの材料を、謎のコレクターに見せてきてもらえないか？
-PROPQUEST_INC_150075,He should be the first to know. Thank you.,彼が一番に知るべきだ。ありがとう。
-PROPQUEST_INC_150076,"Well, if you change your mind, you can come back anytime.",まあ、気が変わったら、いつでも戻ってきてくれ。
-PROPQUEST_INC_150077,"Have you shown it to him yet? Don’t worry, I’m not rushing you.",もう彼に見せたか？心配するな、急かしているわけじゃない。
-PROPQUEST_INC_150078,"Welcome back. How did it go? I knew it—my research wasn’t wrong after all. I truly owe you. It’s not much, but please accept this as my thanks. Things are going to get busy from here on…",おかえり。どうだった？やはりな——私の研究は間違っていなかった。本当に世話になったな。大したものではないが、感謝の印として受け取ってくれ。これから忙しくなりそうだ……
+PROPQUEST_INC_150073,"So that’s how it was… What on earth happened to the crew of that ship? For now, let me examine this strange material.",そういうことでしたか...。あの船の乗組員に、いったい何が起きたのでしょう？ ひとまず、この奇妙な材料を調べてみましょう。
+PROPQUEST_INC_150074,"I can use it to calm the investors. With this logbook, we might even be able to send a follow-up expedition. Hmm… Could you show the logbook and this material to the Strange Collector?",これがあれば、出資者たちを落ち着かせることができます。この航海日誌があれば、後続の遠征隊を送ることもできるかもしれません。...そうですね。この航海日誌と材料を、謎のコレクターに見せてもらえませんか？
+PROPQUEST_INC_150075,He should be the first to know. Thank you.,まず彼に知らせるべきでしょう。ありがとうございます。
+PROPQUEST_INC_150076,"Well, if you change your mind, you can come back anytime.",まあ、気が変わったらいつでも戻ってきてください。
+PROPQUEST_INC_150077,"Have you shown it to him yet? Don’t worry, I’m not rushing you.",もう彼には見せましたか？ いえ、急かしているわけではありませんよ。
+PROPQUEST_INC_150078,"Welcome back. How did it go? I knew it—my research wasn’t wrong after all. I truly owe you. It’s not much, but please accept this as my thanks. Things are going to get busy from here on…",おかえり。どうだった？ やはり...わたしの研究は間違っていなかったんだ！ 本当に君には感謝しているよ。大したものじゃないが、お礼にこれを受け取ってくれ。さて...これから忙しくなりそうだ。
 PROPQUEST_INC_150079,Meet with the Strange Collector,謎のコレクターに会う
 PROPQUEST_INC_150080,Chapter 2 Eillun Town,第2章 エルリウンタウン
 PROPQUEST_INC_150081,Reignited Passion,再燃する情熱
-PROPQUEST_INC_150082,"Adventurer, you’ve come at the perfect time. We’re preparing a second expedition based on the logbook you found.",冒険者よ、ちょうどいいところに来たな。お前が見つけた航海日誌をもとに、第二次遠征隊の準備を進めているんだ。
-PROPQUEST_INC_150083,"This time, we plan to send a scouting party before the main group. Would you be willing to be part of that team?",今回は、本隊の前に偵察隊を送る予定だ。そのチームの一員になってくれないか？
-PROPQUEST_INC_150084,Go see the mayor of Saint City.,セイントシティの市長に会いに行く。
-PROPQUEST_INC_150085,"I don’t think anyone is better suited for this than you. But there’s still some time before we depart, so you can decide at your own pace.",お前以上にこれに適した者はいないと思う。だがまだ出発まで時間はある、自分のペースで決めてくれ。
-PROPQUEST_INC_150086,"You know where the mayor is, right?",市長がどこにいるかはわかっているな？
-PROPQUEST_INC_150087,"Welcome, adventurer.",ようこそ、冒険者よ。
+PROPQUEST_INC_150082,"Adventurer, you’ve come at the perfect time. We’re preparing a second expedition based on the logbook you found.",冒険者、ちょうどいいところに来たね。君が見つけてくれた航海日誌をもとに、第二次遠征隊の準備を進めているところなんだ。
+PROPQUEST_INC_150083,"This time, we plan to send a scouting party before the main group. Would you be willing to be part of that team?",今回は本隊を送る前に、まず偵察隊を派遣する予定でね。君もその一員として参加してくれないか？
+PROPQUEST_INC_150084,Go see the mayor of Saint City.,セイントモーニング市長のところへ行ってみてくれ。
+PROPQUEST_INC_150085,"I don’t think anyone is better suited for this than you. But there’s still some time before we depart, so you can decide at your own pace.",この役目に君以上の適任者はいないと思っているよ。ただ、出発まではまだ時間がある。ゆっくり考えてくれて構わない。
+PROPQUEST_INC_150086,"You know where the mayor is, right?",市長がどこにいるかは知っているよな？
+PROPQUEST_INC_150087,"Welcome, adventurer.",ようこそ、冒険者さん。
 PROPQUEST_INC_150088,Scout Party,偵察隊
-PROPQUEST_INC_150089,"Thanks to what you brought back, I convinced the other investors, and we’ve decided to organize a second expedition. But considering the first expedition vanished and their ship crashed…",お前が持ち帰ってくれたもののおかげで、他の出資者たちを説得できて、第二次遠征隊を編成することが決まった。だが、最初の遠征隊が消息を絶ち、船が墜落したことを考えると……
-PROPQUEST_INC_150090,"If we send another group out without understanding what happened, we risk the same disaster. That’s why we plan to send a scouting team first to investigate. Will you take on that role?",何が起きたのか理解しないまま別の隊を送れば、同じ災難を繰り返す危険がある。だからこそ、まず調査のために偵察隊を送る予定なんだ。その役目を引き受けてくれるか？
-PROPQUEST_INC_150091,"After reviewing the logbook, it seems we need to go even farther north, beyond the Gouthan Mountains of Darkon. It looks like there’s some kind of docking point there, so if you arrive safely, you should be able to land.",航海日誌を確認したところ、ダーコンのゴウダン山脈をさらに越えた、もっと北へ行く必要があるようだ。そこには何らかの発着地点があるようだから、無事に到達できれば着陸できるはずだ。
-PROPQUEST_INC_150092,"No matter how I look at it, you’re the only one fit for this job. I’ll be waiting for your answer.",どう考えても、この仕事にふさわしいのはお前しかいない。返事を待っているぞ。
-PROPQUEST_INC_150093,"Good luck, adventurer. May your flight be a safe one.",幸運を祈る、冒険者よ。安全な飛行になりますように。
-PROPQUEST_INC_150094,Finally… I’m saved! I survived!,ついに……助かった！生き延びたぞ！
-PROPQUEST_INC_150095,Meet with [Expedition] Beck,[遠征隊]ベックに会う
-PROPQUEST_INC_150096,Straggler,はぐれ者
-PROPQUEST_INC_150097,"Good to meet you. I’m Beck from Saint City. I… well, I was part of the expedition. Beasts attacked us, and I got separated from the others.",会えて良かった。俺はセイントシティ出身のベックだ。その……遠征隊の一員だったんだ。獣に襲われて、他の仲間とはぐれてしまってな。
-PROPQUEST_INC_150098,"Our captain didn’t even check if everyone was on board before taking off. When the attack started, I just happened to be wasting time in the forest. Thanks to that, I survived.",隊長は、全員が乗船しているかも確認せずに出発しちまってな。襲撃が始まった時、俺はたまたま森で時間を潰していたんだ。そのおかげで生き延びられた。
-PROPQUEST_INC_150099,A second expedition? That’s a relief. I’ll join them and go home as soon as they arrive. But… could I ask you for a favor?,第二次遠征隊だって？そりゃ安心だ。到着したら合流して、一緒に帰ることにするよ。だが……一つ頼みがあるんだが？
-PROPQUEST_INC_150100,"I lost my serial number chain while fleeing from those beasts. I searched where I dropped it, but it was gone. It might still be somewhere nearby. Could you go and look for it? Please, I’m counting on you.",あの獣どもから逃げている時に、俺の識別番号チェーンを落としちまったんだ。落とした場所を探したんだが、見つからなかった。まだこの辺りのどこかにあるかもしれない。探しに行ってもらえないか？頼む、頼りにしているぞ。
-PROPQUEST_INC_150101,"If you change your mind, please come back.",気が変わったら、戻ってきてくれ。
-PROPQUEST_INC_150102,Those creatures went that way!,あの生き物たちはあっちへ行ったぞ！
-PROPQUEST_INC_150103,"I can’t thank you enough for your help. While you were gone, some beastmen—different from the ones that attacked me—showed up. They gave me food and pointed out a place before leaving. Eat something, then head over there.",礼を言っても言い尽くせないくらいだ。お前がいない間に、俺を襲ったのとは違う獣人たちが現れてな。食べ物をくれて、ある場所を指し示してから去っていったんだ。何か食べてから、そこへ向かってくれ。
-PROPQUEST_INC_150104,Gather 10 Abandoned Serial Number Chains,捨てられた識別番号チェーンを10個集める
-PROPQUEST_INC_150105,Proficiency Test,力量試験
-PROPQUEST_INC_150106,"Oy! Halt! Who are you? …That’s quite a story. Suspicious. Are you a Lycan spy? If not, prove it.",おい！止まれ！何者だ？……ずいぶんな話だな。怪しい。ライカンの回し者か？違うなら、証明してみせろ。
-PROPQUEST_INC_150107,"Defeat 20 Hundur Sharpfoots, and then I’ll believe you.",ワークウルフを20体倒せ、そうすれば信じてやろう。
-PROPQUEST_INC_150108,Hmph! I knew it. You must be a spy!,フン！やはりな。お前はスパイに違いない！
-PROPQUEST_INC_150109,What? You can’t even handle that? Pathetic. There’s no way I can let you into the village like this.,何だと？それすらもこなせないのか？情けない。そんな有様じゃ、村に入れるわけにはいかないな。
-PROPQUEST_INC_150110,(Hmm… seems stronger than me…),（うーむ……俺より強そうだな……）
-PROPQUEST_INC_150111,Kill 20 Hundur Sharpfoots,ワークウルフを20体倒す
+PROPQUEST_INC_150089,"Thanks to what you brought back, I convinced the other investors, and we’ve decided to organize a second expedition. But considering the first expedition vanished and their ship crashed…",あなたが持ち帰ってくれたもののおかげで、出資者たちを説得することができ、第二次遠征隊を組織することになりました。しかし、第一次遠征隊が消息を絶ち、船まで墜落したことを考えると...
+PROPQUEST_INC_150090,"If we send another group out without understanding what happened, we risk the same disaster. That’s why we plan to send a scouting team first to investigate. Will you take on that role?",何が起きたか分からないまま次の遠征隊を送り出せば、同じ惨事を繰り返しかねません。そこでまず、偵察隊を送って調査することにしました。あなたにその役目をお願いできませんか？
+PROPQUEST_INC_150091,"After reviewing the logbook, it seems we need to go even farther north, beyond the Gouthan Mountains of Darkon. It looks like there’s some kind of docking point there, so if you arrive safely, you should be able to land.",航海日誌によると、ダーコンのゴウダン山脈を越え、さらに北へ向かう必要があるようです。そこには船を着けられる場所があるようなので、無事にたどり着ければ上陸できるでしょう。
+PROPQUEST_INC_150092,"No matter how I look at it, you’re the only one fit for this job. I’ll be waiting for your answer.",どう考えても、この役目を任せられるのはあなただけです。お返事をお待ちしています。
+PROPQUEST_INC_150093,"Good luck, adventurer. May your flight be a safe one.",どうかお気をつけて、冒険者さん。無事の航行を祈っています。
+PROPQUEST_INC_150094,Finally… I’m saved! I survived!,やっと...助かった！ 俺は生き残ったんだ！
+PROPQUEST_INC_150095,Meet with [Expedition] Beck,[遠征隊] ベックに会う
+PROPQUEST_INC_150096,Straggler,取り残された者
+PROPQUEST_INC_150097,"Good to meet you. I’m Beck from Saint City. I… well, I was part of the expedition. Beasts attacked us, and I got separated from the others.",会えて良かった。俺はセイントモーニング出身のベックだ。俺は...その、遠征隊の一員だったんだ。獣たちに襲われて、仲間とはぐれてしまってな。
+PROPQUEST_INC_150098,"Our captain didn’t even check if everyone was on board before taking off. When the attack started, I just happened to be wasting time in the forest. Thanks to that, I survived.",うちの隊長ときたら、全員が乗船したか確認もせずに出発しちまってな。襲撃された時、俺はたまたま森で時間を潰していたんだ。そのおかげで、生き残ることができたんだ。
+PROPQUEST_INC_150099,A second expedition? That’s a relief. I’ll join them and go home as soon as they arrive. But… could I ask you for a favor?,第二次遠征隊だって？ それは助かるな。到着したら俺も合流して、すぐに故郷へ帰るつもりだ。だが...ひとつ頼みを聞いてもらえないか？
+PROPQUEST_INC_150100,"I lost my serial number chain while fleeing from those beasts. I searched where I dropped it, but it was gone. It might still be somewhere nearby. Could you go and look for it? Please, I’m counting on you.",あの獣どもから逃げる途中で、俺の識別番号が刻まれた鎖を落としちまったんだ。辺りを探したんだが、見つからなくてな。まだ近くにあるかもしれない。探してきてもらえないか？頼む、君だけが頼りなんだ。
+PROPQUEST_INC_150101,"If you change your mind, please come back.",気が変わったら、また来てくれ。
+PROPQUEST_INC_150102,Those creatures went that way!,あいつらなら、あっちへ行ったぞ！
+PROPQUEST_INC_150103,"I can’t thank you enough for your help. While you were gone, some beastmen—different from the ones that attacked me—showed up. They gave me food and pointed out a place before leaving. Eat something, then head over there.",本当に助かった。いくら礼を言っても足りないくらいだ。君がいない間に、俺を襲った連中とは別の獣人たちが現れてな。食べ物をくれて、ある場所を指し示してから去っていったんだ。何か腹に入れたら、そこへ行ってみるといい。
+PROPQUEST_INC_150104,Gather 10 Abandoned Serial Number Chains,＜放棄されたシリアルナンバーの鎖＞を10個集める
+PROPQUEST_INC_150105,Proficiency Test,実力試し
+PROPQUEST_INC_150106,"Oy! Halt! Who are you? …That’s quite a story. Suspicious. Are you a Lycan spy? If not, prove it.",おい！止まれ！何者だ？...なるほど、ずいぶんな話だな。怪しい...。ライカンの回し者か？違うなら、証明してみせろ。
+PROPQUEST_INC_150107,"Defeat 20 Hundur Sharpfoots, and then I’ll believe you.",ワークウルフを20体倒してこい。そうすれば、ひとまず信じてやろう。
+PROPQUEST_INC_150108,Hmph! I knew it. You must be a spy!,フン！やはりな。貴様、スパイに違いない！
+PROPQUEST_INC_150109,What? You can’t even handle that? Pathetic. There’s no way I can let you into the village like this.,何だと？その程度のこともできないのか？情けない。そんな有様じゃ、村に入れるわけにはいかないな。
+PROPQUEST_INC_150110,(Hmm… seems stronger than me…),(うーむ...俺より強そうだな...)
+PROPQUEST_INC_150111,Kill 20 Hundur Sharpfoots,ワークウルフを20体討伐する
 PROPQUEST_INC_150112,Territorial Cats,縄張り意識の強い猫たち
-PROPQUEST_INC_150113,"That’s still not enough to convince me. I don’t even know who you really are. If you want to live alongside our village, you’ll need to prove yourself with your strength. Then at least we can rely on each other.",それだけじゃまだ納得できないな。お前が本当は何者なのかすらわからないんだ。この村で共に暮らしたいなら、力で自分を証明する必要がある。そうすれば、少なくとも互いに頼り合えるだろう。
-PROPQUEST_INC_150114,"If you’re serious about proving yourself, defeat Captain Hundur Sharpfoot and bring me proof.",本気で自分を証明したいなら、キャプテン・ワークウルフを倒して、証拠を持ってこい。
-PROPQUEST_INC_150115,"At your current level, it might be difficult. I understand.",今のお前のレベルじゃ、難しいかもしれないな。わかったよ。
-PROPQUEST_INC_150116,Still not done? When exactly do you plan to enter the village?,まだ終わっていないのか？一体いつになったら村に入るつもりなんだ？
-PROPQUEST_INC_150117,"(Seriously…?) You’re struggling with just those? Hah… well, I guess you tried. Go on, someone will guide you inside.",（本当に……？）その程度で苦戦しているのか？ハッ……まあ、頑張ったんだろうな。行け、誰かが中まで案内してくれる。
-PROPQUEST_INC_150118,Kill 11 Captain Hundur Sharpfoots and bring 1 Piece of Hundur Bone,キャプテン・ワークウルフを11体倒し、ワークウルフの骨のかけらを1個持ってくる
-PROPQUEST_INC_150119,New Town Life?,新しい町での生活？
-PROPQUEST_INC_150120,"Welcome, stranger. You’re now in Eillun Town, the refuge of the Myurangs. Wait, you defeated Captain Hundur Sharpfoot? Ah, so you fell for his trick. I only sent him out for training because he’s always slacking off.",ようこそ、見知らぬ者よ。ここはミュラングの避難所、エルリウンタウンだ。待て、キャプテン・ワークウルフを倒しただと？ああ、奴の策略にまんまと引っかかったな。奴はいつもサボってばかりだから、訓練のために送り出しただけなんだ。
-PROPQUEST_INC_150121,"Don’t worry, I’ll give him a much harsher assignment next time. To stay in this village, you’ll need the captain’s approval. He’s strict, so expect more tests.",心配するな、次はもっと厳しい任務を与えてやる。この村に留まるには、隊長の承認が必要だ。奴は厳しいから、さらなる試練を覚悟しておけ。
-PROPQUEST_INC_150122,You can find him over there. Go talk to him yourself.,あそこにいるはずだ。自分で話しかけてみろ。
-PROPQUEST_INC_150123,What will he ask you to do? No idea.,奴が何をさせるつもりかって？さあな。
-PROPQUEST_INC_150124,"Just know that without his approval, you won’t be able to do much in this village.",奴の承認がなければ、この村では大したことはできないと覚えておけ。
-PROPQUEST_INC_150125,Who are you?,紹介
-PROPQUEST_INC_150126,Meet with [Captain] Baron,[隊長]バロンに会う
-PROPQUEST_INC_150127,Captain’s Test 1,隊長の試練 1
-PROPQUEST_INC_150128,"A hairless outsider in our village… What were the guards doing? So, you want to stay here? We’re at war with the Lycans. For all I know, you might be one of their spies. I can’t allow you to stay without proof.",毛のない余所者がこの村にいるとはな……門番は一体何をしていたんだ？で、ここに留まりたいと？我々はライカンと戦争状態にある。お前が奴らの回し者じゃないとどうしてわかる？証拠がなければ、滞在を許すわけにはいかない。
-PROPQUEST_INC_150129,Kill 25 Small Samosets. That’ll at least get us talking.,スモール・ライカンガードを25体倒せ。それくらいで、ようやく話を聞く気になるというものだ。
-PROPQUEST_INC_150130,"If you can’t handle something that simple, I can’t let you in.",それくらい簡単なこともこなせないなら、中に入れるわけにはいかない。
+PROPQUEST_INC_150113,"That’s still not enough to convince me. I don’t even know who you really are. If you want to live alongside our village, you’ll need to prove yourself with your strength. Then at least we can rely on each other.",だが、これだけではまだ納得できないな。そもそも、お前が何者なのかすら分からないからな。この村で共に暮らしたいというなら、力で自分を証明する必要がある。そうすれば、少なくとも互いに頼れる存在にはなれるだろう。
+PROPQUEST_INC_150114,"If you’re serious about proving yourself, defeat Captain Hundur Sharpfoot and bring me proof.",本気で自分の力を証明するつもりなら、キャプテン・ワークウルフを倒して、その証拠を持ってこい。
+PROPQUEST_INC_150115,"At your current level, it might be difficult. I understand.",今のお前には、少し厳しいかもしれないな。まあ、分からなくもない。
+PROPQUEST_INC_150116,Still not done? When exactly do you plan to enter the village?,まだ終わっていないのか？ 一体いつになったら村へ入るつもりなんだ？
+PROPQUEST_INC_150117,"(Seriously…?) You’re struggling with just those? Hah… well, I guess you tried. Go on, someone will guide you inside.",(本気か...？) あの程度で手こずっていたのか？ ...まあ、やるだけはやったようだな。行け。中に入れば、誰かが案内してくれるだろう。
+PROPQUEST_INC_150118,Kill 11 Captain Hundur Sharpfoots and bring 1 Piece of Hundur Bone,キャプテン・ワークウルフを11体倒し、＜ワークウルフの骨のかけら＞を1個持ってくる
+PROPQUEST_INC_150119,New Town Life?,新たな街での暮らし？
+PROPQUEST_INC_150120,"Welcome, stranger. You’re now in Eillun Town, the refuge of the Myurangs. Wait, you defeated Captain Hundur Sharpfoot? Ah, so you fell for his trick. I only sent him out for training because he’s always slacking off.",ようこそ、旅人。ここはミューラン族の安住の地、エルリウンタウンだ。...待て、キャプテン・ワークウルフを倒しただと？ ああ、あいつにまんまと乗せられたんだな。いつもサボってばかりいるから、訓練に行かせただけだったんだが。
+PROPQUEST_INC_150121,"Don’t worry, I’ll give him a much harsher assignment next time. To stay in this village, you’ll need the captain’s approval. He’s strict, so expect more tests.",心配するな。あいつにはもっと厳しい任務を与えておく。この村に住みたいなら、隊長の許可が必要だ。厳しい人だから、さらなる試練を覚悟しておけ。
+PROPQUEST_INC_150122,You can find him over there. Go talk to him yourself.,隊長ならあそこにいる。自分で話してくるといい。
+PROPQUEST_INC_150123,What will he ask you to do? No idea.,何をさせられるかって？ さあな、私にも分からん。
+PROPQUEST_INC_150124,"Just know that without his approval, you won’t be able to do much in this village.",ただ、隊長の許可がなければ、この村ではできることも限られる。それだけは覚えておけ。
+PROPQUEST_INC_150125,Who are you?,何者だ？
+PROPQUEST_INC_150126,Meet with [Captain] Baron,[隊長] バロンに会う
+PROPQUEST_INC_150127,Captain’s Test 1,隊長の試練 (1)
+PROPQUEST_INC_150128,"A hairless outsider in our village… What were the guards doing? So, you want to stay here? We’re at war with the Lycans. For all I know, you might be one of their spies. I can’t allow you to stay without proof.",毛のないよそ者が村にいるとは...衛兵たちは何をしていたんだ？ で、ここに留まりたいと？ 我々は今、ライカンと戦争状態にある。お前が奴らの回し者ではないとも限らん。何の証拠もなしに、滞在を許すわけにはいかない。
+PROPQUEST_INC_150129,Kill 25 Small Samosets. That’ll at least get us talking.,スモール・ライカンガードを25体倒してこい。話はそれからだ。
+PROPQUEST_INC_150130,"If you can’t handle something that simple, I can’t let you in.",その程度のこともできないようでは、ここに入れるわけにはいかんな。
 PROPQUEST_INC_150131,"If you finish quickly, you’ll be able to use the village facilities sooner.",早く終わらせれば、それだけ早く村の施設を使えるようになるぞ。
-PROPQUEST_INC_150132,Already done? Alright. I can say you’re not one of those dog spies.,もう終わったのか？よろしい。お前はあの犬どものスパイではないと言えそうだな。
-PROPQUEST_INC_150133,Kill 25 Small Samosets,スモール・ライカンガードを25体倒す
-PROPQUEST_INC_150134,Captain’s Test 2,隊長の試練 2
-PROPQUEST_INC_150135,But staying in town is a different matter. We’ve received reports that the enemies you defeated are gathering in one place.,だが、町に留まるとなると話は別だ。お前が倒した敵たちが、一箇所に集結しているという報告が入っている。
-PROPQUEST_INC_150136,I’ll tell you where. Go there and take them out before they can plan anything.,場所を教えよう。そこへ行って、奴らが何かを企む前に片付けてくれ。
-PROPQUEST_INC_150137,"It’s your choice, but if you want to stay, you’ll have to deal with them eventually.",お前次第だが、留まりたいなら、いずれ奴らに対処する必要がある。
-PROPQUEST_INC_150138,We need to crush them before they attack the village. That’s what matters.,奴らが村を襲う前に叩き潰す必要がある。それが重要なんだ。
+PROPQUEST_INC_150132,Already done? Alright. I can say you’re not one of those dog spies.,もう終わったのか？ よし。少なくとも、あの犬どものスパイではないようだな。
+PROPQUEST_INC_150133,Kill 25 Small Samosets,スモール・ライカンガードを25体討伐する
+PROPQUEST_INC_150134,Captain’s Test 2,隊長の試練 (2)
+PROPQUEST_INC_150135,But staying in town is a different matter. We’ve received reports that the enemies you defeated are gathering in one place.,だが、この村に住むとなれば話は別だ。お前が倒した奴らが、一か所に集結しているという報告が入っている。
+PROPQUEST_INC_150136,I’ll tell you where. Go there and take them out before they can plan anything.,場所を教えよう。奴らが何か企む前に、そこへ行って叩いてこい。
+PROPQUEST_INC_150137,"It’s your choice, but if you want to stay, you’ll have to deal with them eventually.",決めるのはお前だ。だが、ここに住みたいなら、いずれ奴らとは戦わなければならん。
+PROPQUEST_INC_150138,We need to crush them before they attack the village. That’s what matters.,村を襲われる前に、奴らを叩き潰す。それが何より重要だ。
 PROPQUEST_INC_150139,Impressive. I underestimated you. My apologies.,見事だ。お前を見くびっていたようだな。すまなかった。
-PROPQUEST_INC_150140,Kill 15 Samosets,ライカンガードを15体倒す
-PROPQUEST_INC_150141,Captain’s Test 3,隊長の試練 3
-PROPQUEST_INC_150142,"There are even more reinforcements gathering. Sadly, our troops are tied up elsewhere and can’t handle them right now. This is the last task—teach them a lesson.",さらに援軍が集まってきている。残念ながら、我々の部隊は他の場所で手一杯で、今は対処できない。これが最後の任務だ——奴らに思い知らせてやれ。
-PROPQUEST_INC_150143,Defeat Captain Samoset and bring back proof. Then I’ll grant you permission to stay.,キャプテン・ライカンガードを倒し、証拠を持ち帰れ。そうすれば、滞在の許可を与えよう。
-PROPQUEST_INC_150144,You’d better decide before they launch an attack.,奴らが攻撃を仕掛ける前に決めた方がいいぞ。
-PROPQUEST_INC_150145,Still not finished? Hmm…,まだ終わっていないのか？うーむ……
-PROPQUEST_INC_150146,Well done. I’ll issue your residency permit.,よくやった。滞在許可証を発行しよう。
-PROPQUEST_INC_150147,Kill 10 Captain Samosets and bring 1 Piece of Samoset Bone,キャプテン・ライカンガードを10体倒し、ライカンガードの骨のかけらを1個持ってくる
-PROPQUEST_INC_150148,Where Did the Expedition Go 1,遠征隊はどこへ 1
-PROPQUEST_INC_150149,"So, what brought you all the way here? Hmm… I don’t remember seeing anything like that. I rarely leave the forest, so I wouldn’t know.",それで、はるばる何の用だ？うーむ……そんなものは見た覚えがないな。滅多に森を出ないから、知らなくても仕方ないが。
-PROPQUEST_INC_150150,"Wait… yes, there were reports of several loud explosions from the east. I’m not sure if it’s related, but do you want to check it out?",待て……そうだ、東の方でいくつも大きな爆発音がしたという報告があった。関係があるかはわからないが、確認してみたいか？
-PROPQUEST_INC_150151,"It’s not far, but it’s Lycan territory. We haven’t been able to investigate. If you find anything, bring it to me. I’ll help you examine it.",遠くはないが、そこはライカンの縄張りだ。我々は調査できていない。何か見つけたら、私のところへ持ってきてくれ。調べるのを手伝おう。
-PROPQUEST_INC_150152,You might find other clues elsewhere too. Don’t worry if you want to follow your own leads.,他の場所でも手がかりが見つかるかもしれない。自分の判断で調べたいなら、気にせずそうしてくれ。
-PROPQUEST_INC_150153,"You should be fine, but stay careful.",大丈夫だと思うが、気をつけてくれ。
-PROPQUEST_INC_150154,Did you find what you were looking for? You found this there?,探していたものは見つかったか？そこでこれを見つけたのか？
-PROPQUEST_INC_150155,Search the forest and obtain “Unknown Fur Ball”,森を探索し、「正体不明の毛玉」を入手する
-PROPQUEST_INC_150156,Where Did the Expedition Go 2,遠征隊はどこへ 2
-PROPQUEST_INC_150157,This is Kyouchish fur. Kyouchish are elite Lycan warriors.,これはライカンセンチネルの毛だ。ライカンセンチネルは、ライカンの精鋭戦士だ。
-PROPQUEST_INC_150158,"It seems they attacked and wiped out the remaining members of that expedition. Since their territory was invaded by that large group, they’re probably still on high alert around there.",奴らがあの遠征隊の残りのメンバーを襲い、全滅させたようだ。あの大集団に縄張りを侵されたんだ、まだあの辺りは厳戒態勢のはずだ。
-PROPQUEST_INC_150159,"If you defeat some Small Kyouchish and bring back any written orders or notes, I’ll translate them for you.",スモール・ライカンセンチネルを何体か倒して、命令書やメモを持ち帰ってくれたら、翻訳してやろう。
-PROPQUEST_INC_150160,Do you have a better lead than this?,これより良い手がかりがあるのか？
-PROPQUEST_INC_150161,"You remember the place, right?",あの場所は覚えているな？
-PROPQUEST_INC_150162,"Ah, you got it. Let me see…",ああ、手に入れたか。見せてくれ……
-PROPQUEST_INC_150163,Kill 25 Small Kyouchish and get 1 Lycan Operation Plan,スモール・ライカンセンチネルを25体倒し、ライカン作戦計画書を1個入手する
+PROPQUEST_INC_150140,Kill 15 Samosets,ライカンガードを15体討伐する
+PROPQUEST_INC_150141,Captain’s Test 3,隊長の試練 (3)
+PROPQUEST_INC_150142,"There are even more reinforcements gathering. Sadly, our troops are tied up elsewhere and can’t handle them right now. This is the last task—teach them a lesson.",さらに援軍が集まってきている。あいにく、こちらの兵は別の場所で手いっぱいでな。今は奴らにまで手が回らん。これが最後の試練だ。奴らに思い知らせてこい。
+PROPQUEST_INC_150143,Defeat Captain Samoset and bring back proof. Then I’ll grant you permission to stay.,キャプテン・ライカンガードを倒し、証拠を持ち帰れ。そうすれば、居住の許可を与えよう。
+PROPQUEST_INC_150144,You’d better decide before they launch an attack.,奴らが攻めてくる前に、決めた方がいいぞ。
+PROPQUEST_INC_150145,Still not finished? Hmm…,まだ終わっていないのか？ うーむ...
+PROPQUEST_INC_150146,Well done. I’ll issue your residency permit.,よくやった。お前には居住の許可を出すことにしよう。
+PROPQUEST_INC_150147,Kill 10 Captain Samosets and bring 1 Piece of Samoset Bone,キャプテン・ライカンガードを10体倒し、＜ライカンガードの骨のかけら＞を1個持ってくる
+PROPQUEST_INC_150148,Where Did the Expedition Go 1,遠征隊はどこへ (1)
+PROPQUEST_INC_150149,"So, what brought you all the way here? Hmm… I don’t remember seeing anything like that. I rarely leave the forest, so I wouldn’t know.",それで、はるばる何の用だ？...ふむ、そんなものは見た覚えがないな。私は滅多に森を出ないから、分からんが。
+PROPQUEST_INC_150150,"Wait… yes, there were reports of several loud explosions from the east. I’m not sure if it’s related, but do you want to check it out?",待て...そういえば、東の方から何度か大きな爆発音がしたという報告があったな。関係があるかは分からんが、調べてみるか？
+PROPQUEST_INC_150151,"It’s not far, but it’s Lycan territory. We haven’t been able to investigate. If you find anything, bring it to me. I’ll help you examine it.",そう遠くはないが、そこはライカンの縄張りだ。我々もまだ調査できていない。何か見つけたら持ってきてくれ。私も調べるのを手伝おう。
+PROPQUEST_INC_150152,You might find other clues elsewhere too. Don’t worry if you want to follow your own leads.,他にも手がかりがあるかもしれん。自分で心当たりを追いたいなら、それでも構わないぞ。
+PROPQUEST_INC_150153,"You should be fine, but stay careful.",お前なら大丈夫だろうが、油断はするなよ。
+PROPQUEST_INC_150154,Did you find what you were looking for? You found this there?,探していたものは見つかったか？ ...これをそこで見つけたのか？
+PROPQUEST_INC_150155,Search the forest and obtain “Unknown Fur Ball”,森を探索し、＜正体不明の毛玉＞を入手する
+PROPQUEST_INC_150156,Where Did the Expedition Go 2,遠征隊はどこへ (2)
+PROPQUEST_INC_150157,This is Kyouchish fur. Kyouchish are elite Lycan warriors.,これはライカンセンチネルの毛だ。ライカンセンチネルは、ライカンの中でも精鋭の戦士だ。
+PROPQUEST_INC_150158,"It seems they attacked and wiped out the remaining members of that expedition. Since their territory was invaded by that large group, they’re probably still on high alert around there.",どうやら奴らが、あの遠征隊の生き残りを襲って全滅させたようだな。あれだけの大人数で縄張りに踏み込まれたんだ。今もあの辺りでは、かなり警戒を強めているはずだ。
+PROPQUEST_INC_150159,"If you defeat some Small Kyouchish and bring back any written orders or notes, I’ll translate them for you.",スモール・ライカンセンチネルを何体か倒して、命令書やメモの類を見つけたら持ってこい。私が翻訳してやろう。
+PROPQUEST_INC_150160,Do you have a better lead than this?,これより有力な手がかりでもあるのか？
+PROPQUEST_INC_150161,"You remember the place, right?",場所は覚えているな？
+PROPQUEST_INC_150162,"Ah, you got it. Let me see…",おお、手に入れたか。見せてみろ...
+PROPQUEST_INC_150163,Kill 25 Small Kyouchish and get 1 Lycan Operation Plan,スモール・ライカンセンチネルを25体倒し、＜ライカン作戦計画書＞を1個入手する
 PROPQUEST_INC_150164,Investigation Begins,調査開始
-PROPQUEST_INC_150165,"Hmm, this won’t take long. In the meantime, how about hunting some Kyouchish?",うーむ、これはそう時間はかからないだろう。その間、ライカンセンチネルでも狩ってきたらどうだ？
-PROPQUEST_INC_150166,They’re near the enemy camp.,敵の陣営の近くにいるはずだ。
-PROPQUEST_INC_150167,"If you don’t feel like it, I won’t force you. Come back if you change your mind.",その気がないなら、無理強いはしない。気が変わったら戻ってきてくれ。
-PROPQUEST_INC_150168,It’s best to finish this quickly. I’ll have the translation ready when you return.,早く終わらせるのが一番だ。戻ってくる頃には翻訳を用意しておこう。
-PROPQUEST_INC_150169,"Back already? The translation’s done. Here, take it.",もう戻ったのか？翻訳は終わっているぞ。ほら、受け取れ。
-PROPQUEST_INC_150170,Kill 25 Kyouchish,ライカンセンチネルを25体倒す
-PROPQUEST_INC_150171,The Expedition Is…,遠征隊は……
-PROPQUEST_INC_150172,"Did it say anything useful? Typical wolves—attack, pillage, and so on. Still, if it helps your search, that’s something.",何か役に立つことが書いてあったか？いつもの狼どもだ——襲撃、略奪、そんなところだろう。それでも、お前の探し物の助けになるなら、意味はある。
-PROPQUEST_INC_150173,So now… you’re heading back? That’s something you’ll need to report.,それで……戻るつもりか？それは報告する必要があるな。
-PROPQUEST_INC_150174,"Well, returning can wait.",まあ、戻るのは後でもいい。
-PROPQUEST_INC_150175,I’ll inform the villagers so you can use our village freely afterward. Safe travels.,その後、我々の村を自由に使えるよう、村人たちに伝えておこう。道中気をつけて。
-PROPQUEST_INC_150176,"Oh, you’re back. How was the village?",ああ、戻ったか。村はどうだった？
+PROPQUEST_INC_150165,"Hmm, this won’t take long. In the meantime, how about hunting some Kyouchish?",ふむ、翻訳にはそう時間はかからん。その間に、ライカンセンチネルでも狩ってきたらどうだ？
+PROPQUEST_INC_150166,They’re near the enemy camp.,奴らなら敵の野営地の近くにいるはずだ。
+PROPQUEST_INC_150167,"If you don’t feel like it, I won’t force you. Come back if you change your mind.",気が乗らないなら無理強いはしない。気が変わったら戻ってこい。
+PROPQUEST_INC_150168,It’s best to finish this quickly. I’ll have the translation ready when you return.,さっさと済ませた方がいい。お前が戻る頃には、こちらも翻訳を終わらせておこう。
+PROPQUEST_INC_150169,"Back already? The translation’s done. Here, take it.",もう戻ったのか？ 翻訳は終わっているぞ。ほら、受け取れ。
+PROPQUEST_INC_150170,Kill 25 Kyouchish,ライカンセンチネルを25体討伐する
+PROPQUEST_INC_150171,The Expedition Is…,遠征隊は...
+PROPQUEST_INC_150172,"Did it say anything useful? Typical wolves—attack, pillage, and so on. Still, if it helps your search, that’s something.",何か役に立つことは書いてあったか？ まったく、狼どもの考えることだ。襲撃だの略奪だの...。まあ、お前の捜索に役立つなら、それでいい。
+PROPQUEST_INC_150173,So now… you’re heading back? That’s something you’ll need to report.,それで...今度は帰るのか？ これは報告しておくべきことだろうな。
+PROPQUEST_INC_150174,"Well, returning can wait.",まあ、帰るのは後でもいい。
+PROPQUEST_INC_150175,I’ll inform the villagers so you can use our village freely afterward. Safe travels.,今後はこの村を自由に使えるよう、住民たちにも伝えておこう。道中、気をつけてな。
+PROPQUEST_INC_150176,"Oh, you’re back. How was the village?",おお、戻ったか。村はどうだった？
 PROPQUEST_INC_150177,The Truth,真実
-PROPQUEST_INC_150178,So… the others… I’m the only survivor… sniff… Are you going back to Saint City?,そうか……仲間たちは……俺一人だけが生き残ったのか……（すすり泣き）セイントシティへ戻るのか？
-PROPQUEST_INC_150179,"Please tell them I’m alive. I’ll join the second expedition when they arrive and return home. I don’t want to stay in this land any longer. I know it’s a lot to ask, but… could you avenge my fallen comrades before you leave for Madrigal?",俺が生きていると伝えてくれ。第二次遠征隊が到着したら合流して、家に帰ることにする。もうこの土地には留まりたくないんだ。無理を言っているのはわかっているが……マドリガルへ発つ前に、倒れた仲間たちの仇を討ってもらえないか？
-PROPQUEST_INC_150180,"I heard a particularly loud howl. Everything went quiet afterward, so I’m sure that was their leader. Can you defeat him?",特に大きな遠吠えを聞いたんだ。その後、辺りが静まり返った、だからそれが奴らのリーダーに違いない。倒してもらえるか？
-PROPQUEST_INC_150181,"Oh… I see. I guess it can’t be helped. Never mind, then.",ああ……そうか。仕方ないな。じゃあ、忘れてくれ。
-PROPQUEST_INC_150182,The howl came from that direction. I doubt it went far.,遠吠えはあっちの方角から聞こえた。遠くへは行っていないはずだ。
-PROPQUEST_INC_150183,"Ah, you’re back. So, was there really a new continent?",ああ、戻ったか。それで、本当に新大陸はあったのか？
-PROPQUEST_INC_150184,Kill 10 Captain Kyouchish,キャプテン・ライカンセンチネルを10体倒す
-PROPQUEST_INC_150185,Report,通報
-PROPQUEST_INC_150186,"There was? Then… did you find any trace of the expedition? My gods… what a disaster. At least there’s one survivor. For now, we must keep this quiet.",あったのか？それで……遠征隊の痕跡は見つかったか？なんてことだ……何という災難だ。せめて生存者が一人はいるんだな。とりあえず、これは内密にしておかなければ。
-PROPQUEST_INC_150187,"We can’t hide it forever, of course, but if we reveal it now, everything we’re planning will collapse. I’ll make an official announcement when we begin recruiting for the second expedition. Did you meet the Strange Collector?",もちろん永遠に隠しておけるわけじゃないが、今明らかにすれば、我々の計画がすべて崩れてしまう。第二次遠征隊の募集を始める時に、正式に発表しよう。謎のコレクターには会ったか？
-PROPQUEST_INC_150188,"Please tell them I’m alive. I’ll join the second expedition when they arrive and return home. I don’t want to stay in this land any longer. I know it’s a lot to ask, but… could you avenge my fallen comrades before you leave for Madrigal?",俺が生きていると伝えてくれ。第二次遠征隊が到着したら合流して、家に帰ることにする。もうこの土地には留まりたくないんだ。無理を言っているのはわかっているが……マドリガルへ発つ前に、倒れた仲間たちの仇を討ってもらえないか？
-PROPQUEST_INC_150189,He’s waiting for you. You should go see him.,彼が待っているぞ。会いに行くべきだ。
-PROPQUEST_INC_150190,"He’s your employer, after all. You’re probably exhausted from flying and fighting, but shouldn’t you visit him?",結局のところ、彼はお前の雇い主だ。飛行や戦闘で疲れているだろうが、彼のところへ顔を出すべきじゃないか？
-PROPQUEST_INC_150191,He’s still at his usual place. You know where that is.,彼はいつもの場所にいるはずだ。どこかは知っているな。
-PROPQUEST_INC_150192,You’re back. Good. I can sense good news.,戻ったか。良い。良い知らせの予感がするな。
-PROPQUEST_INC_150193,Back to the New World,新世界へ戻る
-PROPQUEST_INC_150194,"I was certain, but… to think my research really was correct. I’d love to visit that continent myself, but I need to stay here and handle preparations. Can you go ahead and investigate further?",確信はあったが……まさか自分の研究が本当に正しかったとはな。自分でもあの大陸を訪れたいが、ここに残って準備を進めなければならない。先に行って、さらに調査してくれないか？
-PROPQUEST_INC_150195,Thank you. I hope we meet again there soon.,ありがとう。またすぐにあそこで会えることを願っているよ。
-PROPQUEST_INC_150196,"You know you’re the only one suited for this. If you change your mind, let me know. I’ll make it worth your while.",これに適しているのはお前しかいないとわかっているだろう。気が変わったら教えてくれ。それだけの価値はあるようにするよ。
-PROPQUEST_INC_150197,You’re still here… When do you think you’ll leave?,まだここにいるのか……いつ出発するつもりだ？
-PROPQUEST_INC_150198,Back again? What’s going on this time?,また戻ってきたのか？今度は何があったんだ？
-PROPQUEST_INC_150199,Chapter 3 Prelude,第3章 プレリュード
-PROPQUEST_INC_150200,Meeting with Elders,長老たちとの面会
-PROPQUEST_INC_150201,Oh? You want to know more about us?,おや？我々についてもっと知りたいのか？
-PROPQUEST_INC_150202,"Then you should speak with the jarl or one of the elders. They’ve lived long and know our history well. However, it won’t be easy for an outsider to meet the jarl. I’ll introduce you to my superior, one of the elders. I’ll tell him in advance so you can go straight to him.",それなら族長か、長老の誰かに話を聞くべきだな。彼らは長く生きていて、我々の歴史をよく知っている。だが、余所者が族長に会うのは簡単ではない。私の上司である長老の一人を紹介しよう。先に話を通しておくから、まっすぐ彼のところへ行ってくれ。
-PROPQUEST_INC_150203,Well… you could try finding them on your own too.,まあ……自分で探してみるという手もあるが。
-PROPQUEST_INC_150204,"The elder is busy, so if you want to meet him quickly, you should hurry.",長老は忙しい、早く会いたいなら急いだ方がいい。
-PROPQUEST_INC_150205,"So, you’re the one the captain mentioned.",なるほど、お前が隊長の言っていた者か。
-PROPQUEST_INC_150206,Meet with [Elder] Melak,[長老]メラクに会う
-PROPQUEST_INC_150207,Help Muran!,ムランを助けろ！
-PROPQUEST_INC_150208,"I don’t mind telling you about our village, but I have a favor to ask first.",我々の村について話すのは構わないが、その前に一つ頼みがある。
-PROPQUEST_INC_150209,"As you know, we Muran are at war with the Lycans, and we’re badly outnumbered. I’ve heard you’ve already defeated quite a few of them. While you’re here, I’d like you to support our young warriors.",知っての通り、我々ムランはライカンと戦争状態にあり、数で大きく劣勢だ。お前は既に奴らを何体も倒したと聞いている。ここにいる間、我々の若き戦士たちを支援してもらいたい。
-PROPQUEST_INC_150210,"If you have more urgent matters, I understand. You can return when you’re free.",もっと急ぎの用があるなら仕方ない。手が空いた時に戻ってきてくれ。
+PROPQUEST_INC_150178,So… the others… I’m the only survivor… sniff… Are you going back to Saint City?,そうか...仲間たちは...。生き残ったのは、俺だけなのか...。(すすり泣きながら)...セイントモーニングへ戻るのか？
+PROPQUEST_INC_150179,"Please tell them I’m alive. I’ll join the second expedition when they arrive and return home. I don’t want to stay in this land any longer. I know it’s a lot to ask, but… could you avenge my fallen comrades before you leave for Madrigal?",俺が生きていると伝えてくれ。第二次遠征隊が来たら俺も合流して、故郷へ帰る。この土地には、もうこれ以上いたくないんだ。こんなことを頼むのは心苦しいが...マドリガルへ戻る前に、死んだ仲間たちの仇を討ってくれないか？
+PROPQUEST_INC_150180,"I heard a particularly loud howl. Everything went quiet afterward, so I’m sure that was their leader. Can you defeat him?",ひときわ大きな遠吠えが聞こえたんだ。そのあと、辺りが静まり返った。きっとあれが奴らのリーダーだ。...倒してくれないか？
+PROPQUEST_INC_150181,"Oh… I see. I guess it can’t be helped. Never mind, then.",そうか...。まあ、仕方ないな。今の話は忘れてくれ。
+PROPQUEST_INC_150182,The howl came from that direction. I doubt it went far.,遠吠えはあっちの方角から聞こえた。そう遠くへは行っていないはずだ。
+PROPQUEST_INC_150183,"Ah, you’re back. So, was there really a new continent?",ああ、お戻りになったのですね。それで...本当に新大陸はあったのですか？
+PROPQUEST_INC_150184,Kill 10 Captain Kyouchish,キャプテン・ライカンセンチネルを10体討伐する
+PROPQUEST_INC_150185,Report,報告
+PROPQUEST_INC_150186,"There was? Then… did you find any trace of the expedition? My gods… what a disaster. At least there’s one survivor. For now, we must keep this quiet.",あったのですか？ 遠征隊の痕跡は見つかりましたか？ ...なんということだ。そんな惨事が...。せめて、一人だけでも生存者がいたのは幸いでした。今はまだ、このことは伏せておかなければ。
+PROPQUEST_INC_150187,"We can’t hide it forever, of course, but if we reveal it now, everything we’re planning will collapse. I’ll make an official announcement when we begin recruiting for the second expedition. Did you meet the Strange Collector?",もちろん、いつまでも隠しておけません。しかし今公表すれば、これまでの計画がすべて頓挫してしまいます。第二次遠征隊の募集を始める際に、私から正式に発表します。謎のコレクターには会いましたか？
+PROPQUEST_INC_150188,"Please tell them I’m alive. I’ll join the second expedition when they arrive and return home. I don’t want to stay in this land any longer. I know it’s a lot to ask, but… could you avenge my fallen comrades before you leave for Madrigal?",俺が生きていると伝えてくれ。第二次遠征隊が来たら俺も合流して、故郷へ帰る。この土地には、もうこれ以上いたくないんだ。こんなことを頼むのは心苦しいが...マドリガルへ戻る前に、死んだ仲間たちの仇を討ってくれないか？
+PROPQUEST_INC_150189,He’s waiting for you. You should go see him.,彼があなたを待っています。会いに行ってあげてください。
+PROPQUEST_INC_150190,"He’s your employer, after all. You’re probably exhausted from flying and fighting, but shouldn’t you visit him?",何しろ、彼はあなたの依頼主ですからね。飛行と戦闘でお疲れでしょうが、顔を見せてあげてはいかがですか？
+PROPQUEST_INC_150191,He’s still at his usual place. You know where that is.,彼なら、いつもの場所にいますよ。どこかはご存じですね。
+PROPQUEST_INC_150192,You’re back. Good. I can sense good news.,おかえり。よかった。どうやら、いい知らせを持ってきてくれたようだね。
+PROPQUEST_INC_150193,Back to the New World,再び新大陸へ
+PROPQUEST_INC_150194,"I was certain, but… to think my research really was correct. I’d love to visit that continent myself, but I need to stay here and handle preparations. Can you go ahead and investigate further?",確信はしていたんだが...まさか、本当にわたしの研究が正しかったとはね。わたしもその大陸へ行ってみたいんだが、ここに残って準備を進めなくてはならない。先に向かって、さらに調査を続けてもらえないか？
+PROPQUEST_INC_150195,Thank you. I hope we meet again there soon.,ありがとう。近いうちに、あの大陸でまた会えるといいな。
+PROPQUEST_INC_150196,"You know you’re the only one suited for this. If you change your mind, let me know. I’ll make it worth your while.",この役目にふさわしいのは君しかいない。それは君も分かっているだろう？ 気が変わったら知らせてくれ。もちろん、それに見合うお礼はするよ。
+PROPQUEST_INC_150197,You’re still here… When do you think you’ll leave?,まだここにいたのかい... いつ頃、出発するつもりなんだ？
+PROPQUEST_INC_150198,Back again? What’s going on this time?,また戻ってきたのか？ 今度はどうした？
+PROPQUEST_INC_150199,Chapter 3 Prelude,第3章 前兆
+PROPQUEST_INC_150200,Meeting with Elders,長老との面会
+PROPQUEST_INC_150201,Oh? You want to know more about us?,ほう？ 我々についてもっと知りたいのか？
+PROPQUEST_INC_150202,"Then you should speak with the jarl or one of the elders. They’ve lived long and know our history well. However, it won’t be easy for an outsider to meet the jarl. I’ll introduce you to my superior, one of the elders. I’ll tell him in advance so you can go straight to him.",それなら、族長か長老の誰かに話を聞くといい。長く生きているだけあって、我々の歴史にも詳しい。だが、よそ者が族長に会うのは簡単ではない。私の上役にあたる長老を紹介しよう。話は通しておくから、直接会いに行くといい。
+PROPQUEST_INC_150203,Well… you could try finding them on your own too.,まあ...自分で探してみるというなら、それでも構わんが。
+PROPQUEST_INC_150204,"The elder is busy, so if you want to meet him quickly, you should hurry.",長老は忙しい方だ。早く会いたいなら、急いだ方がいいぞ。
+PROPQUEST_INC_150205,"So, you’re the one the captain mentioned.",なるほど、お前がバロンの言っていた者か。
+PROPQUEST_INC_150206,Meet with [Elder] Melak,[長老] メラクに会う
+PROPQUEST_INC_150207,Help Muran!,ミューランを救え！
+PROPQUEST_INC_150208,"I don’t mind telling you about our village, but I have a favor to ask first.",この村について話すのは構わない。だが、その前にひとつ頼みがある。
+PROPQUEST_INC_150209,"As you know, we Muran are at war with the Lycans, and we’re badly outnumbered. I’ve heard you’ve already defeated quite a few of them. While you’re here, I’d like you to support our young warriors.",知っての通り、我々ミューランはライカンと戦争をしておる。しかも、数で大きく劣勢だ。お前がすでに奴らを何体も倒したことも聞いている。ここにいる間、村の若き戦士たちに力を貸してもらいたい。
+PROPQUEST_INC_150210,"If you have more urgent matters, I understand. You can return when you’re free.",他に急ぎの用があるなら仕方ない。手が空いたときに戻ってくればいい。
 PROPQUEST_INC_150211,We can continue our talk afterwards.,話の続きはその後にしよう。
 PROPQUEST_INC_150212,You’ve done an incredible job.,実に見事な働きだった。
-PROPQUEST_INC_150213,Complete 30 daily quests in Eillun Town,エルリウンタウンのデイリークエストを30回完了する
-PROPQUEST_INC_150214,Where Is the Mole,スパイはどこに
-PROPQUEST_INC_150215,"Thanks to you, life in the village—and even the war—has become a bit more manageable. I should answer your questions as thanks, but… I have one more thing to ask.",お前のおかげで、村での暮らしも——戦況すらも、少し楽になった。礼として質問に答えるべきなんだが……もう一つ頼みがあるんだ。
-PROPQUEST_INC_150216,"We suspect there’s a Lycan spy in a high position. Our operations keep getting sabotaged, and supplies for one squad were stolen. Can you investigate and, if possible, get them back?",高い地位にライカンのスパイがいるのではと疑っている。我々の作戦は妨害され続けているし、ある部隊の物資が盗まれたんだ。調査して、できれば取り戻してもらえないか？
-PROPQUEST_INC_150217,"I hate to burden you, but there’s no one else I can trust with this.",お前に負担をかけたくはないが、これを任せられるのは他にいないんだ。
-PROPQUEST_INC_150218,"The last known location was here. If they’re acting as they usually do, they shouldn’t be far.",最後に確認された場所はここだ。いつも通りに行動しているなら、遠くへは行っていないはずだ。
-PROPQUEST_INC_150219,He… he was the spy?,彼が……彼がスパイだったのか？
-PROPQUEST_INC_150220,Get 50 Stolen Supplies and 1 Secret Letter,盗まれた物資を50個と秘密の手紙を1通入手する
-PROPQUEST_INC_150221,Hunt the Mole,スパイを狩れ
-PROPQUEST_INC_150222,"We had reports that he left the village in a hurry, but… to think a village elder would betray us. It’s tragic, but we don’t have enough soldiers to both defend the village and track him. Could you do it?",彼が急いで村を出たという報告は受けていたが……村の長老が我々を裏切るとはな。悲劇だが、村を守りながら彼を追う兵士の余裕がないんだ。お前がやってくれないか？
-PROPQUEST_INC_150223,"If possible, bring him back alive. If not… eliminate him. Smaller Kanonicus were carrying stolen supplies and a secret letter. He should still be nearby.",可能なら、彼を生きたまま連れ戻してくれ。無理なら……始末してくれ。スモール・ライカンアーチャーが盗まれた物資と秘密の手紙を運んでいた。まだ近くにいるはずだ。
+PROPQUEST_INC_150213,Complete 30 daily quests in Eillun Town,エルリウンタウンのデイリークエストを＜30回＞完了させる
+PROPQUEST_INC_150214,Where Is the Mole,内通者はどこに
+PROPQUEST_INC_150215,"Thanks to you, life in the village—and even the war—has become a bit more manageable. I should answer your questions as thanks, but… I have one more thing to ask.",お前のおかげで、村での暮らしも、この戦争も、いくらか楽になった。礼として聞きたいことに答えるべきなのだろうが...もうひとつ、頼みたいことがある。
+PROPQUEST_INC_150216,"We suspect there’s a Lycan spy in a high position. Our operations keep getting sabotaged, and supplies for one squad were stolen. Can you investigate and, if possible, get them back?",実は、村の中枢にライカンの内通者がいるのではないかと疑っている。こちらの作戦がたびたび妨害され、ある部隊の物資まで盗まれた。調べて、できれば物資も取り戻してもらえないか？
+PROPQUEST_INC_150217,"I hate to burden you, but there’s no one else I can trust with this.",何度も負担をかけてすまない。だが、この件を任せられるのはお前しかいない。
+PROPQUEST_INC_150218,"The last known location was here. If they’re acting as they usually do, they shouldn’t be far.",最後に確認されたのはこの辺りだ。いつもと同じように動いているなら、そう遠くへは行っていないはずだ。
+PROPQUEST_INC_150219,He… he was the spy?,彼が...あいつが内通者だったのか？
+PROPQUEST_INC_150220,Get 50 Stolen Supplies and 1 Secret Letter,＜盗まれた物資＞を50個と＜秘密の手紙＞を1通入手する
+PROPQUEST_INC_150221,Hunt the Mole,内通者を追え
+PROPQUEST_INC_150222,"We had reports that he left the village in a hurry, but… to think a village elder would betray us. It’s tragic, but we don’t have enough soldiers to both defend the village and track him. Could you do it?",あいつが慌てて村を出ていったという報告は受けていた。だが...まさか、村の長老が私たちを裏切るとはな。嘆かわしいことだが、村を守りながら奴を追えるほど兵に余裕はない。お前に頼めないか？
+PROPQUEST_INC_150223,"If possible, bring him back alive. If not… eliminate him. Smaller Kanonicus were carrying stolen supplies and a secret letter. He should still be nearby.",できることなら、生きたまま連れ戻してくれ。それが無理なら...始末してくれ。スモール・ライカンアーチャーが、盗まれた物資と秘密の手紙を運んでいた。奴もまだ近くにいるはずだ。
 PROPQUEST_INC_150224,"Right now, you’re the only one who can move freely. We’ll be waiting.",今、自由に動けるのはお前だけだ。待っているぞ。
-PROPQUEST_INC_150225,"We must make an example of this traitor, or the village won’t be safe for long. Please, see it through.",この裏切り者を見せしめにしなければ、村の安全は長く続かないだろう。頼む、最後までやり遂げてくれ。
-PROPQUEST_INC_150226,"You did well. Here, I’ve compiled what you were looking for. Take your time reading it—you’ll learn plenty about our history.",よくやってくれた。ほら、お前が探していたものをまとめておいた。ゆっくり読んでくれ——我々の歴史について、多くを学べるはずだ。
-PROPQUEST_INC_150227,Kill [Elder] Traitus,[長老]トレイタスを倒す
-PROPQUEST_INC_150228,About Muran,ムランについて
-PROPQUEST_INC_150229,"Thinking of all the chaos that traitor caused… honestly. Anyway, it seems your name has spread. A lot of people around the village have been asking to meet you. Once you’re done with your own business, why not visit them?",あの裏切り者が引き起こした騒動を思うと…まったく呆れたものだ。それはそうと、お前の名前もすっかり広まったようだな。村のあちこちで、お前に会いたいという者が増えている。自分の用事が済んだら、彼らを訪ねてみてはどうだ？
-PROPQUEST_INC_150230,"Of course, take care of your matters first.",もちろん、まずは自分の用事を優先してくれ。
-PROPQUEST_INC_150231,Hmm… you have more admirers in the village than you realize.,ふむ…お前が思っている以上に、村にはお前を慕う者が多いようだぞ。
+PROPQUEST_INC_150225,"We must make an example of this traitor, or the village won’t be safe for long. Please, see it through.",この裏切り者には、相応の報いを受けさせなければならん。そうしなければ、村の平穏は長くは続かない。頼む。最後までやり遂げてくれ。
+PROPQUEST_INC_150226,"You did well. Here, I’ve compiled what you were looking for. Take your time reading it—you’ll learn plenty about our history.",よくやってくれた。ほら、お前が探していたものをまとめておいた。時間をかけて読んでみるといい。我々の歴史について、いろいろ分かるはずだ。
+PROPQUEST_INC_150227,Kill [Elder] Traitus,[長老] トレイタスを討伐する
+PROPQUEST_INC_150228,About Muran,ミューランについて
+PROPQUEST_INC_150229,"Thinking of all the chaos that traitor caused… honestly. Anyway, it seems your name has spread. A lot of people around the village have been asking to meet you. Once you’re done with your own business, why not visit them?",あの裏切り者が引き起こした騒動を思うと...まったく呆れたものだ。それはさておき、お前の名もずいぶん広まったようだ。村のあちこちで、お前に会いたいという者がいる。自分の用事が済んだら、訪ねてみてはどうだ？
+PROPQUEST_INC_150230,"Of course, take care of your matters first.",もちろん、まずは自分の用事を済ませるといい。
+PROPQUEST_INC_150231,Hmm… you have more admirers in the village than you realize.,ふむ...お前が思っている以上に、この村にはお前を慕っている者が多いようだぞ。
 PROPQUEST_INC_150232,I’ve narrowed it down to three or four people for now.,とりあえず、3、4人まで絞り込んでおいた。
-PROPQUEST_INC_150233,"Oh, so you’ve learned something about the natives? A book written by the village elder himself… May I see it? I see… very nice work. If you learn anything else, be sure to share it.",おお、この地の民について何か知ることができたのか？村の長老自らが記した本とは…見せてもらってもいいか？…なるほど、実によくできている。他にも何か分かったら、必ず教えてくれ。
-PROPQUEST_INC_150234,Bring “All About Muran!” to the Strange Collector,「ムランのすべて！」を奇妙な収集家に届ける
+PROPQUEST_INC_150233,"Oh, so you’ve learned something about the natives? A book written by the village elder himself… May I see it? I see… very nice work. If you learn anything else, be sure to share it.",ほう、現地の人々について何か分かったのかい？ 村の長老が自ら書いた本...？ ちょっと見せてもらえるかい？ ...なるほど。実によくできている。ほかにも何か分かったら、ぜひわたしにも教えてくれ。
+PROPQUEST_INC_150234,Bring “All About Muran!” to the Strange Collector,＜ミューランのすべて！＞を謎のコレクターに届ける
 PROPQUEST_INC_150235,Chapter 4 Climax,第4章 クライマックス
-PROPQUEST_INC_150236,An Incident! 1,事件発生！1
-PROPQUEST_INC_150237,"Ah, you’re the adventurer who’s been helping us. Even though we’re at war, the village itself has always been peaceful… but lately, something feels wrong.",おお、いつもお世話になっている冒険者殿だね。戦争中とはいえ、村自体はずっと平和だったんだが…最近、どうも様子がおかしいんだ。
-PROPQUEST_INC_150238,"We’ve heard strange howls, and there are unusual claw marks on the trees in town. If you have time, could you help us investigate?",奇妙な遠吠えが聞こえたり、町の木々に見慣れない爪痕が残っていたりする。もし時間があれば、調査を手伝ってもらえないか？
-PROPQUEST_INC_150239,It looks like those Kanonicus have come too close to the village. Could you deal with them?,どうやらライカンアーチャーどもが村に近づきすぎているようだ。奴らを片付けてもらえないか？
-PROPQUEST_INC_150240,"If it’s too much trouble, I’ll try to find someone else.",もし手間なら、他の誰かを探すとしよう。
-PROPQUEST_INC_150241,"Their usual gathering spot is the place I mentioned earlier. If you head that way, you should find something.",奴らがいつも集まっている場所は、さっき話した通りだ。そちらへ向かえば、何か見つかるはずだ。
-PROPQUEST_INC_150242,"Thank you for your hard work. But… even after thinning their numbers, the reports keep coming.",ご苦労だった。だが…数を減らしても、まだ報告が絶えないんだ。
-PROPQUEST_INC_150243,Kill 30 Kanonicus,ライカンアーチャーを30体討伐
-PROPQUEST_INC_150244,An Incident! 2,事件発生！2
-PROPQUEST_INC_150245,"It seems something has already slipped into the village. Our captain must have sensed it too—he’s ordered tighter security. But with so few guards, nobody can spare time to investigate.",すでに何かが村に入り込んでいるようだ。隊長も何かを察したのか、警備を強化するよう命じている。だが守衛の数が少なすぎて、誰も調査に手を割けずにいるんだ。
-PROPQUEST_INC_150246,"Could you go around and ask the villagers if they’ve noticed anything strange? Thank you, truly.",村人たちに何か異変に気づいていないか、聞いて回ってもらえないか？本当に助かるよ。
-PROPQUEST_INC_150247,"Don’t worry about me, I’ll manage.",私のことは気にしないでくれ、何とかするさ。
-PROPQUEST_INC_150248,"I’ve already given you the list, remember? Please look into it.",リストはもう渡しただろう？頼むから調べてくれ。
-PROPQUEST_INC_150249,Have I noticed anything weird lately?,最近、何か変わったことに気づいたかって？
+PROPQUEST_INC_150236,An Incident! 1,事件発生！(1)
+PROPQUEST_INC_150237,"Ah, you’re the adventurer who’s been helping us. Even though we’re at war, the village itself has always been peaceful… but lately, something feels wrong.",ああ、あなたが我々に力を貸してくれている冒険者ですね。戦争中とはいえ、この村そのものはずっと平穏だったんですが...最近、どうも様子がおかしいんです。
+PROPQUEST_INC_150238,"We’ve heard strange howls, and there are unusual claw marks on the trees in town. If you have time, could you help us investigate?",妙な遠吠えを聞いたという話もありますし、村の木には見慣れない爪痕まで残っています。時間があれば、調査を手伝ってもらえませんか？
+PROPQUEST_INC_150239,It looks like those Kanonicus have come too close to the village. Could you deal with them?,どうやら、ライカンアーチャーたちが村のすぐ近くまで来ているようです。奴らを追い払ってもらえませんか？
+PROPQUEST_INC_150240,"If it’s too much trouble, I’ll try to find someone else.",難しいようでしたら、他に頼める人を探してみます。
+PROPQUEST_INC_150241,"Their usual gathering spot is the place I mentioned earlier. If you head that way, you should find something.",奴らがいつも集まっているのは、先ほど話した場所です。そちらへ行けば、何か見つかるかもしれません。
+PROPQUEST_INC_150242,"Thank you for your hard work. But… even after thinning their numbers, the reports keep coming.",お疲れさまでした。ありがとうございます。ただ...数を減らしたというのに、まだ同じような報告が続いているんです。
+PROPQUEST_INC_150243,Kill 30 Kanonicus,ライカンアーチャーを30体討伐する
+PROPQUEST_INC_150244,An Incident! 2,事件発生！(2)
+PROPQUEST_INC_150245,"It seems something has already slipped into the village. Our captain must have sensed it too—he’s ordered tighter security. But with so few guards, nobody can spare time to investigate.",どうやら、すでに何かが村の中へ忍び込んでいるようです。隊長も異変を感じ取ったのでしょう。警備を強化するよう命令が出ています。ただ、衛兵の数が少なくて、調査に人を回す余裕がないんです。
+PROPQUEST_INC_150246,"Could you go around and ask the villagers if they’ve noticed anything strange? Thank you, truly.",村のみんなを回って、何か変わったことに気づかなかったか聞いてもらえませんか？ 本当に助かります。
+PROPQUEST_INC_150247,"Don’t worry about me, I’ll manage.",私のことは心配いりません。こちらは何とかします。
+PROPQUEST_INC_150248,"I’ve already given you the list, remember? Please look into it.",調べてもらう人の一覧は、もう渡しましたよね？ よろしくお願いします。
+PROPQUEST_INC_150249,Have I noticed anything weird lately?,最近、何か変わったことはなかったかって？
 PROPQUEST_INC_150250,Meet with Rohan,ロハンに会う
-PROPQUEST_INC_150251,An Incident! 3,事件発生！3
-PROPQUEST_INC_150252,"Hmm… well, the air feels different.",うーん…なんというか、空気が違う気がするな。
-PROPQUEST_INC_150253,"Only Myurang and adventurers live here, but I’ve caught a faint whiff of those wolf fiends. It was stronger near the southern outskirts. Maybe ask Artin? He’s a skilled hunter—he might have noticed more.",ここに住んでいるのはムランと冒険者だけのはずなのに、あの狼の化け物どもの匂いがかすかにする。南の外れの方で特に強く感じたな。アーティンに聞いてみたらどうだ？腕利きの猟師だから、もっと何か気づいているかもしれない。
-PROPQUEST_INC_150254,"Other than that? Hmm, let me think…",それ以外か？うーん、考えさせてくれ…
-PROPQUEST_INC_150255,"If you’re looking for Artin, head farther south.",アーティンを探しているなら、もっと南へ向かうといい。
-PROPQUEST_INC_150256,Something strange lately? Hmm…,最近、何か変なことがあったかって？うーん…
+PROPQUEST_INC_150251,An Incident! 3,事件発生！(3)
+PROPQUEST_INC_150252,"Hmm… well, the air feels different.",うーん...そうだな。なんというか、空気が違う気がするな。
+PROPQUEST_INC_150253,"Only Myurang and adventurers live here, but I’ve caught a faint whiff of those wolf fiends. It was stronger near the southern outskirts. Maybe ask Artin? He’s a skilled hunter—he might have noticed more.",ここに住んでるのはミューラン族と冒険者だけのはずなのに、あの狼どもの匂いがかすかにするんだ。南の外れじゃ、特に強く感じたな。アーティンに聞いてみたらどうだ？腕利きの猟師だから、俺より何か気づいてるかもしれない。
+PROPQUEST_INC_150254,"Other than that? Hmm, let me think…",それ以外か？うーん、ちょっと考えさせてくれ...
+PROPQUEST_INC_150255,"If you’re looking for Artin, head farther south.",アーティンを探してるなら、もっと南へ行ってみな。
+PROPQUEST_INC_150256,Something strange lately? Hmm…,最近、変わったこと？ うーん...
 PROPQUEST_INC_150257,Meet with Artin,アーティンに会う
-PROPQUEST_INC_150258,An Incident! 4,事件発生！4
-PROPQUEST_INC_150259,"Oh, the wolf scent? I’m used to it from the forest, but… now that you mention it, yeah, I’ve noticed it too. sniff Hmm… will you believe me?",ああ、狼の匂いか？森で慣れているつもりだったが…言われてみれば、確かに俺も気づいていた。（くんくん）うーん…信じてもらえるか？
-PROPQUEST_INC_150260,"I know it sounds crazy, but… Belia smells like a wolf. Could you check on her for me? I… I just can’t do it myself.",おかしな話だとは分かっているが…ベリアから狼の匂いがするんだ。俺の代わりに様子を見てきてくれないか？俺には…自分では確かめられないんだ。
-PROPQUEST_INC_150261,I don’t have the courage to see my friend turn out to be a traitor…,友人が裏切り者だったなんて、確かめる勇気が俺にはないんだ…
-PROPQUEST_INC_150262,Belia… please…,ベリア…頼む…
-PROPQUEST_INC_150263,Huh? You’re saying I smell like what? What kind of nonsense is that?,は？私が何の匂いがするって？一体何を馬鹿げたことを。
+PROPQUEST_INC_150258,An Incident! 4,事件発生！(4)
+PROPQUEST_INC_150259,"Oh, the wolf scent? I’m used to it from the forest, but… now that you mention it, yeah, I’ve noticed it too. sniff Hmm… will you believe me?",ああ、狼の匂いか？ 森じゃ嗅ぎ慣れてるんだが...言われてみれば、確かに感じるな。...クンクン...。なあ、こんなこと言っても信じてもらえるか？
+PROPQUEST_INC_150260,"I know it sounds crazy, but… Belia smells like a wolf. Could you check on her for me? I… I just can’t do it myself.",おかしな話だとは分かってる。だが...ベリアから狼の匂いがするんだ。俺の代わりに、あいつの様子を見てきてくれないか？ 俺には...どうしてもできない。
+PROPQUEST_INC_150261,I don’t have the courage to see my friend turn out to be a traitor…,友人が裏切り者だったなんて...そんなことを確かめる勇気は、俺にはないんだ...
+PROPQUEST_INC_150262,Belia… please…,ベリア...頼む...
+PROPQUEST_INC_150263,Huh? You’re saying I smell like what? What kind of nonsense is that?,え？ 私から何の匂いがするって？ 何を馬鹿なこと言ってるの？
 PROPQUEST_INC_150264,Meet with Belia,ベリアに会う
-PROPQUEST_INC_150265,An Incident! 5,事件発生！5
-PROPQUEST_INC_150266,"(Lycan) Damn it… how did you figure it out? I thought I’d fooled all these clueless cats, thanks to the Scroll of Skrolls our god gave me.",（ライカン）くそ…どうして気づいたんだ？我らが神から授かった「スクロール・オブ・スクロールズ」のおかげで、この鈍い連中を欺けていると思っていたのに。
-PROPQUEST_INC_150267,(Lycan) You’ve ruined too many of our plans already. Don’t think you’ll get away so easily. We’ll meet again.,（ライカン）お前にはもう何度も計画を潰されている。そう簡単に見逃すと思うなよ。また会うことになるだろう。
-PROPQUEST_INC_150268,(Lycan) You think we’d just let you walk away after uncovering our secret?,（ライカン）我らの秘密を暴いておいて、ただで済むと思っているのか？
-PROPQUEST_INC_150269,"What… I don’t remember the past few days at all. Are you saying they did that to me? Adventurer, you saved me. Thank you so much.",え…ここ数日の記憶が全くない。それが奴らの仕業だと言うのか？冒険者殿、助けてくれてありがとう。本当に感謝する。
-PROPQUEST_INC_150270,Magic disguises… I never thought they were real. Belia taught our children—who knows what would’ve happened if that Lycan had stayed hidden. Thank you. I’ll report this to the elder.,魔法による変装…そんなものが本当に存在するとは思わなかった。ベリアは我らの子供たちに教えていたんだ。あのライカンがそのまま潜んでいたら、一体どうなっていたことか。ありがとう。この件は長老に報告するとしよう。
-PROPQUEST_INC_150271,Obtain “Fragment of Scroll”,「スクロールの断片」を入手
-PROPQUEST_INC_150272,A Good Friend Is… 1,良き友とは…1
-PROPQUEST_INC_150273,"Adventurer, do you have a moment? It’s about my daughter. Lately she’s been sneaking out of the village, and she refuses to tell us anything at home.",冒険者殿、少し時間はあるか？娘のことなんだが。最近、こっそり村を抜け出しているようで、家では何も話してくれないんだ。
-PROPQUEST_INC_150274,"Could you check on her? I’d be relieved if it’s nothing, but something about this feels wrong. Please, I’m begging you.",様子を見てきてもらえないか？何もなければそれで安心なんだが、どうも様子がおかしい気がしてならない。頼む、この通りだ。
-PROPQUEST_INC_150275,"If you’re too busy, I understand. Where could she have gone this time…",忙しいなら仕方ない。今度はどこへ行ったのやら…
-PROPQUEST_INC_150276,"I’m not sure where exactly, but it looks like she’s been going outside the village.",正確な場所は分からないが、どうやら村の外に出ているようだ。
-PROPQUEST_INC_150277,My parents sent you?,両親がお前を寄越したのか？
-PROPQUEST_INC_150278,Meet with Kaela,ケイラに会う
-PROPQUEST_INC_150279,A Good Friend Is… 2,良き友とは…2
-PROPQUEST_INC_150280,"Ha, they barely know me better than some stranger, and now they suddenly care? Huh… Outside? Did I say something about that? No… I don’t remember.",はっ、他人よりちょっとマシに私を知ってる程度のくせに、今さら心配するわけ？…外だって？そんなこと言ったっけ？いや…覚えてないな。
-PROPQUEST_INC_150281,"Ugh, fine, whatever. Yeah, I’ve been hanging out with the wolves. The other kids here don’t get me, and this village is doomed sooner or later. What’s the point? If you want to drag me back, then deal with all my friends first.",はぁ、もういいわ。そうよ、狼たちとつるんでたの。ここの子たちは私のことなんて理解してくれないし、この村だってどうせ長くは持たない。意味なんてないでしょ。私を連れ戻したいなら、まず私の友達全員を相手にしてもらうから。
-PROPQUEST_INC_150282,Hah! Chickened out already?,はっ！もうビビったの？
-PROPQUEST_INC_150283,"If you can’t do it, just pretend you never saw me and walk away.",できないなら、私なんて見なかったふりをして立ち去ればいいわ。
-PROPQUEST_INC_150284,I-I’m sorry… Just… please don’t hurt me…,ご、ごめんなさい…お願いだから…痛いことはしないで…
-PROPQUEST_INC_150285,Kill 5 Captain Kyouchish and obtain 1 “Lycan Orders”,キャプテン・ライカンセンチネルを5体討伐し、「ライカンの命令書」を1個入手
-PROPQUEST_INC_150286,A Good Friend Is… 3,良き友とは…3
-PROPQUEST_INC_150287,W-What? I said I was wrong already. What now? You want me to read this?,な、何よ？もう間違ってたって認めたじゃない。今度は何？これを読めって言うの？
-PROPQUEST_INC_150288,"Fine, hand it over.",分かったわよ、よこして。
-PROPQUEST_INC_150289,What do you want now?,今度は何の用？
-PROPQUEST_INC_150290,"Alright, alright, I’m reading it.",はいはい、読めばいいんでしょ。
-PROPQUEST_INC_150291,"“Find a foolish child, play along, and turn them into a perfect puppet to sow chaos in the village.” So I was just a piece in their stupid game…? Ugh… I can’t believe I fell for it. You want me to go home and apologize to my parents? Tch, I already know that much.",「愚かな子供を見つけ、調子を合わせ、村に混乱をもたらす完璧な操り人形に仕立て上げよ」……つまり私は、あいつらのくだらないゲームの駒に過ぎなかったってわけ…？はぁ…まんまと引っかかったなんて信じられない。家に帰って両親に謝れって言いたいんでしょ。ちっ、そんなことくらい分かってるわよ。
-PROPQUEST_INC_150292,Bring “Lycan Orders” to Kaela,「ライカンの命令書」をケイラに届ける
-PROPQUEST_INC_150293,New Survivor of the Expedition? 1,遠征隊の新たな生存者？1
-PROPQUEST_INC_150294,"Oh, adventurer, do you have a moment? You’re looking for traces of the vanished expedition, right?",おお、冒険者殿、少し時間はあるか？消えた遠征隊の手がかりを探しているんだったな？
-PROPQUEST_INC_150295,"While hunting, I found tracks that didn’t belong to Myurang or Lycan. Interested?",狩りをしている最中、ムランのものでもライカンのものでもない足跡を見つけたんだ。興味はあるか？
-PROPQUEST_INC_150296,"Here, I’ll mark the spot for you.",ほら、場所に印をつけておいてやろう。
-PROPQUEST_INC_150297,"No worries. I’ll keep a record of it, so come back whenever you want the location again.",気にするな。記録は残しておくから、また場所が必要になったらいつでも訪ねてくれ。
-PROPQUEST_INC_150298,Did you forget where it is?,場所を忘れてしまったのか？
-PROPQUEST_INC_150299,"Well… that’s not exactly what I saw, but…",うーん…私が見たものとは、ちょっと違う気がするが…
-PROPQUEST_INC_150300,Obtain a “Pitch-black Sphere”,「漆黒の球体」を入手
-PROPQUEST_INC_150301,New Survivor of the Expedition? 2,遠征隊の新たな生存者？2
-PROPQUEST_INC_150302,"No matter how I look at it, those tracks aren’t ours, and they don’t match those wolf fiends either.",どう見ても、あの足跡は我々のものでもないし、あの狼の化け物どものものとも一致しない。
-PROPQUEST_INC_150303,I don’t think there’s much more I can tell you. Maybe ask someone who actually knows about the expedition. See if anyone recognizes this.,これ以上教えられることはなさそうだ。遠征隊について実際に詳しい者に聞いてみるといい。これに見覚えがある者がいないか、確かめてくれ。
-PROPQUEST_INC_150304,I doubt anyone in this village could help.,この村に力になれる者がいるとは思えないが。
-PROPQUEST_INC_150305,Do you have someone in mind?,誰か心当たりでもあるのか？
-PROPQUEST_INC_150306,Was something like this among the expedition supplies?,遠征隊の物資の中に、こんなものはなかったか？
-PROPQUEST_INC_150307,New Survivor of the Expedition? 3,遠征隊の新たな生存者？3
-PROPQUEST_INC_150308,"No… I’ve never seen anything like this. Everything that was on the ship is listed here, and there’s nothing even close to this strange object.",いや…こんなものは見たことがない。船に積まれていたものは全てここに記録してあるが、この奇妙な物体に近いものすら存在しない。
-PROPQUEST_INC_150309,Hmm… this doesn’t look ordinary. You should ask a historian.,うーん…これはただ者ではなさそうだ。歴史学者に聞いてみるといい。
-PROPQUEST_INC_150310,Let’s see… Who might know about something like this…,そうだな…こういうものに詳しいのは、一体誰だろうか…
-PROPQUEST_INC_150311,It looks like the expedition really was wiped out. There’s nothing left of them.,遠征隊は本当に全滅してしまったようだ。彼らの痕跡は何一つ残っていない。
-PROPQUEST_INC_150312,"Where did you find this? The seal is still intact, so that’s good—but this artifact is dangerous. For now, you’re not ready to know more. Get stronger, and I’ll tell you when the time is right.",これをどこで見つけたのだ？封印がまだ無事なのは幸いだが…この遺物は危険なものだ。今のお前には、まだこれ以上知る準備ができていない。もっと力をつけてくれ。頃合いが来たら教えよう。
-PROPQUEST_INC_150313,Meet with [Historian] Martinyc,[歴史学者]マルティニークに会う
-PROPQUEST_INC_150314,Searching for Parents 1,両親を探して 1
-PROPQUEST_INC_150315,"Do you have a moment? I’ve seen how much you’ve helped the village, so I was hoping you could help me too.",少し時間はあるか？お前がどれほど村のために尽くしてくれたか見てきた。だから、私のことも手伝ってもらえたらと思ってな。
-PROPQUEST_INC_150316,"My grandfather is the jarl, but my father was exiled and sent on a mission… he never returned. I fear they sent him to die. Please help me find his remains.",私の祖父はジャールだが、父は追放され、任務に送り出された…そのまま戻ってこなかった。死ぬと分かっていて送られたのではないかと恐れている。父の遺骸を見つける手伝いをしてくれ。
-PROPQUEST_INC_150317,I see… then I’ll have to go alone. Thank you for at least listening.,そうか…なら私一人で行くしかないな。せめて話を聞いてくれてありがとう。
-PROPQUEST_INC_150318,His last known destination… was there.,父が最後に向かった場所は…そこだった。
-PROPQUEST_INC_150319,Father… in the end…,父さん…結局…
-PROPQUEST_INC_150320,Obtain “???’s Serial Chain”,「???の連結鎖」を入手
-PROPQUEST_INC_150321,Searching for Parents 2,両親を探して 2
-PROPQUEST_INC_150322,But… was that all? He loved writing things down. There must be something more.,だが…それだけだったのか？父は物を書き記すのが好きだった。まだ何かあるはずだ。
-PROPQUEST_INC_150323,Thank you so much. Anything you can find—no matter how small—would mean the world to me.,本当にありがとう。どんな些細なことでもいい、見つけてもらえたら私にとって何よりも大切なことなんだ。
-PROPQUEST_INC_150324,"It’s alright. You’ve already done a lot. But if you ever change your mind, please come back.",いいんだ。もう十分やってくれた。でも気が変わったら、また戻ってきてくれ。
-PROPQUEST_INC_150325,There’s really nothing else? Ah…,本当に他には何もないのか？ああ…
-PROPQUEST_INC_150326,This handwriting… it’s definitely my father’s. Thank you so much. It looks like he tried to write in code. I need to decode it right away.,この筆跡…間違いなく父のものだ。本当にありがとう。暗号で書こうとしていたようだな。すぐに解読しなければ。
-PROPQUEST_INC_150327,Obtain “???’s Diary”,「???の日記」を入手
-PROPQUEST_INC_150328,To the Jarl,ジャールのもとへ
-PROPQUEST_INC_150329,"So, you’re that adventurer. Thanks to you, the village is finally settling down. Because of that—or maybe because he suddenly has time—the jarl wants to meet you. I’ll put in a good word, so go see him when you can.",ああ、お前があの冒険者か。おかげで村もようやく落ち着いてきた。そのせいか、それとも急に暇ができたからか、ジャールがお前に会いたがっている。私からも口添えしておくから、都合のいい時に会いに行ってくれ。
-PROPQUEST_INC_150330,"If your people want to form ties with our village, you’ll need his approval anyway.",お前たちが我が村と繋がりを持ちたいなら、どのみち彼の承認が必要になる。
-PROPQUEST_INC_150331,"Well then, come back when you’re free.",それでは、暇ができたら戻ってきてくれ。
-PROPQUEST_INC_150332,"You still haven’t gone? He may be an old man with little to do, but you should probably hurry.",まだ行っていないのか？暇を持て余した老人とはいえ、急いだ方がいいぞ。
-PROPQUEST_INC_150333,"So, you’re the adventurer I’ve heard so much about.",ああ、お前が噂に聞く冒険者か。
-PROPQUEST_INC_150334,Obtain “???’s Serial Diary”,「???の連続日記」を入手
-PROPQUEST_INC_150335,Prelude to the Counterattack,反撃の前奏曲
-PROPQUEST_INC_150336,"Thanks to you, we were finally able to breathe. And those Lycans… they never imagined an adventurer would appear, so now they’re on the back foot. This is our chance. Will you help us?",お前のおかげで、ようやく一息つくことができた。それにライカンどもは、まさか冒険者が現れるとは思っていなかったようで、今や守勢に回っている。今がまさに好機だ。力を貸してくれるか？
+PROPQUEST_INC_150265,An Incident! 5,事件発生！(5)
+PROPQUEST_INC_150266,"(Lycan) Damn it… how did you figure it out? I thought I’d fooled all these clueless cats, thanks to the Scroll of Skrolls our god gave me.",(ライカン) ...くそっ、どうやって見破った？ 我らの神から授かった『スクロール・オブ・スクロールズ』があれば、この間抜けな猫どもを完全に騙せてると思っていたのに。
+PROPQUEST_INC_150267,(Lycan) You’ve ruined too many of our plans already. Don’t think you’ll get away so easily. We’ll meet again.,(ライカン) ...貴様には、もう何度も我々の計画を潰されている。そう簡単に逃げられると思うな。また会うことになるだろう。
+PROPQUEST_INC_150268,(Lycan) You think we’d just let you walk away after uncovering our secret?,(ライカン) ...我らの秘密を暴いておいて、このままで済むと思っているのか？
+PROPQUEST_INC_150269,"What… I don’t remember the past few days at all. Are you saying they did that to me? Adventurer, you saved me. Thank you so much.",えっ...ここ数日のことが、何も思い出せない...。私にそんなことをしたっていうの？ 冒険者さん、あなたが助けてくれたのね。本当にありがとう。
+PROPQUEST_INC_150270,Magic disguises… I never thought they were real. Belia taught our children—who knows what would’ve happened if that Lycan had stayed hidden. Thank you. I’ll report this to the elder.,魔法で変装するなんて...本当にあるとは思いませんでした。ベリアは子供たちを教えているんです。もしあのライカンが正体を隠したままだったら、どうなっていたことか...。本当にありがとう。この件は長老に報告しておきます。
+PROPQUEST_INC_150271,Obtain “Fragment of Scroll”,＜巻物の断片＞を入手する
+PROPQUEST_INC_150272,A Good Friend Is… 1,友達というのは...(1)
+PROPQUEST_INC_150273,"Adventurer, do you have a moment? It’s about my daughter. Lately she’s been sneaking out of the village, and she refuses to tell us anything at home.",冒険者さん、少し時間はあるかい？ 娘のことで相談があるんだ。最近、あの子がこっそり村を抜け出しているようでね。家では何を聞いても話してくれないんだ。
+PROPQUEST_INC_150274,"Could you check on her? I’d be relieved if it’s nothing, but something about this feels wrong. Please, I’m begging you.",様子を見てきてもらえないか？ 何事もなければそれで安心できるんだが、どうにも嫌な予感がしてね。頼む、この通りだ。
+PROPQUEST_INC_150275,"If you’re too busy, I understand. Where could she have gone this time…",忙しいなら仕方ない。分かってるよ。それにしても、今度はどこへ行ったのやら...
+PROPQUEST_INC_150276,"I’m not sure where exactly, but it looks like she’s been going outside the village.",詳しい場所までは分からないが、どうやら村の外へ出ているようなんだ。
+PROPQUEST_INC_150277,My parents sent you?,...パパとママに頼まれて来たの？
+PROPQUEST_INC_150278,Meet with Kaela,カエラに会う
+PROPQUEST_INC_150279,A Good Friend Is… 2,友達というのは...(2)
+PROPQUEST_INC_150280,"Ha, they barely know me better than some stranger, and now they suddenly care? Huh… Outside? Did I say something about that? No… I don’t remember.",他人と大して変わらないくらい私のこと何も知らないくせに、今さら心配してるって？ ...え？ 村の外？ 私、そんなこと言った？ ...ううん、覚えてない。
+PROPQUEST_INC_150281,"Ugh, fine, whatever. Yeah, I’ve been hanging out with the wolves. The other kids here don’t get me, and this village is doomed sooner or later. What’s the point? If you want to drag me back, then deal with all my friends first.",あーもう、分かったわよ。そうよ、狼たちとつるんでたわ。ここの子たちは誰も私のことなんて分かってくれないし、この村だってどうせいつかダメになる。だったら何？ 私を無理やり連れ戻したいなら、まずは私の友達を全員どうにかしてみなさいよ。
+PROPQUEST_INC_150282,Hah! Chickened out already?,ハッ！もうビビったの？
+PROPQUEST_INC_150283,"If you can’t do it, just pretend you never saw me and walk away.",できないなら、私を見なかったことにして、そのまま帰ればいいでしょ。
+PROPQUEST_INC_150284,I-I’m sorry… Just… please don’t hurt me…,ご、ごめんなさい...。だから...お願い、痛いことはしないで...
+PROPQUEST_INC_150285,Kill 5 Captain Kyouchish and obtain 1 “Lycan Orders”,キャプテン・ライカンセンチネルを5体討伐し、＜ライカンの命令書＞を1個入手する
+PROPQUEST_INC_150286,A Good Friend Is… 3,友達というのは...(3)
+PROPQUEST_INC_150287,W-What? I said I was wrong already. What now? You want me to read this?,な、何よ？ 私が悪かったって、もう言ったでしょ。今度は何？ これを読めっていうの？
+PROPQUEST_INC_150288,"Fine, hand it over.",分かったわよ、貸して。
+PROPQUEST_INC_150289,What do you want now?,今度は何なの？
+PROPQUEST_INC_150290,"Alright, alright, I’m reading it.",分かった、分かったってば。今読むから。
+PROPQUEST_INC_150291,"“Find a foolish child, play along, and turn them into a perfect puppet to sow chaos in the village.” So I was just a piece in their stupid game…? Ugh… I can’t believe I fell for it. You want me to go home and apologize to my parents? Tch, I already know that much.",「愚かな子供を見つけ、話を合わせて信用させろ。そして村に混乱をまき散らす格好の操り人形に仕立て上げろ」...私、あいつらのくだらない計画の駒にされてただけってこと？ はぁ...こんなのに騙されてたなんて。家に帰って、パパとママに謝れって言うんでしょ？ ...フン、そんなこと自分でも分かってるわよ。
+PROPQUEST_INC_150292,Bring “Lycan Orders” to Kaela,＜ライカンの命令書＞をカエラに届ける
+PROPQUEST_INC_150293,New Survivor of the Expedition? 1,遠征隊の新たな生存者？(1)
+PROPQUEST_INC_150294,"Oh, adventurer, do you have a moment? You’re looking for traces of the vanished expedition, right?",おや、冒険者さん。少し時間はあるかい？ 消えた遠征隊の痕跡を探しているんだろう？
+PROPQUEST_INC_150295,"While hunting, I found tracks that didn’t belong to Myurang or Lycan. Interested?",狩りをしていたとき、ミューラン族でもライカンでもない足跡を見つけたんだ。興味はあるかい？
+PROPQUEST_INC_150296,"Here, I’ll mark the spot for you.",ここだ。場所を印しておくよ。
+PROPQUEST_INC_150297,"No worries. I’ll keep a record of it, so come back whenever you want the location again.",気にしなくていい。場所は記録しておくから、また知りたくなったらいつでも来てくれ。
+PROPQUEST_INC_150298,Did you forget where it is?,場所を忘れてしまったのかい？
+PROPQUEST_INC_150299,"Well… that’s not exactly what I saw, but…",うーん...私が見たのは、そういうものではなかったんだが...
+PROPQUEST_INC_150300,Obtain a “Pitch-black Sphere”,＜漆黒の球体＞を入手する
+PROPQUEST_INC_150301,New Survivor of the Expedition? 2,遠征隊の新たな生存者？(2)
+PROPQUEST_INC_150302,"No matter how I look at it, those tracks aren’t ours, and they don’t match those wolf fiends either.",どう見ても、あの足跡は我々のものではない。それに、あの狼どものものとも違う。
+PROPQUEST_INC_150303,I don’t think there’s much more I can tell you. Maybe ask someone who actually knows about the expedition. See if anyone recognizes this.,私から話せるのは、これくらいだと思う。遠征隊について詳しい人に聞いてみた方がいいんじゃないかな。これに見覚えがないか、確かめてみるといい。
+PROPQUEST_INC_150304,I doubt anyone in this village could help.,この村に、分かる人がいるとは思えないな。
+PROPQUEST_INC_150305,Do you have someone in mind?,誰か心当たりがあるのかい？
+PROPQUEST_INC_150306,Was something like this among the expedition supplies?,遠征隊の物資の中に、このようなものがあったか、ですか？
+PROPQUEST_INC_150307,New Survivor of the Expedition? 3,遠征隊の新たな生存者？(3)
+PROPQUEST_INC_150308,"No… I’ve never seen anything like this. Everything that was on the ship is listed here, and there’s nothing even close to this strange object.",いいえ...このようなものは見たことがありません。船に積まれていたものは、すべてここに記録されていますが、この奇妙な物体に似たものすらありませんね。
+PROPQUEST_INC_150309,Hmm… this doesn’t look ordinary. You should ask a historian.,ふむ...どうも普通のものには見えませんね。歴史学者に聞いてみてはいかがでしょう。
+PROPQUEST_INC_150310,Let’s see… Who might know about something like this…,そうですね...。こういったものに詳しそうな人物といえば...
+PROPQUEST_INC_150311,It looks like the expedition really was wiped out. There’s nothing left of them.,どうやら、遠征隊は本当に全滅してしまったようですね。彼らの痕跡は、もう何も残っていない...
+PROPQUEST_INC_150312,"Where did you find this? The seal is still intact, so that’s good—but this artifact is dangerous. For now, you’re not ready to know more. Get stronger, and I’ll tell you when the time is right.",これ、どこで見つけたの？ 封印がまだ解けていないのは幸いね。でも、この遺物は危険よ。今のあなたには、これ以上知るのはまだ早いわ。もっと強くなりなさい。時が来たら、私から話してあげる。
+PROPQUEST_INC_150313,Meet with [Historian] Martinyc,[歴史学者] マルティニークに会う
+PROPQUEST_INC_150314,Searching for Parents 1,両親を捜して (1)
+PROPQUEST_INC_150315,"Do you have a moment? I’ve seen how much you’ve helped the village, so I was hoping you could help me too.",少し時間はある？ あなたがこの村のためにどれだけ力を尽くしてくれたか見てきたから...私のことも助けてもらえないかと思って。
+PROPQUEST_INC_150316,"My grandfather is the jarl, but my father was exiled and sent on a mission… he never returned. I fear they sent him to die. Please help me find his remains.",私の祖父は族長なの。でも父は村を追放され、任務に送られたまま...帰ってこなかった。死ぬと分かっていて送り出されたんじゃないかって思ってるの。お願い。父の亡骸を探すのを手伝って。
+PROPQUEST_INC_150317,I see… then I’ll have to go alone. Thank you for at least listening.,そう...。なら、私一人で行くしかないわね。話を聞いてくれただけでもありがとう。
+PROPQUEST_INC_150318,His last known destination… was there.,父が最後に向かったとされている場所は...ここよ。
+PROPQUEST_INC_150319,Father… in the end…,お父さん...結局...
+PROPQUEST_INC_150320,Obtain “???’s Serial Chain”,＜???の連結鎖＞を入手する
+PROPQUEST_INC_150321,Searching for Parents 2,両親を捜して (2)
+PROPQUEST_INC_150322,But… was that all? He loved writing things down. There must be something more.,でも...これだけなの？ 父は何でも書き残す人だった。きっと、ほかにも何かあるはずよ。
+PROPQUEST_INC_150323,Thank you so much. Anything you can find—no matter how small—would mean the world to me.,本当にありがとう。どんな小さなものでもいいの。何か見つけてくれたら、それだけで私には大きな意味があるから。
+PROPQUEST_INC_150324,"It’s alright. You’ve already done a lot. But if you ever change your mind, please come back.",いいの。もう十分すぎるほど助けてもらったもの。でも、もし気が変わったら...また来て。
+PROPQUEST_INC_150325,There’s really nothing else? Ah…,本当に、ほかには何もないの？ ...そう...。
+PROPQUEST_INC_150326,This handwriting… it’s definitely my father’s. Thank you so much. It looks like he tried to write in code. I need to decode it right away.,この筆跡...間違いない、父の字よ。本当にありがとう。どうやら暗号で書こうとしていたみたい。すぐに解読しなくちゃ。
+PROPQUEST_INC_150327,Obtain “???’s Diary”,＜???の日記＞を入手する
+PROPQUEST_INC_150328,To the Jarl,族長のもとへ
+PROPQUEST_INC_150329,"So, you’re that adventurer. Thanks to you, the village is finally settling down. Because of that—or maybe because he suddenly has time—the jarl wants to meet you. I’ll put in a good word, so go see him when you can.",おお、お前があの冒険者か。村もようやく落ち着きを取り戻してきた。そのおかげか……それとも急に暇ができたからか、族長がお前に会いたがっていてな。わしからも話を通しておく。時間があるときに会いに行くといい。
+PROPQUEST_INC_150330,"If your people want to form ties with our village, you’ll need his approval anyway.",お前たちがこの村と正式に関係を築きたいのなら、いずれにせよ族長の承認が必要になる。
+PROPQUEST_INC_150331,"Well then, come back when you’re free.",では、手が空いたらまた来るといい。
+PROPQUEST_INC_150332,"You still haven’t gone? He may be an old man with little to do, but you should probably hurry.",まだ行っておらんのか？ 暇を持て余している老人とはいえ、あまり待たせん方がいいぞ。
+PROPQUEST_INC_150333,"So, you’re the adventurer I’ve heard so much about.",なるほど。お前が噂の冒険者か。
+PROPQUEST_INC_150334,Obtain “???’s Serial Diary”,＜???の連続日記＞を入手する
+PROPQUEST_INC_150335,Prelude to the Counterattack,反撃への序曲
+PROPQUEST_INC_150336,"Thanks to you, we were finally able to breathe. And those Lycans… they never imagined an adventurer would appear, so now they’re on the back foot. This is our chance. Will you help us?",お前のおかげで、我々もようやく一息つくことができた。それにライカンどもも...まさか冒険者が現れるとは思っていなかったのだろう。今や奴らは守勢に回っている。好機だ。我々に力を貸してくれないか？
 PROPQUEST_INC_150337,"Before we start a full-scale battle, I need you to deal with the Kanonicus.",本格的な戦いを始める前に、ライカンアーチャーどもを片付けてもらいたい。
-PROPQUEST_INC_150338,"I have to admit, your strength is impressive. We can’t afford to let you go just yet.",正直、お前の強さには感心する。まだ手放すわけにはいかないな。
-PROPQUEST_INC_150339,The enemy’s gathering point is here.,敵の集結地点はここだ。
-PROPQUEST_INC_150340,Hahaha! The war against the Lycans is ours to win now. We owe you a great deal.,ハハハ！これでライカンとの戦、勝利は我々のものだ。お前には大きな借りができたな。
-PROPQUEST_INC_150341,Kill 40 Kanonicus,ライカンアーチャーを40体討伐
+PROPQUEST_INC_150338,"I have to admit, your strength is impressive. We can’t afford to let you go just yet.",認めよう。お前の強さは大したものだ。まだ手放すわけにはいかんな。
+PROPQUEST_INC_150339,The enemy’s gathering point is here.,敵が集結しているのはここだ。
+PROPQUEST_INC_150340,Hahaha! The war against the Lycans is ours to win now. We owe you a great deal.,ハハハッ！ ライカンとの戦いも、今や我々の勝利が見えてきた。お前には大きな借りができたな。
+PROPQUEST_INC_150341,Kill 40 Kanonicus,ライカンアーチャーを40体討伐する
 PROPQUEST_INC_150342,Pursuit,追撃
-PROPQUEST_INC_150343,"Thanks to your work, we launched a surprise attack and sent them running. We even found some who couldn’t keep up. Would you finish them off and send them to their gods?",お前の働きのおかげで、奇襲をかけて奴らを敗走させることができた。中にはついていけずに取り残された者もいる。奴らを仕留めて、神のもとへ送ってやってくれないか？
-PROPQUEST_INC_150344,We’re moving to chase down the main force.,我々は本隊を追撃するために移動する。
-PROPQUEST_INC_150345,But we don’t have spare troops to deal with the stragglers.,だが、はぐれた者たちを相手にする余力がないんだ。
-PROPQUEST_INC_150346,Perfect. We’ll leave them to you and continue the pursuit.,ちょうどいい。奴らはお前に任せて、我々は追撃を続けよう。
-PROPQUEST_INC_150347,"Oh, you did it?",おお、やってくれたのか？
-PROPQUEST_INC_150348,Kill 10 Captain Kanonicus,キャプテン・ライカンアーチャーを10体討伐
-PROPQUEST_INC_150349,Mission Failed,任務失敗
-PROPQUEST_INC_150350,"It’s embarrassing to admit, but… unlike you, we failed. We tried to trap them in a tight spot and wipe them out, but a mage suddenly appeared. Those beasts shouldn’t be capable of magic.",情けない話だが…お前と違って、我々は失敗した。奴らを追い詰めて一掃しようとしたが、突然魔法使いが現れたんだ。あの獣どもが魔法を使えるはずがないのに。
-PROPQUEST_INC_150351,"We need to regroup our forces, so… could you handle them in our place?",我々は部隊を立て直す必要がある。だから…代わりに奴らを片付けてもらえないか？
-PROPQUEST_INC_150352,"I understand. If you change your mind, please come back.",分かった。気が変わったら、また戻ってきてくれ。
-PROPQUEST_INC_150353,Thank you. We’ll wait for good news.,ありがとう。良い知らせを待っているぞ。
-PROPQUEST_INC_150354,Excellent work.,見事な働きだ。
-PROPQUEST_INC_150355,Kill 30 Small Mage Redclouds,スモール・ライカンソーサラーを30体討伐
-PROPQUEST_INC_150356,Back to Town,町への帰還
-PROPQUEST_INC_150357,"The Lycans resisted fiercely, so the jarl has returned to town for now.",ライカンどもの抵抗が激しく、ジャールはひとまず町へ戻った。
-PROPQUEST_INC_150358,Let’s go back as well. I was ordered to wait here and report to you when you returned.,我々も戻るとしよう。お前が戻ってきたら報告するよう、ここで待つよう命じられていたんだ。
-PROPQUEST_INC_150359,"If you have other business, feel free to handle it first. Nothing around here is a real threat to you anymore.",他に用事があるなら、先に片付けてくれて構わない。この辺りにお前にとって本当の脅威になるものは、もう残っていないはずだ。
-PROPQUEST_INC_150360,The jarl? He’s probably back at the town quarters.,ジャールか？おそらく町の宿舎に戻っているはずだ。
-PROPQUEST_INC_150361,I can’t thank you enough for everything.,何もかも、感謝してもしきれないよ。
-PROPQUEST_INC_150362,Meet with the Jarl,ジャールに会う
-PROPQUEST_INC_150363,Covering Fire,援護射撃
-PROPQUEST_INC_150364,"I know you just got back, but could I ask a favor? An elder leading our retreat requested reinforcements. Can you go help them escape safely?",戻ってきたばかりなのは分かっているが、頼みがあるんだ。撤退を率いる長老の一人が援軍を要請してきた。彼らが無事に逃げられるよう、力を貸してもらえないか？
-PROPQUEST_INC_150365,That’s a relief. Thank you.,それは助かる。ありがとう。
-PROPQUEST_INC_150366,"It won’t be easy, but you’re the only one I can send. It’s troubling.",楽な仕事ではないが、送り出せるのはお前しかいないんだ。困ったものだな。
-PROPQUEST_INC_150367,The elder should be waiting for you there.,長老がそこで待っているはずだ。
-PROPQUEST_INC_150368,Who’s there? Come out and identify yourself!,誰だ！名を名乗って出てこい！
-PROPQUEST_INC_150369,Meet with [Elder] Silar,[長老]サイラーに会う
+PROPQUEST_INC_150343,"Thanks to your work, we launched a surprise attack and sent them running. We even found some who couldn’t keep up. Would you finish them off and send them to their gods?",お前の働きのおかげで奇襲は成功し、奴らを敗走させることができた。本隊から取り残された連中もいる。そいつらを片付けて、奴らの神のもとへ送り返してくれないか？
+PROPQUEST_INC_150344,We’re moving to chase down the main force.,我々はこのまま敵の本隊を追う。
+PROPQUEST_INC_150345,But we don’t have spare troops to deal with the stragglers.,だが、取り残された連中に割ける兵がいないんだ。
+PROPQUEST_INC_150346,Perfect. We’ll leave them to you and continue the pursuit.,よし。そちらはお前に任せて、我々は追撃を続ける。
+PROPQUEST_INC_150347,"Oh, you did it?",おお、もう片付けたのか？
+PROPQUEST_INC_150348,Kill 10 Captain Kanonicus,キャプテン・ライカンアーチャーを10体討伐する
+PROPQUEST_INC_150349,Mission Failed,作戦失敗
+PROPQUEST_INC_150350,"It’s embarrassing to admit, but… unlike you, we failed. We tried to trap them in a tight spot and wipe them out, but a mage suddenly appeared. Those beasts shouldn’t be capable of magic.",情けない話だが...お前と違って、我々は失敗した。奴らを追い詰めて一掃しようとしたが、突然、魔法使いが現れてな。あの獣どもが魔法を使えるはずがないのだが...
+PROPQUEST_INC_150351,"We need to regroup our forces, so… could you handle them in our place?",こちらは部隊を立て直さねばならん。そこで……我々に代わって、奴らを相手にしてもらえないか？
+PROPQUEST_INC_150352,"I understand. If you change your mind, please come back.",分かった。気が変わったら戻ってきてくれ。
+PROPQUEST_INC_150353,Thank you. We’ll wait for good news.,感謝する。いい知らせを待っているぞ。
+PROPQUEST_INC_150354,Excellent work.,見事だったぞ。
+PROPQUEST_INC_150355,Kill 30 Small Mage Redclouds,スモール・ライカンソーサラーを30体討伐する
+PROPQUEST_INC_150356,Back to Town,街への帰還
+PROPQUEST_INC_150357,"The Lycans resisted fiercely, so the jarl has returned to town for now.",ライカンどもの抵抗が激しくてな。族長はいったん村へ戻った。
+PROPQUEST_INC_150358,Let’s go back as well. I was ordered to wait here and report to you when you returned.,俺たちも戻ろう。お前が帰ってきたら報告するよう、ここで待つよう命令されてたんだ。
+PROPQUEST_INC_150359,"If you have other business, feel free to handle it first. Nothing around here is a real threat to you anymore.",他に用があるなら、先に済ませてきていいぞ。この辺りじゃ、もうお前の脅威になるような奴はいないだろうからな。
+PROPQUEST_INC_150360,The jarl? He’s probably back at the town quarters.,族長か？ たぶん村の宿舎に戻っているはずだ。
+PROPQUEST_INC_150361,I can’t thank you enough for everything.,これまでの働きには、いくら感謝してもしきれんな。
+PROPQUEST_INC_150362,Meet with the Jarl,族長に会う
+PROPQUEST_INC_150363,Covering Fire,援護
+PROPQUEST_INC_150364,"I know you just got back, but could I ask a favor? An elder leading our retreat requested reinforcements. Can you go help them escape safely?",戻ったばかりですまないが、ひとつ頼まれてくれないか？ 撤退部隊を率いている長老から、援軍の要請があった。彼らが無事に撤退できるよう、助けに向かってほしい。
+PROPQUEST_INC_150365,That’s a relief. Thank you.,それは助かる。感謝する。
+PROPQUEST_INC_150366,"It won’t be easy, but you’re the only one I can send. It’s troubling.",簡単な任務ではない。だが、今送り出せるのはお前しかいない。困ったものだ...
+PROPQUEST_INC_150367,The elder should be waiting for you there.,長老なら、そこでお前を待っているはずだ。
+PROPQUEST_INC_150368,Who’s there? Come out and identify yourself!,誰だ！ 姿を見せて名乗れ！
+PROPQUEST_INC_150369,Meet with [Elder] Silar,[長老] サイラーに会う
 PROPQUEST_INC_150370,Conflicted Orders,食い違う命令
-PROPQUEST_INC_150371,"Ah, you must be the adventurer. What brings you here? Reinforcements? I never sent such a request. Who told you that?",ああ、お前があの冒険者だな。何をしに来た？援軍だと？そんな要請を送った覚えはないが。誰がそんなことを？
-PROPQUEST_INC_150372,(Wolf howls) What was that? Is someone out there?,（狼の遠吠え）今のは何だ？誰かいるのか？
-PROPQUEST_INC_150373,What is that man thinking…? He’s always been suspicious.,あの男、一体何を考えているんだ…？昔から怪しい奴だった。
-PROPQUEST_INC_150374,Why aren’t you checking the situation outside? What’s going on?,なぜ外の様子を確認していないんだ？一体どうなっている？
-PROPQUEST_INC_150375,"No, outside…! A whole group of Lycan mages appeared out of nowhere.",いや、外に…！ライカンの魔法使いの群れが、どこからともなく現れたんだ。
-PROPQUEST_INC_150376,Meet with [Eillun Guard] Dreon,[エルリウン衛兵]ドレオンに会う
+PROPQUEST_INC_150371,"Ah, you must be the adventurer. What brings you here? Reinforcements? I never sent such a request. Who told you that?",ああ、お前があの冒険者か。こんなところまで何をしに来た？...援軍だと？そんな要請を出した覚えはないが。誰がそんなことを？
+PROPQUEST_INC_150372,(Wolf howls) What was that? Is someone out there?,(狼の遠吠え) 今のは何だ？誰かいるのか？
+PROPQUEST_INC_150373,What is that man thinking…? He’s always been suspicious.,あの男...いったい何を考えている？ 前々から怪しいとは思っていたが。
+PROPQUEST_INC_150374,Why aren’t you checking the situation outside? What’s going on?,なぜ外の様子を確認しない？ 何が起きている？
+PROPQUEST_INC_150375,"No, outside…! A whole group of Lycan mages appeared out of nowhere.",違う、外だ...！ ライカンの魔法使いの群れが、どこからともなく現れたんだ。
+PROPQUEST_INC_150376,Meet with [Eillun Guard] Dreon,[エルリウン衛兵] ドレオンに会う
 PROPQUEST_INC_150377,Chaos,混乱
-PROPQUEST_INC_150378,"We’ve been covering our tracks while retreating. There’s no way the Lycans should’ve found us. We’ll hold as long as we can. Please, report our situation to the elder.",撤退しながら痕跡を消してきた。ライカンどもが我々を見つけられるはずがないんだ。できる限り持ちこたえる。頼む、この状況を長老に報告してくれ。
-PROPQUEST_INC_150379,Grr… Huh… Please hurry!,うぐ…くっ…早く頼む！
-PROPQUEST_INC_150380,Please! We can’t last much longer alone.,頼む！我々だけではもう長く持たない。
-PROPQUEST_INC_150381,We won’t hold out for long.,もう長くは持ちこたえられない。
-PROPQUEST_INC_150382,The Lycans… are they swarming again?,ライカンどもが…また群れを成しているのか？
+PROPQUEST_INC_150378,"We’ve been covering our tracks while retreating. There’s no way the Lycans should’ve found us. We’ll hold as long as we can. Please, report our situation to the elder.",我々は撤退しながら、ずっと痕跡を消してきた。ライカンに見つかるはずがないんだ。こちらはできる限り持ちこたえる。頼む、この状況を長老に伝えてくれ。
+PROPQUEST_INC_150379,Grr… Huh… Please hurry!,うぐ...くっ...早く頼む！
+PROPQUEST_INC_150380,Please! We can’t last much longer alone.,頼む！ 我々だけでは、もう長くは持たない！
+PROPQUEST_INC_150381,We won’t hold out for long.,このままでは長く持たないぞ。
+PROPQUEST_INC_150382,The Lycans… are they swarming again?,ライカンどもが...また押し寄せてきたのか？
 PROPQUEST_INC_150383,Trap,罠
-PROPQUEST_INC_150384,"Something has gone terribly wrong. We’ve clearly walked into a trap. The jarl may be shady, but he wouldn’t abandon his own people… or would he? Where did the information leak?",何かとんでもないことが起きている。明らかに罠にかかったんだ。ジャールは怪しいところもあるが、自分の民を見捨てるはずが…いや、そうだろうか？一体どこから情報が漏れたんだ？
-PROPQUEST_INC_150385,"For now, we need to deal with the enemies in front of us. Can I count on you?",今はまず、目の前の敵を片付けなければ。頼りにしていいか？
-PROPQUEST_INC_150386,Thank you. We’ll talk more after this is over.,ありがとう。この件が片付いたら、また詳しく話そう。
-PROPQUEST_INC_150387,Hmph… but we don’t really have another choice.,ふん…とはいえ、他に選択肢もなさそうだ。
+PROPQUEST_INC_150384,"Something has gone terribly wrong. We’ve clearly walked into a trap. The jarl may be shady, but he wouldn’t abandon his own people… or would he? Where did the information leak?",何かが完全に狂っている。どうやら、まんまと罠にはめられたようだ。族長は怪しいところもあるが、自分の民を見捨てるはずが...いや、本当にそうか？ 情報はどこから漏れた？
+PROPQUEST_INC_150385,"For now, we need to deal with the enemies in front of us. Can I count on you?",今は目の前の敵をどうにかするのが先だ。任せてもいいか？
+PROPQUEST_INC_150386,Thank you. We’ll talk more after this is over.,感謝する。この件については、すべて終わってから話そう。
+PROPQUEST_INC_150387,Hmph… but we don’t really have another choice.,フン...だが、ほかに手はないか。
 PROPQUEST_INC_150388,"If you take down a few, the rest will fall apart. Their patterns are predictable.",何体か倒せば、残りは崩れるはずだ。奴らの動きは読みやすい。
-PROPQUEST_INC_150389,Kill 20 Mage Redclouds,ライカンソーサラーを20体討伐
-PROPQUEST_INC_150390,"Again, the Town",再び、町へ
-PROPQUEST_INC_150391,Thinking about it… those Lycans are mages. They might have tracked us with some kind of magic. Or… maybe the jarl really did abandon us.,考えてみれば…あのライカンどもは魔法使いだ。何らかの魔法で我々を追跡していたのかもしれない。それとも…本当にジャールが我々を見捨てたのか。
-PROPQUEST_INC_150392,One of our scouts reported a pack of Lycans heading toward the village. Please go help defend it.,斥候の一人が、ライカンの群れが村へ向かっていると報告してきた。防衛に力を貸してくれ。
+PROPQUEST_INC_150389,Kill 20 Mage Redclouds,ライカンソーサラーを20体討伐する
+PROPQUEST_INC_150390,"Again, the Town",再び、街へ
+PROPQUEST_INC_150391,Thinking about it… those Lycans are mages. They might have tracked us with some kind of magic. Or… maybe the jarl really did abandon us.,考えてみれば...あのライカンどもは魔法使いだ。何らかの魔法で我々を追跡していたのかもしれない。あるいは...本当に族長が我々を見捨てたのか。
+PROPQUEST_INC_150392,One of our scouts reported a pack of Lycans heading toward the village. Please go help defend it.,偵察兵から、ライカンの群れが村へ向かっていると報告があった。頼む、村の防衛に力を貸してくれ。
 PROPQUEST_INC_150393,I’m glad you’ve come.,来てくれて助かった。
-PROPQUEST_INC_150394,We might not have much time left.,もう時間があまり残されていないかもしれない。
-PROPQUEST_INC_150395,I’ll follow as soon as I can.,できるだけ早く後を追う。
-PROPQUEST_INC_150396,"You arrived just in time. Without you, the village would have been in serious danger.",ちょうど間に合ったな。お前がいなければ、村は深刻な危機に陥っていただろう。
-PROPQUEST_INC_150397,Kill 20 Captain Mage Redclouds,キャプテン・ライカンソーサラーを20体討伐
-PROPQUEST_INC_150398,Reunion 1,再会 1
-PROPQUEST_INC_150399,"If we’d tried to hold them off from inside, they probably would’ve broken through. With their forces this weakened, they shouldn’t have many left.",中から食い止めようとしていたら、おそらく突破されていただろう。ここまで戦力を削がれた以上、奴らにもう多くは残っていないはずだ。
-PROPQUEST_INC_150400,"Once things calm down, we’re planning a counterattack. Would you help us again? Oh, and before that, some villagers have been looking for you. They want to thank you personally.",事態が落ち着き次第、反撃を計画している。またお前の力を貸してもらえないか？ああ、それとその前に、何人かの村人がお前を探していたぞ。直接お礼を言いたいそうだ。
-PROPQUEST_INC_150401,Why don’t you visit [Eillun Guard] Gard first? I heard you helped him a lot—and he might be preparing something big for you.,まずは[エルリウン衛兵]ガードのところを訪ねてみてはどうだ？彼をだいぶ助けたと聞いている——お前のために何か大きなものを用意しているかもしれないぞ。
-PROPQUEST_INC_150402,"You’ve done more than enough, so don’t feel pressured.",もう十分すぎるほどやってくれた。気負う必要はないぞ。
-PROPQUEST_INC_150403,Have you met them yet? Even I don’t know what they’ve prepared for you.,もう会ったか？彼らが何を用意しているのか、私にも分からないんだ。
-PROPQUEST_INC_150404,"You’ve worked incredibly hard. Every battle was tough, but I’m sure you’ll bring us victory again. This isn’t much, but please accept it.",本当によく頑張ってくれた。どの戦いも厳しいものだったが、お前ならまた勝利をもたらしてくれると確信している。大したものではないが、受け取ってくれ。
-PROPQUEST_INC_150405,Meet with [Eillun Guard] Gard,[エルリウン衛兵]ガードに会う
-PROPQUEST_INC_150406,Reunion 2,再会 2
-PROPQUEST_INC_150407,Did you enjoy meeting [Eillun Guard] Gard? I wonder who’s waiting for you next.,[エルリウン衛兵]ガードとの再会はどうだった？次は誰が待っているのかな。
-PROPQUEST_INC_150408,"This time it’s Kaela. I don’t know exactly what she’s planning, but I’d say you’re in for something interesting.",今度はケイラだ。彼女が何を企んでいるかは分からないが、面白いことになりそうだぞ。
-PROPQUEST_INC_150409,No need to rush—take your time.,急ぐ必要はない、ゆっくりでいい。
-PROPQUEST_INC_150410,"Have you met her yet? Honestly, I have no idea what she’s up to.",もう会ったか？正直、彼女が何をしているのかさっぱり分からないんだ。
-PROPQUEST_INC_150411,"Ugh, I’ve stopped causing trouble for Mom and Dad, so stop looking at me like that.",はぁ、もうパパとママに迷惑をかけるのはやめたんだから、その目で見ないでよ。
-PROPQUEST_INC_150412,Reunion 3,再会 3
-PROPQUEST_INC_150413,Hope you had fun with Kaela. Who do you think is next?,ケイラとの時間は楽しめたか？次は誰だと思う？
-PROPQUEST_INC_150414,"Now it’s Livia’s turn. I’m not sure what she has planned either, but I’m sure it’ll be something special.",今度はリヴィアの番だ。彼女が何を企んでいるかは私も分からないが、きっと特別なものになるだろう。
-PROPQUEST_INC_150415,There’s no hurry. Go when you’re ready.,急ぐことはない。準備ができたら行ってくれ。
-PROPQUEST_INC_150416,Have you met her yet? I really have no idea what’s coming next.,もう会ったか？この先何が起きるのか、私にも全く見当がつかないよ。
-PROPQUEST_INC_150417,"So in the end, that turned out to be something completely different… In any case, I can only imagine how much you’ve endured for us, even though we aren’t of the same kind. This is just a small token of our gratitude. Please accept it.",結局、それは全く別のものだったのね…とにかく、種族が違うにもかかわらず、あなたが私たちのためにどれほど耐えてくれたか、想像することしかできないわ。これはほんの感謝のしるしよ。受け取ってちょうだい。
-PROPQUEST_INC_150418,Meet with Livia,リヴィアに会う
-PROPQUEST_INC_150419,Reunion 4,再会 4
-PROPQUEST_INC_150420,"Well, I think this will be your final visitor. Any guesses who?",さて、これが最後の訪問者になると思うが。誰だか見当はつくか？
-PROPQUEST_INC_150421,"Taila is next. Whatever happens, I have a feeling it will be something meaningful.",次はタイラだ。何が起こるにせよ、意味のあることになる気がするな。
-PROPQUEST_INC_150422,Don’t feel pressured. Go at your own pace.,気負う必要はない。自分のペースで行ってくれ。
-PROPQUEST_INC_150423,Did you meet her? I still don’t know what she’s planning.,彼女に会ったか？私にはまだ何を考えているのか分からないが。
-PROPQUEST_INC_150424,"Thanks to you, adventurer, I found my parents’ hidden will. My father exposed the jarl’s crimes, and my grandfather had him killed. Branded a traitor, he was nearly murdered. Please avenge them. Take this, and let it fuel your revenge.",冒険者、あなたのおかげで両親が隠していた遺言を見つけたわ。父はジャールの罪を暴こうとして、祖父に殺されかけたの。裏切り者の烙印を押されて。二人の仇を討って。これを受け取って、復讐の力にして。
+PROPQUEST_INC_150394,We might not have much time left.,もう、あまり時間が残されていないかもしれん。
+PROPQUEST_INC_150395,I’ll follow as soon as I can.,私も、動けるようになり次第あとを追う。
+PROPQUEST_INC_150396,"You arrived just in time. Without you, the village would have been in serious danger.",ちょうどいいところに来てくれた。お前がいなければ、村はかなり危ないところだった。
+PROPQUEST_INC_150397,Kill 20 Captain Mage Redclouds,キャプテン・ライカンソーサラーを20体討伐する
+PROPQUEST_INC_150398,Reunion 1,再会 (1)
+PROPQUEST_INC_150399,"If we’d tried to hold them off from inside, they probably would’ve broken through. With their forces this weakened, they shouldn’t have many left.",村の中だけで食い止めようとしていたら、おそらく突破されていただろう。ここまで戦力を削ったんだ。奴らも、もうそれほど残ってはいないはずだ。
+PROPQUEST_INC_150400,"Once things calm down, we’re planning a counterattack. Would you help us again? Oh, and before that, some villagers have been looking for you. They want to thank you personally.",事態が落ち着き次第、反撃を計画している。そのときは、また力を貸してもらえないか？ ああ、それとその前に、何人かの村人がお前を探していたぞ。直接礼を言いたいそうだ。
+PROPQUEST_INC_150401,Why don’t you visit [Eillun Guard] Gard first? I heard you helped him a lot—and he might be preparing something big for you.,まずは、[エルリウン衛兵] ガードを訪ねてみてはどうだ？ お前にはずいぶん助けてもらったと言っていたぞ。それに、何やら大したものを用意しているらしい。
+PROPQUEST_INC_150402,"You’ve done more than enough, so don’t feel pressured.",お前はもう十分すぎるほど働いてくれた。無理に行く必要はないぞ。
+PROPQUEST_INC_150403,Have you met them yet? Even I don’t know what they’ve prepared for you.,もう会ってきたか？ 何を用意しているのかは、私も知らないんだ。
+PROPQUEST_INC_150404,"You’ve worked incredibly hard. Every battle was tough, but I’m sure you’ll bring us victory again. This isn’t much, but please accept it.",本当にお疲れさまでした。どの戦いも厳しいものばかりでしたが、きっとまた、我々に勝利をもたらしてくれると信じています。大したものではありませんが、どうか受け取ってください。
+PROPQUEST_INC_150405,Meet with [Eillun Guard] Gard,[エルリウン衛兵] ガードに会う
+PROPQUEST_INC_150406,Reunion 2,再会 (2)
+PROPQUEST_INC_150407,Did you enjoy meeting [Eillun Guard] Gard? I wonder who’s waiting for you next.,[エルリウン衛兵] ガードとの再会は楽しめたか？ さて、次は誰がお前を待っているんだろうな。
+PROPQUEST_INC_150408,"This time it’s Kaela. I don’t know exactly what she’s planning, but I’d say you’re in for something interesting.",今度はカエラだ。彼女が何を企んでいるかは知らんが、面白いことになりそうだぞ。
+PROPQUEST_INC_150409,No need to rush—take your time.,急ぐ必要はない、ゆっくり行ってこい。
+PROPQUEST_INC_150410,"Have you met her yet? Honestly, I have no idea what she’s up to.",もう会ってきたか？ まったく、あの娘が何を考えているのか私にも分からん。
+PROPQUEST_INC_150411,"Ugh, I’ve stopped causing trouble for Mom and Dad, so stop looking at me like that.",もう！ パパとママに迷惑をかけるのはやめたんだから、そんな目で見ないでよ。
+PROPQUEST_INC_150412,Reunion 3,再会 (3)
+PROPQUEST_INC_150413,Hope you had fun with Kaela. Who do you think is next?,カエラとの時間は楽しめたか？ さて、次は誰だと思う？
+PROPQUEST_INC_150414,"Now it’s Livia’s turn. I’m not sure what she has planned either, but I’m sure it’ll be something special.",今度はリビアの番だ。何を用意しているのかは私も知らんが、きっと特別なものだろう。
+PROPQUEST_INC_150415,There’s no hurry. Go when you’re ready.,急ぐことはない。準備ができたら行ってこい。
+PROPQUEST_INC_150416,Have you met her yet? I really have no idea what’s coming next.,もう会ってきたか？ この先何が待っているのか、私にもさっぱり分からん。
+PROPQUEST_INC_150417,"So in the end, that turned out to be something completely different… In any case, I can only imagine how much you’ve endured for us, even though we aren’t of the same kind. This is just a small token of our gratitude. Please accept it.",結局、あれはまったく別のものだったようだね...。それはともかく、同じ種族でもない我々のために、どれほど大変な思いをしてくれたのか、私には想像することしかできない。ほんの感謝のしるしだが、どうか受け取ってくれ。
+PROPQUEST_INC_150418,Meet with Livia,リビアに会う
+PROPQUEST_INC_150419,Reunion 4,再会 (4)
+PROPQUEST_INC_150420,"Well, I think this will be your final visitor. Any guesses who?",さて、これで最後のようだ。誰だと思う？
+PROPQUEST_INC_150421,"Taila is next. Whatever happens, I have a feeling it will be something meaningful.",次はタイラだ。何があるかは分からんが...きっと、お前にとって意味のあることになるだろう。
+PROPQUEST_INC_150422,Don’t feel pressured. Go at your own pace.,気負う必要はない。自分のペースで行ってこい。
+PROPQUEST_INC_150423,Did you meet her? I still don’t know what she’s planning.,彼女には会ったか？ 私にも、あの娘が何を考えているのかはまだ分からん。
+PROPQUEST_INC_150424,"Thanks to you, adventurer, I found my parents’ hidden will. My father exposed the jarl’s crimes, and my grandfather had him killed. Branded a traitor, he was nearly murdered. Please avenge them. Take this, and let it fuel your revenge.",おかげで、両親が隠してた遺言を見つけることができたわ。父は族長の罪を暴き、それを知った祖父は父を殺そうとした。父は裏切り者の烙印を押され、命まで奪われかけたの。お願い...両親の仇を討って。これを持っていって。きっと、あなたの力になるはずよ。
 PROPQUEST_INC_150425,Meet with Taila,タイラに会う
 PROPQUEST_INC_150426,Chapter 5 The Final Chapter,第5章 最終章
 PROPQUEST_INC_150427,This Is Nothing,これしきのこと
-PROPQUEST_INC_150428,"So, you’ve met everyone now? The Lycans are moving faster than we expected. I thought they’d need more time to regroup, but they’re already organizing their forces.",そうか、もう全員と会ったのか？ライカンどもは予想より早く動いている。立て直すのにもっと時間がかかると思っていたが、すでに戦力を組織し始めているぞ。
-PROPQUEST_INC_150429,"If we let them gather any more, things will become much harder. Could you go ahead and disrupt their plans?",これ以上集結を許せば、事態は一段と厄介になる。先回りして、奴らの計画を潰してもらえないか？
-PROPQUEST_INC_150430,Thank you. I couldn’t ask for a more reliable ally.,ありがとう。これ以上頼りになる味方はいないよ。
-PROPQUEST_INC_150431,"If we hesitate, everything we’ve built could collapse. I’m counting on you.",ここで躊躇すれば、これまで築いてきたものが全て崩れかねない。頼りにしているぞ。
+PROPQUEST_INC_150428,"So, you’ve met everyone now? The Lycans are moving faster than we expected. I thought they’d need more time to regroup, but they’re already organizing their forces.",みんなにはもう会ってきたか？ ライカンどもの動きが予想以上に早い。戦力を立て直すにはもう少しかかると思っていたが、すでに部隊を再編し始めている。
+PROPQUEST_INC_150429,"If we let them gather any more, things will become much harder. Could you go ahead and disrupt their plans?",これ以上奴らを集結させれば、厄介なことになる。先回りして、奴らの計画を潰してきてもらえないか？
+PROPQUEST_INC_150430,Thank you. I couldn’t ask for a more reliable ally.,感謝する。お前ほど頼りになる味方はいない。
+PROPQUEST_INC_150431,"If we hesitate, everything we’ve built could collapse. I’m counting on you.",ここで手をこまねいていれば、これまで築いてきたものがすべて崩れかねない。頼んだぞ。
 PROPQUEST_INC_150432,Here’s where we expect them to be.,奴らがいると思われる場所はここだ。
 PROPQUEST_INC_150433,You’ve done wonderfully.,実に見事な働きだった。
-PROPQUEST_INC_150434,Kill 30 Small Taiahas,スモール・ライカンウォーリアーを30体討伐
-PROPQUEST_INC_150435,Toward the Final Battle,最終決戦へ
-PROPQUEST_INC_150436,Leave the rest to us.,残りは我々に任せてくれ。
+PROPQUEST_INC_150434,Kill 30 Small Taiahas,スモール・ライカンウォーリアーを30体討伐する
+PROPQUEST_INC_150435,Toward the Final Battle,最後の戦いへ
+PROPQUEST_INC_150436,Leave the rest to us.,あとは我々に任せてくれ。
 PROPQUEST_INC_150437,"Elder Ayr is urgently looking for you, so you should go see him.",長老エアが急いでお前を探している。会いに行った方がいい。
-PROPQUEST_INC_150438,We can clean up what’s left on our own.,残ったものは我々だけで片付けられる。
-PROPQUEST_INC_150439,"I didn’t catch all the details, but it sounded important.",詳しい内容までは聞いていないが、重要な話のようだった。
-PROPQUEST_INC_150440,"Welcome back, adventurer.",おかえり、冒険者。
-PROPQUEST_INC_150441,Meet with [Elder] Ayr,[長老]エアに会う
+PROPQUEST_INC_150438,We can clean up what’s left on our own.,残った敵は我々だけで片付けられる。
+PROPQUEST_INC_150439,"I didn’t catch all the details, but it sounded important.",詳しい内容までは聞いていないが、かなり重要なことらしい。
+PROPQUEST_INC_150440,"Welcome back, adventurer.",戻ったか、冒険者よ。
+PROPQUEST_INC_150441,Meet with [Elder] Ayr,[長老] エアに会う
 PROPQUEST_INC_150442,Counterattack,反撃
-PROPQUEST_INC_150443,"I heard from [Captain] Baron that your ambush went well. Thanks to you, the enemy is completely confused. We can’t waste this chance. We’ll launch a diversion. In the meantime, can you handle the Taiaha?",[隊長]バロンから、待ち伏せがうまくいったと聞いたぞ。お前のおかげで、敵は完全に混乱している。この機会を無駄にはできない。我々は陽動を仕掛ける。その間、ライカンウォーリアーの相手を頼めるか？
-PROPQUEST_INC_150444,That’s reassuring.,それは頼もしいな。
-PROPQUEST_INC_150445,Hmm. Do you have a different suggestion?,うーむ。何か他に案があるのか？
-PROPQUEST_INC_150446,Good. I’ll be waiting for more good news.,よし。さらなる良い知らせを待っているぞ。
+PROPQUEST_INC_150443,"I heard from [Captain] Baron that your ambush went well. Thanks to you, the enemy is completely confused. We can’t waste this chance. We’ll launch a diversion. In the meantime, can you handle the Taiaha?",バロン隊長から聞いたぞ。奇襲はうまくいったそうだな。お前のおかげで敵は完全に混乱している。この好機を逃すわけにはいかん。我々は陽動を仕掛ける。その間、ライカンウォーリアーの相手を頼めるか？
+PROPQUEST_INC_150444,That’s reassuring.,そう言ってもらえると心強い。
+PROPQUEST_INC_150445,Hmm. Do you have a different suggestion?,ふむ。何かほかに考えがあるのか？
+PROPQUEST_INC_150446,Good. I’ll be waiting for more good news.,よし。さらなる吉報を待っているぞ。
 PROPQUEST_INC_150447,Excellent work.,見事な働きだ。
-PROPQUEST_INC_150448,Kill 30 Taiahas,ライカンウォーリアーを30体討伐
+PROPQUEST_INC_150448,Kill 30 Taiahas,ライカンウォーリアーを30体討伐する
 PROPQUEST_INC_150449,Traitor,裏切り者
-PROPQUEST_INC_150450,"Our operation was a success as well, but… some soldiers say they saw the jarl in the enemy’s camp, retreating with them. Now their morale is shaken.",我々の作戦も成功した。だが…何人かの兵士が、ジャールが敵の陣営にいて、共に撤退するのを見たと言っている。おかげで士気が揺らいでいるんだ。
-PROPQUEST_INC_150451,"I knew he was scheming, but to see him betray his own people… This will be our next move.",何か企んでいるとは思っていたが、まさか自分の民を裏切るとはな…次はこれで動こう。
-PROPQUEST_INC_150452,"The soldiers will never fight at full strength while that traitor is free. You must track him down. There will be Lycans along his escape route, including Captain Taiaha, but I doubt they’ll be a problem for you.",あの裏切り者が野放しのままでは、兵士たちが全力で戦えることはないだろう。奴を追い詰めてくれ。逃走経路にはキャプテン・ライカンウォーリアーを含むライカンどもがいるはずだが、お前には問題にならないだろう。
-PROPQUEST_INC_150453,"Hmm… I may have to send the soldiers instead. If you change your mind, come back.",うーむ…代わりに兵士を送ることになるかもしれないな。気が変わったら戻ってきてくれ。
-PROPQUEST_INC_150454,I’m counting on you. I trust you with this mission.,頼りにしているぞ。この任務、お前に託す。
-PROPQUEST_INC_150455,"Thank you for your efforts, sir. I’m Merk, a scout ordered to track the traitor by the Elder.",ご苦労様です。私はメルク、長老の命で裏切り者を追跡している斥候です。
-PROPQUEST_INC_150456,Meet with [Eillun Scout] Merk,[エルリウン斥候]メルクに会う
+PROPQUEST_INC_150450,"Our operation was a success as well, but… some soldiers say they saw the jarl in the enemy’s camp, retreating with them. Now their morale is shaken.",こちらの作戦も成功した。だが...何人かの兵士が、敵の陣営で族長を見たと言っておる。しかも、奴らとともに撤退していたそうだ。そのせいで兵たちの士気が揺らいでいる。
+PROPQUEST_INC_150451,"I knew he was scheming, but to see him betray his own people… This will be our next move.",何か企んでいるとは思っていたが、まさか自分の民を裏切るとは...次はこう動く。
+PROPQUEST_INC_150452,"The soldiers will never fight at full strength while that traitor is free. You must track him down. There will be Lycans along his escape route, including Captain Taiaha, but I doubt they’ll be a problem for you.",あの裏切り者が野放しのままでは、兵たちは全力で戦えん。奴を追跡してくれ。逃走経路にはライカンどもがいる。キャプテン・ライカンウォーリアーもいるだろうが、お前なら問題にはならんはずだ。
+PROPQUEST_INC_150453,"Hmm… I may have to send the soldiers instead. If you change your mind, come back.",ふむ...兵を向かわせるしかないか。気が変わったら戻ってきてくれ。
+PROPQUEST_INC_150454,I’m counting on you. I trust you with this mission.,頼んだぞ。この任務、お前を信じて託す。
+PROPQUEST_INC_150455,"Thank you for your efforts, sir. I’m Merk, a scout ordered to track the traitor by the Elder.",ご苦労でした。私はメルク。長老の命を受け、裏切り者を追跡している偵察兵です。
+PROPQUEST_INC_150456,Meet with [Eillun Scout] Merk,[エルリウン斥候] メルクに会う
 PROPQUEST_INC_150457,Bad News,悪い知らせ
-PROPQUEST_INC_150458,"The Lycan forces keep growing, and their numbers make it hard to get close. I… lost sight of the target. This area is under Chief Keokuk’s direct control, so getting any closer is almost impossible.",ライカンの戦力は増える一方で、数が多すぎて近づくことすら難しい状態です。私は…対象を見失ってしまいました。この一帯はライカンバルガが直接支配しているため、これ以上近づくのはほぼ不可能です。
-PROPQUEST_INC_150459,"The fact that the traitor went this far suggests they’re more closely allied than we thought. In any case, we’ll have to defeat this enemy to uncover any proof.",裏切り者がここまで入り込んでいるということは、思っていた以上に奴らと深く結びついているということだ。いずれにせよ、証拠を得るにはこの敵を倒す必要がある。
-PROPQUEST_INC_150460,"Thank you. Once you secure evidence, I think you should return to the Elder.",ありがとうございます。証拠を確保したら、長老のもとへ戻るべきかと思います。
-PROPQUEST_INC_150461,This is the best plan I can think of. Do you have a better one?,これが私に考えつく最善の策だ。他に良い案があるか？
-PROPQUEST_INC_150462,I’ll be waiting.,待っているぞ。
-PROPQUEST_INC_150463,"Aside from the jarl, this war is finally over. With that stinking giant defeated, the fighting is truly finished. It took far too long. Thank you for bringing this war to an end.",ジャールのことを除けば、この戦はようやく終わった。あの臭い巨人を倒したことで、戦いは本当に終わりを迎えたんだ。あまりにも長くかかりすぎた。この戦を終わらせてくれて、ありがとう。
-PROPQUEST_INC_150464,Kill 1 Chief Keokuk and obtain “Chief Keokuk’s Notebook”,ライカンバルガを1体討伐し、「ライカンバルガの手記」を入手
-PROPQUEST_INC_150465,The Ever-Turning Vicious Cycle of Blood,血に染まる終わらぬ悪循環
-PROPQUEST_INC_150466,Chief Keokuk had this? What madness. So this war was just a game played by him and the traitor…,ライカンバルガがこれを持っていたのか？なんて狂気だ。つまりこの戦は、奴とあの裏切り者が仕組んだ茶番だったということか…
-PROPQUEST_INC_150467,"The Lycans worship the demon Ankou as their god. The traitor must have made a deal, selling us out to fuel this war. To fully summon a demon, a great amount of blood is required.",ライカンどもは悪魔ベヒモスを神として崇めている。裏切り者は取引を交わし、この戦を煽るために我々を売ったに違いない。悪魔を完全に召喚するには、大量の血が必要となる。
-PROPQUEST_INC_150468,"According to the note you brought, they’ve already attempted the summoning, but it’s incomplete. Their final goal must be to complete that abomination.",お前が持ち帰った手記によれば、奴らはすでに召喚を試みているが、まだ不完全なようだ。奴らの最終目標は、あの忌まわしきものを完成させることに違いない。
-PROPQUEST_INC_150469,"At the edge of the continent lies Ankou’s sealed asylum. If the traitor is there, it’s up to you whether to kill him or bring him back. Please, put an end to this insanity.",大陸の果てには、ベヒモス神殿がある。もしそこに裏切り者がいたら、殺すも連れ戻すもお前次第だ。頼む、この狂気に終止符を打ってくれ。
-PROPQUEST_INC_150470,"You are a hero of Muran. You must finish this. If this continues, the whole continent will be soaked in blood.",お前はムランの英雄だ。これを終わらせなければならない。このまま続けば、大陸全体が血に染まってしまう。
-PROPQUEST_INC_150471,"You’ve already done so much, but if I may, I’d like to ask you once more.",すでに十分すぎるほどやってもらったが、もし可能なら、もう一度頼みたいことがある。
-PROPQUEST_INC_150472,I pray this ends without more tragedy.,これ以上の悲劇なく終わることを祈るよ。
-PROPQUEST_INC_150473,So… you’ve come all the way here.,そうか…ついにここまで来たか。
+PROPQUEST_INC_150458,"The Lycan forces keep growing, and their numbers make it hard to get close. I… lost sight of the target. This area is under Chief Keokuk’s direct control, so getting any closer is almost impossible.",ライカンの戦力は増え続けている。あまりの数に近づくこともできず、私は...標的を見失ってしまった。この一帯はライカンバルガの直接の支配下だ。これ以上近づくのは、ほぼ不可能だろう。
+PROPQUEST_INC_150459,"The fact that the traitor went this far suggests they’re more closely allied than we thought. In any case, we’ll have to defeat this enemy to uncover any proof.",裏切り者がここまで入り込んでいるとなれば、奴らの結びつきは我々が考えていた以上に深いのだろう。いずれにせよ、証拠を掴むには、この地を支配する敵を倒すしかない。
+PROPQUEST_INC_150460,"Thank you. Once you secure evidence, I think you should return to the Elder.",ありがとうございます。証拠を確保したら、長老のもとへ戻るのがよいでしょう。
+PROPQUEST_INC_150461,This is the best plan I can think of. Do you have a better one?,私に考えられるのは、これが最善です。ほかに策がありますか？
+PROPQUEST_INC_150462,I’ll be waiting.,ここで待っています。
+PROPQUEST_INC_150463,"Aside from the jarl, this war is finally over. With that stinking giant defeated, the fighting is truly finished. It took far too long. Thank you for bringing this war to an end.",族長の件を除けば、この戦争もようやく終わりだ。あの忌々しい巨人も倒れ、戦いは本当に終わった。あまりにも長すぎたな...。この戦争を終わらせてくれたこと、心から感謝する。
+PROPQUEST_INC_150464,Kill 1 Chief Keokuk and obtain “Chief Keokuk’s Notebook”,ライカンバルガを1体討伐し、＜ライカンバルガの手記＞を入手する
+PROPQUEST_INC_150465,The Ever-Turning Vicious Cycle of Blood,終わりなき血の連鎖
+PROPQUEST_INC_150466,Chief Keokuk had this? What madness. So this war was just a game played by him and the traitor…,ライカンバルガがこれを持っていたのか？ 何ということだ...。では、この戦争そのものが、奴とあの裏切り者に仕組まれていたというのか...
+PROPQUEST_INC_150467,"The Lycans worship the demon Ankou as their god. The traitor must have made a deal, selling us out to fuel this war. To fully summon a demon, a great amount of blood is required.",ライカンどもは、悪魔ベヒモスを神として崇めている。あの裏切り者は奴らと取引を交わし、我々を売ってこの戦争を煽ったに違いない。悪魔を完全に召喚するには、大量の血が必要なのだ。
+PROPQUEST_INC_150468,"According to the note you brought, they’ve already attempted the summoning, but it’s incomplete. Their final goal must be to complete that abomination.",お前が持ち帰った手記によれば、奴らはすでに召喚を試みている。だが、まだ不完全だ。奴らの最終目的は、あの忌まわしきものを完全な姿で召喚することに違いない。
+PROPQUEST_INC_150469,"At the edge of the continent lies Ankou’s sealed asylum. If the traitor is there, it’s up to you whether to kill him or bring him back. Please, put an end to this insanity.",大陸の果てには、封印されたベヒモス神殿がある。あの裏切り者がそこにいるのなら、殺すも連れ戻すもお前に任せる。頼む、この狂気に終止符を打ってくれ。
+PROPQUEST_INC_150470,"You are a hero of Muran. You must finish this. If this continues, the whole continent will be soaked in blood.",お前はミューランの英雄だ。どうか最後までやり遂げてくれ。このままでは、大陸全土が血に染まってしまう。
+PROPQUEST_INC_150471,"You’ve already done so much, but if I may, I’d like to ask you once more.",すでに十分すぎるほど力を貸してもらったが...許されるなら、もう一度だけ頼みたい。
+PROPQUEST_INC_150472,I pray this ends without more tragedy.,これ以上、悲劇が起こらずに終わることを祈っている。
+PROPQUEST_INC_150473,So… you’ve come all the way here.,そうか...ついにここまで来たか。
 PROPQUEST_INC_150474,Go to Ankou’s Asylum,ベヒモス神殿へ向かう
-PROPQUEST_INC_150475,Climax,クライマックス
-PROPQUEST_INC_150476,"Do I look pathetic to you? A traitor, betrayed and left to die… What would an outsider like you understand? Do you have any idea how much torment I’ve endured to get this far? No, explaining is pointless. In the end, we all meet the same fate.",私が哀れに見えるか？裏切り者と呼ばれ、裏切られて死にかけた男が…お前のような部外者に何が分かる？ここまで来るのに、どれほどの苦しみに耐えてきたか分かるか？いや、説明したところで無意味だな。結局、誰もが同じ運命をたどるのだから。
-PROPQUEST_INC_150477,Go on. Ankou will give you peace. My granddaughter wanted revenge? Ha. I lost my wife long ago and never had a child—how could I have a granddaughter? Kuhuhu… so even you… (dies),さあ、行くがいい。ベヒモスが安らぎを与えてくれるだろう。孫娘が復讐を望んでいた？はっ。妻はとうの昔に亡くし、子供を持ったこともないというのに——孫娘などいるはずがなかろう。くくく…そうか、お前も…（絶命）
-PROPQUEST_INC_150478,What’s wrong? Are you afraid now that you have to face a demon? It’s too late for that.,どうした？いざ悪魔と対峙するとなって怖気づいたか？今さら遅いぞ。
-PROPQUEST_INC_150479,(He’s dead.),（彼は絶命している。）
-PROPQUEST_INC_150480,What happened? Is Ankou defeated? The handwriting on this page… so the traitor is gone as well.,何が起きたんだ？ベヒモスが倒されたのか？このページの筆跡…では、あの裏切り者もいなくなったということか。
-PROPQUEST_INC_150481,Defeat Ankou and obtain “Jarl’s Diary”,ベヒモスを討伐し、「ジャールの日記」を入手
+PROPQUEST_INC_150475,Climax,決戦
+PROPQUEST_INC_150476,"Do I look pathetic to you? A traitor, betrayed and left to die… What would an outsider like you understand? Do you have any idea how much torment I’ve endured to get this far? No, explaining is pointless. In the end, we all meet the same fate.",惨めに見えるか？ 裏切り者が、今度は自ら裏切られ...死を待つ身となった。お前のような、よそ者に何が分かる？ 私がここまで来るのに、どれほどの苦しみに耐えてきたか分かるか？ ...いや、話したところで無駄か。結局、誰もが同じ運命を迎えるのだからな。
+PROPQUEST_INC_150477,Go on. Ankou will give you peace. My granddaughter wanted revenge? Ha. I lost my wife long ago and never had a child—how could I have a granddaughter? Kuhuhu… so even you… (dies),行くがいい。ベヒモスがお前に安らぎを与えてくれるだろう。...私の孫娘が復讐を望んでいただと？ ハッ、妻はとうの昔に亡くした。それに、私には子供すらいない。どうして孫娘などいる？ クフフ...そうか、お前まで......(息絶える)
+PROPQUEST_INC_150478,What’s wrong? Are you afraid now that you have to face a demon? It’s too late for that.,どうした？ いざ悪魔と対峙するとなって、今さら怖気づいたか？ もう遅いぞ。
+PROPQUEST_INC_150479,(He’s dead.),(すでに息絶えている...)
+PROPQUEST_INC_150480,What happened? Is Ankou defeated? The handwriting on this page… so the traitor is gone as well.,何があった？ ベヒモスは倒したのか？ ...この紙に残された筆跡...そうか、あの裏切り者も逝ったか。
+PROPQUEST_INC_150481,Defeat Ankou and obtain “Jarl’s Diary”,ベヒモスを討伐し、＜族長の遺言＞を入手する
 PROPQUEST_INC_150482,Peace at Last?,ようやく訪れた平和？
-PROPQUEST_INC_150483,"Incredible. It may not have been a fully summoned demon, but you still defeated it. The jarl had a family? He lost his wife ages ago and never had any children.",信じられん。完全に召喚された悪魔ではなかったとはいえ、それでも倒してしまうとは。ジャールに家族がいただと？妻はとうの昔に亡くし、子供も持たなかったはずなのに。
-PROPQUEST_INC_150484,"Whatever the truth, you’ve saved this land from the demon and those filthy beasts. You have my deepest thanks. Trade with your continent? Of course. I fully support it. I’ll guarantee free passage for anyone coming to our village. Take this approval token.",真実がどうであれ、お前はこの地を悪魔とあの汚らわしい獣どもから救ってくれた。心から感謝する。お前の大陸との交易か？もちろんだ。全面的に支持しよう。我が村を訪れる者には、自由な通行を保証する。この承認の証を受け取ってくれ。
-PROPQUEST_INC_150485,I’m looking forward to it. I wonder what kind of heroes will come next.,楽しみにしているよ。次はどんな英雄がやって来るのだろうな。
-PROPQUEST_INC_150486,"Still, some formalities must be followed, don’t you think?",とはいえ、いくつかの手続きは必要だと思わないか？
-PROPQUEST_INC_150487,Haha. You’re free to use the village facilities whenever you like.,ハハ。村の施設はいつでも自由に使ってくれて構わないぞ。
-PROPQUEST_INC_150488,It’s been a while. How goes your exploration of the New Continent? You’ve really been through a lot. You didn’t just chart new lands—you saved an entire town and secured official permission for trade. I’ll see that you’re properly rewarded. Well done.,久しぶりだな。新大陸の探索はどうだ？お前は本当に多くを乗り越えてきた。新しい土地を切り開いただけでなく、町を丸ごと救い、正式な交易許可まで取り付けたのだからな。しかるべき報酬を用意させよう。よくやった。
+PROPQUEST_INC_150483,"Incredible. It may not have been a fully summoned demon, but you still defeated it. The jarl had a family? He lost his wife ages ago and never had any children.",大したものだ。完全に召喚された悪魔ではなかったとはいえ、それでも倒してしまうとは。族長に家族がいただと？ あやつはとうの昔に妻を亡くし、子供は一人もいなかったはずだぞ。
+PROPQUEST_INC_150484,"Whatever the truth, you’ve saved this land from the demon and those filthy beasts. You have my deepest thanks. Trade with your continent? Of course. I fully support it. I’ll guarantee free passage for anyone coming to our village. Take this approval token.",真実がどうであれ、お前はこの地を悪魔とあの忌々しい獣どもから救ってくれた。心から感謝する。...お前たちの大陸との交易か？ もちろんだ。わしは全面的に支持しよう。我が村を訪れる者には、自由な通行を保証しよう。この承認の証を受け取ってくれ。
+PROPQUEST_INC_150485,I’m looking forward to it. I wonder what kind of heroes will come next.,楽しみにしておるよ。次はどんな英雄たちがやって来るのかのう。
+PROPQUEST_INC_150486,"Still, some formalities must be followed, don’t you think?",とはいえ、正式な手続きというものは必要だろう？
+PROPQUEST_INC_150487,Haha. You’re free to use the village facilities whenever you like.,ハハッ。村の施設は、いつでも好きなように使ってくれて構わんよ。
+PROPQUEST_INC_150488,It’s been a while. How goes your exploration of the New Continent? You’ve really been through a lot. You didn’t just chart new lands—you saved an entire town and secured official permission for trade. I’ll see that you’re properly rewarded. Well done.,お久しぶりです。新大陸の探索では、本当にいろいろなことがあったようですね。あなたは新たな土地を地図に記しただけではない。一つの街を救い、正式な交易の許可まで取りつけた。働きに見合った報酬はこちらで用意しましょう。本当にお疲れさまでした。
 PROPQUEST_INC_150489,New Beginning,新たな始まり
-PROPQUEST_INC_150490,"So, how was the New Continent? And this… what is it? Hmm… a document I’ve never seen before. This alone isn’t enough to understand it. Could you find more of these?",それで、新大陸はどうだった？それと、これは…何だ？うーん…見たことのない文書だな。これだけでは理解するには足りない。もっと見つけてきてもらえるか？
-PROPQUEST_INC_150491,"From the look of it, I’d say there are at least three more. We’ll need all of them to figure it out.",見たところ、少なくともあと3つはありそうだ。全て揃えないと解読できないだろう。
-PROPQUEST_INC_150492,Sigh… I suppose there’s no other choice.,はぁ…他に選択肢はなさそうだな。
-PROPQUEST_INC_150493,He should still be there.,彼はまだそこにいるはずだ。
-PROPQUEST_INC_150494,Hmm…,うーん…
-PROPQUEST_INC_150495,Obtain 4 different “Torn Scrolls”,「破れた巻物」を4種類入手
-PROPQUEST_INC_150496,Lost in the Fog,霧の中で迷って
-PROPQUEST_INC_150497,"I thought I could decipher it, but there are unknown characters mixed in. I’ve heard rumors of someone who might understand this sort of thing. Would you be willing to find him?",解読できると思ったんだが、見たこともない文字が混ざっているんだ。こういうものに詳しい人物がいるという噂を聞いたことがある。彼を探してもらえないか？
-PROPQUEST_INC_150498,There’s a large island near Flarine. He should be somewhere around there.,フラリスの近くに大きな島がある。彼はそのあたりにいるはずだ。
-PROPQUEST_INC_150499,"Unfortunately, I can’t think of any better option.",残念ながら、これより良い案は思いつかない。
-PROPQUEST_INC_150500,I don’t know the exact location myself—just what I’ve heard.,正確な場所は私にも分からない——聞いた話でしかないんだ。
-PROPQUEST_INC_150501,"It’s been a while. What brings you here? You found this in Kaillun? I’m Muran as well, though I left my tribe long ago. I can’t say much, but will you hand that over? It’s about summoning a god and speeding up the tower’s completion. Take this as thanks.",久しぶりだな。何の用だ？これをカイルルンで見つけたのか？私も同じムランだ、もっとも部族を離れてから久しいがな。多くは語れないが、それを渡してもらえるか？神の召喚と、塔の完成を早めることに関わるものだ。礼として、これを受け取ってくれ。
-PROPQUEST_INC_150502,Meet with “[Mysterious] ???”,「[謎の人物]???」に会う
+PROPQUEST_INC_150490,"So, how was the New Continent? And this… what is it? Hmm… a document I’ve never seen before. This alone isn’t enough to understand it. Could you find more of these?",それで、新大陸はどうだった？ それは何だい？ ふむ...わたしも見たことのない文書だね。これだけでは内容を読み解けそうにない。これと同じようなものを、もう少し探してきてもらえないかい？
+PROPQUEST_INC_150491,"From the look of it, I’d say there are at least three more. We’ll need all of them to figure it out.",見たところ、少なくともあと3つはありそうだ。すべて揃えないと、解読は難しいだろうね。
+PROPQUEST_INC_150492,Sigh… I suppose there’s no other choice.,はぁ...仕方ないね。
+PROPQUEST_INC_150493,He should still be there.,彼なら、まだそこにいるはずだ。
+PROPQUEST_INC_150494,Hmm…,ふむ...
+PROPQUEST_INC_150495,Obtain 4 different “Torn Scrolls”,＜破れた巻物＞を4種類入手する
+PROPQUEST_INC_150496,Lost in the Fog,霧の中で
+PROPQUEST_INC_150497,"I thought I could decipher it, but there are unknown characters mixed in. I’ve heard rumors of someone who might understand this sort of thing. Would you be willing to find him?",わたしなら解読できると思ったんだけど、見たことのない文字が混ざっているんだ。こういうものに詳しい人物がいるという噂を聞いたことがある。探してきてもらえないかい？
+PROPQUEST_INC_150498,There’s a large island near Flarine. He should be somewhere around there.,フラリスの近くに大きな島がある。彼はそのどこかにいるはずだよ。
+PROPQUEST_INC_150499,"Unfortunately, I can’t think of any better option.",残念だけど、他にいい方法は思いつかないね。
+PROPQUEST_INC_150500,I don’t know the exact location myself—just what I’ve heard.,わたしも正確な場所までは知らないんだ。聞いた話しかなくてね。
+PROPQUEST_INC_150501,"It’s been a while. What brings you here? You found this in Kaillun? I’m Muran as well, though I left my tribe long ago. I can’t say much, but will you hand that over? It’s about summoning a god and speeding up the tower’s completion. Take this as thanks.",久しぶりだな。何の用だ？ これをカイルルンで見つけたのか？ 私もミューラン族だ。もっとも、部族を離れてから久しいがな。多くは語れないが...それを渡してもらえるか？ ...これは、神の召喚と塔の完成を早めることについて書かれている。礼に、これを持っていけ。
+PROPQUEST_INC_150502,Meet with “[Mysterious] ???”,[謎の人物] ??? に会う
 PROPQUEST_INC_150503,Kaillun Daily Quests,カイルルン デイリークエスト
 PROPQUEST_INC_150504,Lost your chain again?,またチェーンを失くしたのか？
-PROPQUEST_INC_150505,"Could you help me, sir? That thing stole my belongings again. I’ll be punished if I don’t get my serial number chain back. Please help me.",助けてもらえないか？あの化け物にまた持ち物を盗まれたんだ。シリアルナンバーチェーンを取り戻さないと、罰を受けてしまう。頼む、力を貸してくれ。
-PROPQUEST_INC_150506,"Oh gods, thank you.",神様、ありがとう。
-PROPQUEST_INC_150507,"Think of it as helping the dead, just this once… Please, I beg you.",今回だけは、死者を助けると思って…頼む、この通りだ。
-PROPQUEST_INC_150508,"Have you retrieved it yet? Ah, not yet, I see.",もう取り戻したか？ああ、まだのようだな。
+PROPQUEST_INC_150505,"Could you help me, sir? That thing stole my belongings again. I’ll be punished if I don’t get my serial number chain back. Please help me.",ちょっと助けてくれないか？ またあいつらに持ち物を盗まれちまったんだ。識別番号が刻まれた鎖を取り戻さないと、罰を受けてしまう。頼む、力を貸してくれ。
+PROPQUEST_INC_150506,"Oh gods, thank you.",ああ、神様...助かった。本当にありがとう。
+PROPQUEST_INC_150507,"Think of it as helping the dead, just this once… Please, I beg you.",死者を助けると思って、今回だけ頼む...。このとおりだ。
+PROPQUEST_INC_150508,"Have you retrieved it yet? Ah, not yet, I see.",もう取り戻してくれたか？ ...ああ、まだか。分かった。
 PROPQUEST_INC_150509,I can’t thank you enough.,感謝してもしきれないよ。
-PROPQUEST_INC_150510,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain,スモール・ワークウルフを50体討伐し、放棄されたシリアルナンバーチェーンを1個入手
+PROPQUEST_INC_150510,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain,スモール・ワークウルフを50体討伐し、＜放棄されたシリアルナンバーの鎖＞を1個入手する
 PROPQUEST_INC_150511,Clearing the Area,一帯の掃討
 PROPQUEST_INC_150512,There are so many Captain Kyouchish around that I can’t rest in peace. Could you take care of them?,キャプテン・ライカンセンチネルがあまりにも多くて、安らかに眠ることもできない。奴らを片付けてもらえないか？
 PROPQUEST_INC_150513,Thank you. I heard their howls coming from that way.,ありがとう。奴らの遠吠えはあっちの方角から聞こえていた。
 PROPQUEST_INC_150514,You’re the only one I can rely on.,頼れるのはお前だけだ。
 PROPQUEST_INC_150515,"I’m counting on you, sir.",頼りにしているぞ。
 PROPQUEST_INC_150516,Now I can finally rest easy until the next ship arrives. Thank you.,これで次の船が来るまで、ようやく安心して休める。ありがとう。
-PROPQUEST_INC_150517,Kill 30 Captain Kyouchish,キャプテン・ライカンセンチネルを30体討伐
-PROPQUEST_INC_150518,Honor of a Warrior 1,戦士の誉れ 1
-PROPQUEST_INC_150519,"If you call yourself a warrior of Kaillun, taking down Hundur Sharpfoots is just a warm-up. Want to prove yourself?",カイルルンの戦士を名乗るなら、ワークウルフを倒すことなど準備運動に過ぎない。その実力を証明してみせるか？
-PROPQUEST_INC_150520,"Alright, then. Take care of those beasts and come back.",よし、それなら。あの獣どもを片付けて戻ってきてくれ。
-PROPQUEST_INC_150521,"If it’s too much, don’t push yourself. Cleaning up reckless fools is more work than it’s worth.",無理をする必要はない。向こう見ずな者の後始末など、割に合わない仕事だからな。
-PROPQUEST_INC_150522,Good. This shouldn’t take you long.,よし。そう時間はかからないはずだ。
-PROPQUEST_INC_150523,Great job. Now I can truly call you a warrior.,見事だ。これでお前を本物の戦士と呼べるな。
-PROPQUEST_INC_150524,Kill 50 Hundur Sharpfoots,ワークウルフを50体討伐
-PROPQUEST_INC_150525,Honor of a Warrior 2,戦士の誉れ 2
-PROPQUEST_INC_150526,"For a seasoned warrior, the real challenge is Captain Hundur Sharpfoot. Think you’re ready?",熟練の戦士にとって、本当の試練はキャプテン・ワークウルフだ。準備はできているか？
-PROPQUEST_INC_150527,You already know how this works. No need for me to explain.,やり方はもう分かっているだろう。説明の必要はないな。
-PROPQUEST_INC_150528,"If you’re busy, that’s fine. The challenge isn’t going anywhere.",忙しいなら構わない。この試練はどこにも逃げない。
-PROPQUEST_INC_150529,I’ll be looking forward to seeing what you can do.,お前の実力、楽しみにしているぞ。
-PROPQUEST_INC_150530,"I knew I judged you correctly. From now on, you’re an elite warrior of our village.",やはり見立て通りだったな。これからはお前を我が村の精鋭戦士と呼ぼう。
-PROPQUEST_INC_150531,Kill 30 Captain Hundur Sharpfoots,キャプテン・ワークウルフを30体討伐
-PROPQUEST_INC_150532,Guard’s Request 1,守衛の依頼 1
-PROPQUEST_INC_150533,Small Samosets are pests that constantly bother our guards. Can you handle them and lighten our workload?,スモール・ライカンガードは、常に我々守衛を悩ませる厄介者だ。奴らを片付けて、負担を軽くしてもらえないか？
-PROPQUEST_INC_150534,"Thank you. You know where they are, right?",ありがとう。奴らの居場所は分かっているな？
+PROPQUEST_INC_150517,Kill 30 Captain Kyouchish,キャプテン・ライカンセンチネルを30体討伐する
+PROPQUEST_INC_150518,Honor of a Warrior 1,戦士の誉れ (1)
+PROPQUEST_INC_150519,"If you call yourself a warrior of Kaillun, taking down Hundur Sharpfoots is just a warm-up. Want to prove yourself?",カイルルンの戦士を名乗るなら、ワークウルフを倒すくらい朝飯前だ。実力を証明してみるか？
+PROPQUEST_INC_150520,"Alright, then. Take care of those beasts and come back.",よし。それなら、あの獣どもを片付けて戻ってこい。
+PROPQUEST_INC_150521,"If it’s too much, don’t push yourself. Cleaning up reckless fools is more work than it’s worth.",無理そうなら、意地を張るなよ。無茶した馬鹿の後始末なんて、割に合わないからな。
+PROPQUEST_INC_150522,Good. This shouldn’t take you long.,よし。お前ならそう時間はかからないだろう。
+PROPQUEST_INC_150523,Great job. Now I can truly call you a warrior.,見事だ。これなら胸を張って戦士と呼べるな。
+PROPQUEST_INC_150524,Kill 50 Hundur Sharpfoots,ワークウルフを50体討伐する
+PROPQUEST_INC_150525,Honor of a Warrior 2,戦士の誉れ (2)
+PROPQUEST_INC_150526,"For a seasoned warrior, the real challenge is Captain Hundur Sharpfoot. Think you’re ready?",一人前の戦士なら、次に挑むべきはキャプテン・ワークウルフだ。どうだ、やれるか？
+PROPQUEST_INC_150527,You already know how this works. No need for me to explain.,もう勝手は分かってるだろう。俺から説明するまでもないな。
+PROPQUEST_INC_150528,"If you’re busy, that’s fine. The challenge isn’t going anywhere.",忙しいなら構わん。挑戦なら逃げやしないさ。
+PROPQUEST_INC_150529,I’ll be looking forward to seeing what you can do.,これからどんな働きを見せてくれるか、楽しみにしてるぞ。
+PROPQUEST_INC_150530,"I knew I judged you correctly. From now on, you’re an elite warrior of our village.",やはり俺の見立てに間違いはなかったな。今日からお前は、この村の精鋭戦士だ。
+PROPQUEST_INC_150531,Kill 30 Captain Hundur Sharpfoots,キャプテン・ワークウルフを30体討伐する
+PROPQUEST_INC_150532,Guard’s Request 1,衛兵の依頼 (1)
+PROPQUEST_INC_150533,Small Samosets are pests that constantly bother our guards. Can you handle them and lighten our workload?,スモール・ライカンガードには、衛兵たちもいつも手を焼いている。何体か片付けて、負担を減らしてもらえないか？
+PROPQUEST_INC_150534,"Thank you. You know where they are, right?",助かる。奴らの居場所は分かっているな？
 PROPQUEST_INC_150535,"If you’re busy, we’ll figure something out on our own.",忙しいなら、我々だけで何とかしよう。
 PROPQUEST_INC_150536,"For someone like you, this should be nothing.",お前ほどの実力なら、これしきのことは造作もないはずだ。
-PROPQUEST_INC_150537,I knew you were the right one to ask. Our work just got much easier thanks to you. I really appreciate it.,頼んで正解だったな。お前のおかげで、我々の仕事がずっと楽になった。本当に感謝する。
-PROPQUEST_INC_150538,Kill 50 Small Samosets,スモール・ライカンガードを50体討伐
-PROPQUEST_INC_150539,Guard’s Request 2,守衛の依頼 2
-PROPQUEST_INC_150540,"Samosets have been swarming the grasslands lately, making patrols difficult. Could you thin them out a bit?",最近、ライカンガードが草原に群れをなしていて、巡回が難しくなっている。少し数を減らしてもらえないか？
-PROPQUEST_INC_150541,"Thank you. You know where to find them, don’t you?",ありがとう。奴らの居場所は分かるな？
-PROPQUEST_INC_150542,"If you’ve got other priorities, we understand. We’ll manage.",他に優先することがあるなら、構わない。我々で何とかする。
-PROPQUEST_INC_150543,This should be an easy job for you.,お前にとっては簡単な仕事のはずだ。
-PROPQUEST_INC_150544,"I knew I could rely on you. You’ve made our work much easier. Truly, thank you.",頼りになると思っていたよ。おかげで仕事がずっと楽になった。本当にありがとう。
-PROPQUEST_INC_150545,Kill 50 Samosets,ライカンガードを50体討伐
-PROPQUEST_INC_150546,Guard’s Request 3,守衛の依頼 3
-PROPQUEST_INC_150547,Those Captain Samosets keep slipping into the forest. Could you clear some of them out?,あのキャプテン・ライカンガードどもが、しきりに森へ入り込んでいる。何体か片付けてもらえないか？
-PROPQUEST_INC_150548,"We’re grateful for your help. You know the area well enough to track them, right?",手を貸してくれて感謝する。あの一帯は詳しいだろうから、追跡できるな？
+PROPQUEST_INC_150537,I knew you were the right one to ask. Our work just got much easier thanks to you. I really appreciate it.,頼んで正解だったな。おかげでこちらもずいぶん楽になった。本当に感謝する。
+PROPQUEST_INC_150538,Kill 50 Small Samosets,スモール・ライカンガードを50体討伐する
+PROPQUEST_INC_150539,Guard’s Request 2,衛兵の依頼 (2)
+PROPQUEST_INC_150540,"Samosets have been swarming the grasslands lately, making patrols difficult. Could you thin them out a bit?",最近、ライカンガードが草原に群れをなしていて、巡回にも支障が出ている。少し数を減らしてもらえないか？
+PROPQUEST_INC_150541,"Thank you. You know where to find them, don’t you?",助かる。奴らの居場所は分かるな？
+PROPQUEST_INC_150542,"If you’ve got other priorities, we understand. We’ll manage.",他に優先することがあるなら構わない。我々で何とかする。
+PROPQUEST_INC_150543,This should be an easy job for you.,お前なら簡単な仕事のはずだろう。
+PROPQUEST_INC_150544,"I knew I could rely on you. You’ve made our work much easier. Truly, thank you.",頼りになると思っていたよ。おかげでこちらもずいぶん楽になった。本当にありがとう。
+PROPQUEST_INC_150545,Kill 50 Samosets,ライカンガードを50体討伐する
+PROPQUEST_INC_150546,Guard’s Request 3,衛兵の依頼 (3)
+PROPQUEST_INC_150547,Those Captain Samosets keep slipping into the forest. Could you clear some of them out?,キャプテン・ライカンガードどもが、しきりに森へ入り込んでいる。何体か片付けてもらえないか？
+PROPQUEST_INC_150548,"We’re grateful for your help. You know the area well enough to track them, right?",手を貸してくれて感謝する。奴らを追うくらい、この辺りに慣れたお前なら問題ないな？
 PROPQUEST_INC_150549,"If you don’t have time, we’ll deal with it somehow.",時間がないなら、我々で何とかしよう。
-PROPQUEST_INC_150550,This should be a simple task for you.,お前にとっては簡単な仕事のはずだ。
-PROPQUEST_INC_150551,I knew I could count on you. You’ve helped us a lot. Thanks.,頼りにできると思っていたよ。大いに助かった。ありがとう。
-PROPQUEST_INC_150552,Kill 30 Captain Samosets,キャプテン・ライカンガードを30体討伐
-PROPQUEST_INC_150553,Guard’s Request 4,守衛の依頼 4
-PROPQUEST_INC_150554,Small Kyouchish are getting out of control and causing trouble. We could really use your help cutting their numbers.,スモール・ライカンセンチネルどもが手に負えなくなり、面倒を起こしている。数を減らす手伝いをしてもらえると本当に助かる。
-PROPQUEST_INC_150555,"I appreciate it. You won’t have any trouble finding them, right?",感謝する。奴らを見つけるのに苦労はしないな？
-PROPQUEST_INC_150556,"If you’re busy with something else, don’t worry. We’ll handle it.",他のことで忙しいなら気にしないでくれ。我々で対処する。
-PROPQUEST_INC_150557,This should be no challenge for you.,お前にとっては何の苦労もないはずだ。
-PROPQUEST_INC_150558,I was right to trust you. You’ve made our job much easier. Thank you.,信じて正解だった。おかげで仕事がずっと楽になったよ。ありがとう。
-PROPQUEST_INC_150559,Kill 50 Small Kyouchish,スモール・ライカンセンチネルを50体討伐
-PROPQUEST_INC_150560,Guard’s Request 5,守衛の依頼 5
-PROPQUEST_INC_150561,"Our guards are worn down dealing with Kyouchish. If you could defeat a few, it’d be a huge help.",我が守衛たちは、ライカンセンチネルの対応で疲弊している。何体か倒してもらえれば、大いに助かるんだが。
-PROPQUEST_INC_150562,"Thank you. You know how to find them, right?",ありがとう。奴らの見つけ方は分かっているな？
+PROPQUEST_INC_150550,This should be a simple task for you.,お前なら造作もない仕事のはずだろう。
+PROPQUEST_INC_150551,I knew I could count on you. You’ve helped us a lot. Thanks.,やはりお前ならやってくれると思っていた。ずいぶん助かったよ。ありがとう。
+PROPQUEST_INC_150552,Kill 30 Captain Samosets,キャプテン・ライカンガードを30体討伐する
+PROPQUEST_INC_150553,Guard’s Request 4,衛兵の依頼 (4)
+PROPQUEST_INC_150554,Small Kyouchish are getting out of control and causing trouble. We could really use your help cutting their numbers.,スモール・ライカンセンチネルどもが増えすぎて、手に負えなくなっている。数を減らすのを手伝ってもらえないか？
+PROPQUEST_INC_150555,"I appreciate it. You won’t have any trouble finding them, right?",助かる。奴らを見つけるのに苦労はしないな？
+PROPQUEST_INC_150556,"If you’re busy with something else, don’t worry. We’ll handle it.",他のことで忙しいなら気にしないでくれ。我々で対処しよう。
+PROPQUEST_INC_150557,This should be no challenge for you.,お前なら苦戦する相手ではないだろう
+PROPQUEST_INC_150558,I was right to trust you. You’ve made our job much easier. Thank you.,信じて正解だった。おかげでこちらの仕事もずいぶん楽になった。ありがとう。
+PROPQUEST_INC_150559,Kill 50 Small Kyouchish,スモール・ライカンセンチネルを50体討伐する
+PROPQUEST_INC_150560,Guard’s Request 5,衛兵の依頼 (5)
+PROPQUEST_INC_150561,"Our guards are worn down dealing with Kyouchish. If you could defeat a few, it’d be a huge help.",我が衛兵たちは、ライカンセンチネルへの対応で疲れ切っている。何体か倒してもらえると、大いに助かるのだが。
+PROPQUEST_INC_150562,"Thank you. You know how to find them, right?",ありがとう。奴らの居場所は分かっているな？
 PROPQUEST_INC_150563,"If you’ve got other plans, it’s alright. We’ll make do.",他に予定があるなら構わない。我々でどうにかしよう。
 PROPQUEST_INC_150564,This should be simple work for someone of your skill.,お前ほどの腕前なら、簡単な仕事のはずだ。
-PROPQUEST_INC_150565,"I knew you’d handle it. You’ve made our lives much easier. Truly, thank you.",きっとやってくれると思っていたよ。おかげでずっと楽になった。本当にありがとう。
-PROPQUEST_INC_150566,Kill 50 Kyouchish,ライカンセンチネルを50体討伐
-PROPQUEST_INC_150567,Elder’s Request 1,長老の依頼 1
+PROPQUEST_INC_150565,"I knew you’d handle it. You’ve made our lives much easier. Truly, thank you.",きっとやってくれると思っていたよ。おかげで我々もずいぶん助かった。本当にありがとう。
+PROPQUEST_INC_150566,Kill 50 Kyouchish,ライカンセンチネルを50体討伐する
+PROPQUEST_INC_150567,Elder’s Request 1,長老の依頼 (1)
 PROPQUEST_INC_150568,It looks like a group of Small Kanonicus are swarming somewhere in the forest. I’ve received complaints from the townsfolk. Could you lend a hand?,森のどこかで、スモール・ライカンアーチャーの群れが発生しているようだ。町の者たちから苦情が来ている。力を貸してもらえないか？
-PROPQUEST_INC_150569,"As always, thank you.",いつものことながら、ありがとう。
-PROPQUEST_INC_150570,"If you have other things to do, I’ll have to send a guard instead.",他にやることがあるなら、代わりに守衛を送るとしよう。
+PROPQUEST_INC_150569,"As always, thank you.",いつもすまないな。感謝する。
+PROPQUEST_INC_150570,"If you have other things to do, I’ll have to send a guard instead.",他に用があるなら、衛兵を向かわせるしかないな。
 PROPQUEST_INC_150571,"You know where it is, don’t you?",場所は分かっているな？
-PROPQUEST_INC_150572,You did a great job. Now I can finally tell everyone they’re safe.,よくやってくれた。これでようやく、皆に安全だと伝えられる。
-PROPQUEST_INC_150573,Kill 50 Small Kanonicus,スモール・ライカンアーチャーを50体討伐
-PROPQUEST_INC_150574,Elder’s Request 2,長老の依頼 2
-PROPQUEST_INC_150575,"I don’t know why, but after you dealt with the small Kanonicus group, their main numbers started increasing. Could you help with this as well?",なぜか分からないが、スモール・ライカンアーチャーの群れを片付けた後、本体の数が増え始めている。これも手伝ってもらえるか？
-PROPQUEST_INC_150576,I can’t thank you enough for your help.,力を貸してくれて、感謝してもしきれない。
-PROPQUEST_INC_150577,"If you’re busy, I understand. We’ll manage somehow.",忙しいなら仕方ない。何とかやってみよう。
-PROPQUEST_INC_150578,I believe in you. Good luck.,お前を信じている。頑張ってくれ。
-PROPQUEST_INC_150579,"For now, we can finally enjoy a bit of peace. Well done, truly.",とりあえず、ようやく少しの平和を楽しめそうだ。本当によくやってくれた。
-PROPQUEST_INC_150580,Kill 50 Kanonicus,ライカンアーチャーを50体討伐
+PROPQUEST_INC_150572,You did a great job. Now I can finally tell everyone they’re safe.,よくやってくれた。これでようやく、村の者たちにも安心していいと伝えられる。
+PROPQUEST_INC_150573,Kill 50 Small Kanonicus,スモール・ライカンアーチャーを50体討伐する
+PROPQUEST_INC_150574,Elder’s Request 2,長老の依頼 (2)
+PROPQUEST_INC_150575,"I don’t know why, but after you dealt with the small Kanonicus group, their main numbers started increasing. Could you help with this as well?",理由は分からないが、スモール・ライカンアーチャーの群れを片付けた後、今度はライカンアーチャーの数が増え始めている。この件も手を貸してもらえないか？
+PROPQUEST_INC_150576,I can’t thank you enough for your help.,何度も力を貸してもらって、本当に感謝している。
+PROPQUEST_INC_150577,"If you’re busy, I understand. We’ll manage somehow.",忙しいなら仕方ない。我々で何とかしよう。
+PROPQUEST_INC_150578,I believe in you. Good luck.,お前ならやれると信じている。頼んだぞ。
+PROPQUEST_INC_150579,"For now, we can finally enjoy a bit of peace. Well done, truly.",これでしばらくは、平穏に過ごせそうです。本当にお疲れさまでした。
+PROPQUEST_INC_150580,Kill 50 Kanonicus,ライカンアーチャーを50体討伐する
 PROPQUEST_INC_150581,To Awakening,覚醒へ
 PROPQUEST_INC_150582,Find the Old Document,古い文書を探す
 PROPQUEST_INC_150583,Leave This to the Experts,専門家に任せよう
