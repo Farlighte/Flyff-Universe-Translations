@@ -1867,10 +1867,10 @@ UI_BATTLEPASS_MISSION_PETSKILL,Use Your Pet's Grace Skill,Pet Grace Skill einset
 UI_BATTLEPASS_MISSION_PIERCING,"Attempt Piercing on Weapon, Shield, or Suit","Waffen, Schild oder Rüstung Sockelversuch"
 UI_BATTLEPASS_MISSION_ELEMENT_SMELT,Attempt Elemental Upgrade,Element Upgrade probieren
 UI_BATTLEPASS_MISSION_ELEMENT_SAFETY_SMELT,Attempt Safe Elemental Upgrade,Sicheres Upgrade (Elementar) versuchen
-UI_BATTLEPASS_MISSION_ELEMENT_SMELT_SUCCESS,Upgrade Gear Element to %s or Higher,Erreiche Ausrüstung Element Upgrade %s oder mehr
-UI_BATTLEPASS_MISSION_NORMAL_SMELT,Attempt Gear or Accessory Upgrade,"Versuch, Ausrüstung oder Zubehör aufzurüsten"
+UI_BATTLEPASS_MISSION_ELEMENT_SMELT_SUCCESS,Upgrade Gear Element to %s or Higher,Erreiche Ausrüstung Elementupgrade %s oder mehr
+UI_BATTLEPASS_MISSION_NORMAL_SMELT,Attempt Gear or Accessory Upgrade,"Versuche Ausrüstung oder Schmuck upzugraden"
 UI_BATTLEPASS_MISSION_NORMAL_SAFETY_SMELT,Attempt Safe Gear or Accessory Upgrade,Sicheres Upgrade versuchen (Normal/Acc)
-UI_BATTLEPASS_MISSION_NORMAL_SMELT_SUCCESS,Upgrade Gear or Accessory to %s or Higher,Upgrade der Ausrüstung oder des Zubehörs %s oder mehr
+UI_BATTLEPASS_MISSION_NORMAL_SMELT_SUCCESS,Upgrade Gear or Accessory to %s or Higher,Upgrade der Ausrüstung oder des Schmucks auf %s oder mehr
 UI_BATTLEPASS_MISSION_PARTYKILLMONSTER,Kill Normal Monsters in a Party,Normale Monster mit der Gruppe töten
 UI_BATTLEPASS_MISSION_PARTYKILLMONSTER2,Kill %s in a Party,Töte %s mit Gruppe
 UI_BATTLEPASS_MISSION_PARTYCLEARDUNGEON,Clear a Dungeon in a Party,Mit einer Gruppe Dungeon abschließen
@@ -2316,7 +2316,7 @@ UI_TOOLTIP_REVIVEHP,HP Restored on Revive,Wiederhergestellte HP bei Wiederbelebu
 UI_TOOLTIP_REVIVEMP,MP Restored on Revive,Wiederhergestellte MP bei Wiederbelebung
 UI_TOOLTIP_REVIVEFP,FP Restored on Revive,Wiederhergestellte FP bei Wiederbelebung
 UI_TOOLTIP_UPGRADENORMAL,Weapon/Armor Upgrade Chance,Waffen-/Rüstungs-Upgrade-Chance
-UI_TOOLTIP_UPGRADEACCESSORY,Accessory Upgrade Chance,Zubehör-Upgrade-Chance
+UI_TOOLTIP_UPGRADEACCESSORY,Accessory Upgrade Chance,Schmuck-Upgrade-Chance
 UI_TOOLTIP_UPGRADEPIERCING,Piercing Chance,Piercing-Chance
 UI_TOOLTIP_HOUSINGARTIFACT_HPRATE,Battle Artifact HP,Kampfartefakt-HP
 UI_TOOLTIP_HOUSINGARTIFACT_DEFRATE,Battle Artifact DEF,Kampfartefakt-DEF
@@ -2342,7 +2342,7 @@ UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Kauf erfolgreich!
 UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Der Kauf wurde storniert.
 UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,Ein Fehler ist aufgetreten. Der Kauf konnte nicht abgeschlossen werden.
 UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Anzahl der heutigen Nutzungen: %d
-UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,Werte ein Ausrüstungsteil oder Zubehör auf +%s oder höher auf
+UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,Upgrade ein Ausrüstungsteil oder Schmuckstück auf +%s oder höher auf
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Zu tötende Monster
 UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,"Die Scroll of Resurrection benutzen, um dich selbst wiederzubeleben?"
 UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Katalysator
