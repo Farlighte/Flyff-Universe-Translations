@@ -2505,7 +2505,7 @@ PROPQUEST_INC_150452,"The soldiers will never fight at full strength while that 
 PROPQUEST_INC_150453,"Hmm… I may have to send the soldiers instead. If you change your mind, come back.",ふむ...兵を向かわせるしかないか。気が変わったら戻ってきてくれ。
 PROPQUEST_INC_150454,I’m counting on you. I trust you with this mission.,頼んだぞ。この任務、お前を信じて託す。
 PROPQUEST_INC_150455,"Thank you for your efforts, sir. I’m Merk, a scout ordered to track the traitor by the Elder.",ご苦労でした。私はメルク。長老の命を受け、裏切り者を追跡している偵察兵です。
-PROPQUEST_INC_150456,Meet with [Eillun Scout] Merk,[エルリウン衛兵] メルクに会う
+PROPQUEST_INC_150456,Meet with [Eillun Scout] Merk,[エルリウン斥候] メルクに会う
 PROPQUEST_INC_150457,Bad News,悪い知らせ
 PROPQUEST_INC_150458,"The Lycan forces keep growing, and their numbers make it hard to get close. I… lost sight of the target. This area is under Chief Keokuk’s direct control, so getting any closer is almost impossible.",ライカンの戦力は増え続けている。あまりの数に近づくこともできず、私は...標的を見失ってしまった。この一帯はライカンバルガの直接の支配下だ。これ以上近づくのは、ほぼ不可能だろう。
 PROPQUEST_INC_150459,"The fact that the traitor went this far suggests they’re more closely allied than we thought. In any case, we’ll have to defeat this enemy to uncover any proof.",裏切り者がここまで入り込んでいるとなれば、奴らの結びつきは我々が考えていた以上に深いのだろう。いずれにせよ、証拠を掴むには、この地を支配する敵を倒すしかない。
@@ -2556,7 +2556,7 @@ PROPQUEST_INC_150503,Kaillun Daily Quests,カイルルン デイリークエス�
 PROPQUEST_INC_150504,Lost your chain again?,またチェーンを失くしたのか？
 PROPQUEST_INC_150505,"Could you help me, sir? That thing stole my belongings again. I’ll be punished if I don’t get my serial number chain back. Please help me.",ちょっと助けてくれないか？ またあいつらに持ち物を盗まれちまったんだ。識別番号が刻まれた鎖を取り戻さないと、罰を受けてしまう。頼む、力を貸してくれ。
 PROPQUEST_INC_150506,"Oh gods, thank you.",ああ、神様...助かった。本当にありがとう。
-PROPQUEST_INC_150507,"Think of it as helping the dead, just this once… Please, I beg you.",死にかけの男を助けると思って、今回だけ頼む...。このとおりだ。
+PROPQUEST_INC_150507,"Think of it as helping the dead, just this once… Please, I beg you.",死者を助けると思って、今回だけ頼む...。このとおりだ。
 PROPQUEST_INC_150508,"Have you retrieved it yet? Ah, not yet, I see.",もう取り戻してくれたか？ ...ああ、まだか。分かった。
 PROPQUEST_INC_150509,I can’t thank you enough.,感謝してもしきれないよ。
 PROPQUEST_INC_150510,Kill 50 Small Hundur Sharpfoots and obtain 1 Abandoned Serial Number Chain,スモール・ワークウルフを50体討伐し、＜放棄されたシリアルナンバーの鎖＞を1個入手する
@@ -2610,7 +2610,7 @@ PROPQUEST_INC_150557,This should be no challenge for you.,お前なら苦戦す�
 PROPQUEST_INC_150558,I was right to trust you. You’ve made our job much easier. Thank you.,信じて正解だった。おかげでこちらの仕事もずいぶん楽になった。ありがとう。
 PROPQUEST_INC_150559,Kill 50 Small Kyouchish,スモール・ライカンセンチネルを50体討伐する
 PROPQUEST_INC_150560,Guard’s Request 5,衛兵の依頼 (5)
-PROPQUEST_INC_150561,"Our guards are worn down dealing with Kyouchish. If you could defeat a few, it’d be a huge help.",我が守衛たちは、ライカンセンチネルへの対応で、衛兵たちも疲れ切っている。何体か倒してもらえれば、大いに助かるのだが。
+PROPQUEST_INC_150561,"Our guards are worn down dealing with Kyouchish. If you could defeat a few, it’d be a huge help.",我が衛兵たちは、ライカンセンチネルへの対応で疲れ切っている。何体か倒してもらえると、大いに助かるのだが。
 PROPQUEST_INC_150562,"Thank you. You know how to find them, right?",ありがとう。奴らの居場所は分かっているな？
 PROPQUEST_INC_150563,"If you’ve got other plans, it’s alright. We’ll make do.",他に予定があるなら構わない。我々でどうにかしよう。
 PROPQUEST_INC_150564,This should be simple work for someone of your skill.,お前ほどの腕前なら、簡単な仕事のはずだ。
