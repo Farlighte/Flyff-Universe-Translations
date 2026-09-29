@@ -2957,21 +2957,21 @@ PROPITEM_TXT_005106,Dragon Cloak of the Master,野望のドラゴンマント
 PROPITEM_TXT_005107,The Master's Dragon Cloak increases all base stats by +7 and HP Max by +300. The Seal of the Dragon is prominently displayed.,野望のドラゴンマントは、すべてのステータスが+7、最大HPが300増加します。ドラゴンの紋章が際立つ。
 PROPITEM_TXT_005108,Dragon Cloak of the Hero,至尊のドラゴンマント
 PROPITEM_TXT_005109,The Hero's Dragon Cloak increases all base stats by +8 and HP Max by +400. The Seal of the Dragon is prominently displayed.,英雄のドラゴンマントは、すべてのステータスが+8、最大HPが400増加します。ドラゴンの紋章がより一層際立つ。
-PROPITEM_TXT_005114,Blinkwing of Flaris,ブリンクウイング(フラリス)
+PROPITEM_TXT_005114,Blinkwing of Flaris,ブリンクウイング (フラリス)
 PROPITEM_TXT_005115,Teleport to Flaris,フラリスに移動できるブリンクウイング
-PROPITEM_TXT_005116,Blinkwing of Saint Morning,ブリンクウイング(セイントモーニング)
+PROPITEM_TXT_005116,Blinkwing of Saint Morning,ブリンクウイング (セイントモーニング)
 PROPITEM_TXT_005117,Teleport to Saint Morning,セイントモーニングに移動できるブリンクウイング
 PROPITEM_TXT_005118,Town Blinkwing,ブリンクウイング
 PROPITEM_TXT_005119,Teleport to the nearest town,一番近くの街に移動できるブリンクウイング
-PROPITEM_TXT_005120,Blinkwing of Darkon,ブリンクウイング(ダーコン)
+PROPITEM_TXT_005120,Blinkwing of Darkon,ブリンクウイング (ダーコン)
 PROPITEM_TXT_005121,Teleport to Darkon,ダーコンに移動できるブリンクウイング
-PROPITEM_TXT_005122,Blinkwing of Darkon 1,ブリンクウイング(ダーコン1)
+PROPITEM_TXT_005122,Blinkwing of Darkon 1,ブリンクウイング (ダーコン1)
 PROPITEM_TXT_005123,Teleport to Darkon 1,ダーコン1に移動できるブリンクウイング
-PROPITEM_TXT_005124,Blinkwing of Darkon 3,ブリンクウイング(ダーコン3)
+PROPITEM_TXT_005124,Blinkwing of Darkon 3,ブリンクウイング (ダーコン3)
 PROPITEM_TXT_005125,Teleport to Darkon 3,ダーコン3に移動できるブリンクウイング
-PROPITEM_TXT_005126,Blinkwing of Dekane,ブリンクウイング(デェカネスダンジョン)
+PROPITEM_TXT_005126,Blinkwing of Dekane,ブリンクウイング (デェカネス鉱山)
 PROPITEM_TXT_005127,Teleport to the Dekane Mine,デェカネスダンジョンの入口に移動できるブリンクウイング
-PROPITEM_TXT_005128,Blinkwing of Mars,ブリンクウイング(フラリスダンジョン)
+PROPITEM_TXT_005128,Blinkwing of Mars,ブリンクウイング (フラリスダンジョン)
 PROPITEM_TXT_005129,Teleport to the Mars Dungeon,フラリスダンジョンの入口に移動できるブリンクウイング
 PROPITEM_TXT_005130,Magic Broom,マジック・ブルーム
 PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,最もベーシックな空飛ぶほうき。(最高速度:29 km/h)
@@ -6574,9 +6574,9 @@ PROPITEM_TXT_022299,Golden Cherub Wings,ゴールデンエンジェリックウ�
 PROPITEM_TXT_022300,"A set of angelic wings, which give you the appearance of a cherub. You can't fly with them, though.",天使のような翼が入っているセットで、智天使のような見た目になれます。ただし、空を飛ぶことはできないようです。
 PROPITEM_TXT_100152,Scroll of Return Town,街戻りの巻物
 PROPITEM_TXT_100153,Teleport to one of the towns and return later where the scroll was activated.,いずれかの街にテレポートして、また元の位置へ戻ることができる巻物。
-PROPITEM_TXT_100154,Nearest Town Blinkwing,ブリンクウイング(付近の街)
+PROPITEM_TXT_100154,Nearest Town Blinkwing,ブリンクウイング (付近の街)
 PROPITEM_TXT_100155,Teleport to the town of your choice,好きな街にテレポートできます。
-PROPITEM_TXT_100156,Blinkwing of Madrigal,ブリンクウイング(マドリガル)
+PROPITEM_TXT_100156,Blinkwing of Madrigal,ブリンクウイング (マドリガル)
 PROPITEM_TXT_100157,Teleport to the place of your choice! Some places have a minimum level requirement.,好きな場所にテレポートしよう! 場所によっては、必要レベルが決まっています。
 PROPITEM_TXT_100158,Entanale Box,エンタナルボックス
 PROPITEM_TXT_100159,Select which Entanale Weapon you want to receive!,お好きなエンタナル武器をチョイス！
@@ -24045,7 +24045,7 @@ PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,FWC 2025 フレイム・ルサカ
 PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,FWC 2025 フレイム・ルサカの盾
 PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,FWC 2025 フレイム・ルサカ武器選択ボックス
 PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,このボックスには FWC 2025 フレイム・ルサカの武器が入っています。
-PROPITEM_TXT_155000,Blinkwing of Eillun,ブリンクウイング(エルリウン)
+PROPITEM_TXT_155000,Blinkwing of Eillun,ブリンクウイング (エルリウン)
 PROPITEM_TXT_155001,Teleport to Eillun,エルリウンに移動できるブリンクウイング
 PROPITEM_TXT_155002,Fragment of ???,???の破片
 PROPITEM_TXT_155003,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.,地面に散乱していた正体不明の破片。フラリス市長に持っていけば、何かわかるかもしれない。
@@ -27215,7 +27215,7 @@ PROPITEM_TXT_904182,KR Muppet,KR マペット
 PROPITEM_TXT_904185,Concerned Emote,心配エモート
 PROPITEM_TXT_904186,Embarassed Emote,照れエモート
 PROPITEM_TXT_904187,Angry Emote,怒りエモート
-PROPITEM_TXT_904188,Me Me! Emote,Me Me! Emote
+PROPITEM_TXT_904188,Me Me! Emote,ハイッ！ハーイ！エモート
 PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)",Facebookログイン問題補償ボックス(7日、FWC専用)
 PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,Facebookログイン問題に対する報酬が含まれたパッケージです。
 PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Facebookログイン問題補償ボックス(7日)
@@ -29358,7 +29358,7 @@ PROPITEM_TXT_1902586,Guild Siege reward (used to buy items from Waforu).,ギル�
 PROPITEM_TXT_1902587,Blossom,ブロッサム
 PROPITEM_TXT_1902589,Kebaras Costume Fragment,ケバラスコスチュームの欠片
 PROPITEM_TXT_1902590,Exchange these in Kebaras 2 for unique cosmetics.,ケバラス2で交換すると、ユニークなコスメティックアイテムが手に入ります。
-PROPITEM_TXT_1902591,Blinkwing of Mysterious Castle,ブリンクウイング(神秘の城)
+PROPITEM_TXT_1902591,Blinkwing of Mysterious Castle,ブリンクウイング (神秘の城)
 PROPITEM_TXT_1902592,Teleport to Mysterious Castle,神秘の城に移動できるブリンクウイング
 PROPITEM_TXT_1902593,Asmodan Red Suit (M),アスモダンレッド・スーツ(M)
 PROPITEM_TXT_1902594,Asmodan Red Head (M),アスモダンレッド・ヘッド(M)
