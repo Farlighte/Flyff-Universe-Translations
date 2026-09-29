@@ -1,5 +1,5 @@
 ﻿#bElementupgrade#nb
 
 Ein Gegenstand, der mit einem Element verbessert wird, erhält erhöhte Fähigkeiten gegen Gegner mit schwächerem Element, verliert jedoch an Stärke gegen Gegner mit stärkerem Element.
-#cffff0000Die Verwendung einer S-Protect Schutzrollen garantiert, dass dein Gegenstand während des Prozesses nicht zerstört wird.
+#cffff0000Die Verwendung einer S-Protect Schutzrolle garantiert, dass dein Gegenstand während des Prozesses nicht zerstört wird.
 Low S-Protect Schutzrollen verringern im Falle eines Fehlschlags das Upgradelevel.#nc
