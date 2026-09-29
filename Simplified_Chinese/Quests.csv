@@ -39,23 +39,23 @@ PROPQUEST_INC_000480,Now it's time for the next step on your path to becoming an
 PROPQUEST_INC_000481,"I want you to return to collect 10 Twinkle Stones from Aibatts in the area, 5 Peakyrinds from Peakyturtles and 1 Slain from Lawolf.",我要你去收集这一带独眼蝠身上的10个发光石、山岭剑龙身上的5个硬壳，以及山地野狼身上的1个狼趾甲。
 PROPQUEST_INC_000482,"Once you've gathered the Twinkle Stones, bring them to Pyre in the north of Flarine.",收集完足够的发光石就把它们带给飞蕊吧，他就在帕里北广场。
 PROPQUEST_INC_000483,Good luck! You're going to need it!,祝你好运！你会需要它的！
-PROPQUEST_INC_000484,You must like being a Vagrant. It would certainly be a shame if you quit now. I'll be here if you have a change of heart.,你要继续当初心者吗？如果你这么觉得初心者好的话，我也没意见啦！可是、你要记住机会是很难得的喔！
+PROPQUEST_INC_000484,You must like being a Vagrant. It would certainly be a shame if you quit now. I'll be here if you have a change of heart.,你要继续当初心者吗？现在退出太可惜了。但如果您改变主意，我会在这里等你。
 PROPQUEST_INC_000485,"Thank you for the Twinkle Stones, Apprentice. I will cover Acrobat weaponry with you now. Acrobats are able to wield both Bows and Yo-Yos.",呵呵...看你拿这些东西来，这代表你已经通过训练了，我告诉你关于武器的事情好了。弓箭手的武器有2种，一种是飞轮、另一种是弓箭。
-PROPQUEST_INC_000486,Bows are long range weapons that consume arrows for each shot. The strength of the basic shot is determined by how long you wait before releasing the arrow.,弓箭是远程攻击武器，每一次射击都要消耗弓箭。基础射击的伤害取决于你释放攻击前的蓄力时间。
-PROPQUEST_INC_000487,"Yo-Yos are also long range weapons. However, the strength of the basic attack only changes depending on special skills used in conjunction with them.",飞轮是可以双手使用，虽然没有阶段性的攻击，可是是一个很轻巧的武器喔～这样懂了吗？
+PROPQUEST_INC_000486,Bows are long range weapons that consume arrows for each shot. The strength of the basic shot is determined by how long you wait before releasing the arrow.,弓是远程武器，每次射击都会消耗箭矢。普通射击的强度取决于您蓄力的时间。
+PROPQUEST_INC_000487,"Yo-Yos are also long range weapons. However, the strength of the basic attack only changes depending on special skills used in conjunction with them.",飞轮也是远程武器。但是，普通攻击的强度仅根据与之配合使用的特殊技能而变化。
 PROPQUEST_INC_000488,"If you met with Hent, then you should probably have something for me, hmm?",嗯？你没有东西要给我吗？“亨特”没请你拿东西给我吗？
-PROPQUEST_INC_000489,"Gather 10 Twinkle Stones, 5 Peakyrinds and 1 Slain then deliver them to Acrobat Master Pyre near the Darken City Quest Office.",搜集10个发光石，5个坚硬贝壳和一个狼趾甲，然后交给在达肯任务委托所旁边的弓箭手大师飞蕊。
+PROPQUEST_INC_000489,"Gather 10 Twinkle Stones, 5 Peakyrinds and 1 Slain then deliver them to Acrobat Master Pyre near the Darken City Quest Office.",搜集10个发光石，5个硬壳和一个狼趾甲，然后交给弓箭手大师飞蕊。
 PROPQUEST_INC_000491,Acrobat Skills,弓箭手的技术
 PROPQUEST_INC_000492,That about does it for Acrobat weaponry.,关于武器的事情，你懂了吗？好吧！接下来是下一个训练。你知道“矮人族”这些家伙吧！他们会到“雨之河”来洗澡。
 PROPQUEST_INC_000493,"Now for the next step in your journey. I want you to travel to Flaris, and visit the High-Dwarpets. They have important information for you.",可是啊～他们很会把东西弄丢，上次也是”哆卡”把《技能序章》给我弄丢了，你可以把这本书找去给他吗？
 PROPQUEST_INC_000494,The High-Dwarpets can be found north of Flarine. Check your map (M Key) to find your way if you get lost.,你把《技能序章》找给他的话，他应该会告诉你一些事情啦。你问我在哪找喔？这还要问吗？当然是“雨之河”啊！
 PROPQUEST_INC_000495,"Good luck, apprentice.",祝你一路顺风啊～
-PROPQUEST_INC_000496,What a shame to waste such potential. Come see me again if you change your mind.,我想你应该对弓箭手不够了解啦！你如果懂弓箭手的魅力在那的话，不可能就这样放弃的。
+PROPQUEST_INC_000496,What a shame to waste such potential. Come see me again if you change your mind.,我想你应该对弓箭手不够了解！你如果懂弓箭手的魅力的话，不可能就这样放弃的。
 PROPQUEST_INC_000497,"Hmmm, has Pyre instructed you to see me? I see. Very well, I will continue your training. Listen up!",呃….飞蕊大师让你过来见我的吗？好吧我知道了。听好了！接下来我会继续开展对你的训练。
-PROPQUEST_INC_000498,"Bows consume Magic Points (MP) and yo-yos consume Focus Points (FP). There are 6 special bow abilities and 7 special yo-yo abilities. I shall teach you a common Acrobat ability, Dark Illusion.",弓箭的技能是消耗MP的，溜刃是消耗FP的，所以要记住喔。弓箭有6个技能，飞轮有7个技能，公用的有3个技能，我告诉你其中一个技能好了，就是有一个技能叫做“潜行”。
-PROPQUEST_INC_000499,"This ability allows you to vanish from sight. However, keep in mind that any actions performed while under the effects of this ability aside from movement will remove the effect. Take this.",这是一个隐身的技能，如何？很赞吧！可是啊，你要攻击东西或是使用其他技能的话，这个技能会自动消失，注意这一点喔～还有这个东西你收下吧！要保管好喔～
-PROPQUEST_INC_000500,"It's interesting that you've come to see me. Did Pyre send you? If he did, you would have something for me.",你会来找我真的很奇怪诶。飞蕊告诉过你吗？如果有的话，你肯定有一些东西要给我。
-PROPQUEST_INC_000501,Visit High-Dwarpet Tucani in Flaris. He can be found north of Flarine. Check your map (M Key) to find your way if you get lost.,去雨之河找《技能序章》之后，到莱乐安山脉找“哆卡”吧！他应该会告诉一些事情的。
+PROPQUEST_INC_000498,"Bows consume Magic Points (MP) and yo-yos consume Focus Points (FP). There are 6 special bow abilities and 7 special yo-yo abilities. I shall teach you a common Acrobat ability, Dark Illusion.",弓箭的技能是消耗MP的，溜刃是消耗FP的，记住，弓箭有6个技能，飞轮有7个技能，通用的有3个技能，我告诉你其中一个技能好了，就是有一个技能叫做“潜行”。
+PROPQUEST_INC_000499,"This ability allows you to vanish from sight. However, keep in mind that any actions performed while under the effects of this ability aside from movement will remove the effect. Take this.",这是一个隐身的技能，如何？但你要是攻击或是使用其他技能的话，这个技能会自动解除，注意这一点～还有这个东西你收下吧！要保管好喔～
+PROPQUEST_INC_000500,"It's interesting that you've come to see me. Did Pyre send you? If he did, you would have something for me.",你会来找我真的很奇怪。飞蕊告诉过你吗？如果有的话，你肯定有一些东西要给我。
+PROPQUEST_INC_000501,Visit High-Dwarpet Tucani in Flaris. He can be found north of Flarine. Check your map (M Key) to find your way if you get lost.,去雨之河找《技能序章》之后，到乐雅山脉找“哆卡”吧！他应该会告诉一些事情的。
 PROPQUEST_INC_000503,An Acrobat's Duty,弓箭手的任务
 PROPQUEST_INC_000504,You've learned many things since your journey began.,自从你的旅程开始后你已经学到了很多东西。
 PROPQUEST_INC_000505,Now for the next step in your training. There is a creature named Shuraiture in the north of Flarine who is causing some trouble for residents there.,接下来是你训练的下一步。帕里北部有一只名叫休赖扎的生物，给那里的居民添了不少麻烦。
@@ -67,95 +67,95 @@ PROPQUEST_INC_000510,Acrobats are very versatile. We can fight at long range or 
 PROPQUEST_INC_000511,"You've done well. I sense great potential in you. Congratulations, Acrobat!",我想应该没有其他职业这么厉害啦～我相信你已经了解弓箭手了，希望你不要后悔你所选择的路。
 PROPQUEST_INC_000512,Why have you come to see me? Did Tucani send you?,找我有什么事？哆卡叫你来的吗？
 PROPQUEST_INC_000513,There is a creature named Shuraiture in the north of Flarine. I want you to go there and put an end to him. Bring news of your victory to Tailer the Acrobat Instructor in Flarine.,帕里北部有一只名叫休赖扎的生物。我要你去那里了结它。把胜利的消息带给帕里的弓箭手教官塔利尔。
-PROPQUEST_INC_000515,Successor of the Hero - Master,英雄的后继-大师
+PROPQUEST_INC_000515,Successor of the Hero - Master,英雄的足迹 - 大师
 PROPQUEST_INC_000516,You think you have what it takes to be a successor of the Jester Hero? We will see…,你认为你有能力成为暗杀者英雄的继承者吗？我们拭目以待…
 PROPQUEST_INC_000517,"Fine, I'll humor you. Slay $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s southwest of the Gouthan Mountains. They must be regular $QUEST_END_KILL_NAME$s, not the small or captain variety.",好吧，就随你的意思。请去杀死$QUEST_END_KILL_COUNT$个在永恒森林西南部的中型$QUEST_END_KILL_NAME$。请注意不能是小型的或者大型的种类。
-PROPQUEST_INC_000518,Show me what you can do and I might consider allowing you to continue on the path of the Jester Hero.,请给我看你的能力吧！
+PROPQUEST_INC_000518,Show me what you can do and I might consider allowing you to continue on the path of the Jester Hero.,让我看到你的实力吧，我会考虑让你继续走暗杀者英雄的道路。
 PROPQUEST_INC_000519,That's too bad because I sense potential in you. You must not be ready for the challenges that lie ahead. Come see me again if you change your mind.,那太可惜了，因为我感觉到了你的潜力。如果你改变主意，请再来找我。
 PROPQUEST_INC_000520,"Not bad, Acrobat. Not bad at all. You may have something to offer. I'll allow your training.",不错，弓箭手。 你有点东西。 我会允许你来训练。
 PROPQUEST_INC_000521,I doubt you have what it takes to be a Jester if you can't even slay 20 Drillers.,你没办法猎杀20只钻孔机回来的话，我也没办法帮你...
 PROPQUEST_INC_000522,You are already on a different path. You cannot become a successor of the Jester Hero.,你没资格走暗杀的路了...
 PROPQUEST_INC_000523,"I'll need to see what you can do before I'll allow your training. Slay $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s southwest of the Gouthan Mountains. They must be regular $QUEST_END_KILL_NAME$s, not the small or captain variety.",在我允许你去训练之前，我需要知道你的实力。请杀死$QUEST_END_KILL_COUNT$个在永恒森林西南部的中型 $QUEST_END_KILL_NAME$怪物。请注意，不是小型或者大型的$QUEST_END_KILL_NAME$怪物。
-PROPQUEST_INC_000525,Successor of Hero - Ring,英雄的后继-戒指
-PROPQUEST_INC_000526,"Here is a Letter of Recommendation. You will need to give this to Radyon, the Jester Wise Man in Flaris.",恭喜你通过测试。拿这个“推荐书”去[亡者之泉]找[智愚贤者]雷迪恩吧！
-PROPQUEST_INC_000527,"Radyon can be found at the Fountain of Dead Person north of the River of Weeping. Before meeting with him, you need to find the ring he lost and return it to him.",[智愚贤者]雷迪恩位于雨之河以北的亡者之泉。在与他见面之前，您需要找到他丢失的戒指并将其归还给他。
+PROPQUEST_INC_000525,Successor of Hero - Ring,英雄的足迹 - 戒指
+PROPQUEST_INC_000526,"Here is a Letter of Recommendation. You will need to give this to Radyon, the Jester Wise Man in Flaris.",恭喜你通过测试。拿这个“推荐书”去[亡者之泉]找[暗杀者贤者]雷迪恩吧！
+PROPQUEST_INC_000527,"Radyon can be found at the Fountain of Dead Person north of the River of Weeping. Before meeting with him, you need to find the ring he lost and return it to him.",[暗杀者贤者]雷迪恩位于雨之河以北的亡者之泉。在与他见面之前，您需要找到他丢失的戒指并将其归还给他。
 PROPQUEST_INC_000528,"Far to the south of Saint City, lies the Fantasy Desert. It is believed that a gentleman named Ren is in possession of the ring. Slay Ren and bring the ring to Radyon.",据说晨光镇以南，一个名叫莲的家伙拥有这枚戒指。干掉他，把戒指给雷迪恩。
 PROPQUEST_INC_000529,I hope I'm right about you. Don't let me down!,我希望我对你的看法是对的。别让我失望！
-PROPQUEST_INC_000530,I guess I was wrong about you. You're not ready to walk the path of the successor of the Jester hero. See me again when you think you're ready.,我想我错怪你了。你还没准备好走暗杀者英雄的继任者之路。当你认为你准备好了的时候再来见我。
-PROPQUEST_INC_000531,"Is that… the ring? My goodness, thank you so much! This ring belongs to the Jester Hero Curenen. Ren has always wanted to acquire this ring, or so the story goes.",这就是…那个戒指吗？我的天，感激不尽！这个其实是暗杀英雄[凯奈]的戒指。[莲]为了得到它不择手段。
-PROPQUEST_INC_000532,"After the war ended, and Curenen passed on, Ren searched for this ring for hundreds of years. He finally discovered it a couple of years ago.",<凯奈>过世之后，他好像为了找这个戒指找了好几百年，总之～谢谢你啦！
-PROPQUEST_INC_000533,"Have you met Lorein? If you did, you should have something for me. Think carefully.",你有见到<萝丽安>吗？那怎么什么都没带来呢？嗯...她应该会叫你拿东西给我的啊～仔细的想一下啦！
-PROPQUEST_INC_000534,"Meet with Radyon, the Jester Wise Man at the Fountain of Dead Person in Flaris. First though, slay Ren and get the ring from him. He can be found in the Fantasy Desert south of Saint City.",你去<亡者之泉>找<拉迪温>吧！可是找他之前，你应该要先去猎杀，晨光南部<梦幻沙漠>的<莲>
+PROPQUEST_INC_000530,I guess I was wrong about you. You're not ready to walk the path of the successor of the Jester hero. See me again when you think you're ready.,我想我看错你了。你还没准备好走暗杀者英雄的继任者之路。当你认为你准备好了的时候再来见我吧。
+PROPQUEST_INC_000531,"Is that… the ring? My goodness, thank you so much! This ring belongs to the Jester Hero Curenen. Ren has always wanted to acquire this ring, or so the story goes.",这就是…那个戒指吗？我的天，感激不尽！这个其实是暗杀英雄凯奈的戒指。莲为了得到它不择手段。
+PROPQUEST_INC_000532,"After the war ended, and Curenen passed on, Ren searched for this ring for hundreds of years. He finally discovered it a couple of years ago.",凯奈过世之后，他为了找这个戒指找了好几百年。
+PROPQUEST_INC_000533,"Have you met Lorein? If you did, you should have something for me. Think carefully.",你见到萝丽安了吗？那怎么什么都没带？嗯...她应该会叫你拿东西给我的～仔细的想想吧！
+PROPQUEST_INC_000534,"Meet with Radyon, the Jester Wise Man at the Fountain of Dead Person in Flaris. First though, slay Ren and get the ring from him. He can be found in the Fantasy Desert south of Saint City.",你去亡者之泉找雷迪恩。去之前，你要先去猎杀晨光南部梦幻沙漠的莲。
 PROPQUEST_INC_000536,Successor of Hero - Scroll,英雄的足迹 - 卷轴
 PROPQUEST_INC_000537,"My sincerest gratitude once again for finding the ring. However, now I'll need you to take it to Saint City.",真的很谢谢你帮我找回戒指...对了！你可能还要去找一个人。
-PROPQUEST_INC_000538,Visit the Pepoview Troupe near the town square and speak with Clackcable. Present him with the ring and he will guide you from there. He may even give you something in return.,你拿着这个戒指去晨光找<帕佩团>的克拉凯步吧！他一定会跟你说很多事情！
+PROPQUEST_INC_000538,Visit the Pepoview Troupe near the town square and speak with Clackcable. Present him with the ring and he will guide you from there. He may even give you something in return.,你拿着这个戒指去晨光找帕佩团的克拉凯步吧！他一定会跟你说很多事情！
 PROPQUEST_INC_000539,"You possess great potential, young Acrobat. Keep working hard and you will realize your dream.",做得好弓箭手，再加把劲。
 PROPQUEST_INC_000540,Foolish Acrobat! Don't you realize your potential? See me again if you change your mind.,愚蠢的弓箭手！你还没意识到你的潜力吗？如果你改变了你的想法，请再次来见我。
-PROPQUEST_INC_000541,Thank you so much for finding the ring! We are performing the ancestral ceremony of Curenen. This ring will complete the ritual.,啊...真的很感谢你啊～这个戒指是<凯奈>的遗物，我们家里祭拜着<凯奈>的灵骨呢...
-PROPQUEST_INC_000542,"Here, you certainly deserve this. It is the Successor Scroll of the Jester Hero.",终于回来找我了啊...你一定有资格作暗杀的...我给你一个卷轴。
-PROPQUEST_INC_000543,"If you spoke with Radyon, didn't he ask you to bring me something? I'm sorry, I'm very busy and we don't have much more to discuss, I'm afraid.",是[拉迪温]请你过来找我的吗？应该有东西要给我吧？抱歉，我很忙，恐怕我们没有过多的讨论时间。
-PROPQUEST_INC_000544,Bring Curenen's ring to Clackcable of the Pepoview Troupe in Saint City.,拿着戒指去晨光找，<帕佩团>的克拉凯步吧！
+PROPQUEST_INC_000541,Thank you so much for finding the ring! We are performing the ancestral ceremony of Curenen. This ring will complete the ritual.,非常感谢！我们正在进行凯奈的先祖仪式。这个戒指将帮助完成仪式。
+PROPQUEST_INC_000542,"Here, you certainly deserve this. It is the Successor Scroll of the Jester Hero.",给你，你已经具备拥有它的资格。这是暗杀者英雄的继承者卷轴。
+PROPQUEST_INC_000543,"If you spoke with Radyon, didn't he ask you to bring me something? I'm sorry, I'm very busy and we don't have much more to discuss, I'm afraid.",是雷迪恩让你来找我的吗？应该有东西要给我吧？抱歉，我很忙，恐怕我们没有过多的讨论时间。
+PROPQUEST_INC_000544,Bring Curenen's ring to Clackcable of the Pepoview Troupe in Saint City.,拿着戒指去晨光找，帕佩团的克拉凯步吧！
 PROPQUEST_INC_000546,Successor of Hero - Altar,英雄的足迹 - 祭坛
-PROPQUEST_INC_000547,"This scroll is the right of passage for those seeking to pursue the path of the Jester Hero. Please, take it and seek the Jester Priest in Darkon 3.",这个卷轴是证明你有资格当暗杀的，拿着这个卷轴去找暗杀的祭司吧！
-PROPQUEST_INC_000548,The Jester Priest can be found in Magmient in Southern Darkon 3. Present her with the scroll and she will recognize you as a successor to the Jester Hero.,暗杀的祭司在熔岩火海地区。把这个拿去给她吧！
-PROPQUEST_INC_000549,There is one thing you must do before you can speak with the Jester Priest. The Jewels of the Heroes adorn the Altar of Jester. One of these jewels was stolen a few days ago.,你去找祭司之前有一件事情要请你先去做，最近暗杀集团的有一颗宝石被偷走了。
-PROPQUEST_INC_000550,"The jewels protect the soul of the Jester Hero, but they will not work if one of them is missing. The creature, Sisif, was seen near the alter a few days ago…",如果英雄宝石中有一个缺失的话，就没办法发挥暗杀集团的能力。听祭司说最近祭坛附近出现了叫做西西普的家伙...
-PROPQUEST_INC_000551,"It is believed that this creature has stolen the jewel. Find Sisif and return the jewel to the Jester Priest, Homeit.",祭司在怀疑是不是这个家伙偷走了英雄宝石，麻烦你去猎杀西西普看看是否他偷走的
-PROPQUEST_INC_000552,"Good luck, Acrobat!",祝你一路顺风喔！
-PROPQUEST_INC_000553,"The jewel must be returned to the Altar of Jester. We need your help, Acrobat. Speak with me again when you are ready.",嗯...不可以在这里放弃啦！在一点点就完成你的任务了。加油！
+PROPQUEST_INC_000547,"This scroll is the right of passage for those seeking to pursue the path of the Jester Hero. Please, take it and seek the Jester Priest in Darkon 3.",这个卷轴是证明你有资格成为暗杀者的，拿着这个卷轴去找暗杀者祭司吧！
+PROPQUEST_INC_000548,The Jester Priest can be found in Magmient in Southern Darkon 3. Present her with the scroll and she will recognize you as a successor to the Jester Hero.,暗杀者祭司在熔岩火海地区，把卷轴交给祭司。
+PROPQUEST_INC_000549,There is one thing you must do before you can speak with the Jester Priest. The Jewels of the Heroes adorn the Altar of Jester. One of these jewels was stolen a few days ago.,你去找祭司之前有一件事情要请你先去做，最近暗杀者祭坛有一颗宝石被偷走了。
+PROPQUEST_INC_000550,"The jewels protect the soul of the Jester Hero, but they will not work if one of them is missing. The creature, Sisif, was seen near the alter a few days ago…",如果英雄宝石中有一个缺失的话，就没办法发挥暗杀祭坛的能力。听祭司说，最近祭坛附近出现了叫做西西普的家伙...
+PROPQUEST_INC_000551,"It is believed that this creature has stolen the jewel. Find Sisif and return the jewel to the Jester Priest, Homeit.",祭司怀疑是不是这个家伙偷走了英雄宝石，麻烦你去猎杀西西普看看是否他偷走的。
+PROPQUEST_INC_000552,"Good luck, Acrobat!",祝你一路顺风！
+PROPQUEST_INC_000553,"The jewel must be returned to the Altar of Jester. We need your help, Acrobat. Speak with me again when you are ready.",这颗宝石必须回归祭坛。我们需要你的帮助，准备好后务必来找我。
 PROPQUEST_INC_000554,"This is the Seal of Curenen and the Jewel of the Jester Hero. Thank you for returning this most prized artifact, Acrobat.",这是凯奈的印章..英雄的宝石也在，果然是西西普偷走的。
-PROPQUEST_INC_000555,Now we can protect the Soul of the Hero safely. I am in your debt.,现在我可以安心的看守英雄的灵魂了，真的很感谢你！
-PROPQUEST_INC_000556,I am waiting for someone who will bring me the Jewel of the Jester Hero. Do you have it?,找我应该有其他事情才对啊？可是我看你不知道为了什么找我ㄟ～
+PROPQUEST_INC_000555,Now we can protect the Soul of the Hero safely. I am in your debt.,现在我们可以安心地保护英雄的灵魂了。我欠你一个人情。
+PROPQUEST_INC_000556,I am waiting for someone who will bring me the Jewel of the Jester Hero. Do you have it?,我在等一个会给我带来英雄的宝石的人。你有吗？
 PROPQUEST_INC_000557,"Take the Successor Scroll of the Jester Hero, slay Sisif to retrieve the Jewel of the Jester Hero, and bring them both to the Jester Priest, Homeit.",去猎杀西西普得到英雄的宝石，然后拿着卷轴去找达肯3的暗杀大师胡梅。
 PROPQUEST_INC_000559,Successor of Hero - Guardian,英雄的足迹 - 守护者
-PROPQUEST_INC_000560,"Great job, Acrobat. For the final leg of your journey, you must confront the $QUEST_END_KILL_NAME$.",做得真棒，我的弓箭手。请以猎杀$QUEST_END_KILL_NAME$来结束你的旅程吧。
-PROPQUEST_INC_000561,The will of the heroes is preserved in the Room of the Guardian in Guardiane. This is where you will find the $QUEST_END_KILL_NAME$.,英雄的意志一直留存于圣堂的守护之室。你将会在那找到 $QUEST_END_KILL_NAME$。
+PROPQUEST_INC_000560,"Great job, Acrobat. For the final leg of your journey, you must confront the $QUEST_END_KILL_NAME$.",做得真棒，弓箭手。猎杀$QUEST_END_KILL_NAME$来结束你的考验吧。
+PROPQUEST_INC_000561,The will of the heroes is preserved in the Room of the Guardian in Guardiane. This is where you will find the $QUEST_END_KILL_NAME$.,英雄的意志一直留存于圣堂的守卫之室。你将会在那找到 $QUEST_END_KILL_NAME$。
 PROPQUEST_INC_000562,"The $QUEST_END_KILL_NAME$ is a soul that protects the will of the heroes. Defeat him, and obtain the $QUEST_END_ITEM_NAME$.",$QUEST_END_KILL_NAME$ 是一直保卫着英雄意志的灵魂。请击败他，获取$QUEST_END_ITEM_NAME$。
-PROPQUEST_INC_000563,"Take this. It is a Mark of the Hero. Once you have confronted the Venel Guardian and retrieved the Venel Heart, bring both of these to the Jester Guardian, Heingard.",你得到这个心脏的话，他一定会承认你做暗杀，也就是说这是给你的最后一个考验了
+PROPQUEST_INC_000563,"Take this. It is a Mark of the Hero. Once you have confronted the Venel Guardian and retrieved the Venel Heart, bring both of these to the Jester Guardian, Heingard.",拿着这个，它是英雄的印章。击败贝纳卡度温并取回贝纳的心脏，把这两样东西带给护侍海音卡萝德。
 PROPQUEST_INC_000564,"I wish you luck, Acrobat.",祝你好运，弓箭手
 PROPQUEST_INC_000565,This is the final test to becoming a successor of the Jester Hero. You can't give up now. Speak with me again when you are ready to continue.,这是成为暗杀的最后一步，现在放弃太可惜了。准备好后再来找我吧
-PROPQUEST_INC_000566,"Congratulations, young Acrobat. I've heard many great things about you. You've completed the final test. You will now become a Successor of the Jester Hero!",欢迎你来到这里～你已经通过最后一个考验了，你现在成为真正的暗杀了！
-PROPQUEST_INC_000567,"Wise Curenen! This Acrobat wishes to follow your path! Grant them your blessing and courage, Jester Hero!",暗杀的英雄<凯奈>啊～这里有一位勇士要追随你的后迹，请赐给他祝福的神力吧！
+PROPQUEST_INC_000566,"Congratulations, young Acrobat. I've heard many great things about you. You've completed the final test. You will now become a Successor of the Jester Hero!",恭喜你，我已经听过了很多关于你的成就。您已完成最终考验，现在你是真正的暗杀者！
+PROPQUEST_INC_000567,"Wise Curenen! This Acrobat wishes to follow your path! Grant them your blessing and courage, Jester Hero!",暗杀的英雄凯奈啊～这里有一位勇士要追随你的后迹，请赐给他祝福的神力吧！
 PROPQUEST_INC_000568,You have not completed the tasks given to you by the Jester Priest. Return to me when you have done so.,你还没有完成之前的任务，完成后再来找我吧
-PROPQUEST_INC_000569,"Defeat the Venel Guardian, and deliver the Mark of the Hero and the Venel heart to the Jester Guardian, Heingard, in Guardiane.",请你去<圣堂>找<海音卡萝德>，找到他之前你得先去<守护之室>杀死<贝纳卡度温>。
-PROPQUEST_INC_000571,Successor of Hero - Master,英雄的后迹-大师
+PROPQUEST_INC_000569,"Defeat the Venel Guardian, and deliver the Mark of the Hero and the Venel heart to the Jester Guardian, Heingard, in Guardiane.",去圣堂找<海音卡萝德，去之前去击败守卫之室的贝纳卡度温，获得贝纳的心脏。
+PROPQUEST_INC_000571,Successor of Hero - Master,英雄的足迹 - 大师
 PROPQUEST_INC_000572,You think you have what it takes to be a successor of the Ranger Hero? We will see…,你认为你有能力成为游侠英雄的继承者吗？我们拭目以待…
-PROPQUEST_INC_000574,Show me what you can do and I might consider allowing you to continue on the path of the Ranger Hero.,我相信你的能力！
+PROPQUEST_INC_000574,Show me what you can do and I might consider allowing you to continue on the path of the Ranger Hero.,让我看到你的能力，我会考虑让你继续走游侠英雄的道路。
 PROPQUEST_INC_000577,I doubt you have what it takes to be a Ranger if you can't even slay 20 Drillers.,你没办法猎杀20只钻孔机回来的话，我也没办法帮你...
 PROPQUEST_INC_000578,You've already chosen a different path. I cannot guide you on the path of the Ranger. You can still cancel the other job quest in the Quest Window and come back to me.,你没资格走游侠的路了...
-PROPQUEST_INC_000581,Successor of Hero - Letter,英雄的足迹-信
-PROPQUEST_INC_000582,"Here is a Letter of Recommendation. You will need to give this to Kimel, the Ranger Wise Man in Flaris.",恭喜你通过测试。拿这个“推荐书”去<亡者之泉>找游侠贤者<奇美>吧！
-PROPQUEST_INC_000583,"However, first you must retrieve the Letter of Hynan from Rubo, a creature found to be living with Syliacas, east of Darken. Locals caim Rubo has been seen with the letter.",然而，首先你必须从路宝那里取回海楠的信，路宝是一种被发现于达肯东部的与食人鱼在一起的生物。 当地人声称路宝已经看了这封信。
-PROPQUEST_INC_000584,"Once you've slain Rubo, bring the Letter of Recommendation and the Letter of Hynan to Sage Kimel at the Fountain of Dead Person in Flaris.",去猎杀路宝之后帮他把信件找回来吧！并把海楠的信交给位于帕里亡者之泉的贤者奇美。
-PROPQUEST_INC_000585,"Good luck to you, Acrobat.",祝你一路顺风喔！
-PROPQUEST_INC_000586,I guess I was wrong about you. You're not ready to walk the path of the successor of the Ranger hero. See me again when you think you're ready.,没信心吗？只要有信心没有不可能的任务啦！我相信你一定可以的！
-PROPQUEST_INC_000587,"Is that… the Letter of Hynan? My goodness, this is wonderful! Thank you so much, Acrobat!",那就是…[海楠]的信吗？我的天，太好了！谢谢你，弓箭手！
-PROPQUEST_INC_000588,Hynan lost this letter during the war. There were rumors that a creature named Rubo was in possession of it. Thank you for retrieving it for me.,海楠在战争中把这封信遗失，那之后听说被路宝偷走了!谢谢你为我找了回来。
+PROPQUEST_INC_000581,Successor of Hero - Letter,英雄的足迹 - 信
+PROPQUEST_INC_000582,"Here is a Letter of Recommendation. You will need to give this to Kimel, the Ranger Wise Man in Flaris.",恭喜你通过测试。拿这个推荐书去亡者之泉找游侠贤者基梅尔吧！
+PROPQUEST_INC_000583,"However, first you must retrieve the Letter of Hynan from Rubo, a creature found to be living with Syliacas, east of Darken. Locals caim Rubo has been seen with the letter.",不过，你必须先从路宝那里取回海伊南的信。路宝栖息于达肯2东边的食人鱼地盘一带。有人说曾看到路宝拿着这封信。
+PROPQUEST_INC_000584,"Once you've slain Rubo, bring the Letter of Recommendation and the Letter of Hynan to Sage Kimel at the Fountain of Dead Person in Flaris.",猎杀路宝，找回海伊南的信，然后把信件交给位于帕里亡者之泉的贤者基梅尔。
+PROPQUEST_INC_000585,"Good luck to you, Acrobat.",祝你一路顺风！
+PROPQUEST_INC_000586,I guess I was wrong about you. You're not ready to walk the path of the successor of the Ranger hero. See me again when you think you're ready.,我想我对你判断错了。你还没准备好走游侠英雄继承者的道路。等你觉得自己准备好了再来找我。
+PROPQUEST_INC_000587,"Is that… the Letter of Hynan? My goodness, this is wonderful! Thank you so much, Acrobat!",这就是海伊南的信吗？很好！谢谢你，弓箭手！
+PROPQUEST_INC_000588,Hynan lost this letter during the war. There were rumors that a creature named Rubo was in possession of it. Thank you for retrieving it for me.,海伊南在战争中把这封信遗失，那之后听说被路宝偷走了!谢谢你为我找了回来。
 PROPQUEST_INC_000589,My sincerest gratitude.,真的很感谢你～
-PROPQUEST_INC_000590,I'm waiting for someone to bring me a letter. There are rumors that a creature named Rubo who lives with the Syliacas east of Darken was last seen with it.,我在等有人给我带来一封信。有传言说，名为路宝的生物正在和达肯东部的食人鱼一起生活。
-PROPQUEST_INC_000591,"You need to speak with Kimel, the Ranger Wise Man at the Fountain of Dead Person in Flaris. First, though, you must retrieve the Letter of hynan from the creature, Rubo, East of Darken.",你去亡者之泉找奇美吧！可是找他之前，你应该要先去达肯东部猎杀路宝。
-PROPQUEST_INC_000594,Many thanks for bringing me the Letter of Hynan! I would like you to deliver it to High-Dwarpet Liekyen.,真的很谢谢你帮我找回海楠的信！我还希望你能把信带给高阶矮人族利绮安。
+PROPQUEST_INC_000590,I'm waiting for someone to bring me a letter. There are rumors that a creature named Rubo who lives with the Syliacas east of Darken was last seen with it.,我在等有人给我带来一封信。据说被路宝拿走了，它栖息于达肯东部的食人鱼地盘那。
+PROPQUEST_INC_000591,"You need to speak with Kimel, the Ranger Wise Man at the Fountain of Dead Person in Flaris. First, though, you must retrieve the Letter of hynan from the creature, Rubo, East of Darken.",你去亡者之泉找基梅尔吧！可是找他之前，你应该要先去达肯东部猎杀路宝。
+PROPQUEST_INC_000594,Many thanks for bringing me the Letter of Hynan! I would like you to deliver it to High-Dwarpet Liekyen.,真的很谢谢你帮我找回海伊南的信！你再帮我把信带给高阶矮人族利绮安。
 PROPQUEST_INC_000595,High-Dwarpet Liekyen can be found near the northwestern edge of town in Darken.,你拿着这封信去达肯村庄的西北地区的入口找一个叫利绮安的高阶矮人族吧！
-PROPQUEST_INC_000598,"Hello, I am Liekyen. A former steward of the Hynan family. I now administer the keepsakes of the Hynan family. What have you got there?",啊？这不是信件吗？哈哈～真的很感谢你啊！其实我以前是海楠的管家啦！最近我都在收藏他的遗物。
-PROPQUEST_INC_000599,The Letter of Hynan?! This was the last lost keepsake of the Hynan family. How did you… no matter. The important thing is that it has been returned. I have been looking for this for a very long time.,海楠的信？！这是海楠家族最后的纪念物了。你是怎么…无所谓了，现在最重要的是东西已经回来了。我真的已经找它找了太久了。
-PROPQUEST_INC_000600,"Now all of the keepsakes of the Hynan family are accounted for. Here, take this. This scroll will prove that you are ready to become a successor of the Ranger Hero.",现在海楠家族的纪念物已经全部在这了。给你，拿好这个，这个卷轴能证明你已经可以成为游侠英雄的继承者。
+PROPQUEST_INC_000598,"Hello, I am Liekyen. A former steward of the Hynan family. I now administer the keepsakes of the Hynan family. What have you got there?",你好，我叫利绮安。前海伊南的管家。现在我负责管理海伊南家族的遗物。你那边拿的是什么？
+PROPQUEST_INC_000599,The Letter of Hynan?! This was the last lost keepsake of the Hynan family. How did you… no matter. The important thing is that it has been returned. I have been looking for this for a very long time.,海伊南的信？！这是家族最后的纪念物了。你是怎么找到…无所谓了，现在最重要的是东西已经回来了。我真的已经找它找了太久了。
+PROPQUEST_INC_000600,"Now all of the keepsakes of the Hynan family are accounted for. Here, take this. This scroll will prove that you are ready to become a successor of the Ranger Hero.",现在海伊南家族的纪念物已经全部在这了。给你，这个卷轴能证明你已经可以成为游侠英雄的继承者。
 PROPQUEST_INC_000601,I'm waiting for someone to deliver a letter to me. Do you have it? No? Then our business is concluded.,我在等人送信。你有吗？没有？那么终止交易吧。
-PROPQUEST_INC_000602,Take the Letter of Hynan to High-Dwarpet Liekyen in Darken.,拿着海楠的信件去找达肯的高阶矮人族利绮安吧！
+PROPQUEST_INC_000602,Take the Letter of Hynan to High-Dwarpet Liekyen in Darken.,拿着海伊南的信件去找达肯的高阶矮人族利绮安吧！
 PROPQUEST_INC_000605,"This scroll is the right of passage for those seeking to pursue the path of the Ranger Hero. Please, take it and seek the Ranger Priest in Darkon 3.",这个卷轴是证明你有资格当游侠的，拿着这个卷轴去找游侠的祭司吧！
-PROPQUEST_INC_000606,"Rupin, the Ranger Priest, can be found in Aniceknight in northern Darkon 3. Present her with the scroll and she will recognize you as a successor to the Ranger Hero.",游侠的祭司在“阴森林”地区。把这个拿去给她吧！
-PROPQUEST_INC_000607,There is one thing you must do before you can speak with the Ranger Priest. Pranksters in the Garden of Rhisis have stolen the 8 books of the History of Heroes.,你去找祭司之前有一件事情要请你先去做，听说莱斯庭院的“小丑实习生”把“英雄史记”全部偷走了。
+PROPQUEST_INC_000606,"Rupin, the Ranger Priest, can be found in Aniceknight in northern Darkon 3. Present her with the scroll and she will recognize you as a successor to the Ranger Hero.",游侠的祭司在魔夜之森地区。把这个拿去给她吧！
+PROPQUEST_INC_000607,There is one thing you must do before you can speak with the Ranger Priest. Pranksters in the Garden of Rhisis have stolen the 8 books of the History of Heroes.,在去见游侠祭司之前，您必须做一件事。莱斯庭院的恶作剧者偷走了全部八部英雄史记。
 PROPQUEST_INC_000608,"These books detail the History of the Heroes and are very sacred us. Go now, to Rhisis, and do what you must to get these books back!",这些书籍详述了英雄们的历史。现在就出发吧，去莱斯庭院，无论做什么你都一定要拿回这些书籍！
-PROPQUEST_INC_000609,"Good luck to you, Acrobat. May the Ranger Hero guide you. Speak with Rupin, the Ranger Priest in Aniceknight, once you've recovered the sacred texts.",加油！不要死到喔～黑黑～
-PROPQUEST_INC_000610,"The books must be returned. We need your help, Acrobat. Speak with me again when you are ready.",咦？你是笨蛋喔？在一点点就完成了，要在这里放弃吗？
-PROPQUEST_INC_000611,"What've you got there, Acrobat? A Stamped Scroll, and are those… they are! I can't believe it! The 8 lost books of the History of Heroes!",弓箭手，你拿到了什么？一个被标记的卷轴，还有...就是它们！难以置信！8本遗失的英雄之书！
+PROPQUEST_INC_000609,"Good luck to you, Acrobat. May the Ranger Hero guide you. Speak with Rupin, the Ranger Priest in Aniceknight, once you've recovered the sacred texts.",祝你好运。愿游侠英雄指引你。找回史书后，去魔夜之森找游侠祭司芦苹谈谈。
+PROPQUEST_INC_000610,"The books must be returned. We need your help, Acrobat. Speak with me again when you are ready.",这些书必须归还，准备好后再来找我谈吧。
+PROPQUEST_INC_000611,"What've you got there, Acrobat? A Stamped Scroll, and are those… they are! I can't believe it! The 8 lost books of the History of Heroes!",你拿的什么？...就是它们！难以置信！英雄卷轴，以及8本遗失的英雄之书！
 PROPQUEST_INC_000612,"How did you ever… never mind! The important thing is that we have them back! We owe you our sincerest gratitude, young Acrobat!",再一次的感谢你～
 PROPQUEST_INC_000613,I'm waiting for someone who has allegedly found the 8 lost books of the History of Heroes. Is that you? No? Then we have nothing more to discuss.,我一直在等待可以宣称找到了八本遗失英雄典籍的人。是你吗？不是？那我们没什么好说的了。
-PROPQUEST_INC_000614,"Bring the Stamped Scroll and the 8 lost History of Hero books to Rupim, the Ranger Priest in Aniceknight in Darkon 3.",带着被标记的卷轴和8本遗失的英雄之书去达肯3的魔夜之森找[游侠祭司]芦苹吧。
-PROPQUEST_INC_000620,"Take this. It is a Mark of the Hero. Once you have confronted the Venel Guardian and retrieved the Venel Heart, bring both of these to the Ranger Guardian, Kailreard.",你得到这个心脏的话，他一定会承认你做游侠，也就是说这是给你的最后一个考验了。
+PROPQUEST_INC_000614,"Bring the Stamped Scroll and the 8 lost History of Hero books to Rupim, the Ranger Priest in Aniceknight in Darkon 3.",带着英雄卷轴和8本遗失的英雄之书去达肯3的魔夜之森找[游侠祭司]芦苹吧。
+PROPQUEST_INC_000620,"Take this. It is a Mark of the Hero. Once you have confronted the Venel Guardian and retrieved the Venel Heart, bring both of these to the Ranger Guardian, Kailreard.",拿着这个英雄的印记，去挑战贝卡纳度温，取贝纳的心脏，然后将这两者都带给游侠护侍。
 PROPQUEST_INC_000623,"Congratulations, young Acrobat. I've heard many great things about you. You've completed the final test. You will now become a Successor of the Ranger Hero!",欢迎你来到这里～你已经通过最后一个考验了，你现在成为真正的游侠了！
-PROPQUEST_INC_000624,"Wise Hynan! This Acrobat wishes to follow your path! Grant them your blessing and power, Ranger Hero!",游侠的英雄海楠啊～这里有一位勇士要跟随你的后迹，请赐给他祝福的神力吧！
-PROPQUEST_INC_000626,"Defeat the Venel Guardian, and deliver the Mark of the Hero and the Venel heart to the Ranger Guardian, Kailreard, in Guardiane.",请你去<圣堂>找<卡伊雷雅德>，找到他之前你要先去<守护之室>与<贝纳卡度温>对战才行。
-PROPQUEST_INC_000628,"The best wine, Beaujolais!",最好的酒，博若莱！
+PROPQUEST_INC_000624,"Wise Hynan! This Acrobat wishes to follow your path! Grant them your blessing and power, Ranger Hero!",游侠的英雄海伊南啊～这里有一位勇士要跟随你的后迹，请赐给他祝福的神力吧！
+PROPQUEST_INC_000626,"Defeat the Venel Guardian, and deliver the Mark of the Hero and the Venel heart to the Ranger Guardian, Kailreard, in Guardiane.",去圣堂找卡伊雷雅德，找到他之前你要先去守卫之室与贝纳卡度温对战。
+PROPQUEST_INC_000628,"The best wine, Beaujolais!",最棒的葡萄酒，非博若莱莫属！​
 PROPQUEST_INC_000629,"Some of the grapes grown in Madrigal are used for wine. Especially the wines which are made from Flaris variety, Saint variety, Darkon variety are",瑞加种植的一些葡萄是用于酿酒的。特别是由Flaris品种、Saint品种、Darkon品种酿制的葡萄酒，十分极品
 PROPQUEST_INC_000630,"named Beaujolais and you can get mysterious power when you drink them, according to the legend.",据传说，它被命名为博若莱，饮用后可以获得神秘的力量。
 PROPQUEST_INC_000631,It seems like these 3 kinds of grapes have a magical power from the earth. I studied them for a long time.,这三种葡萄似乎具有来自大地的神奇力量。我对此已经研究了很长时间。
@@ -170,36 +170,36 @@ PROPQUEST_INC_000640,Oh thank you. There are 3 kinds of grape divided by where t
 PROPQUEST_INC_000670,Vagrant Master (Mercenary),初心者大师(战士)
 PROPQUEST_INC_000671,"What?! Hahaha! You think you have what it takes to be a Mercenary? Oh, that's good …hic! I think you'd be better off as a comedian!",什么？哈哈哈哈哈哈！你认为你有成为战士的能力？喔..那很好…咳咳！我觉得你更适合做一个喜剧演员！
 PROPQUEST_INC_000672,"You're still here? Ugh… fine. I'll humor you just this once. If you think you are strong enough to be a Mercenary, then I'll need you to do a little something for me.",你还在这？咳咳…好吧。我就开这一次玩笑。如果你认为你有能力成为一名战士，那么我需要你为我做点事情。
-PROPQUEST_INC_000673,Small Aibatts have been infesting our crops just north of here. We need someone to go exterminate some of those filthy things.,呵呵，我说的语言是上流人士才听得懂得语言啦。反正!从现在开始，你要去猎杀10只小独眼蝠回来!
-PROPQUEST_INC_000674,"Slay 20 Small Aibatts and 20 Small Mushpangs then return me when you are finished. Understand? Now get out of here, vermin!",杀死20只小独眼蝠和20只小嘭嘭菇，然后当你完成后归还我，明白了吗？现在快离开这，小害虫!
-PROPQUEST_INC_000675,"Good luck, Vagrant. You'll need it! Hahaha!",祝你一路顺风啦!哈哈哈!
-PROPQUEST_INC_000676,"I knew you were all talk, Vagrant. That's 30 seconds of my life I won't be getting back…",也对啦，对你这种人来说应该是满难的啦!你以为我这个伟大的摸斯腾那么好欺负吗?
-PROPQUEST_INC_000677,"Hmmm, that's acceptable. Not bad, Vagrant! Although, I could have done it in half the time. But that's neither here nor there.",哈哈哈，这种小事情如果叫我这个伟大的摸斯腾来做的话，不到2分钟就完成了。好啦!反正你已经通过测试了。
-PROPQUEST_INC_000678,Hahaha! As if you could ever hope to compare yourself to me… Mustang the Great!,但是，不要这么快就高兴了。不要以为伟大的玛斯滕会这样轻松的放过你啊!
+PROPQUEST_INC_000673,Small Aibatts have been infesting our crops just north of here. We need someone to go exterminate some of those filthy things.,就在这以北，小独眼蝠一直在糟蹋我们的庄稼。我们需要有人去那些家伙。
+PROPQUEST_INC_000674,"Slay 20 Small Aibatts and 20 Small Mushpangs then return me when you are finished. Understand? Now get out of here, vermin!",杀死20只小独眼蝠和20只小嘭嘭菇，然后再来找我，明白了吗？快去吧，小害虫!
+PROPQUEST_INC_000675,"Good luck, Vagrant. You'll need it! Hahaha!",祝你一路顺风!哈哈哈!
+PROPQUEST_INC_000676,"I knew you were all talk, Vagrant. That's 30 seconds of my life I won't be getting back…",我就知道你只会吹牛，初心者。浪费了我30秒生命……
+PROPQUEST_INC_000677,"Hmmm, that's acceptable. Not bad, Vagrant! Although, I could have done it in half the time. But that's neither here nor there.",哈哈哈，还不赖！不过这种小事情让我来，用不到一半时间。总之无所谓了。
+PROPQUEST_INC_000678,Hahaha! As if you could ever hope to compare yourself to me… Mustang the Great!,哈哈哈！就凭你，也想与本大爷马斯藤相比较吗！
 PROPQUEST_INC_000679,"What's the matter? You're not afraid of some Small Aibatts, are you?",咋了？你不害怕小独眼蝠的对吧？
 PROPQUEST_INC_000680,"Alright, listen carefully. Just north of here, there are several Small Aibatts. Slay 20 of them with 20 Small Mushpangs and return to me. Got it?",好吧，仔细听，就在这北边，击杀20只小独眼蝠和20只小嘭嘭菇。快去！
 PROPQUEST_INC_000681,<Mustang mumbles something under his breath about you being… not so bright.>,怎么这么没有头脑啊…哎.
 PROPQUEST_INC_000682,I cannot train you to be a Mercenary. You have already chosen another path. You can still cancel the other job quest in the Quest Window and come back to me.,你不是已经选择其他职业了吗?
 PROPQUEST_INC_000683,Slay 20 Small Aibatts and 20 Small Mushpangs just north of Eastern Flarine and return to Mercenary Drillmaster Mustang.,击杀20只小独眼蝠和20只小嘭嘭菇！完成后返回战士教官玛斯滕处。
 PROPQUEST_INC_000685,Mercenary Arms,战士的武器
-PROPQUEST_INC_000686,I suppose you've proven you're not completely useless. On to the next task!,虽然你很帅气的完成了第一个测试，但是不这样就结束了!听清楚我这个伟大的摸斯腾所说的话喔!
-PROPQUEST_INC_000687,"I want you to gather the materials needed for making the weapons of the Mercenary. Try not to mess this one up, alright?",第2个训练就是，要去找制作战士武器的材料。
+PROPQUEST_INC_000686,I suppose you've proven you're not completely useless. On to the next task!,看来你已经证明了自己并不是彻底的废物。好吧，继续下一个任务！
+PROPQUEST_INC_000687,"I want you to gather the materials needed for making the weapons of the Mercenary. Try not to mess this one up, alright?",我要你收集制作武器所需的材料。尽量不要把这个搞砸，好吗？
 PROPQUEST_INC_000688,"Collect 10 Twinkle Stones from Aibatts in the area, 5 Chupims from Pukepukes and 1 Poporam from Doridoma. They should be relatively easy to find.",材料是10个独眼蝠的发光石，5个邪精灵的坚果和1个蓝纹海马的紫晶球。这些材料很容易找到。
-PROPQUEST_INC_000689,"Once you've gathered enough Twinkle Stones, Chupims and Poporam, bring them to Andy the Mercenary Master in northern Flarine.",一旦你收集到足够的发光石、坚果和紫晶球，就把它们带给帕里北部的战士大师安迪凯。
+PROPQUEST_INC_000689,"Once you've gathered enough Twinkle Stones, Chupims and Poporam, bring them to Andy the Mercenary Master in northern Flarine.",在你收集到足够的发光石、坚果和紫晶球后，就把它们带给帕里北部的战士大师安迪凯。
 PROPQUEST_INC_000690,Good luck! You're gonna need it!,祝你好运！你会需要它的！
 PROPQUEST_INC_000691,Are you afraid of a couple Aibatts? I know they stink and all... but really?,你害怕成群的独眼蝠吗？我知道他们非常的恶心而且都……但是你确定吗？
-PROPQUEST_INC_000692,"Great job acquiring the Twinkle Stones, Chupims and Poporam, Vagrant. Oh, and don't worry about old Mustang. He's all bark and no bite!",收集发光石、坚果和紫晶球的差事很棒。初心者，不要担心玛斯滕，他只会叫，不咬人。
+PROPQUEST_INC_000692,"Great job acquiring the Twinkle Stones, Chupims and Poporam, Vagrant. Oh, and don't worry about old Mustang. He's all bark and no bite!",很好，你如约收集了发光石、坚果和紫晶球，初心者。不要担心玛斯滕，他只会叫，不咬人。
 PROPQUEST_INC_000693,"A Mercenary can use both swords and axes. They each have strengths and weaknesses. Swords strike fast, but deal only moderate damage, whereas axes deal heavy damage but at a moderate speed.",战士可以同时使用剑和斧子，它们各有优劣。剑攻速更快，但是伤害适中，斧子伤害更高，但攻速略次，
 PROPQUEST_INC_000694,"Which weapon suits you best? That's a decision only you can make, young Vagrant.",你最擅长哪个武器？年轻的初心者，这是你只有你才能做出的决定。
-PROPQUEST_INC_000695,"You need to acquire 10 Twinkle Stones, 5 Chupims and 1 Poporam before I can continue your training, Vagrant.",你还没进行摸斯腾交代的事情吗?我总是告诉很多人，如果要得到东西，一定要付出代价。
+PROPQUEST_INC_000695,"You need to acquire 10 Twinkle Stones, 5 Chupims and 1 Poporam before I can continue your training, Vagrant.",你还没完成玛斯滕交代的事情吗?我总是告诉很多人，如果要得到东西，一定要付出代价。
 PROPQUEST_INC_000696,"Gather 10 Twinkle Stones from the Aibatts, 5 Chupims from Pukepukes and 1 Poporam from Doridoma then bring them to Andy, the Mercenary Master in northern Flarine.",材料是10个独眼蝠的发光石，5个邪精灵的坚果和1个蓝纹海马的紫晶球。收集完材料后，去帕里北广场找战士大师安迪凯。
 PROPQUEST_INC_000698,Mercenary Skills,战士的技术
-PROPQUEST_INC_000699,"You've done very well so far, Vagrant. You are ready for the next step in your journey to become a Mercenary!",你已经通过了第2项测试，但是这还不算完成。要成为真正的战士，需要很多的情报。
-PROPQUEST_INC_000700,"You must travel north, and visit the High-Dwarpets. Langdrong, one of the High-Dwarpets, will continue your training.",我要告诉你的事情，已经讲完了。下一个考验是，你要学习关于战士的技术。你要去高阶矮人族的居住地。
-PROPQUEST_INC_000701,High-Dwarpet Langdrong will educate you on Mercenary skills.,到高阶矮人族的居住地，找一个叫做克罗的高阶矮人族，他会告诉你一些技术的相关知识。在那之前..
+PROPQUEST_INC_000699,"You've done very well so far, Vagrant. You are ready for the next step in your journey to become a Mercenary!",到目前为止你都做得很好，初心者。准备好踏上成为战士的下一步旅程！
+PROPQUEST_INC_000700,"You must travel north, and visit the High-Dwarpets. Langdrong, one of the High-Dwarpets, will continue your training.",你必须向北前往高阶矮人所在的地盘。高阶矮人克罗会继续对你的训练。
+PROPQUEST_INC_000701,High-Dwarpet Langdrong will educate you on Mercenary skills.,到高阶矮人族的居住地，找一个叫做克罗的高阶矮人族，他会告诉你一些技术的相关知识。
 PROPQUEST_INC_000702,You can find the High-Dwarpets north of Flarine. Check your map (M Key) if you get lost.,你可以在高阶矮人族的居住地找克罗。
 PROPQUEST_INC_000703,"I sense great potential in you, Vagrant. Luck be with you.",祝你一路顺风
-PROPQUEST_INC_000704,What a shame. Please see me again if you change your mind.,要在这里放弃吗?都快结束了还要放弃，不绝得很可惜吗?
+PROPQUEST_INC_000704,What a shame. Please see me again if you change your mind.,要在这里放弃吗?都快结束了还要放弃，不觉得很可惜吗?
 PROPQUEST_INC_000705,"Where did you find that, Vagrant? Tell you what, for bringing this to me, I will go over one of the Mercenary Skills it details here. Listen up!",初心者，你在哪找到它的？告诉你吧，有了你带来的这个东西，我要在这给你讲一下战士的详细技能。听好了！
 PROPQUEST_INC_000706,"As a Mercenary you can wield a weapon and a shield. The skill, Keenwheel, is a high damage spinning attack that can only be used after using the Slash skill and must be used in the Action Slot.",作为一名战士，你可以挥舞武器进行攻击。切裂之风轮是一个高额转动伤害的技能，而且只能放在连续技能栏中，在结束逆手之回旋后使用。
 PROPQUEST_INC_000707,Keenwheel is another example. Notice how the skills in the Skill Tree Window (K Key) are shaped like puzzle pieces? This is a good indicator of what skills can be used in what order.,切裂之风轮是另外一个例子。请注意技能栏窗口（K键）是怎么像拼图一样排列的，这是一个很好的指引，表明什么技能可以按什么顺序使用。
@@ -209,12 +209,12 @@ PROPQUEST_INC_000711,Duty of Mercenary,战士的任务
 PROPQUEST_INC_000712,So... are you starting to understand how a Mercenary works now? Don't lose that Label of Technique I gave you!,所以….你现在开始打算深入了解战士了吗？别把我给你的技艺签筏给丢了。
 PROPQUEST_INC_000713,"Now for your next test! There is a creature named Babari just south of Flarine terrorizing the citizens there. Slay him, and seek out Hyuit, the Mercenary Instructor in Eastern Flarine.",啊，现在只要去找训练教官旁边的助教辉羽就可以了，这是最后一个考验了。不管他说什么你就听着吧!
 PROPQUEST_INC_000714,"Be careful, I hear Babari packs quite a punch!",小心点，我听说巨眼小怪打人一击非常疼！
-PROPQUEST_INC_000716,"You can't give up now, Vagrant! You've come so far already!",是吗?看你要不要继续做下去啦~反正对我来说无所谓啊!嘻嘻嘻。
+PROPQUEST_INC_000716,"You can't give up now, Vagrant! You've come so far already!",你现在不能放弃，初心者！你已经走到这一步了！
 PROPQUEST_INC_000717,"The citizens of Flarine are in your debt, Vagrant! Now the children of Flarine can play outside without having to worry about being eaten by that big bully!",它是一个很恶劣的怪兽，谢谢你帮我猎杀这个怪兽，最后一个考验是关于战士的任务，战士是使用近距离攻击
 PROPQUEST_INC_000718,"Mercenaries are experts at close combat. We have the ability to stop an enemy's movement in order to close distance and keep them in range. This ability is called, Sneaker.",战斗时，都会在最前方进行攻击，通常是保护其他职业的角色，但是决不适合进行范围攻击。
 PROPQUEST_INC_000719,"Our main strength is in one on one combat. If we can get within range of an enemy, you can bet they are going to feel it the next day! Welcome to the fold, Mercenary!",如果跟一群怪物战斗时，需要其他职业们的配合。恭喜你!完成了所有的考验，战士加油!
 PROPQUEST_INC_000720,May I help you? I'm waiting for a pupil to take care of a little problem for me. I'm guessing that's not you? Then we have nothing further to discuss.,有什么可以帮你的吗？我一直在等待一个能帮我处理一些小问题的学生。我猜那个人不是你吧？好吧那我们没什么好说的了。
-PROPQUEST_INC_000721,Slay Babari and speak with Mercenary Instructor Hyuit in Eastern Flarine.,啊，去找助教之前，听说帕里附近最近出现了一些巨眼小怪，好像在欺负人民呢~你去猎杀那个巨眼小怪之后拿给那个助教吧，知道吗?
+PROPQUEST_INC_000721,Slay Babari and speak with Mercenary Instructor Hyuit in Eastern Flarine.,啊，去找助教之前，听说帕里附近最近出现了一些巨眼小怪，好像在欺负居民呢~你去猎杀那个巨眼小怪之后拿给那个助教吧，知道吗?
 PROPQUEST_INC_000723,Vagrant Master (Assist),初心者转职(圣职者)
 PROPQUEST_INC_000724,"So you want to be an Assist, huh? I don't blame you. It's the best job in Madrigal!",所以你想成为一名圣职者，嗯哼？我不责怪你，圣职者是瑞加大陆最好的职业。
 PROPQUEST_INC_000725,"First, I want you to take care of a little something for me. Small Mushpangs have been eating our crops lately.",现在开始要进行考验了，这个训练主要是，看你在初心者的时候，有没有努力的练功，也要见识一下你的速度。
@@ -229,14 +229,14 @@ PROPQUEST_INC_000733,Slay 10 Small Mushpangs and 10 Small Burudengs just north o
 PROPQUEST_INC_000735,Arm of Assist,圣职者的武器
 PROPQUEST_INC_000736,"You've done well so far, Vagrant. But I have another task for you if you are willing.",厉害!你已经通过第一个考验了。但是不是这样就结束的，要成为一个真正的圣职者的话，还要接受很多的考验。
 PROPQUEST_INC_000737,"For your next task, I need you to gather some materials which are used to create Assist weapons.",第2个训练就是，要去找制作战士武器的材料。
-PROPQUEST_INC_000738,"Retrieve 10 Forforms from Mushpangs, 5 Peakyrinds from Peakyturtles and 1 Poporam from Doridoma then bring them to Maki, the Assist Master in Northern Flarine.",需要10个蘑菇孢子，5个坚硬背壳，1个紫晶球，然后把它们带给[圣职者大师]马奇。
+PROPQUEST_INC_000738,"Retrieve 10 Forforms from Mushpangs, 5 Peakyrinds from Peakyturtles and 1 Poporam from Doridoma then bring them to Maki, the Assist Master in Northern Flarine.",需要10个蘑菇孢子，5个硬壳，1个紫晶球，然后把它们带给[圣职者大师]马奇。
 PROPQUEST_INC_000739,The Assist Master is with the Madrigal Job Masters in North-Fl. Go!,圣职者转职教官在挪斯布的瑞加大陆专业转职中心，没时间乱晃了，赶快出发吧!
-PROPQUEST_INC_000741,"I guess some people just aren't suited to be an Assist. That's alright, young one. Speak with me again if you change your mind.",如果你要放弃的话，我一定会找你算帐的，知道了吗!
+PROPQUEST_INC_000741,"I guess some people just aren't suited to be an Assist. That's alright, young one. Speak with me again if you change your mind.",我想有些人只是不适合做圣职者。没关系，小伙子。如果您改变主意，请再次与我交谈。
 PROPQUEST_INC_000742,"Thank you for delivering the Forform, Vagrant. Now, on to your next lesson. Assist weapons include Knuckles or Sticks.",辛苦你了。从现在开始要仔细的听我所说的话。圣职者有2种武器，一个是拳套、另外一个是魔棒。
 PROPQUEST_INC_000743,"A Knuckle is a fist weapon used for close-quarters combat, and the Stick is used to perform certain Assist skills, such as healing.",拳套是一种近战攻击武器，而魔棒则是施展一些圣职者技能用的，比如治疗。
-PROPQUEST_INC_000744,"It's important to remember that you must have the right weapon equipped to perform certain abilities. With enough practice, a good Assist can switch weapons in combat seamlessly.",可以帮助其他玩家使用补助技能，也可以在自己使用拳套前，补助自己的功能，这样一来要快速的变换自己的武器，这才是重点。懂了吗?
+PROPQUEST_INC_000744,"It's important to remember that you must have the right weapon equipped to perform certain abilities. With enough practice, a good Assist can switch weapons in combat seamlessly.",重要的是要记住，你必须配备合适的武器来执行某些技能。经过足够的练习，一个合格的圣职者可以在战斗中无缝切换武器。
 PROPQUEST_INC_000745,"I'm sorry, I'm waiting for someone to bring something very important. Is that you? I didn't think so.",我很抱歉，我在等一个能帮我传递非常重要东西的人。你行吗？我可不这么认为。
-PROPQUEST_INC_000746,"Gather 10 Forforms from Mushpangs, 5 Peakyrinds from Peakyturtles and 1 Poporam from Doridoma then deliver them to Maki, the Assist Master in Northern Flarine.",寻找材料!!10个蘑菇孢子，5个坚硬背壳，1个紫晶球。找到材料后，去找圣职者大师马奇。
+PROPQUEST_INC_000746,"Gather 10 Forforms from Mushpangs, 5 Peakyrinds from Peakyturtles and 1 Poporam from Doridoma then deliver them to Maki, the Assist Master in Northern Flarine.",寻找材料!!10个蘑菇孢子，5个硬壳，1个紫晶球。找到材料后，去找圣职者大师马奇。
 PROPQUEST_INC_000748,Assist Skills,圣职者的技术
 PROPQUEST_INC_000749,"Now that you have a good understanding of Assist weaponry, I'd like you to visit Goripeg, one of the High-Dwarpets north of Flarine.",我要告诉你的事情，已经讲完了。下一个考验是，你要学习关于圣职者的技术。你要去找克利培，他在高阶矮人族的居住地。
 PROPQUEST_INC_000750,High-Dwarpet Goripeg will give you information on Assist skills. He knows a lot about Assists and I think you are ready to speak with him.,高阶矮人族会告诉你一些关于圣职者技能的信息。他很了解圣职者，我相信你准备好去见他了。
@@ -244,59 +244,59 @@ PROPQUEST_INC_000751,"You can find the High-Dwarpets by opening your map (M Key)
 PROPQUEST_INC_000752,May Bubble protect you and guide you.,祝你一路顺风
 PROPQUEST_INC_000753,"If you feel that you are not ready, young one, that is your decision. If you change your mind, come and speak with me again.",要在这里放弃吗?都快结束了还要放弃，不绝得很可惜吗?
 PROPQUEST_INC_000754,Erhm… hello there! You must be the young apprentice Maki spoke so highly of.,啊?这是我弄丢的书耶，怎么找到的啊?反正谢谢你啦。为了报答你，送你一个礼物好了，我看一下喔~488页..
-PROPQUEST_INC_000755,"The blessing of Rhisis be with you, apprentice! I'd like to go over one of the Assist skills with you. Haste is a skill that you can cast on yourself or an ally.",黎席斯的祝福使你的身体变的更轻盈，你想要什么就得到什么..嗯嗯，这是一个叫做高效术的技能，很厉害吧?
-PROPQUEST_INC_000756,"The Haste skill allows you to increase your attack speed and decrease your casting time, or that of a friend's, by a very large amount. It is an amazing skill!",这个技能可以让你或其他人的速度加快并减少施法时间，幅度很大喔。这是一个很棒的技能。
+PROPQUEST_INC_000755,"The blessing of Rhisis be with you, apprentice! I'd like to go over one of the Assist skills with you. Haste is a skill that you can cast on yourself or an ally.",愿莱斯神的祝福与你同在，圣职者学徒！我想和你一起复习一下圣职者的一项技能。高效术是一种可以施加在自己或盟友身上的技能。
+PROPQUEST_INC_000756,"The Haste skill allows you to increase your attack speed and decrease your casting time, or that of a friend's, by a very large amount. It is an amazing skill!",这个技能可以让你或其他人的攻击速度加快并减少施法时间。这是一个很棒的技能。
 PROPQUEST_INC_000757,Excuse me? I don't believe we have anything to discuss. Please leave me in peace.,不好意思？我觉得我们之间没什么好谈的，请让我安静会。
 PROPQUEST_INC_000758,Visit High-Dwarpet Goripeg north of Flarine. Check your map (M Key) if you get lost.,到矮人族的居住地找克利培吧!
 PROPQUEST_INC_000760,Duty of Assist,圣职者的任务
-PROPQUEST_INC_000761,Here… take this. It's a Label of Technique. It details what I've told you today.,大概懂了吧?我给你的技能的小纸条绝对不可以弄丢，也不可以丢在地上啊!那是很重要的东西，不然我绝对部会负责啦!
+PROPQUEST_INC_000761,Here… take this. It's a Label of Technique. It details what I've told you today.,来……拿着这个。这是一个技能小纸条。它详细说明了我今天告诉你的内容。
 PROPQUEST_INC_000762,"Now, for the final leg of your journey, apprentice. A creature called Chaner has been terrorizing the locals near the Demians in Madren Town.",啊，现在只要去找训练教官旁边的助教就可以了，这是最后一个考验了。不管他说什么你就听着吧!
-PROPQUEST_INC_000763,"Slay him, then return to Assist Instructor Kidmen in Eastern Flarine. She will conclude your Assist training.",啊，去找助教之前，听说帕里附近最近出现了一些魔域怪，好像在欺负人民呢~你去猎杀那个魔域怪怪之后拿给那个助教吧，知道吗?
+PROPQUEST_INC_000763,"Slay him, then return to Assist Instructor Kidmen in Eastern Flarine. She will conclude your Assist training.",啊，去找助教之前，听说帕里附近最近出现了一些魔域怪，好像在欺负居民呢~你去猎杀那个魔域怪怪之后拿给那个助教吧，知道吗?
 PROPQUEST_INC_000764,"Good luck to you, apprentice!",祝你一路顺风啊~
 PROPQUEST_INC_000765,No? What a shame. Speak to me again if you have a change of heart.,不吗？真丢人。如果你改变主意了再来找我。
 PROPQUEST_INC_000766,"Chaner is… gone? Great work! Now, listen carefully. I have something very important to tell you.",毒蝎子…死了？干得好！现在，仔细听我说，我有一些非常重要的事要告诉你。
-PROPQUEST_INC_000767,"The role of an Assist on the field of combat is primarily party support, however, an Assist can also prove to be a potent fighter as well.",圣职者是一个补助职业，但是也可以自己亲自战斗，可以在前方向战士一样进行近距离攻击，或在后面补助能力。
-PROPQUEST_INC_000768,"Congratulations, my friend! You are now an Assist! Welcome to the fold!",圣职者是一个很重要的补助职业，恭喜你成为圣职者!所有考验结束了~圣职者万岁!
-PROPQUEST_INC_000769,I'm waiting for word that Chaner has been destroyed. Last I heard he is still on the loose in Madren Town.,你现在看不到我很忙吗?我不是解说员啦!没事的话请回吧!
-PROPQUEST_INC_000770,"Travel to Madren Town, east of the High-Dwarpets, and slay Chaner. Once Chaner is defeated, speak with Assist Instructor Kidmen in Eastern Flarine.",啊，去找助教之前，听说最近迪米村附近出现了一些毒蝎子，好像在欺负人民呢~你去猎杀那个毒蝎子之后拿给那个助教吧，知道吗?
+PROPQUEST_INC_000767,"The role of an Assist on the field of combat is primarily party support, however, an Assist can also prove to be a potent fighter as well.",圣职者是一个辅助职业，但是也可以自己亲自战斗，可以在前方像战士一样进行近距离攻击，或在后面辅助团队。
+PROPQUEST_INC_000768,"Congratulations, my friend! You are now an Assist! Welcome to the fold!",圣职者是一个很重要的辅助职业，恭喜你成为圣职者!所有考验结束了!
+PROPQUEST_INC_000769,I'm waiting for word that Chaner has been destroyed. Last I heard he is still on the loose in Madren Town.,我在等毒蝎子被制服的消息。上次我听说他还在迪米村逍遥法外。
+PROPQUEST_INC_000770,"Travel to Madren Town, east of the High-Dwarpets, and slay Chaner. Once Chaner is defeated, speak with Assist Instructor Kidmen in Eastern Flarine.",啊，去找助教之前，听说最近迪米村附近出现了一些毒蝎子，好像在欺负居民呢~你去猎杀那个毒蝎子之后拿给那个助教吧，知道吗?
 PROPQUEST_INC_000772,Vagrant Master (Magician),初心者转职(魔导士)
-PROPQUEST_INC_000773,"Are you intrigued by the art of magic? If you're speaking with me, you must be interested in becoming a Magician. I must warn you, it is not an easy road.",你是否被魔法技能引起了深深的着迷？你现在在和我对话，想必你已经是对成为一名魔导士非常感兴趣了。但是我得提前告诉你，这绝不是一条轻松的道路。
-PROPQUEST_INC_000774,"Very well then, first, I would like you to perform a small task for me. Captain Aibatts have infested the area north of Eastern Flarine.",现在开始要进行考验了，这个训练主要是，看你在初心者的时候，有没有努力的练功，也要见识一下你的速度。
+PROPQUEST_INC_000773,"Are you intrigued by the art of magic? If you're speaking with me, you must be interested in becoming a Magician. I must warn you, it is not an easy road.",您对魔法艺术感兴趣吗？如果你要和我说话，你一定有兴趣成为一名魔法师。我必须警告你，这条路并不容易。
+PROPQUEST_INC_000774,"Very well then, first, I would like you to perform a small task for me. Captain Aibatts have infested the area north of Eastern Flarine.",那好吧，首先，我想请你帮我完成一个小任务。大独眼蝠已经侵入了帕里东广场以北的地区。
 PROPQUEST_INC_000775,"If you're interested in helping, this little nuisance is just north of there. Will you slay 15 Captain Aibatts and 10 Small Burudengs to help us?",如果你愿意帮忙，这个讨厌的家伙就在那边偏北的位置。你愿意消灭15只大独眼蝠和10只小象牙甲虫来帮我们吗？
 PROPQUEST_INC_000776,Thank you! Good luck!,我会看看你有多么厉害!
-PROPQUEST_INC_000777,"I see you're not ready to walk the path of the Magician. Very well, speak to me again if you change your mind.",你要放弃了吗?对啦!要杀那么多的生命，不如早点放弃吧!
+PROPQUEST_INC_000777,"I see you're not ready to walk the path of the Magician. Very well, speak to me again if you change your mind.",我看你还没准备好走魔法师的路。很好，如果你改变主意了，再跟我说一遍。
 PROPQUEST_INC_000778,"Great job, young Vagrant! I think you'll make a fine Magician.",做得好，年轻的初心者！你会成为卓越的魔导士的
 PROPQUEST_INC_000779,You must defeat 15 Captain Aibatts and 10 Small Burudengs to prove you are worthy of Magician training. I will not help you if you cannot even complete this simple task.,击杀15只大独眼蝠和10只小象牙甲虫，如果无法完成这个简单的任务，我将不会帮助您。
 PROPQUEST_INC_000780,I'm afraid you've already chosen a different job. We have nothing more to discuss. You can still cancel the other job quest in the Quest Window and come back to me.,恐怕你已经选择了其他职业吧，我们没有什么可讨论的了。不过你仍然可以取消转职任务，然后再来找我。
 PROPQUEST_INC_000781,"Slay 15 Captain Aibatts and 10 Small Burudengs then return to Wingyei, the Magician Drillmaster in Flarine.",杀死15只大独眼蝠和10只小象牙甲虫，然后回到帕里镇魔导教官那里。
 PROPQUEST_INC_000783,Weapons of the Magician,魔导士的武器
-PROPQUEST_INC_000784,"Nice work taking care of those Captain Aibatts for us. Now, on to your next task!",为我们照顾那些大独眼蝠的工作做得很好。现在，继续你的下一个任务！
-PROPQUEST_INC_000785,"I need you to collect some materials for me and deliver them to Hee, the Magician Master. She will instruct you on the use of Magician weaponry.",我需要你为我收集所有材料然后把它们带给魔法大师海恩。她会向你介绍魔法武器的用途。
+PROPQUEST_INC_000784,"Nice work taking care of those Captain Aibatts for us. Now, on to your next task!",做的不错，你有为我们好好“照顾”那些大独眼蝠。现在，继续你的下一个任务！
+PROPQUEST_INC_000785,"I need you to collect some materials for me and deliver them to Hee, the Magician Master. She will instruct you on the use of Magician weaponry.",我需要你为我收集所有材料，然后把它们带给魔法大师海恩。她会向你介绍魔法武器的用途。
 PROPQUEST_INC_000786,"Gather 10 Twinkle Stones from Aibatts near Flarine, 5 Chupims from Pukepukes and 1 Slain from Lawolf then you may speak with Hee.",从帕里镇附近的独眼蝠那收集10个发光石，从邪精灵那收集5个坚果，从山地野狼收集1个狼趾甲，收集到这个材料后，去找魔导士大师海恩。
-PROPQUEST_INC_000787,The Magician Master is located just north of Flarine.,魔导士的转职教官，应该在帕里北广场，一定要拿这个材料喔!
+PROPQUEST_INC_000787,The Magician Master is located just north of Flarine.,魔导士的转职教官，应该在帕里北广场，一定要先拿到武器制作材料!
 PROPQUEST_INC_000788,"Good luck to you, Vagrant!",祝你好运，初心者！
 PROPQUEST_INC_000789,I see you're not quite ready to continue down the path to becoming a Magician. Speak with me again if you change your mind.,如果在这里放弃的话不绝得很可惜吗?不要后悔自己所选择的路~
 PROPQUEST_INC_000790,"Thank you for delivering the Twinkle Stones, Vagrant. Wingyei has told me a lot about you. Now, let me tell you a little something about Magician weaponry.",初心者，谢谢你带来的发光石。艾文已经向我详细的介绍了你。现在让我来告诉你一些关于魔导士武器的事情吧。
-PROPQUEST_INC_000791,Magicians can use both wands and staves. A wand allows the magician to attack from a distance with a charged up attack that deals additional damage while a staff can be used as a melee weapon.,法杖主要使用魔法攻击，连基本攻击都要使用魔法~帅吧?权杖可以进行近距离攻击
-PROPQUEST_INC_000792,"You will find that Magicians primarily rely on magic spells to deal damage. However, it is important to know how these weapons work.",但是，打击力比较弱，如果有效的使用这2种武器的话，一定可以成为一个很棒的魔导士喔~嘻嘻嘻。
-PROPQUEST_INC_000793,I am waiting for someone to deliver some materials I require for Magician weaponry.,啊?你说韦依叫你来的喔?那他应该有交代你一些事情才对啊!难道忘记了吗?所以啊…
+PROPQUEST_INC_000791,Magicians can use both wands and staves. A wand allows the magician to attack from a distance with a charged up attack that deals additional damage while a staff can be used as a melee weapon.,魔导士可以同时使用魔杖和魔杖。魔杖可以让魔导士从远处蓄力攻击，造成额外伤害，而法杖可以用作近战武器。
+PROPQUEST_INC_000792,"You will find that Magicians primarily rely on magic spells to deal damage. However, it is important to know how these weapons work.",你会发现魔导士主要依靠魔法法术来造成伤害。但是，了解这些武器的工作原理非常重要。
+PROPQUEST_INC_000793,I am waiting for someone to deliver some materials I require for Magician weaponry.,我正在等待有人提供魔法武器所需的一些材料。
 PROPQUEST_INC_000794,"Gather 10 Twinkle Stones from Aibatts near Flarine, 5 Chupims from Pukepukes and 1 Slain from Lawolf then speak with Magician Master Hee in Northern Flarine.",材料是10个独眼蝠的发光石10个，5个邪精灵的坚果和1个山地野狼的狼趾甲。收集到这个材料后，去找魔导士大师海恩。
 PROPQUEST_INC_000796,Magician Skills,魔导士的技术
-PROPQUEST_INC_000797,"That concludes your lesson on Magician weaponry. Now, I'll need you to visit one of the High-Dwarpets to continue your training.",我要告诉你的事情，已经讲完了。下一个考验是，你要学习关于魔导士的技术。你要去海倚矮人族的居住地。
+PROPQUEST_INC_000797,"That concludes your lesson on Magician weaponry. Now, I'll need you to visit one of the High-Dwarpets to continue your training.",魔法武器课到此结束。现在，我需要你去拜访其中一个高矮人，继续训练。
 PROPQUEST_INC_000798,Travel to Flarine and head north. You'll find a High-Dwarpet camp just south of the middle of Leren Mountains.,在帕里镇一直往北的地方，有一个乐雅山脉。在乐雅山脉中部以南的地方，你可以找到高阶矮人族们的营地
 PROPQUEST_INC_000799,"Speak with High-Dwarpet Hastan once you arrive. If you get lost, you can check your map (M Key) to find your way.",到高阶矮人族的居住地找海珊之前，请到亡者之泉找一个技能序章，这样他才会见你。
-PROPQUEST_INC_000801,Do not be frightened by what lies ahead. This is your destiny. Speak with me again if you'd like to continue your path.,很在意伟依对你说的话吗?他本来就这样啦~所以不要太在意，用你自己的信念去做就好啦~
-PROPQUEST_INC_000802,"Greetings, young one! The will of Rhisis be with you! I am Hastan. Magician Master Hee mentioned that you might be stopping by.",你好，年轻人！莱斯神的意志伴随着你！我叫海珊。魔法大师海恩提到你可能会过来。
-PROPQUEST_INC_000803,Magicians are powerful fighters that utilize magic to defeat their enemies. Let me go over one of the basic attacks with you.,黎席斯的意志力，助你使其他人的精神混乱，请助赐给我力量吧!这是魔导士的一个技能，叫做念力球。
-PROPQUEST_INC_000804,Mental Strike is a very strong magic attack that consumes Magic Points (MP) in order to be cast. This skill allows you to attack the target from a distance for a high amount of damage.,这个不管对方的属性，会让对方绝得自己受了重伤，是一个很炫的技术呢~
+PROPQUEST_INC_000801,Do not be frightened by what lies ahead. This is your destiny. Speak with me again if you'd like to continue your path.,不要害怕前方发生的事情。这就是你的命运。如果您想继续前进，请再次与我交谈。
+PROPQUEST_INC_000802,"Greetings, young one! The will of Rhisis be with you! I am Hastan. Magician Master Hee mentioned that you might be stopping by.",你好，年轻人！莱斯神的意志伴随着你！我叫海珊。魔法大师海恩说你可能会过来。
+PROPQUEST_INC_000803,Magicians are powerful fighters that utilize magic to defeat their enemies. Let me go over one of the basic attacks with you.,魔导士是利用魔法击败敌人的强大战士。让我和你一起回顾一下其中一个基本攻击。
+PROPQUEST_INC_000804,Mental Strike is a very strong magic attack that consumes Magic Points (MP) in order to be cast. This skill allows you to attack the target from a distance for a high amount of damage.,灵波狂想是一种非常强大的魔法攻击，消耗魔法点数（ MP ）才能施法。此技能允许你从远处攻击目标，造成大量伤害。
 PROPQUEST_INC_000805,Excuse me? Who are you exactly? I'm waiting for someone else right now. Take a hike!,打扰了你到底是谁啊？我现在在等别人。哪儿凉快哪儿呆着去！
 PROPQUEST_INC_000806,Speak with High-Dwarpet Hastan north of Flarine. Check your map (M Key) if you lose your way.,到高阶矮人族的居住地找海珊之前，请到亡者之泉找一个技能序章，这样他才会见你。
 PROPQUEST_INC_000808,Duty of Magician,魔导士的任务
-PROPQUEST_INC_000809,"You learn quickly, Vagrant! Perhaps you will be a great Magician one day! Here, take this. It is a Label of Technique that details what I've explained to you today.",大概懂了吧?我给你的技能的小纸条绝对不可以弄丢，也不可以丢在地上啊!那是很重要的东西，不然我绝对部会负责啦!
+PROPQUEST_INC_000809,"You learn quickly, Vagrant! Perhaps you will be a great Magician one day! Here, take this. It is a Label of Technique that details what I've explained to you today.",你学得很快，初心者！也许有一天你会成为一名伟大的魔导士！给你，拿着这个。这是技能小纸条，详细说明了我今天向您解释的内容。
 PROPQUEST_INC_000810,"For your final task, I want you to travel to the west of Flaris and defeat the creature known as Seido. He has been harassing some of the residents of Flarine as of late.",最后一项任务，我要你前往帕里西部，击败那只名为小依蛾的生物。近来它一直在骚扰帕里的一些居民。
 PROPQUEST_INC_000811,"Once Seido is defeated, speak with Magician Instructor Lopaze in Eastern Flarine. She will conclude your training.",击败小依蛾后，去帕里东广场找魔法师教官洛帕兹。她将为你的训练画上句号。
 PROPQUEST_INC_000812,"You've done very well so far, young one. Keep up the great work!",祝你一路顺风啊~
-PROPQUEST_INC_000813,You've come a long way just to give up when you're so close to the end. Speak with me again if you change your mind.,是吗?看你要不要继续做下去啦~反正对我来说无所谓啊!嘻嘻嘻。
+PROPQUEST_INC_000813,You've come a long way just to give up when you're so close to the end. Speak with me again if you change your mind.,你通过了多项考验，马上就接近尾声了，要在这时放弃吗？如果您改变主意，请再次与我交谈。
 PROPQUEST_INC_000815,"As Magicians, we are most effective when attacking at long range. Many of our skills employ the power of the elements.",魔导士主要使用远距离攻击，因为魔导士的体力很弱，所以必须进行远距离攻击，而且魔导士也可以进行大范围的范围性攻击。
 PROPQUEST_INC_000816,"This allows us to take advantage of elemental vulnerabilities that our enemies may have. Congratulations, young one! You are now a Magician!",而且，在混合战斗中，可以使出良好的威力。恭喜你成为魔导士!魔导士加油!
 PROPQUEST_INC_000817,"I sure wish someone would take care of that Seido creature near Flarine… Oh, hello! Did you need something?",我真希望有人能教训一下帕里的那只小依蛾啊…哦，你好！你需要什么吗？
@@ -447,10 +447,10 @@ PROPQUEST_INC_000974,Hahaha! I knew this day would come.,哈哈哈!我就知道�
 PROPQUEST_INC_000975,Hello there! Are you looking for something special?,来到着么远的地方~想要买什么特别的吗?
 PROPQUEST_INC_000976,"Locate Bowler, the Bowl Merchant in the Garden of Rhisis.",莱斯庭院去的话，可以找到一个叫做保罗克的商人，你去问他就可以了!
 PROPQUEST_INC_000978,The 1st Bone Bowl,最初的骨制御碗
-PROPQUEST_INC_000979,"The Bone Bowl was created by a black magician a long long time ago. In a town, a woman lived with her little pet, who was named Baby.",骨制御碗这个东西是，在很久以前，有一个黑暗没法师所做出来的。据说在很久以前，人民与魔域怪物都住在一起，但是..
+PROPQUEST_INC_000979,"The Bone Bowl was created by a black magician a long long time ago. In a town, a woman lived with her little pet, who was named Baby.",骨制御碗这个东西是，在很久以前，有一个黑暗没法师所做出来的。据说在很久以前，人们与魔域怪物都住在一起，但是..
 PROPQUEST_INC_000980,"The pet went crazy and began attacking townsfolk. As a result, both of them were kicked out of the town.",有一个女子爱上了一个魔域怪，后来这个女子怀了魔域怪的孩子，之后被赶出村外。没多久魔域怪死亡之后，
 PROPQUEST_INC_000981,"The woman came back to the town, but the people in town killed her pet! Then the black magician made a bowl out of the skull of her pet and cursed it!",女子抱着孩子回到村子，但是村民把女子跟孩子全都杀掉了。黑暗魔导士就利用孩子的头骨，做了一个情盆，而在这个情盆里下了诅咒。
-PROPQUEST_INC_000982,"The town disappeared because of the curse, and so did the bowl…but there are some that say…Well, I've already said too much.",之后村子因为情盆的诅咒而消失了，得到这个情盆的人民也没有一个生存下来。
+PROPQUEST_INC_000982,"The town disappeared because of the curse, and so did the bowl…but there are some that say…Well, I've already said too much.",之后村子因为情盆的诅咒而消失了，得到这个情盆的居民也没有一个生存下来。
 PROPQUEST_INC_000983,"So you want the real Bone Bowl, right? Well, you'll have to do something for me first. Nothing in this world is free, right? Hahaha!",你说想要真的骨制御碗吗?那帮我找一些东西好吗?
 PROPQUEST_INC_000984,"Good! Bring me 10 Black Tombmarbles from Tombstone Bearers, 5 Black Spell Books and 5 Black Heroka Grass from somewhere in the Garden of Rhisis.",好，请帮我找碑石工匠的10个黑色石柱碎片，在莱斯庭院里就可以找到的黑色诅咒书5个，黑色毒草5个。
 PROPQUEST_INC_000985,"Hey, it's up to you. Too bad though, I could have used those items to help you with your problem…",他应该会很难过吧!我猜应该还有其他喜欢钱的玩家会帮他吧!
@@ -649,7 +649,7 @@ PROPQUEST_INC_001197,Unified Red Bang Troupe,统一!红色魔导战甲强盗团
 PROPQUEST_INC_001198,They have occupied almost half of Erons Factory. I didn't realize how strong they really were.,他们已经占领了绿磷石工厂的一半了。真没想到他们有这么厉害。
 PROPQUEST_INC_001199,"We are having a hard time defending this narrow entrance, they will get through here in no time unless we do something about it.",这里的入口很窄，所以还可以挡的住，但是我觉得没办法撑很久。总有一天会被他们攻击的。
 PROPQUEST_INC_001200,We need more information! We need a scout to survey their base and let us know what we're really up against.,只要把他们引诱到其他地方的话，应该也可以找时间重新建设的。
-PROPQUEST_INC_001201,You seem like a good candidate for the job. What do you say? Want to help the people of Erons Factory?,你可以为了绿磷石工厂的人民帮我吗?
+PROPQUEST_INC_001201,You seem like a good candidate for the job. What do you say? Want to help the people of Erons Factory?,你可以为了绿磷石工厂的居民帮我吗?
 PROPQUEST_INC_001202,Great! I am sure their base is somewhere in the depths of Darkon 1. Let me know what you find out!,好，他们的主要居住地，应该在第2地区的某处，你帮我查一下那个地方在哪里，拜托了!
 PROPQUEST_INC_001203,No? Fine… We will have to deal with it ourselves.,这样啊..好吧!你已经帮路达把话传给我了，这样我也很感谢你了。
 PROPQUEST_INC_001204,Excellent work! So now we know where exactly their base is located and what we're up against with their new leader.,是啊?原来在那边啊..我一定会报答你的，一定会!
@@ -661,33 +661,33 @@ PROPQUEST_INC_001210,"Have you ever heard about the Legend of Big Thyred? No? A 
 PROPQUEST_INC_001211,"It was a cave deep underground, surrounded with this strange, bloody fog. Big Thyred investigated the cave only to become infected by a disease within the cave called Horrible Fear.",听说有一个地下洞穴里，住着一个叫做恐怖的牛呗呗的怪兽。
 PROPQUEST_INC_001212,"The disease transformed him into a hideous monster, whom we now call Big Muscle. There's virtually nothing left of that brave adventurer but bits and pieces, or so the story goes…",可是后来恐怖的牛呗呗不知道到哪里去了，突然消失~反正啦..这是我这次小说的主要内容。
 PROPQUEST_INC_001213,"So, here's where you come in. I need to an ending to the story and I'd like to know what's become of Big Muscle. Feel like lending a hand?",所以啊..你可不可以代替我亲自去体验看看啊?然后再把那个体验的结果说给我听。
-PROPQUEST_INC_001214,"One of those mangy Organigors ate one of my reference books. Defeat the Organigors at the Plain of Bubble and acquire the Book of Fear 1. While you're there, find the Fortress Map.",战栗毒蝎吃了恐怖之书第1卷，你得去波布尔平原击杀它们并夺回此书。然后在旁边的地上找到 堡垒地图
+PROPQUEST_INC_001214,"One of those mangy Organigors ate one of my reference books. Defeat the Organigors at the Plain of Bubble and acquire the Book of Fear 1. While you're there, find the Fortress Map.",战栗毒蝎吃了恐怖之书第1卷，你得去波卜尔平原击杀它们并夺回此书。然后在旁边的地上找到 堡垒地图
 PROPQUEST_INC_001215,"Awwww, come on! Look, I'll give you HALF of the sales from my book if you'll help. Still having second thoughts?",反正，应该是一个很棒的冒险啦!我会拿我卖书的收入50%给你，好不好?
 PROPQUEST_INC_001216,"Oh, Rhisis! You've got the Book of Fear! Great work! Alright, sounds like you have what it takes to face Big Muscle.",哈哈，这么难的事情都办完了啊?把这个收下吧!这是施德利的心脏，好恶心喔~我不想看。
 PROPQUEST_INC_001217,"Here, take this. It's Big Thyred's Heart. \n\n#b*You drop the heart and scream!*#nb\n\nHey, careful! You need that!","诺，给你，施德利的心脏。\n\n#b*你丢下心脏然后尖叫!* # nb\n\n嘿,小心点!别摔坏了！"
 PROPQUEST_INC_001218,"Take the heart to the Dreadpet Manager just southwest of here. You'll have to join a party before you face Big Muscle, it's too dangerous to go alone.",你先去找特莱特怪物管理者，他会告诉你一些事情，但是绝对不要自己去体验喔~一定要组剧团进去!
 PROPQUEST_INC_001219,"Look, I know it's scary to face the Organigor, but I believe you can do it. Go, now!",战栗毒蝎是有点狡猾啦!可是我相信，如果是你的话，一定没有问题的!
-PROPQUEST_INC_001220,"Travel to the Plain of bubble, defeat Organigor, and recover both the Fortress Map and the 1st book of Dread for Novelist Gergantes in Northern Flarine.",首先去波布尔平原击杀战栗毒蝎，得到恐怖之书第1卷，然后在旁边捡下堡垒地图
+PROPQUEST_INC_001220,"Travel to the Plain of bubble, defeat Organigor, and recover both the Fortress Map and the 1st book of Dread for Novelist Gergantes in Northern Flarine.",首先去波卜尔平原击杀战栗毒蝎，得到恐怖之书第1卷，然后在旁边捡下堡垒地图
 PROPQUEST_INC_001222,Legend of Dreadpet <Krren Dacid>,特莱特怪物的传说 <克安达施德>
 PROPQUEST_INC_001223,"Pssst, hey you! I'm writing a book and I need your help! I'm having a bit of writer's block and I need a brave adventurer to help me write it!",听好我说的话喔~其实啊..我最近在写一本书，写书的时候需要一些材料，但是我自己没办法搞定。
 PROPQUEST_INC_001224,"Have you ever heard about the legend of Krren Dacid? A long long time ago, there was a very famous adventurer. His name was Krren Dacid. One day, he found an interesting place to adventure…",你有听说过特莱特怪物的传说吗?以前有一个大冒险家啦~名子叫<克安达施德>，有一天，他发现了一个很有趣的事情。
 PROPQUEST_INC_001225,It was a huge temple in the sky. Krren investigated the temple only to become infected by a disease within the cave called Cold Fear.,那是天空中的一座巨大的神庙。克安调查了这座寺庙，却被洞中一种名为 冷酷恐怖的疾病所感染。
 PROPQUEST_INC_001226,"The disease transformed him into a hideous monster, whom we now call Krrr. There's virtually nothing left of that brave adventurer but bits and pieces, or so they say…",可是后来咕咕哝哝不知道到哪里去了，突然消失~反正啦..这是我这次小说的主要内容。
 PROPQUEST_INC_001227,"So, here's where you come in. I need an ending to the story and I'd like to know what's become of Krrr. So whaddya' say?",所以啊..你可不可以代替我亲自去体验看看啊?然后再把那个体验的结果说给我听。
-PROPQUEST_INC_001228,"Great! One of those Gangards at the Plain of Bubble scooped up one of my reference books. Defeat the Gangards and acquire the Book of Fear 2. While you're there, try to find the Temple Map.",好，恐怖之书第2卷在冰色巨眼怪身上，你得去波布尔平原击败冰色巨眼怪并获得书籍，然后在旁边的地上找一下寺庙地图
+PROPQUEST_INC_001228,"Great! One of those Gangards at the Plain of Bubble scooped up one of my reference books. Defeat the Gangards and acquire the Book of Fear 2. While you're there, try to find the Temple Map.",好，恐怖之书第2卷在冰色巨眼怪身上，你得去波卜尔平原击败冰色巨眼怪并获得书籍，然后在旁边的地上找一下寺庙地图
 PROPQUEST_INC_001229,"Oh, come on now! Tell you what, I'll give you 50% of the proceeds from the sale of my book when I release it! How does that sound? Bah!",反正，应该是一个很棒的冒险啦!我会拿我卖书的收入50%给你，好不好?
 PROPQUEST_INC_001230,"Blessings from Bubble, you've got it! It looks like you do indeed have what it takes to face Krrr.",哈哈，这么难的事情都办完了啊?把这个收下吧!这是克安达施德的心脏，好恶心喔~我不想看。
 PROPQUEST_INC_001231,"Here, take this. It's Krrr's Heart. \n\n#b*You vomit all over him*#nb\n\n Hey, knock it off!",诺，拿着，克安达施德的心脏。\n\n#b*你吐了他一身*#nb\n\n嘿，别闹了！
 PROPQUEST_INC_001232,"If you're done being sick, take the heart to the Dreadpet Manager in Madren Town. You'll have to join a party to enter the temple, it's way too dangerous to go alone.",你先去找特莱特怪物管理者，他会告诉你一些事情，但是绝对不要自己去体验喔~一定要组剧团进去!
 PROPQUEST_INC_001233,"Look, I know Ganguard's smell bad and all that, so I understand your reservations… but I really need that book.",坎哥德这家伙是有点狡猾啦!可是我相信，如果是你的话，一定没有问题的!
-PROPQUEST_INC_001234,"Travel to the Plain of Bubble, defeat $QUEST_END_KILL_NAME$, and retrieve both the $QUEST_END_ITEM_NAME$ and the $QUEST_END_ITEM_NAME,2$ for Novelist Gergantes in Northern Flarine.","首先去波布尔平原击败$QUEST_END_KILL_NAME$，获得$QUEST_END_ITEM_NAME$和$QUEST_END_ITEM_NAME,2$ ，然后再回来找我"
+PROPQUEST_INC_001234,"Travel to the Plain of Bubble, defeat $QUEST_END_KILL_NAME$, and retrieve both the $QUEST_END_ITEM_NAME$ and the $QUEST_END_ITEM_NAME,2$ for Novelist Gergantes in Northern Flarine.","首先去波卜尔平原击败$QUEST_END_KILL_NAME$，获得$QUEST_END_ITEM_NAME$和$QUEST_END_ITEM_NAME,2$ ，然后再回来找我"
 PROPQUEST_INC_001236,Legend of Dreadpet <Moot Arvan>,特莱特怪物的传说 <姆特牙勒斑>
 PROPQUEST_INC_001237,"Pssst, hey you! I am writing a book and I need your help! I've had a little writers block lately and I need a brave adventurer to help me write it!",听好我说的话喔~其实啊..我最近在写一本书，写书的时候需要一些材料，但是我自己没办法搞定。
 PROPQUEST_INC_001238,"Have you ever heard of the legend of Moot Arvan? No? A long time ago, there was very a famous adventurer, Moot Arvan. One day, he found an interesting place to adventure...",你有听说过特莱特怪物的传说吗？没有吗？很久以前，有位名叫穆特阿尔温的大冒险家，某天他发现了一个神秘的冒险地...
 PROPQUEST_INC_001239,"It was a strange, wet marsh. Moot explored the marsh only to become infested with a disease called Unpleasant Fear.",听说有一个很潮湿的地区，住着一个叫做恐怖的菇菇的怪兽。
 PROPQUEST_INC_001240,"The disease transformed him into a hideous monster known as Mushmoot! There's virtually nothing left of that brave adventurer but bits and pieces, or so they say…",可是后来恐怖的菇菇不知道到哪里去了，突然消失~反正啦..这是我这次小说的主要内容。
 PROPQUEST_INC_001241,"So, here's where you come in. I need an ending to the story and I'd like to know what's become of Mushmoot. Feel like helping?",所以啊..你可不可以代替我亲自去体验看看啊?然后再把那个体验的结果说给我听。
-PROPQUEST_INC_001242,Great! One of those pesky Hadeseors at the Plain of Bubble has stolen one of my reference books! Find and recover the book for me and see if you can locate the Boggy Map while you're there.,好，你首先去波布尔平原击杀暴戾矿工幽魂并获得恐怖之书第3卷，然后旁边找一下沼泽地图
+PROPQUEST_INC_001242,Great! One of those pesky Hadeseors at the Plain of Bubble has stolen one of my reference books! Find and recover the book for me and see if you can locate the Boggy Map while you're there.,好，你首先去波卜尔平原击杀暴戾矿工幽魂并获得恐怖之书第3卷，然后旁边找一下沼泽地图
 PROPQUEST_INC_001243,"Don't be a scaredy-cat! Look, I'll even give you 50% of the proceeds from my book sales if you help. Okay?",反正，应该是一个很棒的冒险啦!我会拿我卖书的收入50%给你，好不好?
 PROPQUEST_INC_001244,"Yes, great work! I knew you could do it!",哈哈，这么难的事情都办完了啊?把这个收下吧!这是达施德的心脏，好恶心喔~我不想看。
 PROPQUEST_INC_001245,"Here, take this. It's Moot's Heart. \n\n*You begin to feel sick…*\n\n Oh shake it off, slacker!",诺，拿着，姆特牙勒斑的心脏。\n\n#b*你感觉到恶心...*#nb\n\n哦，甩掉它吧，懒鬼!
@@ -800,15 +800,15 @@ PROPQUEST_INC_001382,"You have a question? Out with it, quickly. I have no time 
 PROPQUEST_INC_001383,"Find Kindler and use whatever information he has to locate the Golden Helmet. Then take it, and your letter, to Hormes, the Knight Sage at the The Fountain of Dead Person in Flaris.",从齐德勒那找到黄金帽的下落后，请你去帕里的亡者之潭找[骑士贤者]霍鲁美斯·凯德。
 PROPQUEST_INC_001385,Successor of Hero -Scroll-,英雄的足迹 -卷轴-
 PROPQUEST_INC_001386,"I deeply appreciate what you've already done, but alas, the Helmet's journey does not end here.",感谢你找回这宝贵的东西，我要介绍一个人给你认识……
-PROPQUEST_INC_001387,"It belongs with the Hersan Kurmin, in the Plain of Bubble.",对了，拿这黄金帽去波布尔平原，找管理波布尔的平原的库鲁米·韩森。
-PROPQUEST_INC_001388,The Kurmin Family has managed the house and relics of Billaon for generations. I'm sure they would reward you handsomely for its return.,把这黄金帽拿给管理波布尔的平原的库鲁米．韩森，可以从他那得到有用的东西喔！
+PROPQUEST_INC_001387,"It belongs with the Hersan Kurmin, in the Plain of Bubble.",对了，拿这黄金帽去波卜尔平原，找管理波卜尔的平原的库鲁米·韩森。
+PROPQUEST_INC_001388,The Kurmin Family has managed the house and relics of Billaon for generations. I'm sure they would reward you handsomely for its return.,把这黄金帽拿给管理波卜尔的平原的库鲁米．韩森，可以从他那得到有用的东西喔！
 PROPQUEST_INC_001389,"Time is a-wasting, Mercenary! Hurry along, now!",出发吧！快点出发吧！
 PROPQUEST_INC_001390,"No time to be showered with the appreciation and riches of a wealthy family? Very well, then...",又不是很远的路，可别偷懒，不能中途放弃喔！
 PROPQUEST_INC_001391,"Oh my… I can't believe it.... I've been looking for this for years. Thank you, thank you very much!",(啜泣声)真的谢谢你，为了找这个东西，我不知道花了多少时间，真的很谢谢你~
 PROPQUEST_INC_001392,I'd like to give you something for bringing this back to the Kurmin family.,我是……什么？你已经知道我是谁了啊？那就不用再介绍了！谢谢你帮我找回黄金帽！这是我的一点心意。
 PROPQUEST_INC_001393,"This Scroll has only been passed down to the Knights in my family line, until now. I'd like you to have it.",这是只有继承者才可以拿到的卷轴，现在我把这个给你！
 PROPQUEST_INC_001394,"What nice weather! Oh, I'm sorry, did you need to speak with me?",天气真不错，对了！你找我有什么事吗？
-PROPQUEST_INC_001395,Go to the Plain of Bubble to meet Kurmin and give her the Golden Helmet.,对了，拿这黄金帽去波布尔的平原，找管理波布尔的平原的库鲁米．韩森！
+PROPQUEST_INC_001395,Go to the Plain of Bubble to meet Kurmin and give her the Golden Helmet.,对了，拿这黄金帽去波卜尔的平原，找管理波卜尔的平原的库鲁米．韩森！
 PROPQUEST_INC_001397,Successor of Hero -Altar-,英雄的足迹 -祭坛-
 PROPQUEST_INC_001398,"To show my gratitude, I’ll help you further along your way towards becoming a Knight.",我给你的卷轴，记得要好好保管喔！那是你已经成为了英雄继承者的证明！
 PROPQUEST_INC_001399,You’ll need to visit the Altar of Knight at Magmient in Darkon 3.,去达肯第3地区的熔岩火海，骑士祭坛就在那附近！
@@ -823,7 +823,7 @@ PROPQUEST_INC_001408,Hunt down 8 regular Wheelems (not Bouncing or Rough) and re
 PROPQUEST_INC_001410,Successor of Hero -Guardian-,英雄的足迹 -守护者-
 PROPQUEST_INC_001411,This is the Mark of Heroes. It is a special sigil from the Guardian of the Knight’s Altar that denotes the wearer as a successor of Knight Hero.,这能证明你是英雄骑士的继承者，但还需要另一个证明，了解你真正的实力！ 
 PROPQUEST_INC_001412,You only need one more item to finally become a Knight. You will find it in Guardiane.,距离成为骑士只差最后一个物品了。你会在圣堂找到它。
-PROPQUEST_INC_001413,"In Guardiane, in the Guardian's Room, you will find a spirit called the Venel Guardian.",就在圣堂的守护之室，那里会看到一个叫贝纳卡度温的守护兽！
+PROPQUEST_INC_001413,"In Guardiane, in the Guardian's Room, you will find a spirit called the Venel Guardian.",就在圣堂的守卫之室，那里会看到一个叫贝纳卡度温的守护兽！
 PROPQUEST_INC_001414,"Defeat this spirit, and take his heart. This will be your final test.",击败它，拿走它的心脏。这是最后的考验了
 PROPQUEST_INC_001415,"Once you have completed this task, present the heart to Boneper, the Knight Guardian.",完成此任务后，将心脏交给[骑士护侍]波内佩拉 ！
 PROPQUEST_INC_001416,"I wish you luck, Mercenary!",祝你成功喔！
@@ -831,7 +831,7 @@ PROPQUEST_INC_001417,"You’re almost finished, Mercenary. Don’t give up now."
 PROPQUEST_INC_001418,Well done! I now officially bestow the title of Knight upon you.,恭喜你！你已经通过最后的测验，你成为骑士的继承者了！
 PROPQUEST_INC_001419,"Billaon, please bless and encourage this Knight as they follow your will!",毕雷恩啊！这里有要继承你的人，祝福它吧！
 PROPQUEST_INC_001420,Only one recognized as a Knight may pass. Please turn back.,这里只有英雄的继承者才可以进入喔，请回去吧！
-PROPQUEST_INC_001421,"Defeat the Venel Guardian, take his heart, and present it to Boneper the Knight Guardian.",去圣堂的守护之室打守护兽贝纳卡度温获得他的心脏之后，请你再去找[骑士护侍]波内佩拉！
+PROPQUEST_INC_001421,"Defeat the Venel Guardian, take his heart, and present it to Boneper the Knight Guardian.",去圣堂的守卫之室打守护兽贝纳卡度温获得他的心脏之后，请你再去找[骑士护侍]波内佩拉！
 PROPQUEST_INC_001424,"So you think you're ready to become a Blade? It isn't easy, but since you've made it this far I think you're up to the challenge.",要成为刀锋战士英雄的继承者可不简单，你要有心理准备喔！
 PROPQUEST_INC_001427,"Good luck, warrior. I'll be watching.",祝你好运！
 PROPQUEST_INC_001428,Quitting already? But this is the easy part.,如果想要放弃，就早点放弃比较好喔！
@@ -869,7 +869,7 @@ PROPQUEST_INC_001466,"Worry not, young Mercenary. Bringing me the jewel was enou
 PROPQUEST_INC_001467,What brings you to this holy Altar for the Souls of Heroes?,这里是守护英雄的祭坛，你来到这里有什么事呢？
 PROPQUEST_INC_001468,"Take the Tear of Darkness from Scorpicon in Plateau of Silence, Saint Morning, and bring it to Priest Jeperdy in Brekin, Darkon 3.",别忘了，先到晨光的沉默高原，找沙卡毕欧取得暗黑泪珠，再交给[刀锋战士祭司]杰普迪！
 PROPQUEST_INC_001471,"Here, take this Mark of the Heroes. It along with one last item will denote your status as a true Blade.",拿着这个英雄纹章。再加上最后一件物品，就能证明你是一名真正的刀锋战士。
-PROPQUEST_INC_001472,"In the Guardian's Room, you will find a spirit called the $QUEST_END_KILL_NAME$.",你将会在守护之室找到一个名为$QUEST_END_KILL_NAME$的意志。
+PROPQUEST_INC_001472,"In the Guardian's Room, you will find a spirit called the $QUEST_END_KILL_NAME$.",你将会在守卫之室找到一个名为$QUEST_END_KILL_NAME$的意志。
 PROPQUEST_INC_001474,"Once you have completed this task, present the heart to Sencyrit, the Blade Guardian.",请你把心脏拿给圣堂的[刀锋战士护侍]桑希里特！
 PROPQUEST_INC_001475,I wish you luck.,祝你好运
 PROPQUEST_INC_001477,Well done! I now officially bestow the title of Blade upon you.,恭喜你！你已经通过最终的测验，你已经成为了刀锋战士的继承者！
@@ -950,8 +950,8 @@ PROPQUEST_INC_001583,Thank you very much. I will do my best to keep it safe.,"�
 PROPQUEST_INC_001584,"I have given you your task, young one. Please do it.",这里是守护英雄的祭坛，来到这里有什么事情呢！
 PROPQUEST_INC_001585,"$QUEST_END_KILL_NAME$ is in Darkon 1. Find him, get back the $QUEST_END_ITEM_NAME$, and take it to Heedan in Cendil, Darkon 3.",$QUEST_END_KILL_NAME$就在达肯1区，跟他找回$QUEST_END_ITEM_NAME$之后，再拿给达肯3的守护使者祭司海登！
 PROPQUEST_INC_001588,Here is the Symbol of the Hero. You have to complete one more task in order to be recognized as a Successor of the Hero.,这是英雄的象征。你还需完成一项任务，才能被认可为英雄的继承者。
-PROPQUEST_INC_001589,"There is a place called the Room of the Guardian. You can find it in Guardiane. There, the Will of Heroes is protected.",圣堂的守护之室，去吧，去打倒那继承着英雄的意志的灵魂！
-PROPQUEST_INC_001590,"Defeat the guardian spirit, Cardinal Guardian, and retrieve his heart.",打倒守护之室的守护兽贝纳卡蒂诺，取得他的心脏，这是最后一个证明！！
+PROPQUEST_INC_001589,"There is a place called the Room of the Guardian. You can find it in Guardiane. There, the Will of Heroes is protected.",圣堂的守卫之室，去吧，去打倒那继承着英雄的意志的灵魂！
+PROPQUEST_INC_001590,"Defeat the guardian spirit, Cardinal Guardian, and retrieve his heart.",打倒守卫之室的守护兽贝纳卡蒂诺，取得他的心脏，这是最后一个证明！！
 PROPQUEST_INC_001591,"Then, deliver the heart to Romvoette, the Ringmaster Guardian in Guardiane.",然后，请你把这心脏拿给圣堂的守护使者护侍[隆波艾达]。
 PROPQUEST_INC_001592,"I wish you luck, Assist.",希望你能成为真正的英雄继承者，加油！
 PROPQUEST_INC_001593,"You've come all this way just to give up? This is the last step. Please, think this through.",你要放弃？都已经成为了英雄的继承者，我没听错吧？！
@@ -1038,7 +1038,7 @@ PROPQUEST_INC_001703,"Maybe the wisdom of the Heroes guide you, my friend.",一�
 PROPQUEST_INC_001705,"Welcome, Magician. Your journey to becoming an Elementor is complete. I now appoint you, a Successor of the Elementor Hero!",恭喜你喔！你已经通过最后的试验，你已经成为了元素使者的继承者！
 PROPQUEST_INC_001706,Lillip! Bless and guide this brave soul who is following your will! Elementor!,啊！ 这里有要继承你的人，祝福它吧！
 PROPQUEST_INC_001707,"I am awaiting a new Successor to the Elementor Hero. If that is you, I believe you may be forgetting something, Magician.",这里只有英雄的继承者才可以进入喔，请回去吧！
-PROPQUEST_INC_001708,"Defeat the Venel Guardian, and deliver the Venel Heart to Wendien, the Elementor Guardian in Guardiane.",去圣堂的守护之室打倒守护兽贝纳卡度温，取得他的心脏，再去找元素使者护侍文嫡凌！
+PROPQUEST_INC_001708,"Defeat the Venel Guardian, and deliver the Venel Heart to Wendien, the Elementor Guardian in Guardiane.",去圣堂的守卫之室打倒守护兽贝纳卡度温，取得他的心脏，再去找元素使者护侍文嫡凌！
 PROPQUEST_INC_001710,Sound which calls the Dark,召唤黑暗的声音
 PROPQUEST_INC_001711,Have you ever heard the horrible sound from Mars Mine? That strange and hair-raising sound… It's spooky!,你有听到吗？从魔域密殿出来的怪声…好可怕喔！！
 PROPQUEST_INC_001712,"Maybe you haven't, but you will. Muahahaha! I heard it clearly! I hope it's not the sound I think it is...",也许你还没听到，但你很快就会听到的。哇哈哈哈哈！我听得清清楚楚！希望那不是我想到的那种声音……
@@ -1084,33 +1084,33 @@ PROPQUEST_INC_001754,Defeat the 5 Veduque Guardians in front of Serus Uriel's Ch
 PROPQUEST_INC_001756,Existence which Desire Summoned,挑战时空毁灭者
 PROPQUEST_INC_001757,"So you're interested in challenging Clockworks, huh? What are you, nuts?!",你要挑战时空毁灭者？我以达肯市长的身分授与你挑战的权限！
 PROPQUEST_INC_001758,"Okay...if you insist. However before I help you, I need to make sure you aren't just going to walk in there and fall over dead. I need to make sure you're worthy. Okay?",首先！我要测验你的能力！！你觉得如何呢？
-PROPQUEST_INC_001759,"Great! Please visit Dr. Est. He is studying the ecology of Darkon, in the nearby Gouthan Mountains of Darkon1.",好的！那请你去达肯1附近找到Dr.依斯特。
+PROPQUEST_INC_001759,"Great! Please visit Dr. Est. He is studying the ecology of Darkon, in the nearby Gouthan Mountains of Darkon1.",好的！那请你去达肯1附近找到依斯特博士。
 PROPQUEST_INC_001760,Backing out already? Hahaha! I knew you were all talk…,怕什么呢？这样怎么跟时空毁灭者对决呢？
 PROPQUEST_INC_001761,"Oh, did the Mayor of Darkon send you? You must be the one he was talking about that's crazy enough to challenge Clockworks. Here, you'll need this book.",你是达肯市长派来的吗？请收下这本书吧！！
 PROPQUEST_INC_001762,"It contains information about how Clockworks appeared here in Madrigal. It's a good read, but not for the faint of heart.",这本书在研究有关时空毁灭者的研究结果！对你会有帮助的，拿去参考吧！
 PROPQUEST_INC_001763,"Clockworks is one of the most dangerous monsters in Madrigal! He's huge! I have been studying him for 4 years now, but I still don't know everything about him.",时空毁灭者真的很厉害~我研究它已经快4年了，但依然还有很多不了解的地方！
-PROPQUEST_INC_001764,Visit Dr. Est near the Gouthan Mountains in Darkon 1.,请你去达肯第1区附近找Dr.依斯特！
+PROPQUEST_INC_001764,Visit Dr. Est near the Gouthan Mountains in Darkon 1.,请你去达肯第1区附近找依斯特博士！
 PROPQUEST_INC_001766,Great Clockworks War - 1st,第1次时空毁灭者战争
 PROPQUEST_INC_001767,"Alright, let's get started. Have you heard of the Great Clockworks War? You'll need to study it before you can challenge Clockworks.",那么进行下一个阶段！请问你记得大时空毁灭者战争吗？这可是挑战的必备常识！
 PROPQUEST_INC_001768,"the Great Clockworks War is the first time the people of Darkon were faced with that terrible menace, Clockworks. The people of Darkon were defeated.",大时空毁灭者战争是时空毁灭者来达肯之后发生的战争，因那次时空毁灭者赢了！
 PROPQUEST_INC_001769,They escaped to the Erons Factory. Evidence of this war can be found all over Darkon… Are you ready to continue to the next step?,达肯所有的人都躲到了绿磷石工厂，去达肯2区可以看到那时的痕迹，第2次测验要开始了！准备好了吗？
-PROPQUEST_INC_001770,"Find 5 pieces of War Remnants in Darkon 2, and then visit my brother, Dr. Estern. He is at the Hill of Shade in Saint Morning.",好吧！请你去达肯第2区找战争遗迹碎片5个，再交给Dr.依斯滕。
+PROPQUEST_INC_001770,"Find 5 pieces of War Remnants in Darkon 2, and then visit my brother, Dr. Estern. He is at the Hill of Shade in Saint Morning.",好吧！请你去达肯第2区找战争遗迹碎片5个，再交给依斯滕博士。
 PROPQUEST_INC_001771,I guess you truly aren't ready to face Clockworks. Why did you waste my time?,看你好像很忙，那我就不耽误你的时间了！
-PROPQUEST_INC_001772,"My brother sent you, right? Nice to meet you! My name is Dr. Estern, Dr. Est's younger brother. Why did he send... Oh, you're going to challenge Clockworks? Okay, do you have the War Remnants?",你是我哥派来的？你好，我叫Dr.依斯滕！你是为了挑战时空而来找我的！是吗？那请给我五个战争遗迹碎片！！
+PROPQUEST_INC_001772,"My brother sent you, right? Nice to meet you! My name is Dr. Estern, Dr. Est's younger brother. Why did he send... Oh, you're going to challenge Clockworks? Okay, do you have the War Remnants?",你是我哥派来的？你好，我叫依斯滕博士！你是为了挑战时空而来找我的！是吗？那请给我五个战争遗迹碎片！！
 PROPQUEST_INC_001773,"Hmm... Five, exactly! Okay, here you are. This book is about the study of Clockworks. It will be really useful in learning about your opponent.",没错，的确是5个战争遗迹碎片！！这个给你！这本书纪录有关时空毁灭者，对你应该会有用的！！
 PROPQUEST_INC_001774,"Yes? I'm sorry, I think I'm waiting for someone else.",我哥没有跟你说吗？请你先去达肯第2区找战争遗迹碎片5个。
-PROPQUEST_INC_001775,Locate 5 pieces War Remnants in Darkon 2 and visit Dr. Estern at the Hill of Shade near Saint Morning,请你去达肯2找战争遗迹碎片5个，再拿给在晨光的Dr.依斯滕！
+PROPQUEST_INC_001775,Locate 5 pieces War Remnants in Darkon 2 and visit Dr. Estern at the Hill of Shade near Saint Morning,请你去达肯2找战争遗迹碎片5个，再拿给在晨光的依斯滕博士！
 PROPQUEST_INC_001777,Great Clockworks War - 2nd,第2次时空毁灭者战争
 PROPQUEST_INC_001778,"Now for the final step! You've already heard about the Great Clockworks War. Actually, there was another Clockworks War after that…",那么，进行第3个阶段瞜！！在大时空毁灭者战争过后，又发生了一次战争！！
 PROPQUEST_INC_001779,"That time, Clockworks was defeated and captured.",那场战争，是由我们人类打败了时空毁灭者……
 PROPQUEST_INC_001780,"He was held at the cage where he was defeated by the allied forces of Flarine, Saint City and Darkon.",我们将时空毁灭者封印在地牢中，在这次大战，也留下了一些东西！！
 PROPQUEST_INC_001781,You can see the evidence of the war in Darkon 1 and at the Plain of Bubble in Flaris.,战争所造成的痕迹！在达肯1及帕里都还看的到……
-PROPQUEST_INC_001782,"Please find 5 War Scars in Darkon 1 and the Plain of Bubble, and then visit my brother, Dr. Estly, who is in Northern Flaris.",要请你先去达肯1和帕里波布尔平原，寻找战争残留碎片5个，再交给Dr.依斯特里！
+PROPQUEST_INC_001782,"Please find 5 War Scars in Darkon 1 and the Plain of Bubble, and then visit my brother, Dr. Estly, who is in Northern Flaris.",要请你先去达肯1和帕里波卜尔平原，寻找战争残留碎片5个，再交给依斯特里博士！
 PROPQUEST_INC_001783,"Fine, have it your way. I guess you just aren't ready to face Clockworks.",看你好像很忙，那我就不耽误你的时间了！
-PROPQUEST_INC_001784,"Oh, did my brothers send you to me? Then you must be the Clockworks challenger! Please, show me the War Scars.",你是我哥派来的人啊？你好~我叫Dr.法小廷！你是为了挑战而来找我的，没错吧？那请给我5个战争残留碎片！
+PROPQUEST_INC_001784,"Oh, did my brothers send you to me? Then you must be the Clockworks challenger! Please, show me the War Scars.",你是我哥派来的人啊？你是为了挑战而来找我的，没错吧？那请给我5个战争残留碎片！
 PROPQUEST_INC_001785,"Hmmm… everything looks to be in order here! Here, take this book. It is a more detailed study of Clockworks. It goes into detail about his behavior.",没错，是5个！！这个给你！这本书纪录有关时空毁灭者，对你应该会有用的！！
-PROPQUEST_INC_001786,I'm waiting for someone who is supposed to be bringing me something important.,我哥没有跟你说吗？请你先去达肯第1区和帕里波布尔的平原找战争残留碎片5个。
-PROPQUEST_INC_001787,Find 5 War Scars in Darkon 1 and the Plain of Bubble and visit Dr.Estly in Northern Flaris.,请你先去达肯1和帕里波布尔平原，寻找战争残留碎片5个，再交给Dr.依斯特里！
+PROPQUEST_INC_001786,I'm waiting for someone who is supposed to be bringing me something important.,我哥没有跟你说吗？请你先去达肯第1区和帕里波卜尔的平原找战争残留碎片5个。
+PROPQUEST_INC_001787,Find 5 War Scars in Darkon 1 and the Plain of Bubble and visit Dr.Estly in Northern Flaris.,请你先去达肯1和帕里波卜尔平原，寻找战争残留碎片5个，再交给依斯特里博士！
 PROPQUEST_INC_001789,Show What You Can Do,展现实力！
 PROPQUEST_INC_001790,"Well, it looks like you have all the information you need about Clockworks.",你对时空毁灭者应该有一定程度的了解，现在就要来真的了！
 PROPQUEST_INC_001791,"So, after all that, the masterpiece of Darkon was created, Clocks! What? You don't know what Clocks is?",【克拉斯】！！你知道是什么吗？
@@ -1855,7 +1855,7 @@ PROPQUEST_INC_132111,Magic water stone of Herneos,赫涅奥斯魔法水石
 PROPQUEST_INC_132112,"Hmm… If what you’re telling me is true, it would correspond to a well-known legend of Madrigal… Once upon a time, in the Old World, Herneos was a prosperous city where everyone dreamed of living, a true underwater paradise with magnificent architecture.",嗯…… 如果你所说属实，那这正好对应了瑞加大陆一个广为流传的传说…… 很久以前，在旧世界，赫涅奥斯曾是一座繁华都市，人人都向往居住于此，那是一座拥有宏伟建筑、名副其实的海底乐园。
 PROPQUEST_INC_132113,"But one day, Shade pierced the glass bubble that protected Herneos from the depths of the ocean, and the city sank… along with its inhabitants. Since then, despite numerous searches, we have never found this lost city. But if you’re telling me a portal has opened…",可直到有一天，影之势力刺破了保护赫涅奥斯抵御深海压力的玻璃屏障，整座城市连同它的居民一同沉入了海底…… 从那以后，尽管经过无数次搜寻，我们始终没能找到这座失落之城。但如果你说传送门已经开启……
 PROPQUEST_INC_132114,"I’m afraid Shade has finally found a way to return to the city of Herneos… For what purpose? I have no idea, but we need to ensure it is indeed the city of Herneos…",恐怕影之势力终于找到重返赫涅奥斯城的方法了…… 至于他们目的何在，我还不清楚，但我们必须确认那座城市是否真的是赫涅奥斯。
-PROPQUEST_INC_132115,Bring back a magical water stone from the discovered location and have it analyzed by Dr. Estly,从发现的地点带回一颗魔法水石，让Dr. 依斯特里进行分析
+PROPQUEST_INC_132115,Bring back a magical water stone from the discovered location and have it analyzed by Dr. Estly,从发现的地点带回一颗魔法水石，让依斯特里博士进行分析
 PROPQUEST_INC_132116,"Ah, thank you! I knew you’d understand the urgency. If this really is a magical water stone from Herneos, then Shade’s reach might be spreading in ways we never expected… Please, bring back a stone as soon as you can. And be careful Herneos may be more dangerous now than we imagine.",啊，谢谢你！我就知道你能明白事情的紧迫性。如果这真的是赫涅奥斯的魔法水石，那影之势力的势力范围可能正以我们意想不到的方式扩张…… 拜托你，尽快带回一颗水石。一定要小心，如今的赫涅奥斯或许比我们想象的还要危险。
 PROPQUEST_INC_132117,"What?! You’re not interested in helping with this? You don’t understand this isn’t just some small errand! Herneos could be the key to untold mysteries… and maybe even threats. But fine, if you can’t be bothered, I’ll just have to find someone else…",什么？！你不想帮忙吗？你不明白这可不是什么小事！赫涅奥斯可能是解开无数谜团的关键…… 甚至可能关乎潜在的威胁。但好吧，如果你懒得管，我只能去找别人了……
 PROPQUEST_INC_132118,"Ah, you've returned with the magical water stone! Thank you! I'll begin the analysis right away to confirm its origin.",啊，你带着魔法水石回来了！谢谢你！我这就开始分析，确认它的来源。
@@ -1863,7 +1863,7 @@ PROPQUEST_INC_132119,"Back so soon? You don’t have the magical water stone yet
 PROPQUEST_INC_132120,Under Shade's Command,受影之势力掌控
 PROPQUEST_INC_132121,"What?! Monsters? Whole hordes?! Listen… Shade must already be at work, and if she’s there, she won’t waste any time.",什么？！怪物？成群结队的怪物？你听我说…… 影之势力肯定已经开始行动了，要是她在那里，绝对不会浪费一分一秒。
 PROPQUEST_INC_132122,"I’ll need you to return there. Observe, fight, assess their strengths… If these creatures are really under Shade’s control, we need to know what awaits us.",我需要你再回去一趟。观察、战斗、评估它们的实力…… 如果这些生物真的受影之势力操控，我们必须弄清楚等待我们的是什么。
-PROPQUEST_INC_132123,"When you’ve dealt with the monsters, return to see Dr. Estly. He should have finished the analysis of the water by then, and we’ll finally know if this submerged city is indeed Herneos…",等你解决掉那些怪物，就回来见Dr. 依斯特里。到那时他应该已经完成了对水石的分析，我们终将确认这座沉没之城是否就是赫涅奥斯……
+PROPQUEST_INC_132123,"When you’ve dealt with the monsters, return to see Dr. Estly. He should have finished the analysis of the water by then, and we’ll finally know if this submerged city is indeed Herneos…",等你解决掉那些怪物，就回来见依斯特里博士。到那时他应该已经完成了对水石的分析，我们终将确认这座沉没之城是否就是赫涅奥斯……
 PROPQUEST_INC_132124,"Kill $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s, $QUEST_END_KILL_COUNT,2$ $QUEST_END_KILL_NAME,2$s, $QUEST_END_KILL_COUNT,3$ $QUEST_END_KILL_NAME,3$s and return talk to Sovann.","击杀 $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$, $QUEST_END_KILL_COUNT,2$ $QUEST_END_KILL_NAME,2$, $QUEST_END_KILL_COUNT,3$ $QUEST_END_KILL_NAME,3$ 之后返回与索万交谈。"
 PROPQUEST_INC_132125,"Excellent! I knew I could count on you. The creatures under Shade’s command won’t go down easily, but with your skills, I’m confident you can handle them. Go, and show them that we won’t back down! Once you've dealt with them, check back with Sovann.",太好了！我就知道我能指望你。受影之势力操控的怪物可不简单，但凭你的实力，我相信你完全能应付。去吧，让他们知道我们不会退缩！解决掉它们之后，回去向索万复命。
 PROPQUEST_INC_132126,"What?! You’re refusing?! Don’t you see how serious this is? Shade’s forces won’t stop they’ll only get stronger if we ignore them. Fine, if you’re not willing to help, I’ll find someone who is up to the challenge. But don’t forget you might regret standing by if Shade succeeds.",什么？！你拒绝了？你看不出事态有多严重吗？影之势力的军队不会善罢甘休，如果我们置之不理，他们只会变得更强大。好吧，如果你不愿意帮忙，我会找其他能胜任这项挑战的人。但别忘了，如果影之势力得逞了，你可能会为自己袖手旁观而后悔。
@@ -1877,7 +1877,7 @@ PROPQUEST_INC_132133,"Thank you! I knew you’d understand the importance of thi
 PROPQUEST_INC_132134,"What? You’re turning this down? This is vital information that could unlock the secrets of Herneos! If you won’t help now, I don’t know what we’ll do. Fine, but don’t forget that knowledge is power, and you might regret passing on this opportunity!",什么？你要拒绝这件事？这可是能解开赫涅奥斯秘密的关键信息！如果你现在不肯帮忙，我真不知道我们该怎么办。好吧，但你要记住，知识就是力量，错过这次机会你迟早会后悔的！
 PROPQUEST_INC_132135,"You’re back? But… have you not delivered the sample to Martinyc yet? We need her expertise to understand what the analysis reveals! Time is running out, and if this water is connected to Herneos, we need to act quickly. Go now, before it’s too late!",你回来了？可是…… 你还没把样本交给玛缇雅克吗？我们需要她的专业知识来解读分析结果！时间不多了，如果这水石真的和赫涅奥斯有关，我们必须尽快行动。现在就去，趁一切还来得及！
 PROPQUEST_INC_132136,Trophies from the Depths,渊底奇珍
-PROPQUEST_INC_132137,"Hello, who are you?... Oh, you must be the adventurer Estly told me about! Nice to meet you. How can I assist you?",你好，你是谁？…… 哦，你一定就是Dr. 依斯特里提到的那位冒险者吧！很高兴见到你。有什么我能帮你的吗？
+PROPQUEST_INC_132137,"Hello, who are you?... Oh, you must be the adventurer Estly told me about! Nice to meet you. How can I assist you?",你好，你是谁？…… 哦，你一定就是依斯特里博士提到的那位冒险者吧！很高兴见到你。有什么我能帮你的吗？
 PROPQUEST_INC_132138,"Oh, you want me to interpret the results of this analysis to check, using the archives, if this water is indeed from the city of Herneos?",哦，你想让我根据史料档案解读这份分析结果，确认这片水域是否真的来自赫涅奥斯城？
 PROPQUEST_INC_132139,"(Smirking) But nothing comes for free, you know! I heard there are all-new monsters, never seen before, over there…",（轻笑一声）可天下没有免费的好事哦！我听说那边出现了前所未见的全新魔物……
 PROPQUEST_INC_132140,"While I compare the results, could you bring me samples or souvenirs from each creature? That would allow me to enrich our archives on these strange appearances.",在我比对结果的这段时间，你能帮我从每种怪物身上收集一些样本或者纪念品吗？这样我就能把这些奇异生物的资料补充进档案里了。
@@ -1924,20 +1924,20 @@ PROPQUEST_INC_132180,"I don’t know what Shade is planning next, but with you b
 PROPQUEST_INC_132181,Rumor has it that the mayor of Flarine is eager to personally reward you for your recent achievement! You should definitely pay him a visit,坊间传闻，帕里市长因你近日立下的赫赫战功，正迫不及待要亲自嘉奖你！你务必去拜访他一趟。
 PROPQUEST_INC_132182,Herneos: Ruins of Glory,赫尼奥斯：荣耀废墟
 PROPQUEST_INC_132183,"It may take a little time, though, so while I work, you might want to head back and speak with Captain Sovann. I’m sure he’ll have more for you to do in the meantime.",不过这可能需要一点时间，所以在我进行研究的期间，你不妨回去找索万队长谈谈。我相信在此期间，他还有其他任务要交给你。
-PROPQUEST_INC_132184,"Ah, you’re back! Did you manage to deliver the magical water stone to Dr. Estly? And what did you find along the way? Any signs of Shade’s forces?",啊，你回来了！你成功把魔法水石交给Dr. 依斯特里了吗？一路上有什么发现？有没有谢莉德势力的踪迹？
+PROPQUEST_INC_132184,"Ah, you’re back! Did you manage to deliver the magical water stone to Dr. Estly? And what did you find along the way? Any signs of Shade’s forces?",啊，你回来了！你成功把魔法水石交给依斯特里博士了吗？一路上有什么发现？有没有谢莉德势力的踪迹？
 PROPQUEST_INC_132185,"Thank you for reporting back to me. If Shade is behind these creatures, we need to assess the situation carefully. Go now and prepare yourself I fear this may only be the beginning.",感谢你回来向我汇报。如果这些魔物是谢德在幕后操控，我们必须谨慎评估局势。现在快去做好准备吧 —— 我担心，这一切或许才刚刚开始。
-PROPQUEST_INC_132186,Go back to Sovann and report that you have delivered the magical water stone to Dr. Estly and encountered Shade's forces along the way.,回去向索万汇报，你已将魔法水石交给Dr. 依斯特里，并在途中遭遇了谢莉德的部队。
+PROPQUEST_INC_132186,Go back to Sovann and report that you have delivered the magical water stone to Dr. Estly and encountered Shade's forces along the way.,回去向索万汇报，你已将魔法水石交给依斯特里博士，并在途中遭遇了谢莉德的部队。
 PROPQUEST_INC_132187,Reporting Back to Sovann,向索万复命
 PROPQUEST_INC_132188,You didn’t deliver the message yet? We need to be fully aware of what’s happening in Herneos. Hurry back and let Sovann know what you encountered.,你还没把消息传回去吗？我们必须掌握赫尼奥斯的全部动向。赶紧回去，把你遭遇的一切告知索万。
 PROPQUEST_INC_132189,Very well! You’re truly dedicated to uncovering the mysteries of Herneos. Report back to Sovann with the details it’s crucial he knows about Shade’s forces. Thank you for stepping up; your bravery will be invaluable in this journey!,太好了！你为揭开赫尼奥斯的奥秘倾尽心力。把详细情况向索万汇报吧 —— 他必须知晓谢德部队的动向，此事至关重要。感谢你挺身而出，你的勇气将在这场征程中无比珍贵！
 PROPQUEST_INC_132190,"What?! You’re turning back now? Reporting this information to Sovann is essential if we’re to understand Shade’s reach! But fine, if you’re not willing… Just remember, this discovery could change everything. Don’t let this chance slip by.",什么？你现在要折返？要摸清谢莉德的势力范围，把情报告诉索万是至关重要的！也罢，如果你不愿意……记住，这个发现可能会改变一切。别错失这个机会。
-PROPQUEST_INC_132191,Return to Dr. Estly,返回Dr. 依斯特里处
-PROPQUEST_INC_132192,"Now, go see Dr. Estly; he should have finished the analysis of the water by now. We’re one step closer to uncovering the truth about Herneos!",现在，去找Dr. 依斯特里吧，他想必已经完成了对水源的分析。我们距离揭开赫尼奥斯的真相又近了一步！
-PROPQUEST_INC_132193,"Excellent! The analysis should reveal invaluable information about Herneos. Head to Dr. Estly right away, and let’s finally uncover the secrets that lie within this legendary city!",好极了！这份分析将会揭露关于赫尼奥斯的珍贵情报。立刻前往Dr. 依斯特里那里，让我们一同揭开这座传奇之城深藏的秘密吧！
-PROPQUEST_INC_132194,"Really? You’re choosing not to follow up on this? Dr. Estly’s analysis could be the key to understanding Herneos and possibly even stopping Shade. But if you won’t go, we’ll have to hope someone else steps up to the task.",不是吧？你打算就此放弃跟进？Dr. 依斯特里的分析，很可能就是洞悉赫尼奥斯、甚至阻止谢莉德的关键。但如果你不愿前往，我们也只能寄希望于其他人来承担这项使命了。
+PROPQUEST_INC_132191,Return to Dr. Estly,返回依斯特里博士那里
+PROPQUEST_INC_132192,"Now, go see Dr. Estly; he should have finished the analysis of the water by now. We’re one step closer to uncovering the truth about Herneos!",现在，去找依斯特里博士吧，他想必已经完成了对水源的分析。我们距离揭开赫尼奥斯的真相又近了一步！
+PROPQUEST_INC_132193,"Excellent! The analysis should reveal invaluable information about Herneos. Head to Dr. Estly right away, and let’s finally uncover the secrets that lie within this legendary city!",好极了！这份分析将会揭露关于赫尼奥斯的珍贵情报。立刻前往依斯特里博士那里，让我们一同揭开这座传奇之城深藏的秘密吧！
+PROPQUEST_INC_132194,"Really? You’re choosing not to follow up on this? Dr. Estly’s analysis could be the key to understanding Herneos and possibly even stopping Shade. But if you won’t go, we’ll have to hope someone else steps up to the task.",不是吧？你打算就此放弃跟进？依斯特里博士的分析，很可能就是洞悉赫尼奥斯、甚至阻止谢莉德的关键。但如果你不愿前往，我们也只能寄希望于其他人来承担这项使命了。
 PROPQUEST_INC_132195,"You haven’t visited Dr. Estly yet? The analysis of the water might hold crucial answers about Herneos! Time is ticking, and we need that information to understand what Shade might be planning. Please, head to him as soon as possible.",你还没去找埃斯特利博士吗？对水质的分析很可能包含着关于赫尼奥斯的关键答案！时间紧迫，我们需要这份情报来判断谢莉德的阴谋。拜托你，尽快去找他。
 PROPQUEST_INC_132196,"The analysis is complete, but... (annoyed look)",分析已经完成了，只是……（面露不悦）
-PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to her as soon as you can!",是时候回去找Dr. 依斯特里了。分析现在应该已经结束了，有了它，我们或许终于能查明赫尼奥斯的真相。尽快回到她那里去！
+PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to her as soon as you can!",是时候回去找依斯特里博士了。分析现在应该已经结束了，有了它，我们或许终于能查明赫尼奥斯的真相。尽快回到她那里去！
 PROPQUEST_INC_132198,A rumor says a great reward awaits you... Go speak to the mayor of Flarine!    ,传闻有一份丰厚的奖励正等着你…… 去和帕里市长谈谈吧！
 PROPQUEST_INC_132199,That's awesome! Hurry and go see the mayor!,太棒了！赶紧去见市长吧！
 PROPQUEST_INC_132200,"What do you mean, no?! You've already done everything.. You just need to claim your reward from the mayor of Flarine!",什么叫不用了？！所有事情你都已经完成了…… 你只需要去帕里城市长那里领取你的奖励就好！
@@ -2741,7 +2741,7 @@ PROPQUEST_INC_150688,"Welcome, adventurer. Have you finally awakened?\nThis is m
 PROPQUEST_INC_150689,"You say you haven’t awakened, yet I can clearly sense your power.\nSo, what happened?","你说你没有觉醒,可我能清晰地感受到你的力量。\n那么，发生了什么事？"
 PROPQUEST_INC_150690,"I see. So that’s how it went.\nYou may not have become a transcendent, but I’ll give you a small gift to celebrate your new strength.",原来如此，事情是这样啊。\n你虽未成为超越者，但我还是送你一份薄礼，庆贺你获得新的力量。
 PROPQUEST_INC_150691,I look forward to seeing what you do next.,我很期待看你接下来的表现。
-PROPQUEST_INC_150692,Go to [Sage] Radyon,前往 [智愚贤者] 雷迪恩 处。
+PROPQUEST_INC_150692,Go to [Sage] Radyon,前往 [暗杀者贤者] 雷迪恩 处。
 PROPQUEST_INC_150693,Ankou’s Asylum Boss,安库的庇护所Boss
 PROPQUEST_INC_150694,Hero Grade (4),英雄等级（4 阶）
 PROPQUEST_INC_150695,I need you to reach level 180 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a true Hero can do that.,我需要你达到 180 级，并带来 $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$，唯有真正的英雄才能做到。
