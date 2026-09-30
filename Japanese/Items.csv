@@ -12524,7 +12524,7 @@ PROPITEM_TXT_160001,An enhanced set of goggles rarely found on a Meral.,メレ�
 PROPITEM_TXT_160002,Gigantic Feline Fang,巨大なタイガーの牙
 PROPITEM_TXT_160003,A gigantic fang from the mouth of a Giant Tigar.,ロード・タイガーの口から抜け落ちた、巨大な牙。(クエストアイテム)
 PROPITEM_TXT_160004,Purple Pirate Insignia,紫の海賊記章
-PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,バイオレット・メレーから見つかった、紫の魔力を宿す記章。(クエストアイテム)
+PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,バイオレット・メレーから見つかった、紫の魔力を宿す物体。(クエストアイテム)
 PROPITEM_TXT_160006,Island Bait,島の特製エサ
 PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,ナーガの警戒を解くため、ポール・ポールが作ったおいしいエサ。(クエストアイテム)
 PROPITEM_TXT_160008,Evidence of Victory,討伐の証
@@ -15998,10 +15998,10 @@ PROPITEM_TXT_725127,Magic Clock of Storm Peak (5 Min),ストームピークの�
 PROPITEM_TXT_725128,Re-entry cooldown for Storm Peak has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,ストームピークの再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のストームピークの魔法時計と共有されます。
 PROPITEM_TXT_725129,Magic Clock of Storm Peak (10 Min),ストームピークの魔時計 (10分)
 PROPITEM_TXT_725130,Re-entry cooldown for Storm Peak has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,ストームピークの再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のストームピークの魔法時計と共有されます。
-PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),ザ・ワイルドの魔時計 (5分)
-PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルド」の再突入時のクールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
-PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),ザ・ワイルドの魔時計 (10分)
-PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルド」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
+PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),ザ・ワイルズの魔時計 (5分)
+PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルズ」の再突入時のクールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
+PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),ザ・ワイルズの魔時計 (10分)
+PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルズ」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
 PROPITEM_TXT_725135,Adventurer's Consumable Package,冒険者の消耗品パッケージ
 PROPITEM_TXT_725136,"A package containing 10x Upcut Stone, 10x Activation, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.",パワーストーンx10、アクティビションx10スタミナドリンクX または 魔力ドリンクゴールドx10、街戻りの巻物x10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_725137,PickUp Pet Package II,ピックアップペットパッケージII
