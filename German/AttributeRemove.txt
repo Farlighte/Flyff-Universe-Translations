@@ -1,2 +1,2 @@
-﻿#b#cff0000ff Elementaufwertung entfernen #nb#nc
-Die Elementaufwertung dieser Waffe wird entfernt, wenn du auf die Schaltfläche „Entfernen“ klickst. Kosten: 1.000.000 Penya.
+﻿#b#cff0000ff Elementupgrade entfernen #nb#nc
+Das Elementupgrade dieser Waffe wird entfernt, wenn du auf die Schaltfläche „Entfernen“ klickst. Kosten: 1.000.000 Penya.

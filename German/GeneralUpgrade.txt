@@ -1,5 +1,5 @@
-﻿#bGegenstand aufwerten#nb
+﻿#bGegenstand upgraden#nb
 
-Das Aufwerten eines Gegenstands erhöht seine Basiswerte und verbessert seine allgemeine Stärke und/oder Verteidigung.
+Das Upgraden eines Gegenstands erhöht seine Basiswerte und verbessert seine allgemeine Stärke und/oder Verteidigung.
 #cffff0000Die Verwendung einer Schutzrolle garantiert, dass dein Gegenstand dabei nicht zerstört werden kann.
-Low S-Protect Schutzrollen reduzieren die Aufwertungsstufe bei Misserfolg.#nc
+Low S-Protect Schutzrollen reduzieren die Upgradestufe bei Misserfolg.#nc
