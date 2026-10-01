@@ -86,8 +86,8 @@ QUEST_DESTINATION_1011,Collect Krasec from Krasec Catchers.,ケラセック・�
 QUEST_DESTINATION_1012,Collect Mineral from Mineral Catchers.,ミネラル・キャッチャーからミネラルを集めよ
 QUEST_DESTINATION_1013,Collect Guru from Guru Catchers.,グルー・キャッチャーからグルーを集めよ
 QUEST_DESTINATION_1014,Give the Smelted Steels to Chenbing.,製錬した鋼をシェンビンに渡します。
-QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,冶金学のブルリングをコラックに渡します。
-QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,過給された避雷針をゴダンテに渡す。
+QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,＜メタリジカル・ブルリング＞をコラックに渡す
+QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,＜チャージされた避雷針＞をゴダンテに渡す
 QUEST_DESTINATION_1017,Collect $QUEST_END_ITEM_NAME$ from final dungeon bosses.,最後のダンジョンボスから$QUEST_END_ITEM_NAME$を収集します。
 QUEST_DESTINATION_1018,Give the Elixir of Cleansing to Hael.,浄化のエリクサーをハエルに渡します。
 QUEST_DESTINATION_1019,Collect Ultima from giants and treasure chests.,コーラルアイランドに生息するジャイアントや、ザ・ワイルズの宝箱からアルティマを集める
