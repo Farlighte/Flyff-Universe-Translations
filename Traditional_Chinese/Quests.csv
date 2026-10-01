@@ -768,7 +768,7 @@ PROPQUEST_INC_001346,"Hey, who are you? What? My mom is worried about me? What e
 PROPQUEST_INC_001347,I am just watching those pumpkin heads. Aren't they cool? I wish I had one!,我在這裡偷偷觀察它們耶！不會覺得很棒嗎？尤其是南瓜的頭！我真的很想要那個南瓜頭耶…
 PROPQUEST_INC_001348,"Travel to Pumpkin Town and search for Mayun, JeongHwa's son.",前往南瓜鎮並尋找真華的兒子梅歐恩。
 PROPQUEST_INC_001350,Doridori Sushi,綜合多魯壽司
-PROPQUEST_INC_001351,Finally! The time has come to learn how to make Doridori Sushi. I just need some ingredients!,"終於！學習製作綜合多魯壽司的時刻到了，現在只差一些食材！"
+PROPQUEST_INC_001351,Finally! The time has come to learn how to make Doridori Sushi. I just need some ingredients!,終於！學習製作綜合多魯壽司的時刻到了，現在只差一些食材！
 PROPQUEST_INC_001352,"I'll need to practice the recipe so that I can master it. Oh boy, Doridori Sushi is the best sushi in Madrigal! I can't wait!",不過呢！這需要不間斷的練習試做才行，所以，可不可以幫我…
 PROPQUEST_INC_001353,"Tell you what, if you help me, I will give you some of this fantastic sushi. How's that sound?",我要再試做一次！如果你幫我的忙，我一定會做好吃的壽司給你，好不好？
 PROPQUEST_INC_001354,"I knew you wouldn't be able to resist! Now, bring me the following materials: 12 Doridoma Keratins and 5 Mushpang Secretion. You can get them from Small Doridomas and Captain Mushpangs.",我就知道你無法抗拒！那麼現在請幫我找一些食材，材料是多魯殼 12 個和咚菇體液 5 個，據說可以在多魯嘍囉和全熟的咚咚菇身上找到…
@@ -2748,6 +2748,12 @@ PROPQUEST_INC_150695,I need you to reach level 180 and bring $QUEST_END_ITEM_COU
 PROPQUEST_INC_150696,Reach level 180 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$.,達到 180 級，並帶來 $QUEST_END_ITEM_COUNT$ 個 $QUEST_END_ITEM_NAME$。
 PROPQUEST_INC_150697,Kaillun,凱倫
 PROPQUEST_INC_150698,Year of the Horse 2026,2026 馬年
+PROPQUEST_INC_150699,Zombie Defense,Zombie Defense
+PROPQUEST_INC_150700,The zombie horde is closing in on the town!! We need to buy time until reinforcements arrive — I need your help!!,The zombie horde is closing in on the town!! We need to buy time until reinforcements arrive — I need your help!!
+PROPQUEST_INC_150701,Thank you!! I'll never forget what you've done for us!!,Thank you!! I'll never forget what you've done for us!!
+PROPQUEST_INC_150702,Time is running out... Come back if you change your mind.,Time is running out... Come back if you change your mind.
+PROPQUEST_INC_150703,You're a hero! The reinforcements will handle the rest of the zombies!,You're a hero! The reinforcements will handle the rest of the zombies!
+PROPQUEST_INC_150704,Defend the town against the zombie horde until reinforcements arrive.,Defend the town against the zombie horde until reinforcements arrive.
 PROPQUEST_INC_150800,Retrieve the 4th Anniversary Birthday Banner!,尋回四週年生日旗幟！
 PROPQUEST_INC_150801,Would you like to participate in our 4th Anniversary event and receive your event banner?,你想參加我們的四週年活動，並領取活動旗幟嗎？
 PROPQUEST_INC_150802,"Great! Talk to me once more, and I'll give you the 4th Anniversary Banner.",太好了！再和我對話一次，我就會給你四週年旗幟。

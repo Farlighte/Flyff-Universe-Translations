@@ -723,3 +723,6 @@ CLIENT_HELP_INC_100017,Housing Objects
 CLIENT_HELP_INC_100018,Select which decoration model you want to use and click place. Then follow the instructions: \n\n- Left click to place\n- Mouse wheel to rotate\n- Press mouse wheel and mouse left/right to change size.
 CLIENT_HELP_INC_100019,Production
 CLIENT_HELP_INC_100020,"You can proceed with production through this window. If you select a recipe from the filters, you will see information about that recipe and can only produce items that match the recipe.\nIf you don't select a recipe, you can try to produce with your own material combinations to discover hidden recipes.\nYou can earn Master’s Chips for random production and for Great Success.\nYou'll get better quality items when you make a Great Success"
+CLIENT_HELP_INC_100021,Exchange [OLD] Lifestyle Items
+CLIENT_HELP_INC_100022,Exchange retired [OLD] Lifestyle items here for Master's Chip 1. Use the Search filter to show only [OLD] items currently in your inventory.
+CLIENT_HELP_INC_100023,Master's Chip 1 can then be spent in the Master's Chip 1 Material Shop at [Life Master] Livi.
