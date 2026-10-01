@@ -3351,7 +3351,7 @@ UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you 
 UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
 UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
 UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
-UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,Je hebt gefaald!
 UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
 UI_MYSTCASTLE_RANKING,Ranking,Ranking
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
@@ -3459,7 +3459,7 @@ UI_WAVEDEFENSE_JOIN_TITLE,Confirm Wave,Confirm Wave
 UI_WAVEDEFENSE_JOIN_MSG,%s invites you to join wave defense match. Accept the invitation?,%s invites you to join wave defense match. Accept the invitation?
 UI_WAVEDEFENSE_JOINMATCH_TITLE,Join Wave Defense Match,Join Wave Defense Match
 UI_WAVEDEFENSE_JOINMATCH_MSG,You are about to join match %s. Confirm?,You are about to join match %s. Confirm?
-UI_WAVEDEFENSE_JOINMATCH_PWD,Password,Password
+UI_WAVEDEFENSE_JOINMATCH_PWD,Password,Wachtwoord
 UI_WAVEDEFENSE_RANKING,Ranking,Ranking
 UI_WAVEDEFENSE_MILESTONE_HEADER,Milestones,Milestones
 UI_WAVEDEFENSE_MILESTONE_DESC,Clear waves with your team and claim exclusive rewards!,Clear waves with your team and claim exclusive rewards!
@@ -3469,7 +3469,7 @@ UI_WAVEDEFENSE_RANKING_ROOM,Room Name,Room Name
 UI_WAVEDEFENSE_RANKING_WAVE,Max Wave,Max Wave
 UI_WAVEDEFENSE_RANKING_KILLS,Total Kills,Total Kills
 UI_WAVEDEFENSE_RANKING_DEFENDERS,Sailors,Sailors
-UI_WAVEDEFENSE_RANKING_TIME,Time,Time
+UI_WAVEDEFENSE_RANKING_TIME,Time,Tijd
 UI_WAVEDEFENSE_MILESTONE_CLAIM,Claim,Claim
 UI_WAVEDEFENSE_RANKING_DESC,Dominate the rankings with your team and secure your place at the top!,Dominate the rankings with your team and secure your place at the top!
 UI_WAVEDEFENSE_RANKINGDETAILS_HDR,Match Details,Match Details
@@ -3490,7 +3490,7 @@ UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,Ar
 UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC Championship Pass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Daily reward: %d / %d claimed today
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
-UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."
+UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",Dit item wordt na het onderhoud op 29 oktober 2026 verwijderd.
 UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
 UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
 UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
