@@ -428,8 +428,8 @@ PROPQUEST_SCENARIO_INC_001530,"I've done it!! Because of your bravery, I've foun
 PROPQUEST_SCENARIO_INC_001531,I'm still in the process of research. Please go and defeat 15 Small Tombstone Bearers & 7 Tombstone Bearers while I complete my work!,スモール・トムストンベアラーが特に邪魔をするんです。15体倒してください！どうかお願いします。
 PROPQUEST_SCENARIO_INC_001532,Defeat 15 Small Tombstone Bearers & 7 Tombstone Bearers.,スモール・トムストンベアラーを15体、トムストンベアラー7体退治しヘンデルに報告してくだい。
 PROPQUEST_SCENARIO_INC_001534,Endless Loop,終わりの無いループ
-PROPQUEST_SCENARIO_INC_001535,"While conducting my research, I found something of interest about the pillars carried by the Tombstone Bearers. It looks similar to those of Shade's temple.",調査をしたところ、偶然貴方が倒したトムストンベアラーの遺体から特異な点を見つけました。それは、彼らが持っている巨大な柱です。その柱の模様がイブリス寺院の柱と同じでした。
-PROPQUEST_SCENARIO_INC_001536,"Upon looking further into the information, I found that Tombstone Bearers were actually slaves of Shade that built her temple. But why would they be here in the Garden of Rhisis?",どうやら彼らはイブリス寺院を建築する際に奴隷として働かされていたようです。しかし、イブリス神殿の奴隷がなぜこのような場所にまで来ているのでしょうか。
+PROPQUEST_SCENARIO_INC_001535,"While conducting my research, I found something of interest about the pillars carried by the Tombstone Bearers. It looks similar to those of Shade's temple.",調査をしたところ、偶然貴方が倒したトムストンベアラーの遺体から特異な点を見つけました。それは、彼らが持っている巨大な柱です。その柱の模様がイブリス神殿の柱と同じでした。
+PROPQUEST_SCENARIO_INC_001536,"Upon looking further into the information, I found that Tombstone Bearers were actually slaves of Shade that built her temple. But why would they be here in the Garden of Rhisis?",どうやら彼らはイブリス神殿を建築する際に奴隷として働かされていたようです。しかし、イブリス神殿の奴隷がなぜこのような場所にまで来ているのでしょうか。
 PROPQUEST_SCENARIO_INC_001537,I need to acquire more data! Would you help me further by acquiring an Ancient Inscription? This might provide the insight I'm looking for!,もう少し調査が必要なようです。何度も申し訳ありませんが、キャプテン・トムストンベアラーを倒してさらに調査させて頂けませんか？
 PROPQUEST_SCENARIO_INC_001538,I knew you would have accepted. You too yearn to discover the truth! You can find a Ancient Inscription by defeating any of the Tombstone Bearers,ありがとうございます。トムストンベアラーの中でもキャプテンと冠名されているモンスターをお願いします。
 PROPQUEST_SCENARIO_INC_001539,How could you decline? This could potentially reveal so much to us about Shade's masquerpets and their growing strength!,そうですか……ちっ（この程度で断るようじゃ使えないわね
@@ -1146,12 +1146,12 @@ PROPQUEST_SCENARIO_INC_002434,Remnant of Ishirut Part 1,イシルートの残党
 PROPQUEST_SCENARIO_INC_002435,Trouble in the Sky,天空のトラブル
 PROPQUEST_SCENARIO_INC_002436,"The weather lately has been terrible! Recently lightning has been striking airships on route to Saint City, causing delays in our shipments.",最近の天気はひどいです!最近、セントシティに向かう飛行船に雷が落ち、出荷が遅れています。
 PROPQUEST_SCENARIO_INC_002437,I wonder what has caused all the bad weather lately? I am still on duty here for a while longer.,最近、何が悪天候を引き起こしたのだろうか?私はまだしばらくここで勤務しています。
-PROPQUEST_SCENARIO_INC_002438,"Parine helps manage the Station with me. She acts as a scion of the great Elementor hero, Lillip.",パリンは私と一緒に駅を管理するのを手伝ってくれます。彼女は偉大なエレメンターヒーロー、リリップの末裔として行動します。
-PROPQUEST_SCENARIO_INC_002439,Parine may know why the skies have been so angry lately. Go speak with her please!,パリーンは、なぜ空が最近そんなに怒っているのか知っているかもしれません。彼女と話してください!
+PROPQUEST_SCENARIO_INC_002438,"Parine helps manage the Station with me. She acts as a scion of the great Elementor hero, Lillip.",パリンヌは私と一緒に駅を管理するのを手伝ってくれます。彼女は偉大なエレメンターヒーロー、リルリップの末裔として行動します。
+PROPQUEST_SCENARIO_INC_002439,Parine may know why the skies have been so angry lately. Go speak with her please!,パリンヌは、なぜ空が最近そんなに怒っているのか知っているかもしれません。彼女と話してください!
 PROPQUEST_SCENARIO_INC_002440,The lightning is out of control... perhaps you can help us another time.,雷は制御不能です..おそらくあなたは別の機会に私たちを助けることができます。
 PROPQUEST_SCENARIO_INC_002441,"It is true, the airship deliveries have stopped due to lightning... We must get to the bottom of this, for Saint City.",確かに、雷のために飛行船の配達が停止しました。セントシティのために、私たちはこれの根底に到達しなければなりません。
-PROPQUEST_SCENARIO_INC_002442,Find Parine and let her know of the airship situation.,パリーヌを見つけて、飛行船の状況を知らせてください。
-PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,パリーヌと会う。
+PROPQUEST_SCENARIO_INC_002442,Find Parine and let her know of the airship situation.,パリンヌを見つけて、飛行船の状況を知らせてください。
+PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,パリンヌと会う。
 PROPQUEST_SCENARIO_INC_002444,Grab a Bull by the Horns,角で雄牛をつかむ
 PROPQUEST_SCENARIO_INC_002445,We need some sort of lightning rod to attract the storm's fury away from the airships heading into Saint City...,セントシティに向かう飛行船から嵐の怒りを引き付けるには、ある種の避雷針が必要です。
 PROPQUEST_SCENARIO_INC_002446,"I am unsure of who could build such a device, but you will certainly need a large amount of metal to do it.",誰がそのようなデバイスを構築できるかはわかりませんが、それを行うには確かに大量の金属が必要になります。
@@ -1164,7 +1164,7 @@ PROPQUEST_SCENARIO_INC_002452,Ring of Power,力の指輪
 PROPQUEST_SCENARIO_INC_002453,I only know of the ring's metallurgical properties. ,私はリングの冶金学的特性しか知りません。
 PROPQUEST_SCENARIO_INC_002454,The Strange Collector may know more about what the bull ring can do.,ストレンジコレクターは、闘牛場が何ができるかについてもっと知っているかもしれません。
 PROPQUEST_SCENARIO_INC_002455,Keakoon are not that scary...,ケアクーンはそれほど怖くありません..
-PROPQUEST_SCENARIO_INC_002456,"*Snort* Well look at that, a Metallurgical Bull Ring! I will need to thank Parine later for sending you to me with this precious trophy.",*鼻を鳴らす*それをよく見てください、冶金学のブルリング!この貴重なトロフィーを送ってくれたパリーヌに後で感謝する必要があります。
+PROPQUEST_SCENARIO_INC_002456,"*Snort* Well look at that, a Metallurgical Bull Ring! I will need to thank Parine later for sending you to me with this precious trophy.",*鼻を鳴らす*それをよく見てください、冶金学のブルリング!この貴重なトロフィーを送ってくれたパリンヌに後で感謝する必要があります。
 PROPQUEST_SCENARIO_INC_002457,Go speak with the Strange Collector when you have a moment.,時間があるときにストレンジコレクターと話してください。
 PROPQUEST_SCENARIO_INC_002458,Meet with the Strange Collector.,奇妙なコレクターと会う。
 PROPQUEST_SCENARIO_INC_002459,Expert Metallurgist Colack,エキスパート冶金学者コラック
@@ -1209,11 +1209,11 @@ PROPQUEST_SCENARIO_INC_002497,Remnant of Ishirut Part 2,イシルートの残党
 PROPQUEST_SCENARIO_INC_002498,YaoRin's Trust,ヤオリンの信頼
 PROPQUEST_SCENARIO_INC_002499,"I see... you wish to see my powers of the mind. Well, the MewMew people are not very trusting of outsiders.",なるほど。。あなたは私の心の力を見たいのです。さて、ミュウミューの人々は部外者をあまり信頼していません。
 PROPQUEST_SCENARIO_INC_002500,"If you really want to have a fortune read you will need permission from the leader of the MewMew clan, Locku. Before I will allow you to speak to Locku, you must prove yourself to me.",本当に占いを読ませたい場合は、ミュウミュウ一族のリーダーであるロックーの許可が必要です。私があなたにロックーと話すことを許す前に、あなたは私に自分自身を証明しなければなりません。
-PROPQUEST_SCENARIO_INC_002501,"Prove your worth by bringing me the Hearts of Red Otem who reside in the Iblis Dungeon. If you can do that, then I will let you speak with our leader.",イブリスダンジョンに住むレッドコルムの心臓を持ってきて、あなたの価値を証明してください。あなたがそれをすることができるなら、私はあなたに私たちのリーダーと話させます。
+PROPQUEST_SCENARIO_INC_002501,"Prove your worth by bringing me the Hearts of Red Otem who reside in the Iblis Dungeon. If you can do that, then I will let you speak with our leader.",イブリスダンジョンに住むレッドオーテムの心臓を持ってきて、あなたの価値を証明してください。あなたがそれをすることができるなら、私はあなたに私たちのリーダーと話させます。
 PROPQUEST_SCENARIO_INC_002502,If you cannot do a simple task then you are not worthy of to speak to the MewMew clan leader...,単純な作業ができない場合は、ミュウミュウ一族のリーダーと話す価値がありません。
 PROPQUEST_SCENARIO_INC_002503,"We distrust you humans, but I see you have helped YaoRin in eliminating our mortal enemies, the Otems.",私たちはあなた方人間を信用していませんが、あなたはヤオリンが私たちの致命的な敵であるオテムを排除するのを助けたようです。
-PROPQUEST_SCENARIO_INC_002504,Go find Hearts of the Red Otem in the Iblis Dungeon.,レッドコルムの心臓を探しに、イブリスダンジョンに行きましょう。
-PROPQUEST_SCENARIO_INC_002505,Collect 3 Heart of Red Otem.,レッドコルム・ハートを3つ集める。
+PROPQUEST_SCENARIO_INC_002504,Go find Hearts of the Red Otem in the Iblis Dungeon.,レッドオーテムの心臓を探しに、イブリスダンジョンに行きましょう。
+PROPQUEST_SCENARIO_INC_002505,Collect 3 Heart of Red Otem.,レッドオーテム・ハートを3つ集める。
 PROPQUEST_SCENARIO_INC_002506,"Locku, Leader of the MewMew",ロックー、ミュウミュウのリーダー
 PROPQUEST_SCENARIO_INC_002507,"I will share with you an explanation of our disdain for the Otems... We believe that eons ago, Otems stole the remaining power from an ancient god named Shelid that was a bastion of protection for this land long ago. ",オテムに対する私たちの軽蔑の説明をあなたと共有します。はるか昔、オテムスははるか昔、この土地の保護の要塞であったシェリッドという古代の神から残りの力を盗んだと信じています。
 PROPQUEST_SCENARIO_INC_002508,"While you may have proven yourself enough to YaoRin to speak to me, you must further show that you are worthy to receive the MewMew clan's assistance.",ヤオリンが私に話しかけるのに十分なことを証明したかもしれませんが、ミュウミュウ一族の支援を受けるに値することをさらに示さなければなりません。
@@ -1513,12 +1513,12 @@ PROPQUEST_SCENARIO_INC_002801,"Eliminate 30 Frozen Hare Guards and their leader,
 PROPQUEST_SCENARIO_INC_002802,Kill 30 Frozen Hare Guard and 1 Frozen Hare Assassin.,フローズン・ヘア・ガード30体と、フローズン・ヘア・アサシンを1体討伐
 PROPQUEST_SCENARIO_INC_002803,Building a Weapon,武器を作る
 PROPQUEST_SCENARIO_INC_002804,With the guards out of our hair we can start collecting supplies to start building a brand new weapon! ,警備員が髪の毛から抜け出したら、新しい武器を作り始めるための物資を集め始めることができます!
-PROPQUEST_SCENARIO_INC_002805,The Enraged Yetti and Saphyryan Hounds that live in the valley below have weapons and armor we can use to forge the basis of a mechanical beast like Clockworks.,下の谷に住む激怒したイエティとサフィリアンハウンドは、クロックワークスのような機械的な獣の基礎を築くために使用できる武器と鎧を持っています。
+PROPQUEST_SCENARIO_INC_002805,The Enraged Yetti and Saphyryan Hounds that live in the valley below have weapons and armor we can use to forge the basis of a mechanical beast like Clockworks.,下の谷に住むエンレイジド・イエティとサフィリアン・ハウンドは、クロックワークスのような機械的な獣の基礎を築くために使用できる武器と鎧を持っています。
 PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",谷に向かい、イエティハンマーとハウンドハーネスを集めると、クラフトに役立ちます。
 PROPQUEST_SCENARIO_INC_002807,The hounds only bite a little bit...,猟犬はほんの少し噛むだけです..
 PROPQUEST_SCENARIO_INC_002808,"Yes, this will do nicely! I can start forging a new Clockworks with these materials. But there's one thing we're missing...",はい、これはうまくいきます!私はこれらの材料で新しい時計仕掛けを作り始めることができます。しかし、私たちが見逃していることが1つあります..
 PROPQUEST_SCENARIO_INC_002809,Collect Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,下の谷にいるモンスターからワイルドイエティハンマーとハウンドハーネスを集めてください。
-PROPQUEST_SCENARIO_INC_002810,"Collect 30 Yetti Hammers from the Enraged Yetti, and 15 Hound Harness from the Saphyryan Hounds.",エンレイジ・イエティからワイルドイエティハンマーを30個、サフィリアン・ハウンドからハウンドハーネスを15個集めます。
+PROPQUEST_SCENARIO_INC_002810,"Collect 30 Yetti Hammers from the Enraged Yetti, and 15 Hound Harness from the Saphyryan Hounds.",エンレイジド・イエティからワイルドイエティハンマーを30個、サフィリアン・ハウンドからハウンドハーネスを15個集めます。
 PROPQUEST_SCENARIO_INC_002811,Army of the Dead,アーミー・オブ・ザ・デッド
 PROPQUEST_SCENARIO_INC_002812,"These armaments are a good foundation to work off of for now... but to bring a new Clockworks to life, we need a powerful core of energy. ",これらの兵器は、今のところ作業するための良い基盤です..しかし、新しい時計仕掛けに命を吹き込むには、強力なエネルギーのコアが必要です。
 PROPQUEST_SCENARIO_INC_002813,"When the masquerpets invaded Storm Peak, the Crystal Demon Lord led an army of undead deep within the mountains and sealed away the last known energy core produced by my people...",モンスターがストームピークに侵入したとき、クリスタルデーモンロードは山の奥深くにアンデッドの軍隊を率いて、私の人々によって生成された最後の既知のエネルギーコアを封印しました..。

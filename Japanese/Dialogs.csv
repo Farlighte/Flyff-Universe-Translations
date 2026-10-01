@@ -144,7 +144,7 @@ NPC_000151,"Hey, you there! Help me! Let me out of here right now! Argh!!!",お�
 NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!",ああよかった、そこの冒険者さん！私をここから連れ出してください！命からがら逃げてきたら、こんな場所に…
 NPC_000153,"Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas.",私はセイントモーニングの劇団＜双月の夜＞のトップ俳優、＜コラール・デボラ＞といいます。今は…いろいろと訳あって、こんな格好ですが。
 NPC_000154,What?! HEY! I thought you were going to release me. I'll get you for this!,おーい！行かないで！見捨てないでください～！
-NPC_000155,Follow the teachings of Lillip and you will discover the secrets of the elements.,＜リルリッップ＞よ、あなたの知恵が・・ふ～　叫び続けるのも疲れるわぁ。
+NPC_000155,Follow the teachings of Lillip and you will discover the secrets of the elements.,＜リルリップ＞よ、あなたの知恵が・・ふ～　叫び続けるのも疲れるわぁ。
 NPC_000156,"Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere.",たとえ光が消えて、闇がこの世を覆っても、決して希望をなくしてはならぬ･･･。
 NPC_000157,"My name is Condram Griters and I am one of 8 priests of Lillip, the Elementor Hero. I am teaching the wisdom of Lillip to his successors. I act as a guide to those who follow the path of Lillip.",私は八英雄の一人、エレメンターの英雄 ＜異世界の理を識る者＞リルリップの志を守護する ＜コンドラム・グリタス＞ です。英雄の志を継ぐ方にリルリップ様の知恵をお伝えしています。
 NPC_000158,"Farewell, young one. May Lillip guide and protect you.",＜リルリップ＞の知恵が、あなたに宿りますように。
@@ -720,7 +720,7 @@ NPC_000793,"Hey, there! I am Mayun Song People are always saying I am impolite b
 NPC_000794,See ya!,バイバイ！ボクはもう少し遊んでから帰るよ。
 NPC_000795,Welcome to the Saint City Station! We provide detailed and safe flying services!,セイントモーニングのステーションへようこそ。うふふ。飛行のいろはを手取り足取り教えちゃうわよ。
 NPC_000796,"Our blood will soak the ground, and our shouts will echo across the skies. Then everything shall fall to their will.",彼らの血は大地を濡らし、彼らの雄叫びは天空を震わせる。彼らの求めに、全ては従うのよ。…彼らとは誰かって？うふふ。ひ、み、つ。スネちゃイヤよ。私の秘密だったら、いっぱい教えちゃうから。
-NPC_000797,"My name is Parine Hoavent and I am the scion of Lillip. At the moment, I am learning how to manage the Station from Tina.",私はエレメンターの英雄 ＜リルリップ＞の子孫よ。今はティナさんからステーション管理を学んでいるの。私の名前？うふふ。せっかちねえ。＜パリンノ・ホアベント＞が私の名前よ。忘れないでね。チュッ。
+NPC_000797,"My name is Parine Hoavent and I am the scion of Lillip. At the moment, I am learning how to manage the Station from Tina.",私はエレメンターの英雄 ＜リルリップ＞の子孫よ。今はティナさんからステーション管理を学んでいるの。私の名前？うふふ。せっかちねえ。＜パリンヌ・ホアベント＞が私の名前よ。忘れないでね。チュッ。
 NPC_000798,We offer special services for our customers here at Saint City Station!,うっふ～ん。あなたを100％満足させちゃう。それがセイントモーニングのステーションよ。
 NPC_000799,It is strange. It is weird. Hmm,ううむ、この調書はつじつまがあわないことだらけだ。何か隠された事実がありそうだな…ふむふむ。
 NPC_000800,"Oh! I was thinking so deeply that I did not know you were there. Yes, it is nice to meet you.",おや！考え込んでいたので、隣にいるのに気がつかなかったよ。
@@ -945,7 +945,7 @@ NPC_001674,"I'm Drico, second son of Nevil. I don't care why you are here, but y
 NPC_001675,"Go back to where you from, you human!!",フンフン。お前なんて早く帰ってしまえ！
 NPC_100000,Hello my name is Yao-Rin.,こんにちは、ヤオリンです。
 NPC_100001,Oh! you are not the group of prophetic elected officials we have been waiting for. Leave. ,あれ？私たちが予言していた人たちではないな。帰ってくれ
-NPC_100002,I am the fortune teller of the MewMew people.,私はミュウミュウ占い師です。
+NPC_100002,I am the fortune teller of the MewMew people.,私はミュウミュウ族の占い師です。
 NPC_100003,Good luck adventurer!,頑張れよ！冒険者！
 NPC_100004,Hello my name is Zaoma.,こんにちは。ザオマと申します。
 NPC_100005,Oh really! you're not who I thought you were.,そうなんですか？！私が思っていたのとは、違う人のようですね。
@@ -953,11 +953,11 @@ NPC_100006,I'm an old man.,私はもう老人じゃ。
 NPC_100007,Goodbye.,さようなら。
 NPC_100008,Hello my name is Locku.,こんにちは。ロックーと言います。
 NPC_100009,You are not our friend.,あなたは私たちと友達ではありませんよ。
-NPC_100010,I am the leader of the MewMew people.,私はミュウミュウ占い師のリーダーです。
+NPC_100010,I am the leader of the MewMew people.,私はミュウミュウ族の占い師のリーダーです。
 NPC_100011,Goodbye.,さようなら。
 NPC_100012,"Hi, I'm Letana.",こんにちは、レタナよ。
-NPC_100013,Locku has appointed me a MewMew hunter and I intend to honour him by supplying MewMew refugees with fresh game every day.,私はミュウミュウのハンターに任命されました。生活に苦しむミュウミュウに毎日新鮮な食べ物を届けに行っています。
-NPC_100014,I am the hunter of the MewMew people.,私はミュウミュウの狩人です。
+NPC_100013,Locku has appointed me a MewMew hunter and I intend to honour him by supplying MewMew refugees with fresh game every day.,私はミュウミュウ族のハンターに任命されました。生活に苦しむミュウミュウ族に毎日新鮮な食べ物を届けに行っています。
+NPC_100014,I am the hunter of the MewMew people.,私はミュウミュウ族の狩人です。
 NPC_100015,Goodbye and see you soon.,さようなら、またお会いしましょう。
 NPC_100016,Ah! Life in a tent is harder than you think.,ああ～テント生活は思っている以上に大変だ。
 NPC_100017,I am Nemra.,私はネムラ。
