@@ -370,6 +370,10 @@ CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Privates Haus NPC] Mac 
 CHARACTER_INC_140000,Couple Rings,Eheringe
 CHARACTER_INC_100104,[Life Master] Livi,[Life Meister] Livi
 CHARACTER_INC_100105,Gathering Tool,Sammelwerkzeug
+CHARACTER_INC_100190,Alchemy,Alchemy
+CHARACTER_INC_100191,Carpentry,Carpentry
+CHARACTER_INC_100192,Cooking,Cooking
+CHARACTER_INC_100193,Smithing,Smithing
 CHARACTER_INC_100106,Sovann,Sovann
 CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
 CHARACTER_INC_100108,Hyuna,Hyuna
@@ -436,3 +440,5 @@ CHARACTER_INC_155002,[Eillun Farmer] Sprout,[Eillun Farmer] Sprout
 CHARACTER_INC_155003,[Eillun Farmer] Thorn,[Eillun Farmer] Thorn
 CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[Eillun Farmer] Dr. Root
 CHARACTER_INC_155005,Musha,Musha
+CHARACTER_INC_150056,Tallahassee,Tallahassee
+CHARACTER_INC_150055,Defense House,Defense House

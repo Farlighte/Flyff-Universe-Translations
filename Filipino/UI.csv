@@ -2643,7 +2643,7 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Walang napiling resipe
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: [%s]\nKinakailangang\nSangkap:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: \nKinakailangang\nSangkap:
 UI_LIFE_PRODUCTION_TITLE,Production,Produksyon
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Antas ng Tagumpay
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,Antas ng Tagumpay
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Oras ng Produksyon bawat Siklo
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Kinakailangang Kasanayan: %d\nKinakailangang Pamagat: 
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Sangkap
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,Uminom
 UI_LIFE_RECIPE_CATEGORY_2,Pills,Pills
 UI_ALL,All,Lahat
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Magdagdag ng mga materyal na item upang makagawa. Kung walang napiling resipe, susubukan ang isang nakatagong resipe. Kapag gumagawa nang random, isang pagtatangka lamang sa produksyon ang gagawin."
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.","Magdagdag ng mga materyal na item upang makagawa. Kung walang napiling resipe, susubukan ang isang nakatagong resipe. Kapag gumagawa nang random, isang pagtatangka lamang sa produksyon ang gagawin."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Produksyon ay kasalukuyang isinasagawa.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Natitirang Oras
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,Item ay ginagamit agad.
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,Herb na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Herbs.
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Karaniwang hitsura ng herb. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Herbs.
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,Puno na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Puno.
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Karaniwang hitsura ng Puno. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Puno.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,Mineral na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Mineral.
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Karaniwang hitsura ng Mineral. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Mineral.
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,Herb na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Herbs.
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,Karaniwang hitsura ng herb. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Herbs.
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,Puno na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Puno.
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,Karaniwang hitsura ng Puno. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Puno.
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,Mineral na makikita mo kahit saan. Maaari kang makakuha ng Karaniwang Mineral.
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,Karaniwang hitsura ng Mineral. Maaari kang makakuha ng Karaniwang-Hindi Karaniwang Mineral.
 UI_PRODUCTION_INGREDIENT,Ingredients,Sangkap
 UI_PRODUCTION_FOOD,Food,Pagkain
 UI_PRODUCTION_BUFF,Buffs,Buffs
@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Bilang ng Tagu
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Antas ng Tagumpay:
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Pag-upgrade ng Produksyon
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Mangyaring irehistro ang mga materyal na item.
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,"Maaari kang makakuha ng isang item na mas mataas na antas sa pamamagitan ng paglalagay ng tiyak na dami ng mga item sa produksyon.\nRatio ng palitan: D:C=10:1, C:B=15:1, B:A=20:1"
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,"Maaari kang makakuha ng isang item na mas mataas na antas sa pamamagitan ng paglalagay ng tiyak na dami ng mga item sa produksyon.\nRatio ng palitan: D:C=10:1, C:B=15:1, B:A=20:1"
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Pag-refresh ng Tindahan
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Gusto mo bang gamitin ang Wandering Shop Refresh Ticket upang i-refresh ang tindahan?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Gamitin ang %s upang i-refresh ang mga item
@@ -2728,13 +2728,13 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Mga Gantimpala
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Mga Pamagat ng Tagumpay
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Mga Pamagat na Malayang
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,natitirang oras : \n%dday(s) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Halamang-gamot na may natatanging bango. Maaari kang makakuha ng karaniwan hanggang bihirang mga halamang-gamot.
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,Halamang-gamot na may natatanging bango. Maaari kang makakuha ng karaniwan hanggang bihirang mga halamang-gamot.
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,Halamang-gamot na mahirap hanapin. Maaari kang makakuha ng karaniwan hanggang napakabihirang mga halamang-gamot.
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,Alamat na Halamang-gamot na iilan lamang ang nakakita. Maaari kang makakuha ng Bihira hanggang Napakabihirang mga halamang-gamot.
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Puno na may natatanging hitsura. Maaari kang makakuha ng karaniwan hanggang bihirang mga puno.
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,Puno na may natatanging hitsura. Maaari kang makakuha ng karaniwan hanggang bihirang mga puno.
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,Puno na mahirap hanapin. Maaari kang makakuha ng karaniwan hanggang napakabihirang mga puno.
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,Alamat na Puno na iilan lamang ang nakakita. Maaari kang makakuha ng Bihira hanggang Napakabihirang mga puno.
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Mineral na may natatanging hitsura. Maaari kang makakuha ng karaniwan hanggang bihirang mga mineral.
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,Mineral na may natatanging hitsura. Maaari kang makakuha ng karaniwan hanggang bihirang mga mineral.
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Mineral na mahirap hanapin. Maaari kang makakuha ng karaniwan hanggang napakabihirang mga mineral.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Alamat na Mineral na iilan lamang ang nakakita. Maaari kang makakuha ng Bihira hanggang Napakabihirang mga mineral.
 UI_LIFE_PRODUCTION_START,Production Start,Simulan ang produksyon
@@ -2742,8 +2742,9 @@ UI_LIFE_CRAFT_START,Start,Start
 UI_LIFE_CRAFT_STOP,Stop,Stop
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% reduction applied)
 UI_LIFE_CRAFT_RESET,Reset,Reset
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Kapag nagsimula na ang produksyon, hindi na ito maaaring kanselahin. Nais mo bang magpatuloy sa pagsisimula ng produksyon?\n\n#cffffc000Kinakailangang oras ng produksyon: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Kapag nagsimula na ang produksyon, hindi na ito maaaring kanselahin. Nais mo bang magpatuloy sa pagsisimula ng produksyon?\n\n#cffffc000Kinakailangang oras ng produksyon: %s~%s#nc"
+UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,"Kapag nagsimula na ang produksyon, hindi na ito maaaring kanselahin. Nais mo bang magpatuloy sa pagsisimula ng produksyon?\n\n#cffffc000Kinakailangang oras ng produksyon: %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,"Kapag nagsimula na ang produksyon, hindi na ito maaaring kanselahin. Nais mo bang magpatuloy sa pagsisimula ng produksyon?\n\n#cffffc000Kinakailangang oras ng produksyon: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Paghuhukay. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Paggugupit ng Kahoy. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Pangingisda. #cffc32f07#b%d/%d#nb#nc
@@ -3490,3 +3491,17 @@ UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC Championship Pass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Daily reward: %d / %d claimed today
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."
+UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
+UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
+UI_ZD_STATE_PREPARE,Get ready,Get ready
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
+UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
+UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds
