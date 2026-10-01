@@ -2643,7 +2643,7 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Nenhuma receita selecionada
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Required Mastery: %d\nRequired Ingredients:
 UI_LIFE_PRODUCTION_TITLE,Production,Produção
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Success Rate
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,Success:
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Production Time Per Cycle
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Required Mastery: %d
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Ingredients
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,Bebida
 UI_LIFE_RECIPE_CATEGORY_2,Pills,Pills
 UI_ALL,All,Todos
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.","When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Remaining Time
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,Duration is reduced.
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,Common herb found throughout the world. Yields Common herbs.
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Common herb with a typical appearance. Yields Common-Uncommon herbs.
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,Tree commonly found throughout the world. Yields Common logs.
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Tree with a typical appearance. Yields Common-Uncommon logs.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Rock with a typical appearance. Yields Common-Uncommon ores.
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,A herb commonly found anywhere. You can obtain C-grade herbs.
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,A herb with a distinctive scent. You can obtain B-grade herbs.
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,A tree commonly found anywhere. You can obtain C-grade wood.
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,An unusually shaped tree. You can obtain B-grade wood.
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,An ore commonly found anywhere. You can obtain C-grade ores.
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,An unusually shaped ore. You can obtain B-grade ores.
 UI_PRODUCTION_INGREDIENT,Ingredients,Ingredients
 UI_PRODUCTION_FOOD,Food,Alimentos
 UI_PRODUCTION_BUFF,Buffs,Buffs
@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Succ
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Product Upgrade
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Please insert the material items.
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Use %s to refresh the shop inventory
@@ -2728,13 +2728,13 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Rewards
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,remaining time: \n%d day(s) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Herb with a unique fragrance. Yields Common-Rare herbs.
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,A rare herb that is difficult to find. You can obtain A-grade herbs.
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,Rare herb that is difficult to find. Yields Common-Very Rare herbs.
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,Legendary herb known to few. Yields Rare-Very Rare herbs.
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Tree with a unique appearance. Yields Common-Rare logs.
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,A rare tree that is difficult to find. You can obtain A-grade wood.
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,Rare tree that is difficult to find. Yields Common-Very Rare logs.
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,Legendary tree known to few. Yields Rare-Very Rare logs.
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Rock with a unique appearance. Yields Common-Rare ores.
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,A rare ore that is difficult to find. You can obtain A-grade ores.
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
 UI_LIFE_PRODUCTION_START,Production Start,Production Start
@@ -2742,8 +2742,9 @@ UI_LIFE_CRAFT_START,Start,Start
 UI_LIFE_CRAFT_STOP,Stop,Stop
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% reduction applied)
 UI_LIFE_CRAFT_RESET,Reset,Reset
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
+UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Catch Fish #cffc32f07#b%d/%d#nb#nc
@@ -3490,3 +3491,17 @@ UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC Championship Pass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Daily reward: %d / %d claimed today
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."
+UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
+UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
+UI_ZD_STATE_PREPARE,Get ready,Get ready
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
+UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
+UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds

@@ -2643,7 +2643,7 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,尚未選擇配方
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,需求精通：%d\n需求稱號：[%s]\n所需材料：
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,需求精通：%d\n所需材料：
 UI_LIFE_PRODUCTION_TITLE,Production,製作
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,成功率
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,成功率
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,每輪製作時間
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],需求精通：%d\n需求稱號：[%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,需求精通：%d
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,材料
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,飲品
 UI_LIFE_RECIPE_CATEGORY_2,Pills,藥丸
 UI_ALL,All,全部
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.",放入材料道具即可進行製作。若未選擇配方，將嘗試隱藏配方。隨機製作時僅會進行一次製作。
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.",放入材料道具即可進行製作。若未選擇配方，將嘗試隱藏配方。隨機製作時僅會進行一次製作。
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,目前正在進行製作。
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,剩餘時間
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,持續時間已縮短。
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,常見於世界各地的普通草藥。可採得普通草藥。
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,外觀一般的草藥。可採得普通～不常見草藥。
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,常見於世界各地的樹木。可獲得普通木材。
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,外觀一般的樹木。可獲得普通～不常見木材。
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,常見於世界各地的礦石。可採得普通礦石。
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,外觀一般的礦石。可採得普通～不常見礦石。
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,常見於世界各地的普通草藥。可採得普通草藥。
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,外觀一般的草藥。可採得普通～不常見草藥。
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,常見於世界各地的樹木。可獲得普通木材。
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,外觀一般的樹木。可獲得普通～不常見木材。
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,常見於世界各地的礦石。可採得普通礦石。
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,外觀一般的礦石。可採得普通～不常見礦石。
 UI_PRODUCTION_INGREDIENT,Ingredients,材料
 UI_PRODUCTION_FOOD,Food,餐飲店
 UI_PRODUCTION_BUFF,Buffs,增益
@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,成功次數�
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,成功率：
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,製作品升級
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,請放入材料道具。
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,可用低階製作品交換，有機會獲得更高階的同類道具。\n交換比例：D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,可用低階製作品交換，有機會獲得更高階的同類道具。\n交換比例：D:C = 10:1 • C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,商店刷新
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,要使用流浪商人刷新券來刷新商店內容嗎？
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,使用 %s 刷新商店內容
@@ -2728,13 +2728,13 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,獎勵
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,成就稱號
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,獨立稱號
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,剩餘時間：\n%d 天 %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,散發獨特香氣的草藥。可採得普通～稀有草藥。
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,散發獨特香氣的草藥。可採得普通～稀有草藥。
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,難以尋得的稀有草藥。可採得普通～極稀有草藥。
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,鮮為人知的傳說草藥。可採得稀有～極稀有草藥。
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,外觀獨特的樹木。可獲得普通～稀有木材。
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,外觀獨特的樹木。可獲得普通～稀有木材。
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,難以尋得的稀有樹木。可獲得普通～極稀有木材。
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,鮮為人知的傳說樹木。可獲得稀有～極稀有木材。
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,外觀獨特的礦石。可採得普通～稀有礦石。
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,外觀獨特的礦石。可採得普通～稀有礦石。
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,難以尋得的稀有礦石。可採得普通～極稀有礦石。
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,鮮為人知的傳說礦石。可採得稀有～極稀有礦石。
 UI_LIFE_PRODUCTION_START,Production Start,開始製作
@@ -2742,8 +2742,9 @@ UI_LIFE_CRAFT_START,Start,開始
 UI_LIFE_CRAFT_STOP,Stop,停止
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d 秒\n(已套用 %d%% 縮減)
 UI_LIFE_CRAFT_RESET,Reset,重設
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc",製作一旦開始便無法取消。是否繼續？\n\n#cffffc000製作時間：%s#nc
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc",製作一旦開始便無法取消。是否繼續？\n\n#cffffc000製作時間：%s~%s#nc
+UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,製作一旦開始便無法取消。是否繼續？\n\n#cffffc000製作時間：%s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,製作一旦開始便無法取消。是否繼續？\n\n#cffffc000製作時間：%s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,採礦 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,伐木 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,釣魚 #cffc32f07#b%d/%d#nb#nc
@@ -3489,4 +3490,18 @@ UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,�
 UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC 冠軍通行證
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,每日獎勵：今日已領取 %d / %d 次
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP 紀念通行證
-UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","此物品將於 2026 年 10 月 29 日維護後移除。"
+UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",此物品將於 2026 年 10 月 29 日維護後移除。
+UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
+UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
+UI_ZD_STATE_PREPARE,Get ready,Get ready
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
+UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
+UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds

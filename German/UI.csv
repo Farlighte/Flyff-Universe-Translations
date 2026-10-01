@@ -1868,7 +1868,7 @@ UI_BATTLEPASS_MISSION_PIERCING,"Attempt Piercing on Weapon, Shield, or Suit","Wa
 UI_BATTLEPASS_MISSION_ELEMENT_SMELT,Attempt Elemental Upgrade,Element Upgrade probieren
 UI_BATTLEPASS_MISSION_ELEMENT_SAFETY_SMELT,Attempt Safe Elemental Upgrade,Sicheres Upgrade (Elementar) versuchen
 UI_BATTLEPASS_MISSION_ELEMENT_SMELT_SUCCESS,Upgrade Gear Element to %s or Higher,Bringe das Element deiner Ausrüstung auf %s oder höher
-UI_BATTLEPASS_MISSION_NORMAL_SMELT,Attempt Gear or Accessory Upgrade,"Versuche Ausrüstung oder Schmuck upzugraden"
+UI_BATTLEPASS_MISSION_NORMAL_SMELT,Attempt Gear or Accessory Upgrade,Versuche Ausrüstung oder Schmuck upzugraden
 UI_BATTLEPASS_MISSION_NORMAL_SAFETY_SMELT,Attempt Safe Gear or Accessory Upgrade,Sicheres Upgrade versuchen (Normal/Acc)
 UI_BATTLEPASS_MISSION_NORMAL_SMELT_SUCCESS,Upgrade Gear or Accessory to %s or Higher,Upgrade der Ausrüstung oder des Schmucks auf %s oder mehr
 UI_BATTLEPASS_MISSION_PARTYKILLMONSTER,Kill Normal Monsters in a Party,Normale Monster mit der Gruppe töten
@@ -2643,7 +2643,7 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Kein Rezept ausgewählt
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Erforderliche Meisterschaft: %d\nErforderlicher Titel: [%s]\nErforderliche Zutaten:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Erforderliche Meisterschaft: %d\nErforderliche Zutaten:
 UI_LIFE_PRODUCTION_TITLE,Production,Produktion
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Erfolgschance
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,Erfolgschance
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Produktionszeit pro Zyklus
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Erforderliche Mastery: %d\nErforderlicher Titel: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Erforderliche Mastery: %d
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Zutaten
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,Getränke
 UI_LIFE_RECIPE_CATEGORY_2,Pills,Pillen
 UI_ALL,All,Alle
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Füge Materialgegenstände hinzu, um zu produzieren. Wenn kein Rezept ausgewählt ist, wird ein verstecktes Rezept versucht. Bei zufälliger Produktion wird nur ein Produktionsversuch unternommen."
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.","Füge Materialgegenstände hinzu, um zu produzieren. Wenn kein Rezept ausgewählt ist, wird ein verstecktes Rezept versucht. Bei zufälliger Produktion wird nur ein Produktionsversuch unternommen."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Die Produktion läuft derzeit.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Verbleibende Zeit
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,Die Dauer wird verkürzt.
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,"Gewöhnliches Kraut, das überall in der Welt zu finden ist. Liefert gewöhnliche Kräuter."
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Gewöhnliches Kraut mit typischem Aussehen. Liefert gewöhnliche bis ungewöhnliche Kräuter.
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,"Baum, der überall in der Welt häufig vorkommt. Liefert gewöhnliches Holz."
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Baum mit typischem Aussehen. Liefert gewöhnliches bis ungewöhnliches Holz.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,"Gestein, das überall in der Welt häufig vorkommt. Liefert gewöhnliches Erz."
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Gestein mit typischem Aussehen. Liefert gewöhnliches bis ungewöhnliches Erz.
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,"Gewöhnliches Kraut, das überall in der Welt zu finden ist. Liefert gewöhnliche Kräuter."
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,Gewöhnliches Kraut mit typischem Aussehen. Liefert gewöhnliche bis ungewöhnliche Kräuter.
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,"Baum, der überall in der Welt häufig vorkommt. Liefert gewöhnliches Holz."
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,Baum mit typischem Aussehen. Liefert gewöhnliches bis ungewöhnliches Holz.
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,"Gestein, das überall in der Welt häufig vorkommt. Liefert gewöhnliches Erz."
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,Gestein mit typischem Aussehen. Liefert gewöhnliches bis ungewöhnliches Erz.
 UI_PRODUCTION_INGREDIENT,Ingredients,Zutaten
 UI_PRODUCTION_FOOD,Food,Nahrung
 UI_PRODUCTION_BUFF,Buffs,Buffs
@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Anzahl der Erf
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Erfolgsquote:
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Produkt-Upgrade
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Bitte füge die Materialgegenstände ein.
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Tausche Produktionsgegenstände niedrigerer Stufe gegen die Chance auf eine höherwertige Version des Items ein.\nTauschverhältnis: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,Tausche Produktionsgegenstände niedrigerer Stufe gegen die Chance auf eine höherwertige Version des Items ein.\nTauschverhältnis: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop-Aktualisierung
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,"Ein Wandering Merchant Refresh Ticket verwenden, um das Shop-Inventar zu aktualisieren?"
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,"Verwende %s, um das Shop-Inventar zu aktualisieren"
@@ -2728,13 +2728,13 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Belohnungen
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Erfolgstitel
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Unabhängige Titel
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,verbleibende Zeit : \n%dTag(e) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Kraut mit einzigartigem Duft. Liefert gewöhnliche bis seltene Kräuter.
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,Kraut mit einzigartigem Duft. Liefert gewöhnliche bis seltene Kräuter.
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,"Seltenes Kraut, das schwer zu finden ist. Liefert gewöhnliche bis sehr seltene Kräuter."
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,"Legendäres Kraut, das nur wenigen bekannt ist. Liefert seltene bis sehr seltene Kräuter."
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Baum mit einzigartigem Aussehen. Liefert gewöhnliches bis seltenes Holz.
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,Baum mit einzigartigem Aussehen. Liefert gewöhnliches bis seltenes Holz.
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,"Seltener Baum, der schwer zu finden ist. Liefert gewöhnliches bis sehr seltenes Holz."
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,"Legendärer Baum, der nur wenigen bekannt ist. Liefert seltenes bis sehr seltenes Holz."
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Gestein mit einzigartigem Aussehen. Liefert gewöhnliches bis seltenes Erz.
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,Gestein mit einzigartigem Aussehen. Liefert gewöhnliches bis seltenes Erz.
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,"Seltenes Gestein, das schwer zu finden ist. Liefert gewöhnliches bis sehr seltenes Erz."
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,"Legendäres Gestein, das nur wenigen bekannt ist. Liefert seltenes bis sehr seltenes Erz."
 UI_LIFE_PRODUCTION_START,Production Start,Produktionsstart
@@ -2742,8 +2742,9 @@ UI_LIFE_CRAFT_START,Start,Start
 UI_LIFE_CRAFT_STOP,Stop,Stopp
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d Sek.\n(%d%% Reduzierung angewendet)
 UI_LIFE_CRAFT_RESET,Reset,Zurücksetzen
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s~%s#nc"
+UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,"Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,"Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Erz abbauen #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Bäume fällen #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Fischen. #cffc32f07#b%d/%d#nb#nc
@@ -3490,3 +3491,17 @@ UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC-Meisterschaftspass
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Tägliche Belohnung: %d / %d heute abgeholt
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."
+UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
+UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
+UI_ZD_STATE_PREPARE,Get ready,Get ready
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
+UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
+UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds

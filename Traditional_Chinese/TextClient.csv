@@ -901,7 +901,7 @@ TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,Lv.165 公會�
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s 已發送到你的背包或信箱。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",現在起可透過布拉里斯的阿特拉斯進入 Lv.80 公會戰場。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",現在起可透過布拉里斯的奧莉薇亞進入 Lv.60 公會戰場。
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.","現在起可透過布拉里斯的普倫進入 Lv.165 公會戰場。"
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.",現在起可透過布拉里斯的普倫進入 Lv.165 公會戰場。
 TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,另一場公會戰正在進行。
 TEXTCLIENT_SKILL_ROOT,You cannot move right now.,你現在無法移動。
 TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s 倒下了！
@@ -921,7 +921,17 @@ TEXTCLIENT_DUNGEON_CLOSING,The previous instance is closing. Please wait a momen
 TEXTCLIENT_DUNGEON_GROUP_FULL,This dungeon does not allow more than %d group members.,此副本最多允許 %d 名劇團成員。
 TEXTCLIENT_DUNGEON_NOENTRY,Entrance is not allowed for now.,目前無法進入。
 TEXTCLIENT_DUNGEON_KILL_TIMER,%d minute(s) remaining to clear %d monsters,剩餘 %d 分鐘清除 %d 個怪物
+TEXTCLIENT_DUNGEON_PROGRESS_SEC,%s for %d seconds,%s for %d seconds
+TEXTCLIENT_DUNGEON_PROGRESS_MIN,%s for %d minute(s),%s for %d minute(s)
+TEXTCLIENT_DUNGEON_PROGRESS_MINSEC,%s for %d minute(s) %d seconds,%s for %d minute(s) %d seconds
 TEXTCLIENT_DUNGEON_TIMEOUT,"Time is up, you failed the dungeon...",時間到了，你挑戰副本失敗了…
+TEXTCLIENT_ZD_HOUSE_DESTROYED,Defense failed — the house has been destroyed.,Defense failed — the house has been destroyed.
+TEXTCLIENT_ZD_DEFENSE_SUCCESS,Defense successful — pick up your reward at the house!,Defense successful — pick up your reward at the house!
+TEXTCLIENT_ZD_INTRO_1,Defeat the zombies and rescue the village!,Defeat the zombies and rescue the village!
+TEXTCLIENT_ZD_INTRO_2,Defeat enough zombies and a special statue that grants a skill will appear.,Defeat enough zombies and a special statue that grants a skill will appear.
+TEXTCLIENT_ZD_INTRO_3,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.,Use the statue's skill to fight — but the skill is lost if the statue is destroyed.
+TEXTCLIENT_ZD_ADDITIONAL_REWARD,House HP at %d%% — earned %d additional reward(s)!,House HP at %d%% — earned %d additional reward(s)!
+TEXTCLIENT_ZD_NEXT_WAVE,The next wave starts in %d seconds!,The next wave starts in %d seconds!
 TEXTCLIENT_LACKITEM,You do not have the required items.,你沒有所需的物品。
 TEXTCLIENT_DUNGEON_ENTER,Prepare yourself!,做好準備！
 TEXTCLIENT_DUNGEON_CHANNEL,Your dungeon is running on another channel.,你的副本正在另一個頻道上進行。
@@ -1013,7 +1023,7 @@ TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC 
 TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,FWC PVP 比賽報名將在一小時後截止！請確保你的公會已報名參賽！
 TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,取得你選擇的參賽清單時出錯，請重試。
 TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,你必須選擇一場比賽。
-TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","感謝你的確認，下一場比賽將於今天 %s 開始。"
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.",感謝你的確認，下一場比賽將於今天 %s 開始。
 TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.",在 FWC PVP 比賽期間無法使用成員管理功能，或者你正在嘗試編輯已選定註冊的成員。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,在 FWC PVP 比賽中，你無法變更公會名稱。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,在 FWC PVP 比賽中，你無法更改公會徽章。
@@ -1432,6 +1442,7 @@ TEXTCLIENT_PRODUCTIONREDUCTION_FAIL,Failed to use the production reduction item.
 TEXTCLIENT_PRODUCTION_FAIL_INGREDIENT_COUNT,You do not have enough ingredients.,你的材料不足。
 TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,無法檢查你的材料。
 TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,你已經在生產此物品。
+TEXTCLIENT_PRODUCTION_FAIL_CANCEL_LEGACY,This production was started before the crafting update and cannot be stopped. It will complete normally.,This production was started before the crafting update and cannot be stopped. It will complete normally.
 TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,生產時間已縮短 %d 分鐘。
 TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,流浪商店庫存已成功更新。
 TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.",背包空間不足，需要 %d 個空欄位。
