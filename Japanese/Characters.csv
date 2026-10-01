@@ -370,6 +370,10 @@ CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[パーソナルハウ�
 CHARACTER_INC_140000,Couple Rings,カップルリング
 CHARACTER_INC_100104,[Life Master] Livi,[ライフマスター] リヴィ
 CHARACTER_INC_100105,Gathering Tool,採集ツール
+CHARACTER_INC_100190,Alchemy,Alchemy
+CHARACTER_INC_100191,Carpentry,Carpentry
+CHARACTER_INC_100192,Cooking,Cooking
+CHARACTER_INC_100193,Smithing,Smithing
 CHARACTER_INC_100106,Sovann,ソヴァン
 CHARACTER_INC_100107,[Event] Mr.Kang,[イベント] Mr.カン
 CHARACTER_INC_100108,Hyuna,ヒュナ
@@ -436,3 +440,5 @@ CHARACTER_INC_155002,[Eillun Farmer] Sprout,[エルリウン栽培員] スプラ
 CHARACTER_INC_155003,[Eillun Farmer] Thorn,[エルリウン農夫] ソーン
 CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[エルリウン研究者] Dr.ルート
 CHARACTER_INC_155005,Musha,ムシャ
+CHARACTER_INC_150056,Tallahassee,Tallahassee
+CHARACTER_INC_150055,Defense House,Defense House

@@ -2643,7 +2643,7 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,レシピが選択されていま�
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,必要マスタリー：%d\n必要称号：[%s]\n必要材料：
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,必要マスタリー：%d\n必要材料：
 UI_LIFE_PRODUCTION_TITLE,Production,制作
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,成功率
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success:,成功率
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,1回あたりの制作時間
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],必要マスタリー：%d\n必要称号：[%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,必要マスタリー：%d
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,材料
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,飲み物
 UI_LIFE_RECIPE_CATEGORY_2,Pills,錠剤
 UI_ALL,All,全て
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.",制作する材料アイテムを追加してください。レシピが選択されていない場合、隠しレシピが試行されます。ランダム制作の場合、制作は1回のみ試行されます。
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.",制作する材料アイテムを追加してください。レシピが選択されていない場合、隠しレシピが試行されます。ランダム制作の場合、制作は1回のみ試行されます。
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,現在制作中です。
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,残り時間
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,制作時間が短縮されます。
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,世界中で見られる一般的な薬草。コモン品質の薬草が採取できます。
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,ありふれた外見の薬草。コモン〜アンコモン品質の薬草が採取できます。
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,世界中で見られる一般的な木。コモン品質の木材が採取できます。
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,ありふれた外見の木。コモン〜アンコモン品質の木材が採取できます。
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,世界中で見られる一般的な岩石。コモン品質の鉱石が採取できます。
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,ありふれた外見の岩石。コモン〜アンコモン品質の鉱石が採取できます。
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,世界中で見られる一般的な薬草。コモン品質の薬草が採取できます。
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,ありふれた外見の薬草。コモン〜アンコモン品質の薬草が採取できます。
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,世界中で見られる一般的な木。コモン品質の木材が採取できます。
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,ありふれた外見の木。コモン〜アンコモン品質の木材が採取できます。
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,世界中で見られる一般的な岩石。コモン品質の鉱石が採取できます。
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,ありふれた外見の岩石。コモン〜アンコモン品質の鉱石が採取できます。
 UI_PRODUCTION_INGREDIENT,Ingredients,材料
 UI_PRODUCTION_FOOD,Food,フード類
 UI_PRODUCTION_BUFF,Buffs,バフ
@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,成功回数�
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,成功率：
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,プロダクトアップグレード
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,材料アイテムを入れてください。
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,下位グレードの制作アイテムを交換し、上位グレードのアイテムを入手できる可能性があります。\n交換比率：D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,下位グレードの制作アイテムを交換し、上位グレードのアイテムを入手できる可能性があります。\n交換比率：D:C = 10:1 • C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,ショップ更新
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Wandering Merchant Refresh Ticketを使用して、ショップの在庫を更新しますか？
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,%sを使用してショップの在庫を更新
@@ -2728,13 +2728,13 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,報酬
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,実績称号
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,個別称号
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,残り時間：\n%d日 %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,独特の香りを持つ薬草。コモン〜レア品質の薬草が採取できます。
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,独特の香りを持つ薬草。コモン〜レア品質の薬草が採取できます。
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,見つけるのが難しい希少な薬草。コモン〜ベリーレア品質の薬草が採取できます。
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,ごく一部にしか知られていない伝説の薬草。レア〜ベリーレア品質の薬草が採取できます。
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,独特な外見の木。コモン〜レア品質の木材が採取できます。
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,独特な外見の木。コモン〜レア品質の木材が採取できます。
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,見つけるのが難しい希少な木。コモン〜ベリーレア品質の木材が採取できます。
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,ごく一部にしか知られていない伝説の木。レア〜ベリーレア品質の木材が採取できます。
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,独特な外見の岩石。コモン〜レア品質の鉱石が採取できます。
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,独特な外見の岩石。コモン〜レア品質の鉱石が採取できます。
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,見つけるのが難しい希少な岩石。コモン〜ベリーレア品質の鉱石が採取できます。
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,ごく一部にしか知られていない伝説の岩石。レア〜ベリーレア品質の鉱石が採取できます。
 UI_LIFE_PRODUCTION_START,Production Start,制作開始
@@ -2742,8 +2742,9 @@ UI_LIFE_CRAFT_START,Start,開始
 UI_LIFE_CRAFT_STOP,Stop,停止
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d秒\n（%d%%短縮適用）
 UI_LIFE_CRAFT_RESET,Reset,リセット
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc",制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s#nc
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc",制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s~%s#nc
+UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,鉱石採掘 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,伐採 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,釣り #cffc32f07#b%d/%d#nb#nc
@@ -3490,3 +3491,17 @@ UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWCチャンピオンシップ�
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,本日の報酬：%d / %d 受け取り済み
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP記念パス
 UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",このアイテムは、2026年10月29日のメンテナンス後に削除されます。
+UI_ZD_EVENT_SKILLS,Event Skills,Event Skills
+UI_ZD_NEXT_SKILL_ADD,Next skill add:,Next skill add:
+UI_ZD_HOUSE_HP,House HP %d / %d,House HP %d / %d
+UI_ZD_STATE_PREPARE,Get ready,Get ready
+UI_ZD_STATE_WAVE_1,Defend the house against Wave 1,Defend the house against Wave 1
+UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,Defend the house against Wave 2
+UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,Defend the house against Wave 3
+UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,Defend the house against Wave 4
+UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,Defend the house against Wave 5
+UI_ZD_STATE_REWARD,Pick up your reward at the house,Pick up your reward at the house
+UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Defense Successful!
+UI_ZD_DEFENSE_FAILED,Defense Failed!,Defense Failed!
+UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Pick up your reward at the house!
+UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Returning to town in: %d seconds
