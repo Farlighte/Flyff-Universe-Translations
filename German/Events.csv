@@ -1,8 +1,8 @@
 ﻿Key,English,German
 UI_EVENT_EXPBOOST,EXP Boost!,EXP Boost!
-UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,Zubehör Aufrüsten!
+UI_EVENT_ACCESSORYUPGRADE,Accessory Upgrading!,Schmuck upgraden!
 UI_EVENT_WEAPONPIERCING,Weapon Piercing!,Waffe sockeln!
-UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,Gruppe-EXP-Boost!
+UI_EVENT_PARTYEXPBOOST,Party EXP Boost!,Party-EXP-Boost!
 UI_EVENT_GOLDENAIBATT,Find the Golden Aibatt!,Finde den Goldenen Aibatt!
 UI_EVENT_GOLDENAIBATT_DESC,Kill the Golden Aibatt in dungeons and get drop bonuses!,Töte das Goldene Aibatt in Dungeons und erhalte Drop Boni!
 UI_EVENT_NIGHTBOOST,Night Boost!,Nacht Boost!
@@ -28,7 +28,7 @@ UI_EVENT_FWC_LEVELREACH_DESC,Reach new levels during the event period and receiv
 UI_EVENT_FWC_GEAREXCHANGE_DESC,Exchange FWC Gear with [FWC Manager] Ava to get more rewards!,"Tausche FWC-Ausrüstung bei Ava, der [FWC-Managerin], um weitere Belohnungen zu erhalten!"
 UI_EVENT_FWC_DESC,The #bFlyff World Championship#nb is a global competition. Join this server with boosted EXP and Drops and compete for exceptional prizes!,"Die #bFlyff Weltmeisterschaft#nb ist ein globaler Wettbewerb, der bis zum 7. September 2023 stattfindet. Tritt diesem Server mit erhöhter Exp und Drops bei und versuche, außergewöhnliche Preise zu gewinnen!"
 UI_EVENT_MOCOMOCHI,Mocomochi!,Mocomochi!
-UI_EVENT_UPGRADING,Upgrading!,Aufwerten!
+UI_EVENT_UPGRADING,Upgrading!,Upgraden!
 UI_EVENT_LUCKYCAPSULE,Lucky Draw!,Glücksauslosung
 UI_EVENT_LUCKYCAPSULE_DESC,"Earn coins by defeating monsters or completing quests, then spend them at the Gacha Machine to receive exceptional rewards!","Verdiene Münzen, indem du Monster besiegst oder Quests für den Gacha Maschine NPC erledigst, und erhalte außergewöhnliche Belohnungen!"
 UI_EVENT_DROPBOOST,Drop Boost!,Drop Boost!
@@ -109,8 +109,8 @@ UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 addit
 UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3. Jubiläums-Event: Field Boss
 UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Vorhersage Event
 UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC-Meisterschaft Vorhersage-Event!
-UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,Es ist Zeit zum Aufwerten!
-UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,"Erreiche während des Events einmal jede Aufwertungsstufe von 1 bis 10, um Belohnungen zu erhalten. Wenn du alle 10 Stufen abgeschlossen hast, erhältst du eine Auswahlbox für ein Ultimatives Accessoire."
+UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,Es ist Zeit zum Upgraden!
+UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,"Erreiche während des Events einmal jede Upgradestufe von 1 bis 10, um Belohnungen zu erhalten. Wenn du alle 10 Stufen abgeschlossen hast, erhältst du eine Auswahlbox für ein Ultimatives Schmuckteil."
 UI_EVENT_PTS,Public Test Server,Öffentlicher Testserver
 UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","Die Raten sind erhöht, die Dungeon-Abklingzeiten sind reduziert und vieles mehr! Für weitere Informationen besuche den Discord."
 UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026 Valentine's Day

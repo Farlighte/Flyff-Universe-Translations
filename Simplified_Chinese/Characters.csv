@@ -21,7 +21,7 @@ CHARACTER_INC_000075,Ismeralda,依丝美达
 CHARACTER_INC_000083,Flaris Pang,帕里胖胖
 CHARACTER_INC_000091,Jeff,杰夫
 CHARACTER_INC_000099,[High-Dwarpet] Tucani,[高阶矮人族] 哆卡
-CHARACTER_INC_000101,[Jester Wise-man] Radyon,[智愚贤者] 雷迪恩
+CHARACTER_INC_000101,[Jester Wise-man] Radyon,[暗杀者贤者] 雷迪恩
 CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[游侠贤者] 基梅尔
 CHARACTER_INC_000111,[Pepoview] Brodeay,[帕佩团] 布罗威
 CHARACTER_INC_000113,[Pepoview] Ruminerr,[帕佩团] 拉美纳
@@ -75,9 +75,9 @@ CHARACTER_INC_000292,Roocky,鲁奇
 CHARACTER_INC_000298,Remine,雷蒙
 CHARACTER_INC_000304,Krinton,克林特
 CHARACTER_INC_000305,Shields,盾
-CHARACTER_INC_000310,Dr. Est,Dr. 依斯特
-CHARACTER_INC_000312,Dr. Estly,Dr. 依斯特里
-CHARACTER_INC_000314,Dr. Estern,Dr. 依斯腾
+CHARACTER_INC_000310,Dr. Est,依斯特博士
+CHARACTER_INC_000312,Dr. Estly,依斯特里博士
+CHARACTER_INC_000314,Dr. Estern,依斯腾博士
 CHARACTER_INC_000316,Darkon Pang II,达肯3胖胖
 CHARACTER_INC_000318,Kablloc,卡布洛
 CHARACTER_INC_000324,Chenbing,查宾
@@ -189,9 +189,9 @@ CHARACTER_INC_000580,Ryupang,鲁班
 CHARACTER_INC_000582,[Psykeeper Priest] Pereb,[精神使者祭司] 安得利尔
 CHARACTER_INC_000584,[Psykeeper Guardian] Shyniff,[精神使者护侍] 夏尼普
 CHARACTER_INC_000586,[Elementor Master] Horison,[元素使者首领] 赫雷森
-CHARACTER_INC_000588,[Elementor Wise-man] Cuzrill,[元素使者守贤者] 可滋利
+CHARACTER_INC_000588,[Elementor Wise-man] Cuzrill,[元素使者贤者] 可滋利
 CHARACTER_INC_000590,Parine,佩琳
-CHARACTER_INC_000592,[Elementor Priest] Condram,[元素使者守祭司] 柯登皮斯
+CHARACTER_INC_000592,[Elementor Priest] Condram,[元素使者祭司] 柯登皮斯
 CHARACTER_INC_000594,[Elementor Guardian] Wendien,[元素使者护侍] 文嫡凌
 CHARACTER_INC_000596,Tomba,特巴
 CHARACTER_INC_000598,Eoners,伊那艾

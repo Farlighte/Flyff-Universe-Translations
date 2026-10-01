@@ -2957,21 +2957,21 @@ PROPITEM_TXT_005106,Dragon Cloak of the Master,野望のドラゴンマント
 PROPITEM_TXT_005107,The Master's Dragon Cloak increases all base stats by +7 and HP Max by +300. The Seal of the Dragon is prominently displayed.,野望のドラゴンマントは、すべてのステータスが+7、最大HPが300増加します。ドラゴンの紋章が際立つ。
 PROPITEM_TXT_005108,Dragon Cloak of the Hero,至尊のドラゴンマント
 PROPITEM_TXT_005109,The Hero's Dragon Cloak increases all base stats by +8 and HP Max by +400. The Seal of the Dragon is prominently displayed.,英雄のドラゴンマントは、すべてのステータスが+8、最大HPが400増加します。ドラゴンの紋章がより一層際立つ。
-PROPITEM_TXT_005114,Blinkwing of Flaris,ブリンクウイング(フラリス)
+PROPITEM_TXT_005114,Blinkwing of Flaris,ブリンクウイング (フラリス)
 PROPITEM_TXT_005115,Teleport to Flaris,フラリスに移動できるブリンクウイング
-PROPITEM_TXT_005116,Blinkwing of Saint Morning,ブリンクウイング(セイントモーニング)
+PROPITEM_TXT_005116,Blinkwing of Saint Morning,ブリンクウイング (セイントモーニング)
 PROPITEM_TXT_005117,Teleport to Saint Morning,セイントモーニングに移動できるブリンクウイング
 PROPITEM_TXT_005118,Town Blinkwing,ブリンクウイング
 PROPITEM_TXT_005119,Teleport to the nearest town,一番近くの街に移動できるブリンクウイング
-PROPITEM_TXT_005120,Blinkwing of Darkon,ブリンクウイング(ダーコン)
+PROPITEM_TXT_005120,Blinkwing of Darkon,ブリンクウイング (ダーコン)
 PROPITEM_TXT_005121,Teleport to Darkon,ダーコンに移動できるブリンクウイング
-PROPITEM_TXT_005122,Blinkwing of Darkon 1,ブリンクウイング(ダーコン1)
+PROPITEM_TXT_005122,Blinkwing of Darkon 1,ブリンクウイング (ダーコン1)
 PROPITEM_TXT_005123,Teleport to Darkon 1,ダーコン1に移動できるブリンクウイング
-PROPITEM_TXT_005124,Blinkwing of Darkon 3,ブリンクウイング(ダーコン3)
+PROPITEM_TXT_005124,Blinkwing of Darkon 3,ブリンクウイング (ダーコン3)
 PROPITEM_TXT_005125,Teleport to Darkon 3,ダーコン3に移動できるブリンクウイング
-PROPITEM_TXT_005126,Blinkwing of Dekane,ブリンクウイング(デェカネスダンジョン)
+PROPITEM_TXT_005126,Blinkwing of Dekane,ブリンクウイング (デェカネス鉱山)
 PROPITEM_TXT_005127,Teleport to the Dekane Mine,デェカネスダンジョンの入口に移動できるブリンクウイング
-PROPITEM_TXT_005128,Blinkwing of Mars,ブリンクウイング(フラリスダンジョン)
+PROPITEM_TXT_005128,Blinkwing of Mars,ブリンクウイング (フラリスダンジョン)
 PROPITEM_TXT_005129,Teleport to the Mars Dungeon,フラリスダンジョンの入口に移動できるブリンクウイング
 PROPITEM_TXT_005130,Magic Broom,マジック・ブルーム
 PROPITEM_TXT_005131,The most basic Flying Broom. Maximum Speed: 29 km/h.,最もベーシックな空飛ぶほうき。(最高速度:29 km/h)
@@ -6574,9 +6574,9 @@ PROPITEM_TXT_022299,Golden Cherub Wings,ゴールデンエンジェリックウ�
 PROPITEM_TXT_022300,"A set of angelic wings, which give you the appearance of a cherub. You can't fly with them, though.",天使のような翼が入っているセットで、智天使のような見た目になれます。ただし、空を飛ぶことはできないようです。
 PROPITEM_TXT_100152,Scroll of Return Town,街戻りの巻物
 PROPITEM_TXT_100153,Teleport to one of the towns and return later where the scroll was activated.,いずれかの街にテレポートして、また元の位置へ戻ることができる巻物。
-PROPITEM_TXT_100154,Nearest Town Blinkwing,ブリンクウイング(付近の街)
+PROPITEM_TXT_100154,Nearest Town Blinkwing,ブリンクウイング (付近の街)
 PROPITEM_TXT_100155,Teleport to the town of your choice,好きな街にテレポートできます。
-PROPITEM_TXT_100156,Blinkwing of Madrigal,ブリンクウイング(マドリガル)
+PROPITEM_TXT_100156,Blinkwing of Madrigal,ブリンクウイング (マドリガル)
 PROPITEM_TXT_100157,Teleport to the place of your choice! Some places have a minimum level requirement.,好きな場所にテレポートしよう! 場所によっては、必要レベルが決まっています。
 PROPITEM_TXT_100158,Entanale Box,エンタナルボックス
 PROPITEM_TXT_100159,Select which Entanale Weapon you want to receive!,お好きなエンタナル武器をチョイス！
@@ -11505,14 +11505,14 @@ PROPITEM_TXT_010032,Ink Pouch,巨大な墨袋
 PROPITEM_TXT_010033,A quest item acquired from Krakens in Coral Island. Don't get it on your clothes!,クラーケンから入手した墨袋。服に付かないように気をつけて! (クエストアイテム)
 PROPITEM_TXT_010034,Crab Shell,カニの甲羅
 PROPITEM_TXT_010035,A quest item acquired from Crepers in Coral Island. There's a little bit of meat left inside.,シザークラブから剥ぎ取った甲羅。美味しい身がまだ少しだけ残っている。(クエストアイテム)
-PROPITEM_TXT_010036,Crumbly Hair,バサバサな髪の毛
-PROPITEM_TXT_010037,A quest item acquired from Nagas in Coral Island. The hair is coarse and dry.,ナーガ族を象徴する、硬くてごわごわした髪の束。(クエストアイテム)
+PROPITEM_TXT_010036,Crumbly Hair,ごわごわした髪
+PROPITEM_TXT_010037,A quest item acquired from Nagas in Coral Island. The hair is coarse and dry.,ナーガ族を象徴する、硬くてパサついた髪の束。(クエストアイテム)
 PROPITEM_TXT_010038,Broken Wings,折れた翼
 PROPITEM_TXT_010039,A quest item acquired from Atrox in Coral Island. These wings are slightly sticky.,アトロックスが落とした少しベトベトする薄い羽根。(クエストアイテム)
 PROPITEM_TXT_010040,Great Crown,豪華な王冠
 PROPITEM_TXT_010041,A quest item acquired from Okeans in Coral Island. Their crowns represent social status within their respective groups.,オケアノスが被っている王冠。豪華な装飾が施されている。(クエストアイテム)
-PROPITEM_TXT_010042,Sharp Canine,獣王の牙
-PROPITEM_TXT_010043,"A quest item acquired from Tigars in Coral Island. The tooth is covered in blood from a past victim. Ironic, isn't it?",タイガーから剥ぎ取った牙。かつての犠牲者たちの血がこびりついているが…。(クエストアイテム)
+PROPITEM_TXT_010042,Sharp Canine,タイガーの鋭牙
+PROPITEM_TXT_010043,"A quest item acquired from Tigars in Coral Island. The tooth is covered in blood from a past victim. Ironic, isn't it?",タイガーから剥ぎ取った牙。かつての犠牲者たちの血がこびりついているが... (クエストアイテム)
 PROPITEM_TXT_010044,Keen Tooth,鋭い歯
 PROPITEM_TXT_010045,A quest item acquired from Dorians in Coral Island. The tooth appears as though it has been polished.,ドリアンから剥ぎ取った歯。意外と丁寧に磨かれているようだ。(クエストアイテム)
 PROPITEM_TXT_010046,Gogloo,丈夫なゴーグル
@@ -12519,26 +12519,26 @@ PROPITEM_TXT_123048,Yo-Yo of the Scorched Dragon,スコーチドドラゴンの�
 PROPITEM_TXT_123049,Bow of the Scorched Dragon,スコーチドドラゴンの弓
 PROPITEM_TXT_123050,Big Axe of the Scorched Dragon,スコーチドドラゴンの大斧
 PROPITEM_TXT_123051,Big Sword of the Scorched Dragon,スコーチドドラゴンの大剣
-PROPITEM_TXT_160000,Pristine Pirate Lens,手付かずの海賊レンズ
-PROPITEM_TXT_160001,An enhanced set of goggles rarely found on a Meral.,メレーではめったに見られない強化されたゴーグルのセット。
-PROPITEM_TXT_160002,Gigantic Feline Fang,ジャイアントタイガーの牙
-PROPITEM_TXT_160003,A gigantic fang from the mouth of a Giant Tigar.,ジャイアントタイガーの巨大な牙。
+PROPITEM_TXT_160000,Pristine Pirate Lens,上質な海賊レンズ
+PROPITEM_TXT_160001,An enhanced set of goggles rarely found on a Meral.,メレーが身につけている、上質なゴーグルのレンズ。(クエストアイテム)
+PROPITEM_TXT_160002,Gigantic Feline Fang,巨大なタイガーの牙
+PROPITEM_TXT_160003,A gigantic fang from the mouth of a Giant Tigar.,ロード・タイガーの口から抜け落ちた、巨大な牙。(クエストアイテム)
 PROPITEM_TXT_160004,Purple Pirate Insignia,紫の海賊記章
-PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,バイオレット・メレーの体に見られる紫色の魔術のエッセンス。
-PROPITEM_TXT_160006,Island Bait,アイランドベイト
-PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,ナーガのガードを下げるためにパウパウが作ったおいしい餌。
-PROPITEM_TXT_160008,Evidence of Victory,勝利の証拠
-PROPITEM_TXT_160009,Remains of the Naga you've defeated to help the village of Coral Island.,コーラルアイランドの村を助けるために倒したナーガの残骸。
+PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,バイオレット・メレーから見つかった、紫の魔力を宿す物体。(クエストアイテム)
+PROPITEM_TXT_160006,Island Bait,島の特製エサ
+PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,ナーガの警戒を解くため、ポール・ポールが作ったおいしいエサ。(クエストアイテム)
+PROPITEM_TXT_160008,Evidence of Victory,討伐の証
+PROPITEM_TXT_160009,Remains of the Naga you've defeated to help the village of Coral Island.,倒したナーガから手に入れた、討伐の証。コーラルアイランドの村を守るために集めたもの。(クエストアイテム)
 PROPITEM_TXT_160010,Head of the Lord Naga,ロード・ナーガの頭
-PROPITEM_TXT_160011,Remains of the Lord Naga.,ロード・ナーガの残骸。
+PROPITEM_TXT_160011,Remains of the Lord Naga.,倒したロード・ナーガから手に入れた頭。(クエストアイテム)
 PROPITEM_TXT_160012,Head of the Overlord Naga,オーバーロード・ナーガの頭
-PROPITEM_TXT_160013,Remains of the Overlord Naga.,オーバーロード・ナーガの残骸。
+PROPITEM_TXT_160013,Remains of the Overlord Naga.,倒したオーバーロード・ナーガから手に入れた頭。(クエストアイテム)
 PROPITEM_TXT_160014,Coral Island Metal Scrap,珊瑚島金属スクラップ
-PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,ドリアンとオケアノスの遺体から発見された金属片。
-PROPITEM_TXT_160016,Lord Dorian Gear,ロード・ドリアンの装備
-PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,ジャイアントドリアンからしか手に入らないギア。
+PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,ドリアンやオケアノスから手に入る金属片。(クエストアイテム)
+PROPITEM_TXT_160016,Lord Dorian Gear,ロード・ドリアンの歯車
+PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,大型のドリアンからのみ手に入る特殊な歯車。(クエストアイテム)
 PROPITEM_TXT_160018,Lord Okean Crown,ロード・オケアノスの王冠
-PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,ジャイアントオケアノスの王冠。
+PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,大型のオケアノスからのみ手に入る王冠。(クエストアイテム)
 PROPITEM_TXT_160020,Champion's Ring,チャンピオン リング
 PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,力(STR)が増加します。サンストーンを使ってアルティマレベル10までアップグレードできます。
 PROPITEM_TXT_160022,Defender's Ring,ディフェンダー リング
@@ -12667,8 +12667,8 @@ PROPITEM_TXT_722021,Royal Housing Pack,ロイヤルハウジングパック
 PROPITEM_TXT_722022,Golden Royal Housing Pack,ゴールデンロイヤルハウジングパック
 PROPITEM_TXT_722023,Design Housing Pack,デザインハウジングパック
 PROPITEM_TXT_722024,Wooden Housing Pack,木製ハウジングパック
-PROPITEM_TXT_722025,Oversized Heart,特大のハート
-PROPITEM_TXT_722026,The heart of the great Beast King Khan.,偉大なる獣王カーンの心臓部。
+PROPITEM_TXT_722025,Oversized Heart,巨大な心臓
+PROPITEM_TXT_722026,The heart of the great Beast King Khan.,偉大なる獣王カーンの心臓。(クエストアイテム)
 PROPITEM_TXT_722027,Coral Island Curry,コーラルアイランドカレー
 PROPITEM_TXT_722028,Recovers 2000 HP,HPを2000回復
 PROPITEM_TXT_722035,FWC Remnant,FWCレムナント
@@ -15998,10 +15998,10 @@ PROPITEM_TXT_725127,Magic Clock of Storm Peak (5 Min),ストームピークの�
 PROPITEM_TXT_725128,Re-entry cooldown for Storm Peak has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,ストームピークの再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のストームピークの魔法時計と共有されます。
 PROPITEM_TXT_725129,Magic Clock of Storm Peak (10 Min),ストームピークの魔時計 (10分)
 PROPITEM_TXT_725130,Re-entry cooldown for Storm Peak has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,ストームピークの再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のストームピークの魔法時計と共有されます。
-PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),ザ・ワイルドの魔時計 (5分)
-PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルド」の再突入時のクールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
-PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),ザ・ワイルドの魔時計 (10分)
-PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルド」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
+PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),ザ・ワイルズの魔時計 (5分)
+PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルズ」の再突入時のクールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
+PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),ザ・ワイルズの魔時計 (10分)
+PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルズ」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
 PROPITEM_TXT_725135,Adventurer's Consumable Package,冒険者の消耗品パッケージ
 PROPITEM_TXT_725136,"A package containing 10x Upcut Stone, 10x Activation, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.",パワーストーンx10、アクティビションx10スタミナドリンクX または 魔力ドリンクゴールドx10、街戻りの巻物x10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_725137,PickUp Pet Package II,ピックアップペットパッケージII
@@ -24045,7 +24045,7 @@ PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,FWC 2025 フレイム・ルサカ
 PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,FWC 2025 フレイム・ルサカの盾
 PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,FWC 2025 フレイム・ルサカ武器選択ボックス
 PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,このボックスには FWC 2025 フレイム・ルサカの武器が入っています。
-PROPITEM_TXT_155000,Blinkwing of Eillun,ブリンクウイング(エルリウン)
+PROPITEM_TXT_155000,Blinkwing of Eillun,ブリンクウイング (エルリウン)
 PROPITEM_TXT_155001,Teleport to Eillun,エルリウンに移動できるブリンクウイング
 PROPITEM_TXT_155002,Fragment of ???,???の破片
 PROPITEM_TXT_155003,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.,地面に散乱していた正体不明の破片。フラリス市長に持っていけば、何かわかるかもしれない。
@@ -27215,7 +27215,7 @@ PROPITEM_TXT_904182,KR Muppet,KR マペット
 PROPITEM_TXT_904185,Concerned Emote,心配エモート
 PROPITEM_TXT_904186,Embarassed Emote,照れエモート
 PROPITEM_TXT_904187,Angry Emote,怒りエモート
-PROPITEM_TXT_904188,Me Me! Emote,Me Me! Emote
+PROPITEM_TXT_904188,Me Me! Emote,ハイッ！ハーイ！エモート
 PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)",Facebookログイン問題補償ボックス(7日、FWC専用)
 PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,Facebookログイン問題に対する報酬が含まれたパッケージです。
 PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Facebookログイン問題補償ボックス(7日)
@@ -29358,7 +29358,7 @@ PROPITEM_TXT_1902586,Guild Siege reward (used to buy items from Waforu).,ギル�
 PROPITEM_TXT_1902587,Blossom,ブロッサム
 PROPITEM_TXT_1902589,Kebaras Costume Fragment,ケバラスコスチュームの欠片
 PROPITEM_TXT_1902590,Exchange these in Kebaras 2 for unique cosmetics.,ケバラス2で交換すると、ユニークなコスメティックアイテムが手に入ります。
-PROPITEM_TXT_1902591,Blinkwing of Mysterious Castle,ブリンクウイング(神秘の城)
+PROPITEM_TXT_1902591,Blinkwing of Mysterious Castle,ブリンクウイング (神秘の城)
 PROPITEM_TXT_1902592,Teleport to Mysterious Castle,神秘の城に移動できるブリンクウイング
 PROPITEM_TXT_1902593,Asmodan Red Suit (M),アスモダンレッド・スーツ(M)
 PROPITEM_TXT_1902594,Asmodan Red Head (M),アスモダンレッド・ヘッド(M)

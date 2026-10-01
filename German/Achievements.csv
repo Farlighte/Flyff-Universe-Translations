@@ -799,7 +799,7 @@ ACHIEVEMENT_USE_GOLDPILL_DESC,"Eat 30,000 Gold Pills.",Verbrauche 30.000 Gold Pi
 ACHIEVEMENT_USE_GOLDPILL_TITLE,Glimmering,Goldener Medizinmann
 ACHIEVEMENT_USE_LOLLIPOP_NAME,Lollipop,Lollipop
 ACHIEVEMENT_USE_LOLLIPOP_DESC,"Eat 200,000 Lollipops.",Verbrauche 200.000 Lollipops.
-ACHIEVEMENT_USE_LOLLIPOP_TITLE,Sweet Tooth,Naschkatze
+ACHIEVEMENT_USE_LOLLIPOP_TITLE,Sweet Tooth,Leckermäulchen
 ACHIEVEMENT_USE_CHOCOLATE_NAME,Chocolate Bar,Chocolate Bar
 ACHIEVEMENT_USE_CHOCOLATE_DESC,"Eat 200,000 Chocolate Bars.",Verbrauche 200.000 Chocolate Bars.
 ACHIEVEMENT_USE_CHOCOLATE_TITLE,Chocoholic,Schokoladenbär
@@ -1268,16 +1268,16 @@ ACHIEVEMENT_FWC_2025_THEUNLUCKY_NAME,2025 FWC The Unlucky,FWC 2025 Pechvogel
 ACHIEVEMENT_FWC_2025_THEUNLUCKY_DESC,Awarded to the player who spent many FWC Coins but earned the fewest Champion Coins within their own server.,"Der Titel für den Spieler, der viele FWC Coins ausgegeben, aber die wenigsten Champion Coins auf seinem Server verdient hat."
 ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_NAME,2025 FWC Partner Streamer,FWC 2025 Partner-Streamer
 ACHIEVEMENT_FWC_2025_PARTNERSTREAMER_ESC,Awarded to partner streamers during the 2025 Flyff World Championship.,Der Titel für die Partner-Streamer während der FWC 2025.
-ACHIEVEMENT_UPGRADE_1,Upgrade +1,Aufwertung +1
-ACHIEVEMENT_UPGRADE_2,Upgrade +2,Aufwertung +2
-ACHIEVEMENT_UPGRADE_3,Upgrade +3,Aufwertung +3
-ACHIEVEMENT_UPGRADE_4,Upgrade +4,Aufwertung +4
-ACHIEVEMENT_UPGRADE_5,Upgrade +5,Aufwertung +5
-ACHIEVEMENT_UPGRADE_6,Upgrade +6,Aufwertung +6
-ACHIEVEMENT_UPGRADE_7,Upgrade +7,Aufwertung +7
-ACHIEVEMENT_UPGRADE_8,Upgrade +8,Aufwertung +8
-ACHIEVEMENT_UPGRADE_9,Upgrade +9,Aufwertung +9
-ACHIEVEMENT_UPGRADE_10,Upgrade +10,Aufwertung +10
+ACHIEVEMENT_UPGRADE_1,Upgrade +1,Upgrade +1
+ACHIEVEMENT_UPGRADE_2,Upgrade +2,Upgrade +2
+ACHIEVEMENT_UPGRADE_3,Upgrade +3,Upgrade +3
+ACHIEVEMENT_UPGRADE_4,Upgrade +4,Upgrade +4
+ACHIEVEMENT_UPGRADE_5,Upgrade +5,Upgrade +5
+ACHIEVEMENT_UPGRADE_6,Upgrade +6,Upgrade +6
+ACHIEVEMENT_UPGRADE_7,Upgrade +7,Upgrade +7
+ACHIEVEMENT_UPGRADE_8,Upgrade +8,Upgrade +8
+ACHIEVEMENT_UPGRADE_9,Upgrade +9,Upgrade +9
+ACHIEVEMENT_UPGRADE_10,Upgrade +10,Upgrade +10
 ACHIEVEMENT_MASTER160_NAME,Hero 160 - 180,Hero 160 - 180
 ACHIEVEMENT_MASTER160_DESC,Complete the fourth Hero Quest.,Schließe die vierte Heroquest ab.
 ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,Anwesenheit 1.5 Update
