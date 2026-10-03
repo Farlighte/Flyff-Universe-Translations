@@ -2527,7 +2527,7 @@ UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除终极宝石
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,移除
 UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",要移除此装备上选定的终极宝石吗？ #b#cffff0000如果没有宝石镊子，该宝石将被销毁。#nc#nb
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,融合终极宝石
-UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,提交终极宝石材料宝石
+UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,放入终极宝石作为材料
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,融合 3 至 6 颗终极宝石，可获得 1 颗更高等级的终极宝石。
 UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,材料宝石将被消耗。\n是否继续？
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功: #b%s#nb
