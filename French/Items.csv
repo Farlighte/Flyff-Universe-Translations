@@ -2097,17 +2097,17 @@ PROPITEM_TXT_004082,Vigor Ring +5,Anneau Vigor +5
 PROPITEM_TXT_004083,STR +6 Ring,Anneau augmentant la force de 6
 PROPITEM_TXT_004084,Vigor Ring +6,Anneau Vigor +6
 PROPITEM_TXT_004085,STR +7 Ring,Anneau augmentant la force de 7
-PROPITEM_TXT_004086,Intelli Ring +1,Anneau Intell +1
+PROPITEM_TXT_004086,Intelli Ring +1,Anneau Intel +1
 PROPITEM_TXT_004087,INT +2 Ring,Anneau augmentant l'intelligence de 2
-PROPITEM_TXT_004088,Intelli Ring +2,Anneau Intell +2
+PROPITEM_TXT_004088,Intelli Ring +2,Anneau Intel +2
 PROPITEM_TXT_004089,INT +3 Ring,Anneau augmentant l'intelligence de 3
-PROPITEM_TXT_004090,Intelli Ring +3,Anneau Intell +3
+PROPITEM_TXT_004090,Intelli Ring +3,Anneau Intel +3
 PROPITEM_TXT_004091,INT +4 Ring,Anneau augmentant l'intelligence de 4
-PROPITEM_TXT_004092,Intelli Ring +4,Anneau Intell +4
+PROPITEM_TXT_004092,Intelli Ring +4,Anneau Intel +4
 PROPITEM_TXT_004093,INT +5 Ring,Anneau augmentant l'intelligence de 5
-PROPITEM_TXT_004094,Intelli Ring +5,Anneau Intell +5
+PROPITEM_TXT_004094,Intelli Ring +5,Anneau Intel +5
 PROPITEM_TXT_004095,INT +6 Ring,Anneau augmentant l'intelligence de 6
-PROPITEM_TXT_004096,Intelli Ring +6,Anneau Intell +6
+PROPITEM_TXT_004096,Intelli Ring +6,Anneau Intel +6
 PROPITEM_TXT_004097,INT +7 Ring,Anneau augmentant l'intelligence de 7
 PROPITEM_TXT_004098,Arek Ring +1,Anneau Arek +1
 PROPITEM_TXT_004099,DEX +2 Ring,Anneau augmentant la dextérité de 2
@@ -18991,9 +18991,9 @@ PROPITEM_TXT_134607,Strente +4,Strente +4
 PROPITEM_TXT_134608,STR +40 Ring,Anneau STR +40
 PROPITEM_TXT_134609,Strente +5,Strente +5
 PROPITEM_TXT_134610,STR +50 Ring,Anneau STR +50
-PROPITEM_TXT_134611,Intiret +4,Intiret +4
+PROPITEM_TXT_134611,Intiret +4,Anneau Cereb +4
 PROPITEM_TXT_134612,INT +40 Ring,Anneau INT +40
-PROPITEM_TXT_134613,Intiret +5,Intiret +5
+PROPITEM_TXT_134613,Intiret +5,Anneau Cereb +5
 PROPITEM_TXT_134614,INT +50 Ring,Anneau INT +50
 PROPITEM_TXT_134615,Dexion +4,Dexion +4
 PROPITEM_TXT_134616,DEX +40 Ring,Anneau DEX +40
@@ -30825,12 +30825,12 @@ PROPITEM_TXT_522637,"Recovers 18000 HP, up to a maximum of 120000.","Récupère 
 PROPITEM_TXT_522638,Restores 30% HP.,Restaure 30 % des PV.
 PROPITEM_TXT_522639,Restores 30% HP.,Restaure 30 % des PV.
 PROPITEM_TXT_522640,Restores 30% HP.,Restaure 30 % des PV.
-PROPITEM_TXT_522641,"Teleport amount x2, Cheer amount x3, Warehouse 12 slots.","Nombre de téléportations x2, nombre d'encouragements x3, entrepôt de 12 emplacements."
-PROPITEM_TXT_522642,"Teleport amount x3, Cheer amount x4, Warehouse 16 slots.","Nombre de téléportations x3, nombre d'encouragements x4, entrepôt de 16 emplacements."
-PROPITEM_TXT_522643,"Teleport amount x3, Cheer amount x4, Warehouse 20 slots.","Nombre de téléportations x3, nombre d'encouragements x4, entrepôt de 20 emplacements."
-PROPITEM_TXT_522644,"Teleport amount x3, Cheer amount x4, Warehouse 20 slots.","Nombre de téléportations x3, nombre d'encouragements x4, entrepôt de 20 emplacements."
-PROPITEM_TXT_522645,"Teleport amount x4, Cheer amount x5, Warehouse 28 slots.","Nombre de téléportations x4, nombre d'encouragements x5, entrepôt de 28 emplacements."
-PROPITEM_TXT_522646,"Teleport amount x5, Cheer amount x6, Warehouse 36 slots.","Nombre de téléportations x5, nombre d'encouragements x6, entrepôt de 36 emplacements."
+PROPITEM_TXT_522641,"Teleport amount x2, Cheer amount x3, Warehouse 12 slots.","Nombre de téléportations x2, nombre d'encouragements x3, Stockage de 12 emplacements."
+PROPITEM_TXT_522642,"Teleport amount x3, Cheer amount x4, Warehouse 16 slots.","Nombre de téléportations x3, nombre d'encouragements x4, Stockage de 16 emplacements."
+PROPITEM_TXT_522643,"Teleport amount x3, Cheer amount x4, Warehouse 20 slots.","Nombre de téléportations x3, nombre d'encouragements x4, Stockage de 20 emplacements."
+PROPITEM_TXT_522644,"Teleport amount x3, Cheer amount x4, Warehouse 20 slots.","Nombre de téléportations x3, nombre d'encouragements x4, Stockage de 20 emplacements."
+PROPITEM_TXT_522645,"Teleport amount x4, Cheer amount x5, Warehouse 28 slots.","Nombre de téléportations x4, nombre d'encouragements x5, Stockage de 28 emplacements."
+PROPITEM_TXT_522646,"Teleport amount x5, Cheer amount x6, Warehouse 36 slots.","Nombre de téléportations x5, nombre d'encouragements x6, Stockage de 36 emplacements."
 PROPITEM_TXT_422047,[OLD] Coral Island Curry,Curry de l'île de Corail
 PROPITEM_TXT_422048,[OLD] Fish Ball (D),[ANCIEN] Boulette de poisson (D)
 PROPITEM_TXT_422049,[OLD] Fish Ball (C),[ANCIEN] Boulette de poisson (C)
@@ -31122,54 +31122,54 @@ PROPITEM_TXT_422334,[OLD] Demol Earring +5,[ANCIEN] Boucle d'oreille Demol +5
 PROPITEM_TXT_422335,[OLD] Plug Earring +1,[ANCIEN] Boucle d'oreille Plug +1
 PROPITEM_TXT_422336,[OLD] Plug Earring +3,[ANCIEN] Boucle d'oreille Plug +3
 PROPITEM_TXT_422337,[OLD] Plug Earring +5,[ANCIEN] Boucle d'oreille Plug +5
-PROPITEM_TXT_422338,[OLD] Mighteer +1,[ANCIEN] Mighteer +1
-PROPITEM_TXT_422339,[OLD] Mighteer +3,[ANCIEN] Mighteer +3
-PROPITEM_TXT_422340,[OLD] Penzeru +1,[ANCIEN] Penzeru +1
-PROPITEM_TXT_422341,[OLD] Penzeru +3,[ANCIEN] Penzeru +3
-PROPITEM_TXT_422342,[OLD] Speedo +1,[ANCIEN] Speedo +1
-PROPITEM_TXT_422343,[OLD] Speedo +3,[ANCIEN] Speedo +3
-PROPITEM_TXT_422344,[OLD] Mighteer +5,[ANCIEN] Mighteer +5
-PROPITEM_TXT_422345,[OLD] Penzeru +5,[ANCIEN] Penzeru +5
-PROPITEM_TXT_422346,[OLD] Speedo +5,[ANCIEN] Speedo +5
-PROPITEM_TXT_422347,[OLD] Peision Necklace +1,[ANCIEN] Collier Peision +1
-PROPITEM_TXT_422348,[OLD] Peision Necklace +3,[ANCIEN] Collier Peision +3
-PROPITEM_TXT_422349,[OLD] Peision Necklace +5,[ANCIEN] Collier Peision +5
+PROPITEM_TXT_422338,[OLD] Mighteer +1,[ANCIEN] Boucle Mighty +1
+PROPITEM_TXT_422339,[OLD] Mighteer +3,[ANCIEN] Boucle Mighty +3
+PROPITEM_TXT_422340,[OLD] Penzeru +1,[ANCIEN] Boucle Penzeru +1
+PROPITEM_TXT_422341,[OLD] Penzeru +3,[ANCIEN] Boucle Penzeru +3
+PROPITEM_TXT_422342,[OLD] Speedo +1,[ANCIEN] Boucle Speedo +1
+PROPITEM_TXT_422343,[OLD] Speedo +3,[ANCIEN] Boucle Speedo +3
+PROPITEM_TXT_422344,[OLD] Mighteer +5,[ANCIEN] Boucle Mighty +5
+PROPITEM_TXT_422345,[OLD] Penzeru +5,[ANCIEN] Boucle Penzeru +5
+PROPITEM_TXT_422346,[OLD] Speedo +5,[ANCIEN] Boucle Speedo +5
+PROPITEM_TXT_422347,[OLD] Peision Necklace +1,[ANCIEN] Collier Pision +1
+PROPITEM_TXT_422348,[OLD] Peision Necklace +3,[ANCIEN] Collier Pision +3
+PROPITEM_TXT_422349,[OLD] Peision Necklace +5,[ANCIEN] Collier Pision +5
 PROPITEM_TXT_422350,[OLD] Gore Necklace +1,[ANCIEN] Collier Gore +1
 PROPITEM_TXT_422351,[OLD] Gore Necklace +3,[ANCIEN] Collier Gore +3
 PROPITEM_TXT_422352,[OLD] Gore Necklace +5,[ANCIEN] Collier Gore +5
 PROPITEM_TXT_422353,[OLD] Mental Necklace +1,[ANCIEN] Collier Mental +1
 PROPITEM_TXT_422354,[OLD] Mental Necklace +3,[ANCIEN] Collier Mental +3
 PROPITEM_TXT_422355,[OLD] Mental Necklace +5,[ANCIEN] Collier Mental +5
-PROPITEM_TXT_422356,[OLD] Pep +1,[ANCIEN] Pep +1
-PROPITEM_TXT_422357,[OLD] Pep +3,[ANCIEN] Pep +3
-PROPITEM_TXT_422358,[OLD] Socecle +1,[ANCIEN] Socecle +1
-PROPITEM_TXT_422359,[OLD] Socecle +3,[ANCIEN] Socecle +3
-PROPITEM_TXT_422360,[OLD] Enduky +1,[ANCIEN] Enduky +1
-PROPITEM_TXT_422361,[OLD] Enduky +3,[ANCIEN] Enduky +3
-PROPITEM_TXT_422362,[OLD] Pep +5,[ANCIEN] Pep +5
-PROPITEM_TXT_422363,[OLD] Socecle +5,[ANCIEN] Socecle +5
-PROPITEM_TXT_422364,[OLD] Enduky +5,[ANCIEN] Enduky +5
+PROPITEM_TXT_422356,[OLD] Pep +1,[ANCIEN] Collier Pep +1
+PROPITEM_TXT_422357,[OLD] Pep +3,[ANCIEN] Collier Pep +3
+PROPITEM_TXT_422358,[OLD] Socecle +1,[ANCIEN] Collier Socecle +1
+PROPITEM_TXT_422359,[OLD] Socecle +3,[ANCIEN] Collier Socecle +3
+PROPITEM_TXT_422360,[OLD] Enduky +1,[ANCIEN] Collier Enduky +1
+PROPITEM_TXT_422361,[OLD] Enduky +3,[ANCIEN] Collier Enduky +3
+PROPITEM_TXT_422362,[OLD] Pep +5,[ANCIEN] Collier Pep +5
+PROPITEM_TXT_422363,[OLD] Socecle +5,[ANCIEN] Collier Socecle +5
+PROPITEM_TXT_422364,[OLD] Enduky +5,[ANCIEN] Collier Enduky +5
 PROPITEM_TXT_422365,[OLD] Arek Ring +1,[ANCIEN] Anneau Arek +1
 PROPITEM_TXT_422366,[OLD] Arek Ring +3,[ANCIEN] Anneau Arek +3
 PROPITEM_TXT_422367,[OLD] Arek Ring +5,[ANCIEN] Anneau Arek +5
-PROPITEM_TXT_422368,[OLD] Intelli Ring +1,[ANCIEN] Anneau Intelli +1
-PROPITEM_TXT_422369,[OLD] Intelli Ring +3,[ANCIEN] Anneau Intelli +3
-PROPITEM_TXT_422370,[OLD] Intelli Ring +5,[ANCIEN] Anneau Intelli +5
+PROPITEM_TXT_422368,[OLD] Intelli Ring +1,[ANCIEN] Anneau Intel +1
+PROPITEM_TXT_422369,[OLD] Intelli Ring +3,[ANCIEN] Anneau Intel +3
+PROPITEM_TXT_422370,[OLD] Intelli Ring +5,[ANCIEN] Anneau Intel +5
 PROPITEM_TXT_422371,[OLD] Stam Ring +1,[ANCIEN] Anneau Stam +1
 PROPITEM_TXT_422372,[OLD] Stam Ring +3,[ANCIEN] Anneau Stam +3
 PROPITEM_TXT_422373,[OLD] Stam Ring +5,[ANCIEN] Anneau Stam +5
 PROPITEM_TXT_422374,[OLD] Vigor Ring +1,[ANCIEN] Anneau Vigor +1
 PROPITEM_TXT_422375,[OLD] Vigor Ring +3,[ANCIEN] Anneau Vigor +3
 PROPITEM_TXT_422376,[OLD] Vigor Ring +5,[ANCIEN] Anneau Vigor +5
-PROPITEM_TXT_422377,[OLD] Strente +1,[ANCIEN] Strente +1
-PROPITEM_TXT_422378,[OLD] Strente +3,[ANCIEN] Strente +3
-PROPITEM_TXT_422379,[OLD] Intiret +1,[ANCIEN] Intiret +1
-PROPITEM_TXT_422380,[OLD] Intiret +3,[ANCIEN] Intiret +3
-PROPITEM_TXT_422381,[OLD] Dexion +1,[ANCIEN] Dexion +1
-PROPITEM_TXT_422382,[OLD] Dexion +3,[ANCIEN] Dexion +3
-PROPITEM_TXT_422383,[OLD] Strente +5,[ANCIEN] Strente +5
-PROPITEM_TXT_422384,[OLD] Intiret +5,[ANCIEN] Intiret +5
-PROPITEM_TXT_422385,[OLD] Dexion +5,[ANCIEN] Dexion +5
+PROPITEM_TXT_422377,[OLD] Strente +1,[ANCIEN] Anneau Strente +1
+PROPITEM_TXT_422378,[OLD] Strente +3,[ANCIEN] Anneau Strente +3
+PROPITEM_TXT_422379,[OLD] Intiret +1,[ANCIEN] Anneau Cereb +1
+PROPITEM_TXT_422380,[OLD] Intiret +3,[ANCIEN] Anneau Cereb +3
+PROPITEM_TXT_422381,[OLD] Dexion +1,[ANCIEN] Anneau Dexion +1
+PROPITEM_TXT_422382,[OLD] Dexion +3,[ANCIEN] Anneau Dexion +3
+PROPITEM_TXT_422383,[OLD] Strente +5,[ANCIEN] Anneau Strente +5
+PROPITEM_TXT_422384,[OLD] Intiret +5,[ANCIEN] Anneau Cereb +5
+PROPITEM_TXT_422385,[OLD] Dexion +5,[ANCIEN] Anneau Dexion +5
 PROPITEM_TXT_422386,[OLD] Concoction of Accuracy (D),[ANCIEN] Potion de précision (D)
 PROPITEM_TXT_422387,[OLD] Concoction of Bleeding (D),[ANCIEN] Potion de saignement (D)
 PROPITEM_TXT_422388,[OLD] Concoction of Evasion (D),[ANCIEN] Potion d'évasion (D)
@@ -31204,23 +31204,23 @@ PROPITEM_TXT_422416,[OLD] Concoction of Tough Skin (D),[ANCIEN] Potion de peau r
 PROPITEM_TXT_422417,[OLD] Concoction of Tough Skin (C),[ANCIEN] Potion de peau résistante (C)
 PROPITEM_TXT_422418,[OLD] Concoction of Tough Skin (B),[ANCIEN] Potion de peau résistante (B)
 PROPITEM_TXT_422419,[OLD] Concoction of Tough Skin (A),[ANCIEN] Potion de peau résistante (A)
-PROPITEM_TXT_422420,[OLD] Meister's VitalDrink (C),[ANCIEN] Boisson vitale de Meister (C)
-PROPITEM_TXT_422421,[OLD] Meister's VitalDrink (B),[ANCIEN] Boisson vitale de Meister (B)
-PROPITEM_TXT_422422,[OLD] Meister's VitalDrink (A),[ANCIEN] Boisson vitale de Meister (A)
-PROPITEM_TXT_422423,[OLD] VitalDrink 100,[ANCIEN] Boisson vitale 100
-PROPITEM_TXT_422424,[OLD] VitalDrink 200,[ANCIEN] Boisson vitale 200
-PROPITEM_TXT_422425,[OLD] VitalDrink 300,[ANCIEN] Boisson vitale 300
-PROPITEM_TXT_422426,[OLD] VitalDrink 400,[ANCIEN] Boisson vitale 400
-PROPITEM_TXT_422427,[OLD] VitalDrink 500,[ANCIEN] Boisson vitale 500
-PROPITEM_TXT_422428,[OLD] VitalDrink 600,[ANCIEN] Boisson vitale 600
-PROPITEM_TXT_422429,[OLD] VitalDrink 700,[ANCIEN] Boisson vitale 700
-PROPITEM_TXT_422430,[OLD] VitalDrink 800,[ANCIEN] Boisson vitale 800
+PROPITEM_TXT_422420,[OLD] Meister's VitalDrink (C),[ANCIEN] Boisson énergétique de Meister (C)
+PROPITEM_TXT_422421,[OLD] Meister's VitalDrink (B),[ANCIEN] Boisson énergétique de Meister (B)
+PROPITEM_TXT_422422,[OLD] Meister's VitalDrink (A),[ANCIEN] Boisson énergétique de Meister (A)
+PROPITEM_TXT_422423,[OLD] VitalDrink 100,[ANCIEN] Boisson énergétique 100
+PROPITEM_TXT_422424,[OLD] VitalDrink 200,[ANCIEN] Boisson énergétique 200
+PROPITEM_TXT_422425,[OLD] VitalDrink 300,[ANCIEN] Boisson énergétique 300
+PROPITEM_TXT_422426,[OLD] VitalDrink 400,[ANCIEN] Boisson énergétique 400
+PROPITEM_TXT_422427,[OLD] VitalDrink 500,[ANCIEN] Boisson énergétique 500
+PROPITEM_TXT_422428,[OLD] VitalDrink 600,[ANCIEN] Boisson énergétique 600
+PROPITEM_TXT_422429,[OLD] VitalDrink 700,[ANCIEN] Boisson énergétique 700
+PROPITEM_TXT_422430,[OLD] VitalDrink 800,[ANCIEN] Boisson énergétique 800
 PROPITEM_TXT_422431,[OLD] VitalDrink 900,Boisson énergétique 900
-PROPITEM_TXT_422432,[OLD] Power Vital Drink (D),[ANCIEN] Boisson vitale de puissance (D)
-PROPITEM_TXT_422433,[OLD] Power Vital Drink (C),[ANCIEN] Boisson vitale de puissance (C)
-PROPITEM_TXT_422434,[OLD] Power Vital Drink (B),[ANCIEN] Boisson vitale de puissance (B)
-PROPITEM_TXT_422435,[OLD] Power Vital Drink (A),[ANCIEN] Boisson vitale de puissance (A)
-PROPITEM_TXT_422436,[OLD] Power Vital Drink (A+),[ANCIEN] Boisson vitale de puissance (A+)
+PROPITEM_TXT_422432,[OLD] Power Vital Drink (D),[ANCIEN] Boisson énergétique de puissance (D)
+PROPITEM_TXT_422433,[OLD] Power Vital Drink (C),[ANCIEN] Boisson énergétique de puissance (C)
+PROPITEM_TXT_422434,[OLD] Power Vital Drink (B),[ANCIEN] Boisson énergétique de puissance (B)
+PROPITEM_TXT_422435,[OLD] Power Vital Drink (A),[ANCIEN] Boisson énergétique de puissance (A)
+PROPITEM_TXT_422436,[OLD] Power Vital Drink (A+),[ANCIEN] Boisson énergétique de puissance (A+)
 PROPITEM_TXT_422437,[OLD] Potion of Fox (D),[ANCIEN] Potion du renard (D)
 PROPITEM_TXT_422438,[OLD] Potion of Lion (D),[ANCIEN] Potion du lion (D)
 PROPITEM_TXT_422439,[OLD] Potion of Rabbit (D),[ANCIEN] Potion du lapin (D)
