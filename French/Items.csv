@@ -31122,15 +31122,15 @@ PROPITEM_TXT_422334,[OLD] Demol Earring +5,[ANCIEN] Boucle d'oreille Demol +5
 PROPITEM_TXT_422335,[OLD] Plug Earring +1,[ANCIEN] Boucle d'oreille Plug +1
 PROPITEM_TXT_422336,[OLD] Plug Earring +3,[ANCIEN] Boucle d'oreille Plug +3
 PROPITEM_TXT_422337,[OLD] Plug Earring +5,[ANCIEN] Boucle d'oreille Plug +5
-PROPITEM_TXT_422338,[OLD] Mighteer +1,[ANCIEN] Boucle Mighty +1
-PROPITEM_TXT_422339,[OLD] Mighteer +3,[ANCIEN] Boucle Mighty +3
-PROPITEM_TXT_422340,[OLD] Penzeru +1,[ANCIEN] Boucle Penzeru +1
-PROPITEM_TXT_422341,[OLD] Penzeru +3,[ANCIEN] Boucle Penzeru +3
-PROPITEM_TXT_422342,[OLD] Speedo +1,[ANCIEN] Boucle Speedo +1
-PROPITEM_TXT_422343,[OLD] Speedo +3,[ANCIEN] Boucle Speedo +3
-PROPITEM_TXT_422344,[OLD] Mighteer +5,[ANCIEN] Boucle Mighty +5
-PROPITEM_TXT_422345,[OLD] Penzeru +5,[ANCIEN] Boucle Penzeru +5
-PROPITEM_TXT_422346,[OLD] Speedo +5,[ANCIEN] Boucle Speedo +5
+PROPITEM_TXT_422338,[OLD] Mighteer +1,Boucle Mighty +1
+PROPITEM_TXT_422339,[OLD] Mighteer +3,Boucle Mighty +3
+PROPITEM_TXT_422340,[OLD] Penzeru +1, Boucle Penzeru +1
+PROPITEM_TXT_422341,[OLD] Penzeru +3,Boucle Penzeru +3
+PROPITEM_TXT_422342,[OLD] Speedo +1,Boucle Speedo +1
+PROPITEM_TXT_422343,[OLD] Speedo +3,Boucle Speedo +3
+PROPITEM_TXT_422344,[OLD] Mighteer +5,Boucle Mighty +5
+PROPITEM_TXT_422345,[OLD] Penzeru +5,Boucle Penzeru +5
+PROPITEM_TXT_422346,[OLD] Speedo +5,Boucle Speedo +5
 PROPITEM_TXT_422347,[OLD] Peision Necklace +1,[ANCIEN] Collier Pision +1
 PROPITEM_TXT_422348,[OLD] Peision Necklace +3,[ANCIEN] Collier Pision +3
 PROPITEM_TXT_422349,[OLD] Peision Necklace +5,[ANCIEN] Collier Pision +5
@@ -31140,15 +31140,15 @@ PROPITEM_TXT_422352,[OLD] Gore Necklace +5,[ANCIEN] Collier Gore +5
 PROPITEM_TXT_422353,[OLD] Mental Necklace +1,[ANCIEN] Collier Mental +1
 PROPITEM_TXT_422354,[OLD] Mental Necklace +3,[ANCIEN] Collier Mental +3
 PROPITEM_TXT_422355,[OLD] Mental Necklace +5,[ANCIEN] Collier Mental +5
-PROPITEM_TXT_422356,[OLD] Pep +1,[ANCIEN] Collier Pep +1
-PROPITEM_TXT_422357,[OLD] Pep +3,[ANCIEN] Collier Pep +3
-PROPITEM_TXT_422358,[OLD] Socecle +1,[ANCIEN] Collier Socecle +1
-PROPITEM_TXT_422359,[OLD] Socecle +3,[ANCIEN] Collier Socecle +3
-PROPITEM_TXT_422360,[OLD] Enduky +1,[ANCIEN] Collier Enduky +1
-PROPITEM_TXT_422361,[OLD] Enduky +3,[ANCIEN] Collier Enduky +3
-PROPITEM_TXT_422362,[OLD] Pep +5,[ANCIEN] Collier Pep +5
-PROPITEM_TXT_422363,[OLD] Socecle +5,[ANCIEN] Collier Socecle +5
-PROPITEM_TXT_422364,[OLD] Enduky +5,[ANCIEN] Collier Enduky +5
+PROPITEM_TXT_422356,[OLD] Pep +1,Collier Pep +1
+PROPITEM_TXT_422357,[OLD] Pep +3,Collier Pep +3
+PROPITEM_TXT_422358,[OLD] Socecle +1,Collier Socecle +1
+PROPITEM_TXT_422359,[OLD] Socecle +3,Collier Socecle +3
+PROPITEM_TXT_422360,[OLD] Enduky +1,Collier Enduky +1
+PROPITEM_TXT_422361,[OLD] Enduky +3,Collier Enduky +3
+PROPITEM_TXT_422362,[OLD] Pep +5,Collier Pep +5
+PROPITEM_TXT_422363,[OLD] Socecle +5,Collier Socecle +5
+PROPITEM_TXT_422364,[OLD] Enduky +5,Collier Enduky +5
 PROPITEM_TXT_422365,[OLD] Arek Ring +1,[ANCIEN] Anneau Arek +1
 PROPITEM_TXT_422366,[OLD] Arek Ring +3,[ANCIEN] Anneau Arek +3
 PROPITEM_TXT_422367,[OLD] Arek Ring +5,[ANCIEN] Anneau Arek +5
@@ -31161,15 +31161,15 @@ PROPITEM_TXT_422373,[OLD] Stam Ring +5,[ANCIEN] Anneau Stam +5
 PROPITEM_TXT_422374,[OLD] Vigor Ring +1,[ANCIEN] Anneau Vigor +1
 PROPITEM_TXT_422375,[OLD] Vigor Ring +3,[ANCIEN] Anneau Vigor +3
 PROPITEM_TXT_422376,[OLD] Vigor Ring +5,[ANCIEN] Anneau Vigor +5
-PROPITEM_TXT_422377,[OLD] Strente +1,[ANCIEN] Anneau Strente +1
-PROPITEM_TXT_422378,[OLD] Strente +3,[ANCIEN] Anneau Strente +3
-PROPITEM_TXT_422379,[OLD] Intiret +1,[ANCIEN] Anneau Cereb +1
-PROPITEM_TXT_422380,[OLD] Intiret +3,[ANCIEN] Anneau Cereb +3
-PROPITEM_TXT_422381,[OLD] Dexion +1,[ANCIEN] Anneau Dexion +1
-PROPITEM_TXT_422382,[OLD] Dexion +3,[ANCIEN] Anneau Dexion +3
-PROPITEM_TXT_422383,[OLD] Strente +5,[ANCIEN] Anneau Strente +5
-PROPITEM_TXT_422384,[OLD] Intiret +5,[ANCIEN] Anneau Cereb +5
-PROPITEM_TXT_422385,[OLD] Dexion +5,[ANCIEN] Anneau Dexion +5
+PROPITEM_TXT_422377,[OLD] Strente +1,Anneau Strente +1
+PROPITEM_TXT_422378,[OLD] Strente +3,Anneau Strente +3
+PROPITEM_TXT_422379,[OLD] Intiret +1,Anneau Cereb +1
+PROPITEM_TXT_422380,[OLD] Intiret +3,Anneau Cereb +3
+PROPITEM_TXT_422381,[OLD] Dexion +1,Anneau Dexion +1
+PROPITEM_TXT_422382,[OLD] Dexion +3,Anneau Dexion +3
+PROPITEM_TXT_422383,[OLD] Strente +5,Anneau Strente +5
+PROPITEM_TXT_422384,[OLD] Intiret +5,Anneau Cereb +5
+PROPITEM_TXT_422385,[OLD] Dexion +5,Anneau Dexion +5
 PROPITEM_TXT_422386,[OLD] Concoction of Accuracy (D),[ANCIEN] Potion de précision (D)
 PROPITEM_TXT_422387,[OLD] Concoction of Bleeding (D),[ANCIEN] Potion de saignement (D)
 PROPITEM_TXT_422388,[OLD] Concoction of Evasion (D),[ANCIEN] Potion d'évasion (D)
@@ -32128,7 +32128,7 @@ PROPITEM_TXT_1903823,Botanist Musician Brown Set (F),Set brun de musicien botani
 PROPITEM_TXT_1903824,The Botanist Musician Brown Set for female characters.,Le Set brun de musicien botaniste pour les personnages féminins.
 PROPITEM_TXT_1903825,Brown Pawsy,Pawsy brun
 PROPITEM_TXT_1903826,Autumn Hunting Package,Pack de chasse automnale
-PROPITEM_TXT_1903827,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activation. All items are Soul-Linked.","Un pack contenant 5x Parchemin d'amplification ES, 5x Parchemin de résurrection, 5x Parchemin de retour en ville, 5x Parchemin de vélocité et 5x Activation. Tous les objets sont liés à l'âme."
+PROPITEM_TXT_1903827,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activation. All items are Soul-Linked.","Un pack contenant 5x Parchemin d'amplification ES, 5x Parchemin de résurrection, 5x Parchemin de retour en ville, 5x Parchemin de vélocité et 5x Combos. Tous les objets sont liés à l'âme."
 PROPITEM_TXT_1903828,POP Costume Select Box 2,Boîte de sélection de costume POP 2
 PROPITEM_TXT_1903829,"Select your favorite POP costume between Carnival Traveler, Aero Streetwear, Button Mark and Street Bunny Set. All items are Soul-Linked.","Sélectionnez votre costume POP préféré parmi Voyageur du carnaval, Streetwear Aero, Button Mark et Set Lapin des rues. Tous les objets sont liés à l'âme."
 PROPITEM_TXT_1903830,High-Noon Scouts 10% Red Set,Set rouge des éclaireurs High-Noon 10 %
