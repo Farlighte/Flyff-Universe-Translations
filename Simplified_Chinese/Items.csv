@@ -17009,7 +17009,7 @@ PROPITEM_TXT_726060,Oceanic Knuckle,海洋拳套
 PROPITEM_TXT_726061,Oceanic Bow,海洋弓箭
 PROPITEM_TXT_726062,Oceanic Yo-Yo,海洋飞轮
 PROPITEM_TXT_726063,Oceanic Staff,海洋法杖
-PROPITEM_TXT_726064,Oceanic Force Gem,海洋力量宝石
+PROPITEM_TXT_726064,Oceanic Force Gem,海洋手镯
 PROPITEM_TXT_726065,Oceanic Shield,海洋盾牌
 PROPITEM_TXT_726066,Oceanic Book,海洋书籍
 PROPITEM_TXT_726067,Blue Speedo Shark,蓝色泳裤鲨鱼
@@ -17277,8 +17277,8 @@ PROPITEM_TXT_800191,Mana Stone,法力石
 PROPITEM_TXT_800192,Recovers all the jewel pieces if creation fails.,制作失败时，回收全部宝石碎片。
 PROPITEM_TXT_800193,[Personal House NPC] Klock,[个人房屋 NPC] 宝石工匠克罗克
 PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on the Personal House: Ultimate Jewel features.\nEarn that jewel with a 30% chance of removing Ultimate Jewel.\nUltimate Jewelry Manufacture, Compose Success Rate Increased",将该 NPC 放置于私人住宅时，将赋予以下加成：终极宝石相关功能。提升同类型宝石镶嵌成功率。​\n移除终极宝石时，有 30% 几率保留宝石时。​\n提高终极宝石的制造与合成成功率。
-PROPITEM_TXT_800195,Ultimate Jewel Gemstone,终极珠宝宝石
-PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,从此宝石中可提取一级珠宝与珠宝碎片。
+PROPITEM_TXT_800195,Ultimate Jewel Gemstone,终极宝石原矿
+PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,从此原矿中可提取一级宝石与宝石碎片。
 PROPITEM_TXT_800197,Cutting Knife,切割刀
 PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,可确保从宝石中成功提取珠宝碎片或一级珠宝。
 PROPITEM_TXT_800199,Rainbow Jewel (1),彩虹宝石 (1)
@@ -19651,7 +19651,7 @@ PROPITEM_TXT_826222,Eastern Warrior Gold Yo-Yo,东方勇士黄金飞轮
 PROPITEM_TXT_826223,Eastern Warrior Gold Staff,东方勇士黄金法杖
 PROPITEM_TXT_826224,Eastern Warrior Gold Wand,东方勇士黄金魔杖
 PROPITEM_TXT_826225,Eastern Warrior Gold Shield,东方勇士黄金盾
-PROPITEM_TXT_826226,Eastern Warrior Gold Force Gem,东方勇士黄金力量宝石
+PROPITEM_TXT_826226,Eastern Warrior Gold Force Gem,东方勇士黄金手镯
 PROPITEM_TXT_826227,Eastern Warrior Gold Book,东方勇士黄金书
 PROPITEM_TXT_826228,Eastern Warrior Gold Weapon Set,东方勇士黄金武器套装
 PROPITEM_TXT_826229,Select which Eastern Warrior Gold Weapon you want to receive!,选择你想要获得的东方勇士黄金武器吧！
@@ -19666,7 +19666,7 @@ PROPITEM_TXT_826237,Eastern Warrior Cyan Yo-Yo,东方勇士青色飞轮
 PROPITEM_TXT_826238,Eastern Warrior Cyan Staff,东方勇士青色法杖
 PROPITEM_TXT_826239,Eastern Warrior Cyan Wand,东方勇士青色魔杖
 PROPITEM_TXT_826240,Eastern Warrior Cyan Shield,东方勇士青色盾
-PROPITEM_TXT_826241,Eastern Warrior Cyan Force Gem,东方勇士青色力量宝石
+PROPITEM_TXT_826241,Eastern Warrior Cyan Force Gem,东方勇士青色手镯
 PROPITEM_TXT_826242,Eastern Warrior Cyan Book,东方勇士青色书
 PROPITEM_TXT_826243,Eastern Warrior Cyan Weapon Set,东方勇士青色武器套装
 PROPITEM_TXT_826244,Select which Eastern Warrior Cyan Weapon you want to receive!,选择你想要获得的东方勇士青色武器吧！
@@ -19681,7 +19681,7 @@ PROPITEM_TXT_826252,Eastern Warrior Green Yo-Yo,东方勇士绿色飞轮
 PROPITEM_TXT_826253,Eastern Warrior Green Staff,东方勇士绿色法杖
 PROPITEM_TXT_826254,Eastern Warrior Green Wand,东方勇士绿色魔杖
 PROPITEM_TXT_826255,Eastern Warrior Green Shield,东方勇士绿色盾
-PROPITEM_TXT_826256,Eastern Warrior Green Force Gem,东方勇士绿色力量宝石
+PROPITEM_TXT_826256,Eastern Warrior Green Force Gem,东方勇士绿色手镯
 PROPITEM_TXT_826257,Eastern Warrior Green Book,东方勇士绿色书
 PROPITEM_TXT_826258,Eastern Warrior Green Weapon Set,东方勇士绿色武器套装
 PROPITEM_TXT_826259,Select which Eastern Warrior Green Weapon you want to receive!,选择你想要获得的东方勇士绿色武器吧！
@@ -19696,7 +19696,7 @@ PROPITEM_TXT_826267,Eastern Warrior Purple Yo-Yo,东方勇士紫色飞轮
 PROPITEM_TXT_826268,Eastern Warrior Purple Staff,东方勇士紫色法杖
 PROPITEM_TXT_826269,Eastern Warrior Purple Wand,东方勇士紫色魔杖
 PROPITEM_TXT_826270,Eastern Warrior Purple Shield,东方勇士紫色盾
-PROPITEM_TXT_826271,Eastern Warrior Purple Force Gem,东方勇士紫色力量宝石
+PROPITEM_TXT_826271,Eastern Warrior Purple Force Gem,东方勇士紫色手镯
 PROPITEM_TXT_826272,Eastern Warrior Purple Book,东方勇士紫色书
 PROPITEM_TXT_826273,Eastern Warrior Purple Weapon Set,东方勇士紫色武器套装
 PROPITEM_TXT_826274,Select which Eastern Warrior Purple Weapon you want to receive!,选择你想要获得的东方勇士紫色武器吧！
@@ -19711,7 +19711,7 @@ PROPITEM_TXT_826282,Eastern Warrior Pink Yo-Yo,东方勇士粉色飞轮
 PROPITEM_TXT_826283,Eastern Warrior Pink Staff,东方勇士粉色法杖
 PROPITEM_TXT_826284,Eastern Warrior Pink Wand,东方勇士粉色魔杖
 PROPITEM_TXT_826285,Eastern Warrior Pink Shield,东方勇士粉色盾
-PROPITEM_TXT_826286,Eastern Warrior Pink Force Gem,东方勇士粉色力量宝石
+PROPITEM_TXT_826286,Eastern Warrior Pink Force Gem,东方勇士粉色手镯
 PROPITEM_TXT_826287,Eastern Warrior Pink Book,东方勇士粉色书
 PROPITEM_TXT_826288,Eastern Warrior Pink Weapon Set,东方勇士粉色武器套装
 PROPITEM_TXT_826289,Select which Eastern Warrior Pink Weapon you want to receive!,选择你想要获得的东方勇士粉色武器吧！
@@ -19726,7 +19726,7 @@ PROPITEM_TXT_826297,Eastern Warrior Black Yo-Yo,东方勇士黑色飞轮
 PROPITEM_TXT_826298,Eastern Warrior Black Staff,东方勇士黑色法杖
 PROPITEM_TXT_826299,Eastern Warrior Black Wand,东方勇士黑色魔杖
 PROPITEM_TXT_826300,Eastern Warrior Black Shield,东方勇士黑色盾
-PROPITEM_TXT_826301,Eastern Warrior Black Force Gem,东方勇士黑色力量宝石
+PROPITEM_TXT_826301,Eastern Warrior Black Force Gem,东方勇士黑色手镯
 PROPITEM_TXT_826302,Eastern Warrior Black Book,东方勇士黑色书
 PROPITEM_TXT_826303,Eastern Warrior Black Weapon Set,东方勇士黑色武器套装
 PROPITEM_TXT_826304,Select which Eastern Warrior Black Weapon you want to receive!,选择你想要获得的东方勇士黑色武器吧！
@@ -19741,7 +19741,7 @@ PROPITEM_TXT_826312,Eastern Warrior Red Yo-Yo,东方勇士红色飞轮
 PROPITEM_TXT_826313,Eastern Warrior Red Staff,东方勇士红色法杖
 PROPITEM_TXT_826314,Eastern Warrior Red Wand,东方勇士红色魔杖
 PROPITEM_TXT_826315,Eastern Warrior Red Shield,东方勇士红色盾
-PROPITEM_TXT_826316,Eastern Warrior Red Force Gem,东方勇士红色力量宝石
+PROPITEM_TXT_826316,Eastern Warrior Red Force Gem,东方勇士红色手镯
 PROPITEM_TXT_826317,Eastern Warrior Red Book,东方勇士红色书
 PROPITEM_TXT_826318,Eastern Warrior Red Weapon Set,东方勇士红色武器套装
 PROPITEM_TXT_826319,Select which Eastern Warrior Red Weapon you want to receive!,选择你想要获得的东方勇士红色武器吧！
@@ -19774,7 +19774,7 @@ PROPITEM_TXT_201049,Archangel White Yo-Yo,大天使白色飞轮
 PROPITEM_TXT_201050,Archangel White Staff,大天使白色法杖
 PROPITEM_TXT_201051,Archangel White Wand,大天使白色魔杖
 PROPITEM_TXT_201052,Archangel White Shield,大天使白色盾
-PROPITEM_TXT_201053,Archangel White Force Gem,大天使白色力量宝石
+PROPITEM_TXT_201053,Archangel White Force Gem,大天使白色手镯
 PROPITEM_TXT_201054,Archangel White Book,大天使白色书
 PROPITEM_TXT_201055,Archangel White Weapon Set,大天使白色武器套装
 PROPITEM_TXT_201056,Select which Archangel White Weapon you want to receive!,选择你想要获得的大天使白色武器吧！
@@ -19789,7 +19789,7 @@ PROPITEM_TXT_201064,Archangel Black Yo-Yo,大天使黑色飞轮
 PROPITEM_TXT_201065,Archangel Black Staff,大天使黑色法杖
 PROPITEM_TXT_201066,Archangel Black Wand,大天使黑色魔杖
 PROPITEM_TXT_201067,Archangel Black Shield,大天使黑色盾
-PROPITEM_TXT_201068,Archangel Black Force Gem,大天使黑色力量宝石
+PROPITEM_TXT_201068,Archangel Black Force Gem,大天使黑色手镯
 PROPITEM_TXT_201069,Archangel Black Book,大天使黑色书
 PROPITEM_TXT_201070,Archangel Black Weapon Set,大天使黑色武器套装
 PROPITEM_TXT_201071,Select which Archangel Black Weapon you want to receive!,选择你想要获得的大天使黑色武器吧！
@@ -20612,7 +20612,7 @@ PROPITEM_TXT_827200,Lucky Neko Yo-Yo,幸运招财猫飞轮
 PROPITEM_TXT_827201,Lucky Neko Staff,幸运招财猫法杖
 PROPITEM_TXT_827202,Lucky Neko Wand,幸运招财猫魔杖
 PROPITEM_TXT_827203,Lucky Neko Shield,幸运招财猫盾牌
-PROPITEM_TXT_827204,Lucky Neko Force Gem,幸运招财猫力量宝石
+PROPITEM_TXT_827204,Lucky Neko Force Gem,幸运招财猫手镯
 PROPITEM_TXT_827205,Lucky Neko Book,幸运招财猫书籍
 PROPITEM_TXT_827206,Lucky Neko Weapon Set,幸运招财猫武器套装
 PROPITEM_TXT_827207,Select which Lucky Neko Weapon you want to receive!,选择你想要获得的幸运招财猫武器吧！
@@ -21313,13 +21313,13 @@ PROPITEM_TXT_827808,Wilds Yo-Yo,荒野之飞轮
 PROPITEM_TXT_827809,Wilds Staff,荒野之法杖
 PROPITEM_TXT_827810,Wilds Wand,荒野之魔杖
 PROPITEM_TXT_827811,Wilds Cobra Shield,荒野之眼镜蛇盾牌
-PROPITEM_TXT_827812,Wilds Force Gem,荒野之力量宝石
+PROPITEM_TXT_827812,Wilds Force Gem,荒野之手镯
 PROPITEM_TXT_827813,Wilds Book,荒野之书
 PROPITEM_TXT_827814,Wilds Weapon Set,荒野之武器套装
 PROPITEM_TXT_827815,Select which Wilds Weapon you want to receive!,选择你想要获得的荒野武器吧！
 PROPITEM_TXT_827816,Wilds Big Knuckle,荒野巨拳
 PROPITEM_TXT_827817,Wilds Racoon Shield,荒野之浣熊盾牌
-PROPITEM_TXT_827818,Wilds Big Force Gem,荒野之大力量宝石
+PROPITEM_TXT_827818,Wilds Big Force Gem,荒野之大手镯
 PROPITEM_TXT_827819,King Khan Cloak,可汗披风
 PROPITEM_TXT_827820,A majestic cloak adorned with a fiery mane and tribal armor. Only the bravest warriors can wear this symbol of power.,一件威严的披风，饰有烈焰般的鬃毛与部族铠甲。只有最勇敢的战士才能披上这一力量的象征。
 PROPITEM_TXT_827821,Racoon Leaf Hat,浣熊叶帽
@@ -22563,7 +22563,7 @@ PROPITEM_TXT_900720,Obsidian Flame Orange Yo-Yo,橙色炽焰黑曜石飞轮
 PROPITEM_TXT_900721,Obsidian Flame Orange Staff,橙色炽焰黑曜石法杖
 PROPITEM_TXT_900722,Obsidian Flame Orange Wand,橙色炽焰黑曜石魔杖
 PROPITEM_TXT_900723,Obsidian Flame Orange Shield,橙色炽焰黑曜石盾牌
-PROPITEM_TXT_900724,Obsidian Flame Orange Force Gem,橙色炽焰黑曜石力量宝石
+PROPITEM_TXT_900724,Obsidian Flame Orange Force Gem,橙色炽焰黑曜石手镯
 PROPITEM_TXT_900725,Obsidian Flame Orange Book,橙色炽焰黑曜石书
 PROPITEM_TXT_900726,Obsidian Flame Orange Weapon Set,橙色炽焰黑曜石武器套装
 PROPITEM_TXT_900727,Select which Obsidian Flame Orange Weapon you want to receive!,选择你想要获得的橙色炽焰黑曜石武器吧！
@@ -22578,7 +22578,7 @@ PROPITEM_TXT_900735,Obsidian Flame Purple Yo-Yo,紫色炽焰黑曜石飞轮
 PROPITEM_TXT_900736,Obsidian Flame Purple Staff,紫色炽焰黑曜石法杖
 PROPITEM_TXT_900737,Obsidian Flame Purple Wand,紫色炽焰黑曜石魔杖
 PROPITEM_TXT_900738,Obsidian Flame Purple Shield,紫色炽焰黑曜石盾牌
-PROPITEM_TXT_900739,Obsidian Flame Purple Force Gem,紫色炽焰黑曜石力量宝石
+PROPITEM_TXT_900739,Obsidian Flame Purple Force Gem,紫色炽焰黑曜石手镯
 PROPITEM_TXT_900740,Obsidian Flame Purple Book,紫色炽焰黑曜石书
 PROPITEM_TXT_900741,Obsidian Flame Purple Weapon Set,紫色炽焰黑曜石武器套装
 PROPITEM_TXT_900742,Select which Obsidian Flame Purple Weapon you want to receive!,选择你想要获得的紫色炽焰黑曜石武器吧！
@@ -22593,7 +22593,7 @@ PROPITEM_TXT_900750,Obsidian Flame Red Yo-Yo,红色炽焰黑曜石飞轮
 PROPITEM_TXT_900751,Obsidian Flame Red Staff,红色炽焰黑曜石法杖
 PROPITEM_TXT_900752,Obsidian Flame Red Wand,红色炽焰黑曜石魔杖
 PROPITEM_TXT_900753,Obsidian Flame Red Shield,红色炽焰黑曜石盾牌
-PROPITEM_TXT_900754,Obsidian Flame Red Force Gem,红色炽焰黑曜石力量宝石
+PROPITEM_TXT_900754,Obsidian Flame Red Force Gem,红色炽焰黑曜石手镯
 PROPITEM_TXT_900755,Obsidian Flame Red Book,红色炽焰黑曜石书
 PROPITEM_TXT_900756,Obsidian Flame Red Weapon Set,红色炽焰黑曜石武器套装
 PROPITEM_TXT_900757,Select which Obsidian Flame Red Weapon you want to receive!,选择你想要获得的红色炽焰黑曜石武器吧！
@@ -22608,7 +22608,7 @@ PROPITEM_TXT_900765,Obsidian Flame Blue Yo-Yo,蓝色炽焰黑曜石飞轮
 PROPITEM_TXT_900766,Obsidian Flame Blue Staff,蓝色炽焰黑曜石法杖
 PROPITEM_TXT_900767,Obsidian Flame Blue Wand,蓝色炽焰黑曜石魔杖
 PROPITEM_TXT_900768,Obsidian Flame Blue Shield,蓝色炽焰黑曜石盾牌
-PROPITEM_TXT_900769,Obsidian Flame Blue Force Gem,蓝色炽焰黑曜石力量宝石
+PROPITEM_TXT_900769,Obsidian Flame Blue Force Gem,蓝色炽焰黑曜石手镯
 PROPITEM_TXT_900770,Obsidian Flame Blue Book,蓝色炽焰黑曜石书
 PROPITEM_TXT_900771,Obsidian Flame Blue Weapon Set,蓝色炽焰黑曜石武器套装
 PROPITEM_TXT_900772,Select which Obsidian Flame Blue Weapon you want to receive!,选择你想要获得的蓝色炽焰黑曜石武器吧！
@@ -22623,7 +22623,7 @@ PROPITEM_TXT_900780,Obsidian Flame Green Yo-Yo,绿色炽焰黑曜石飞轮
 PROPITEM_TXT_900781,Obsidian Flame Green Staff,绿色炽焰黑曜石法杖
 PROPITEM_TXT_900782,Obsidian Flame Green Wand,绿色炽焰黑曜石魔杖
 PROPITEM_TXT_900783,Obsidian Flame Green Shield,绿色炽焰黑曜石盾牌
-PROPITEM_TXT_900784,Obsidian Flame Green Force Gem,绿色炽焰黑曜石力量宝石
+PROPITEM_TXT_900784,Obsidian Flame Green Force Gem,绿色炽焰黑曜石手镯
 PROPITEM_TXT_900785,Obsidian Flame Green Book,绿色炽焰黑曜石书
 PROPITEM_TXT_900786,Obsidian Flame Green Weapon Set,绿色炽焰黑曜石武器套装
 PROPITEM_TXT_900787,Select which Obsidian Flame Green Weapon you want to receive!,选择你想要获得的绿色炽焰黑曜石武器吧！
@@ -22638,7 +22638,7 @@ PROPITEM_TXT_900795,Obsidian Flame Yellow Yo-Yo,黄色炽焰黑曜石飞轮
 PROPITEM_TXT_900796,Obsidian Flame Yellow Staff,黄色炽焰黑曜石法杖
 PROPITEM_TXT_900797,Obsidian Flame Yellow Wand,黄色炽焰黑曜石魔杖
 PROPITEM_TXT_900798,Obsidian Flame Yellow Shield,黄色炽焰黑曜石盾牌
-PROPITEM_TXT_900799,Obsidian Flame Yellow Force Gem,黄色炽焰黑曜石力量宝石
+PROPITEM_TXT_900799,Obsidian Flame Yellow Force Gem,黄色炽焰黑曜石手镯
 PROPITEM_TXT_900800,Obsidian Flame Yellow Book,黄色炽焰黑曜石书
 PROPITEM_TXT_900801,Obsidian Flame Yellow Weapon Set,黄色炽焰黑曜石武器套装
 PROPITEM_TXT_900802,Select which Obsidian Flame Yellow Weapon you want to receive!,选择你想要获得的黄色炽焰黑曜石武器吧！
@@ -22653,7 +22653,7 @@ PROPITEM_TXT_900810,Obsidian Flame White Yo-Yo,白色炽焰黑曜石飞轮
 PROPITEM_TXT_900811,Obsidian Flame White Staff,白色炽焰黑曜石法杖
 PROPITEM_TXT_900812,Obsidian Flame White Wand,白色炽焰黑曜石魔杖
 PROPITEM_TXT_900813,Obsidian Flame White Shield,白色炽焰黑曜石盾牌
-PROPITEM_TXT_900814,Obsidian Flame White Force Gem,白色炽焰黑曜石力量宝石
+PROPITEM_TXT_900814,Obsidian Flame White Force Gem,白色炽焰黑曜石手镯
 PROPITEM_TXT_900815,Obsidian Flame White Book,白色炽焰黑曜石书
 PROPITEM_TXT_900816,Obsidian Flame  White Weapon Set,白色炽焰黑曜石武器套装
 PROPITEM_TXT_900817,Select which Obsidian Flame White Weapon you want to receive!,选择你想要获得的白色炽焰黑曜石武器吧！
@@ -22668,7 +22668,7 @@ PROPITEM_TXT_900825,Obsidian Flame Black Yo-Yo,黑色炽焰黑曜石飞轮
 PROPITEM_TXT_900826,Obsidian Flame Black Staff,黑色炽焰黑曜石法杖
 PROPITEM_TXT_900827,Obsidian Flame Black Wand,黑色炽焰黑曜石魔杖
 PROPITEM_TXT_900828,Obsidian Flame Black Shield,黑色炽焰黑曜石盾牌
-PROPITEM_TXT_900829,Obsidian Flame Black Force Gem,黑色炽焰黑曜石力量宝石
+PROPITEM_TXT_900829,Obsidian Flame Black Force Gem,黑色炽焰黑曜石手镯
 PROPITEM_TXT_900830,Obsidian Flame Black Book,黑色炽焰黑曜石书
 PROPITEM_TXT_900831,Obsidian Flame Black Weapon Set,黑色炽焰黑曜石武器套装
 PROPITEM_TXT_900832,Select which Obsidian Flame Black Weapon you want to receive!,选择你想要获得的黑色炽焰黑曜石武器吧！
@@ -24680,7 +24680,7 @@ PROPITEM_TXT_902142,Knotty Scarecrow Yo-Yo,绳结稻草人飞轮
 PROPITEM_TXT_902143,Knotty Scarecrow Staff,绳结稻草人法杖
 PROPITEM_TXT_902144,Knotty Scarecrow Wand,绳结稻草人魔杖
 PROPITEM_TXT_902145,Knotty Scarecrow Shield,绳结稻草人盾牌
-PROPITEM_TXT_902146,Knotty Scarecrow Force Gem,绳结稻草人力量宝石
+PROPITEM_TXT_902146,Knotty Scarecrow Force Gem,绳结稻草人手镯
 PROPITEM_TXT_902147,Knotty Scarecrow Book,绳结稻草人之书
 PROPITEM_TXT_902148,Knotty Scarecrow Weapon Set,绳结稻草人武器套装
 PROPITEM_TXT_902149,Select which Knotty Scarecrow Weapon you want to receive!,选择你想要获得的绳结稻草人武器吧！
@@ -26008,7 +26008,7 @@ PROPITEM_TXT_903133,Lovable Chocolatier Red Yo-Yo,红色甜心巧匠之飞轮
 PROPITEM_TXT_903134,Lovable Chocolatier Red Staff,红色甜心巧匠之法杖
 PROPITEM_TXT_903135,Lovable Chocolatier Red Wand,红色甜心巧匠之魔杖
 PROPITEM_TXT_903136,Lovable Chocolatier Red Shield,红色甜心巧匠之盾
-PROPITEM_TXT_903137,Lovable Chocolatier Red Force Gem,红色甜心巧匠之力量宝石
+PROPITEM_TXT_903137,Lovable Chocolatier Red Force Gem,红色甜心巧匠之手镯
 PROPITEM_TXT_903138,Lovable Chocolatier Red Book,红色甜心巧匠之书
 PROPITEM_TXT_903139,Lovable Chocolatier Red Weapon Set,红色甜心巧匠之武器套装
 PROPITEM_TXT_903140,Select which Lovable Chocolatier Red Weapon you want to receive!,选择你想要获得的红色甜心巧匠武器吧！
@@ -26023,7 +26023,7 @@ PROPITEM_TXT_903148,Lovable Chocolatier Purple Yo-Yo,紫色甜心巧匠之飞轮
 PROPITEM_TXT_903149,Lovable Chocolatier Purple Staff,紫色甜心巧匠之法杖
 PROPITEM_TXT_903150,Lovable Chocolatier Purple Wand,紫色甜心巧匠之魔杖
 PROPITEM_TXT_903151,Lovable Chocolatier Purple Shield,紫色甜心巧匠之盾
-PROPITEM_TXT_903152,Lovable Chocolatier Purple Force Gem,紫色甜心巧匠之力量宝石
+PROPITEM_TXT_903152,Lovable Chocolatier Purple Force Gem,紫色甜心巧匠之手镯
 PROPITEM_TXT_903153,Lovable Chocolatier Purple Book,紫色甜心巧匠之书
 PROPITEM_TXT_903154,Lovable Chocolatier Purple Weapon Set,紫色甜心巧匠之武器套装
 PROPITEM_TXT_903155,Select which Lovable Chocolatier Purple Weapon you want to receive!,选择你想要获得的紫色甜心巧匠武器吧！
@@ -26038,7 +26038,7 @@ PROPITEM_TXT_903163,Lovable Chocolatier Yellow Yo-Yo,黄色甜心巧匠之飞轮
 PROPITEM_TXT_903164,Lovable Chocolatier Yellow Staff,黄色甜心巧匠之法杖
 PROPITEM_TXT_903165,Lovable Chocolatier Yellow Wand,黄色甜心巧匠之魔杖
 PROPITEM_TXT_903166,Lovable Chocolatier Yellow Shield,黄色甜心巧匠之盾
-PROPITEM_TXT_903167,Lovable Chocolatier Yellow Force Gem,黄色甜心巧匠之力量宝石
+PROPITEM_TXT_903167,Lovable Chocolatier Yellow Force Gem,黄色甜心巧匠之手镯
 PROPITEM_TXT_903168,Lovable Chocolatier Yellow Book,黄色甜心巧匠之书
 PROPITEM_TXT_903169,Lovable Chocolatier Yellow Weapon Set,黄色甜心巧匠之武器套装
 PROPITEM_TXT_903170,Select which Lovable Chocolatier Yellow Weapon you want to receive!,选择你想要获得的黄色甜心巧匠武器吧！
@@ -26053,7 +26053,7 @@ PROPITEM_TXT_903178,Lovable Chocolatier Orange Yo-Yo,橙色甜心巧匠之飞轮
 PROPITEM_TXT_903179,Lovable Chocolatier Orange Staff,橙色甜心巧匠之法杖
 PROPITEM_TXT_903180,Lovable Chocolatier Orange Wand,橙色甜心巧匠之魔杖
 PROPITEM_TXT_903181,Lovable Chocolatier Orange Shield,橙色甜心巧匠之盾
-PROPITEM_TXT_903182,Lovable Chocolatier Orange Force Gem,橙色甜心巧匠之力量宝石
+PROPITEM_TXT_903182,Lovable Chocolatier Orange Force Gem,橙色甜心巧匠之手镯
 PROPITEM_TXT_903183,Lovable Chocolatier Orange Book,橙色甜心巧匠之书
 PROPITEM_TXT_903184,Lovable Chocolatier Orange Weapon Set,橙色甜心巧匠之武器套装
 PROPITEM_TXT_903185,Select which Lovable Chocolatier Orange Weapon you want to receive!,选择你想要获得的橙色甜心巧匠武器吧！
@@ -26068,7 +26068,7 @@ PROPITEM_TXT_903193,Lovable Chocolatier Blue Yo-Yo,蓝色甜心巧匠之飞轮
 PROPITEM_TXT_903194,Lovable Chocolatier Blue Staff,蓝色甜心巧匠之法杖
 PROPITEM_TXT_903195,Lovable Chocolatier Blue Wand,蓝色甜心巧匠之魔杖
 PROPITEM_TXT_903196,Lovable Chocolatier Blue Shield,蓝色甜心巧匠之盾
-PROPITEM_TXT_903197,Lovable Chocolatier Blue Force Gem,蓝色甜心巧匠之力量宝石
+PROPITEM_TXT_903197,Lovable Chocolatier Blue Force Gem,蓝色甜心巧匠之手镯
 PROPITEM_TXT_903198,Lovable Chocolatier Blue Book,蓝色甜心巧匠之书
 PROPITEM_TXT_903199,Lovable Chocolatier Blue Weapon Set,蓝色甜心巧匠之武器套装
 PROPITEM_TXT_903200,Select which Lovable Chocolatier Blue Weapon you want to receive!,选择你想要获得的蓝色甜心巧匠武器吧！
@@ -26083,7 +26083,7 @@ PROPITEM_TXT_903208,Lovable Chocolatier Green Yo-Yo,绿色甜心巧匠之飞轮
 PROPITEM_TXT_903209,Lovable Chocolatier Green Staff,绿色甜心巧匠之法杖
 PROPITEM_TXT_903210,Lovable Chocolatier Green Wand,绿色甜心巧匠之魔杖
 PROPITEM_TXT_903211,Lovable Chocolatier Green Shield,绿色甜心巧匠之盾
-PROPITEM_TXT_903212,Lovable Chocolatier Green Force Gem,绿色甜心巧匠之力量宝石
+PROPITEM_TXT_903212,Lovable Chocolatier Green Force Gem,绿色甜心巧匠之手镯
 PROPITEM_TXT_903213,Lovable Chocolatier Green Book,绿色甜心巧匠之书
 PROPITEM_TXT_903214,Lovable Chocolatier Green Weapon Set,绿色甜心巧匠之武器套装
 PROPITEM_TXT_903215,Select which Lovable Chocolatier Green Weapon you want to receive!,选择你想要获得的绿色甜心巧匠武器吧！
@@ -26098,7 +26098,7 @@ PROPITEM_TXT_903223,Lovable Chocolatier Magenta Yo-Yo,洋红色甜心巧匠之�
 PROPITEM_TXT_903224,Lovable Chocolatier Magenta Staff,洋红色甜心巧匠之法杖
 PROPITEM_TXT_903225,Lovable Chocolatier Magenta Wand,洋红色甜心巧匠之魔杖
 PROPITEM_TXT_903226,Lovable Chocolatier Magenta Shield,洋红色甜心巧匠之盾
-PROPITEM_TXT_903227,Lovable Chocolatier Magenta Force Gem,洋红色甜心巧匠之力量宝石
+PROPITEM_TXT_903227,Lovable Chocolatier Magenta Force Gem,洋红色甜心巧匠之手镯
 PROPITEM_TXT_903228,Lovable Chocolatier Magenta Book,洋红色甜心巧匠之书
 PROPITEM_TXT_903229,Lovable Chocolatier Magenta Weapon Set,洋红色甜心巧匠之武器套装
 PROPITEM_TXT_903230,Select which Lovable Chocolatier Magenta Weapon you want to receive!,选择你想要获得的洋红色甜心巧匠武器吧！
@@ -26113,7 +26113,7 @@ PROPITEM_TXT_903238,Lovable Chocolatier Brown Yo-Yo,棕色甜心巧匠之飞轮
 PROPITEM_TXT_903239,Lovable Chocolatier Brown Staff,棕色甜心巧匠之法杖
 PROPITEM_TXT_903240,Lovable Chocolatier Brown Wand,棕色甜心巧匠之魔杖
 PROPITEM_TXT_903241,Lovable Chocolatier Brown Shield,棕色甜心巧匠之盾
-PROPITEM_TXT_903242,Lovable Chocolatier Brown Force Gem,棕色甜心巧匠之力量宝石
+PROPITEM_TXT_903242,Lovable Chocolatier Brown Force Gem,棕色甜心巧匠之手镯
 PROPITEM_TXT_903243,Lovable Chocolatier Brown Book,棕色甜心巧匠之书
 PROPITEM_TXT_903244,Lovable Chocolatier Brown Weapon Set,棕色甜心巧匠之武器套装
 PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to receive!,选择你想要获得的棕色甜心巧匠武器吧！
@@ -26760,7 +26760,7 @@ PROPITEM_TXT_135175,Party Toy Yo-Yo,派对玩具飞轮
 PROPITEM_TXT_135176,Party Toy Staff,派对玩具法杖
 PROPITEM_TXT_135177,Party Toy Wand,派对玩具魔杖
 PROPITEM_TXT_135178,Party Toy Shield,派对玩具盾
-PROPITEM_TXT_135179,Party Toy Force Gem,派对玩具力量宝石
+PROPITEM_TXT_135179,Party Toy Force Gem,派对玩具手镯
 PROPITEM_TXT_135180,Party Toy Book,派对玩具书
 PROPITEM_TXT_135181,Party Toy Weapon Set,派对玩具武器套装
 PROPITEM_TXT_135182,Select which Party Toy Weapon you want to receive!,选择你想要获得的派对玩具武器吧！
@@ -29432,7 +29432,7 @@ PROPITEM_TXT_1902659,Royal Vanguard Yo-Yo,皇家先锋飞轮
 PROPITEM_TXT_1902660,Royal Vanguard Staff,皇家先锋法杖
 PROPITEM_TXT_1902661,Royal Vanguard Wand,皇家先锋魔杖
 PROPITEM_TXT_1902662,Royal Vanguard Shield,皇家先锋盾
-PROPITEM_TXT_1902663,Royal Vanguard Force Gem,皇家先锋力量宝石
+PROPITEM_TXT_1902663,Royal Vanguard Force Gem,皇家先锋手镯
 PROPITEM_TXT_1902664,Royal Vanguard Book,皇家先锋书
 PROPITEM_TXT_1902665,Royal  Vanguard Weapon Set,皇家先锋武器套装
 PROPITEM_TXT_1902666,Select which Royal Vanguard Weapon you want to receive!,选择你想要获得的皇家先锋武器吧！
@@ -29447,7 +29447,7 @@ PROPITEM_TXT_1902674,Royal Abyss Yo-Yo,皇家深渊飞轮
 PROPITEM_TXT_1902675,Royal Abyss Staff,皇家深渊法杖
 PROPITEM_TXT_1902676,Royal Abyss Wand,皇家深渊魔杖
 PROPITEM_TXT_1902677,Royal Abyss Shield,皇家深渊盾
-PROPITEM_TXT_1902678,Royal Abyss Force Gem,皇家深渊力量宝石
+PROPITEM_TXT_1902678,Royal Abyss Force Gem,皇家深渊手镯
 PROPITEM_TXT_1902679,Royal Abyss Book,皇家深渊书
 PROPITEM_TXT_1902680,Royal  Abyss Weapon Set,皇家深渊武器套装
 PROPITEM_TXT_1902681,Select which Royal Abyss Weapon you want to receive!,选择你想要获得的皇家深渊武器吧！
@@ -32280,7 +32280,7 @@ PROPITEM_TXT_1903960,Eternal Nightmare Yo-Yo,永恒梦魇飞轮
 PROPITEM_TXT_1903961,Eternal Nightmare Staff,永恒梦魇法杖
 PROPITEM_TXT_1903962,Eternal Nightmare Wand,永恒梦魇魔杖
 PROPITEM_TXT_1903963,Eternal Nightmare Shield,永恒梦魇盾
-PROPITEM_TXT_1903964,Eternal Nightmare Force Gem,永恒梦魇力量宝石
+PROPITEM_TXT_1903964,Eternal Nightmare Force Gem,永恒梦魇手镯
 PROPITEM_TXT_1903965,Eternal Nightmare Book,永恒梦魇之书
 PROPITEM_TXT_1903966,Eternal Nightmare  Weapon Set,永恒梦魇武器套装
 PROPITEM_TXT_1903967,Select which Eternal Nightmare Weapon you want to receive!,选择你想要获得的永恒梦魇武器吧！
