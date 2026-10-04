@@ -126,7 +126,7 @@ PROPITEM_TXT_000252,Hardinition,哈德斧
 PROPITEM_TXT_000254,May Stick,学徒魔棒
 PROPITEM_TXT_000256,Plim Stick,桃木魔棒
 PROPITEM_TXT_000258,Sirin Stick,辟邪魔棒
-PROPITEM_TXT_000260,Scull Stick,学徒魔棒
+PROPITEM_TXT_000260,Scull Stick,圣徒魔棒
 PROPITEM_TXT_000262,Tim Stick,光明魔棒
 PROPITEM_TXT_000264,Huey Stick,仁爱魔棒
 PROPITEM_TXT_000266,Bopol Stick,激流魔棒
@@ -6510,13 +6510,13 @@ PROPITEM_TXT_013190,Mob Weapon: Zombie,暴徒凶器: 丧尸
 PROPITEM_TXT_100139,Secret Drop Boost,神秘掉落加成
 PROPITEM_TXT_100140,You just found a secret Drop boost! Enjoy it!,你找到了一个神秘的掉率加成！享受它吧！
 PROPITEM_TXT_010532,The Seeds of Love,爱的种子
-PROPITEM_TXT_010533,Increases Max HP by +150 for 1 hour. Once expired it becomes a Love Sprout.,1小时内最大HP增加150点\n一旦过期，它就变成了一个爱的萌芽。
+PROPITEM_TXT_010533,Increases Max HP by +150 for 1 hour. Once expired it becomes a Love Sprout.,最大HP+150\n持续一小时，到期后，它就变成了一个爱的萌芽。
 PROPITEM_TXT_010534,Love Sprout,爱的萌芽
-PROPITEM_TXT_010535,"Increases Max HP by + 300 for 1 hour. Once expired, it becomes a Flowerpot of Love.",HP上限增加300点\n持续一小时，一旦过期，它就变成了一个爱的花钵。
+PROPITEM_TXT_010535,"Increases Max HP by + 300 for 1 hour. Once expired, it becomes a Flowerpot of Love.",最大HP+300\n持续一小时，到期后，它就变成了一个爱的花钵。
 PROPITEM_TXT_010536,Flowerpot of Love,爱的花钵
-PROPITEM_TXT_010537,"Increases Max HP by +300 and Attack Power by 5% for 1 hour. After it expires, it becomes a Mature Flowerpot of Love.",1小时内最大HP增300，攻击力+5%。 到期后，它就变成了一个成熟的爱的花钵。
+PROPITEM_TXT_010537,"Increases Max HP by +300 and Attack Power by 5% for 1 hour. After it expires, it becomes a Mature Flowerpot of Love.",HP+300，攻击力+5%\n持续一小时，到期后，它就变成了一个成熟的爱的花钵。
 PROPITEM_TXT_010538,Mature Flowerpot of Love,成熟的爱的花钵
-PROPITEM_TXT_010539,"Increases Max HP by +300 and Attack Power by 10% for 1 hour. After it expires, it becomes an Ancient Flowerpot of Love.",最大生命值+300，攻击力+10%，持续1小时。 过期后，它就会变成一个古老的爱的花钵。
+PROPITEM_TXT_010539,"Increases Max HP by +300 and Attack Power by 10% for 1 hour. After it expires, it becomes an Ancient Flowerpot of Love.",HP+300，攻击力+10%\n持续一小时， 到期后，它就会变成一个古老的爱的花钵。
 PROPITEM_TXT_010540,Ancient Flowerpot of Love,古老的爱的花钵
 PROPITEM_TXT_010541,"Increases Max HP by +300, Attack Power by 15%, and Exp gain by 10% for 1 hour. Once expired, the item is consumed.",最大生命值+300，攻击力增加15%，经验增加10%，持续1小时。 一旦过期，该物品就会被消耗掉。
 PROPITEM_TXT_010574,Power Scroll,力量卷轴
