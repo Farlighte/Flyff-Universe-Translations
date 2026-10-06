@@ -510,7 +510,7 @@ TEXTCLIENT_PK_NO_IPARTYLEADER,You are not the Party leader.,您不是剧团团�
 TEXTCLIENT_PK_NO_UPARTYLEADER,The other member is not the Party leader.,对方不是剧团团长
 TEXTCLIENT_PK_NO_DUEL,You cannot duel with the other player currently.,您目前无法与其他玩家进行战斗
 TEXTCLIENT_PDSTART,Duel has started with %s party.,与%s剧团的对战要开始了
-TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.",%s的剧团PVP已经结束了。继续参加PVP的话，会依照规则得到惩罚
+TEXTCLIENT_PVPLEAVE,"Party duel mode of %s was finished. If you join duel again, you will be penalized according to PK rules.",%s的剧团PvP已经结束了。继续参加PvP的话，会依照规则得到惩罚
 TEXTCLIENT_PDCANCEL,Duel has been cancelled.,取消了剧团对战
 TEXTCLIENT_PDVICTORY,You won the party duel.,你在剧团对战中获胜。
 TEXTCLIENT_PDLOSE,You lost the party duel.,你在剧团对战中战败。
@@ -683,7 +683,7 @@ TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,活动�
 TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,"活动期间你无法""呼喊""。"
 TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,公会战期间无法使用。
 TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,在辜会对战落选后的退回金额
-TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",大家好~我是公会对战的主办人多拿里斯。\n因你的公会未进入前8名，所以扣除申请对战的20%手续费，请取回其他剩下的金额。\n希望下次可以参加公会对战~\n感谢您的支持
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",大家好~我是公会对战的主办人多拿里斯。\n因你的公会未进入前8名，所以扣除申请对战的2%手续费，请取回其他剩下的金额。\n希望下次可以参加公会对战~\n感谢您的支持。
 TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",已经领取MVP奖金，或您不是公会战的MVP
 TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,由于收到公会攻城战奖金时，金币数量超过了背包金币的上限，请在网站上向GM领取奖金。对给您带来的不便深感抱歉
 TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,作为 MVP，您已获得 %d 金币的奖励 。恭喜！

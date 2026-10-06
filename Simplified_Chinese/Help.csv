@@ -606,7 +606,7 @@ CLIENT_HELP_INC_000604,Armor shop,防具商店
 CLIENT_HELP_INC_000605,"This place sells armor for Mercenaries, Assists, and Acrobats.",这里出售战士，圣职者，弓箭手的防具。
 CLIENT_HELP_INC_000606,Magic store,魔法商店
 CLIENT_HELP_INC_000607,"This place sells weapons, armor, and magic items best suited for Magicians.",这里出售适合魔导士用的武器，防具和魔法物品。
-CLIENT_HELP_INC_000608,Food shop,食品店
+CLIENT_HELP_INC_000608,Food shop,餐饮店
 CLIENT_HELP_INC_000609,This shop sells food items that help recover HP,这里出售恢复血量的食物
 CLIENT_HELP_INC_000610,General merchandise,杂货店
 CLIENT_HELP_INC_000611,"This place sells Arrows, Posters, and those sorts of things.",这里出售弓箭，符咒，诸如此类的物品。
@@ -658,11 +658,11 @@ CLIENT_HELP_INC_000656,Duel among users,玩家之间的对战
 CLIENT_HELP_INC_000657,This is a duel between 2 players.,两位玩家之间可以对决。
 CLIENT_HELP_INC_000658,PvP,PvP
 CLIENT_HELP_INC_000659,It means a fight between characters by mutual agreement. Affects PVP fame and PVP point.,指双方约定同意的一场战斗。决斗输赢影响PVP声望和PVP值。
-CLIENT_HELP_INC_000660,Asking for PvP,关于PVP
+CLIENT_HELP_INC_000660,Asking for PvP,关于PvP
 CLIENT_HELP_INC_000661,"If you right-click with ALT key on the player whom you want to have duel with, you can have a duel with the player in case of that the user accepts that.",如果你按住Alt并右键玩家选择了决斗，你可以在对方同意后开始。
 CLIENT_HELP_INC_000662,"In case of that you are the leader of your troupe and the clicked one is another leader of other troupe, you can have a group duel, if the other lead accept it.",如果你是剧团长并且向另外一个剧团长发出了决斗邀请，对方同意后，你们可以开始团战。
 CLIENT_HELP_INC_000663,The result of PVP and Fame,关于PVP和声望
-CLIENT_HELP_INC_000664,PVP fame and PVP point change according to PvP record.,PVP声望和点数取决于决斗的战绩
+CLIENT_HELP_INC_000664,PVP fame and PVP point change according to PvP record.,PvP声望和点数取决于决斗的战绩
 CLIENT_HELP_INC_000665,placholder 49,占位符 49
 CLIENT_HELP_INC_000666,placholder 50,占位符 50
 CLIENT_HELP_INC_000667,placholder 51,占位符 51

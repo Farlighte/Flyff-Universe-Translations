@@ -1197,12 +1197,12 @@ PROPQUEST_INC_002217,Visit Luda at the Shield Shop.,你就去盾牌商店找路�
 PROPQUEST_INC_002219,Introduction to Shields,初心者教育(3)
 PROPQUEST_INC_002220,"Hahaha! Welcome to the Shield Shop! You can buy shields, weapons, and armor for Vagrants here. I stock all the equipment that you need prior to your first job change at level 15.",哈哈哈~欢迎来到盾牌商店。这里不只盾牌，还有贩卖初心者专用武器和防具。在到达等级15第1次转职以前，来我这里可以购买你需要的装备。
 PROPQUEST_INC_002221,Why don't you buy a Long Sword with the Penya you've collected? You can buy it by double tapping on it or dragging it into your inventory.,即然来到这里，就用你拿到的金币和我买长剑吧。购买方法在道具目录栏上，将你想买的道具拖曳到你的物品栏里，就可以了。
-PROPQUEST_INC_002222,"Also, you can sell an item by dragging it into the shop window. Pretty easy, huh? Okay, after buying it, please visit Losha at the Food Shop.",贩卖方法在物品栏里拖曳到道具目录栏里，就可以。非常简单吧？如果你都购买好了，就去饮食店找萝夏吧。
-PROPQUEST_INC_002223,Losha at the Food Shop is staying in Eastern Flarine which is located to the east of here. You'll have to cross the bridge to get there.,饮食店萝夏就在东边的帕里 ，那边会有一座桥，所以你不需要担心。
-PROPQUEST_INC_002224,"What, you think it's too far? The Food Shop is very important for your journey, you should definitely check it out.",你觉得远吗？不过饮食店是卖饮食的重要地方，你一定要知道。
+PROPQUEST_INC_002222,"Also, you can sell an item by dragging it into the shop window. Pretty easy, huh? Okay, after buying it, please visit Losha at the Food Shop.",贩卖方法在物品栏里拖曳到道具目录栏里，就可以。非常简单吧？如果你都购买好了，就去餐饮店找萝夏吧。
+PROPQUEST_INC_002223,Losha at the Food Shop is staying in Eastern Flarine which is located to the east of here. You'll have to cross the bridge to get there.,餐饮店萝夏就在东边的帕里 ，那边会有一座桥，所以你不需要担心。
+PROPQUEST_INC_002224,"What, you think it's too far? The Food Shop is very important for your journey, you should definitely check it out.",你觉得远吗？不过餐饮店是卖饮食的重要地方，你一定要知道。
 PROPQUEST_INC_002225,"You are new to Madrigal, right? Hi! I have heard a lot about you already! Here, take this. It's a gift from Luda. Talk to me again for you next task!",哎唷！是新来到飞飞世界的见习者吗？你好啊，请收下盾牌商店路达大人准备的礼物！如果下次再来找我，就会是最后的见习者教育了。
 PROPQUEST_INC_002226,You should buy a Long Sword from Luda at the Shield Shop.,你要持有长剑才可以。盾牌商店路达有在卖~！
-PROPQUEST_INC_002227,"Losha at the Food Shop will give me a Green Shield and 1,200 Penya when I visit her.",你就去饮食店找萝夏，就给你高级木盾和1200金币。
+PROPQUEST_INC_002227,"Losha at the Food Shop will give me a Green Shield and 1,200 Penya when I visit her.",你就去餐饮店找萝夏，就给你高级木盾和1200金币。
 PROPQUEST_INC_002229,A Vagrant's First Steps (1),初心者的第一步(1)
 PROPQUEST_INC_002230,Hello! I am Losha and I run the Food Shop. I sell food that is helpful for when you lose your Health Points (HP). Each type of food has a different recovery power and level requirement.,我在贩卖的食物是可以补充HP的。各种类都有不同的HP恢复量，如果你HP剩余较多时，每次食用的恢复量就会减少哦
 PROPQUEST_INC_002231,"You can eat the food by double-clicking it in your inventory. Also, you can add them to your hot keys. Please remember that once you eat food, you cannot eat again for a certain amount of time.",使用食物的方法，双点击物品栏位的食物，也可以透过拖曳到热键栏后使用。要记住使用过一次后，在一定的时间之内，不能马上再使用。
@@ -1809,7 +1809,7 @@ PROPQUEST_INC_110291,"Once you learn the alchemy, you can brew your own buff pot
 PROPQUEST_INC_110292,Good. Try anything on the caldron nearby. Caldron is near the magic shop.,好的。用附近的炼金锅随便试试吧。炼金锅就在魔法商店旁边。
 PROPQUEST_INC_110293,Cooking Class,烹饪课程
 PROPQUEST_INC_110294,Food is the basic of survival. Why don't you cook on your own?,食物是生存的根本。你何不自己下厨试试？
-PROPQUEST_INC_110295,Good. Try anything on the oven nearby. Oven is near the food shop.,好的。用附近的烤炉随便试试吧。烤炉就在食品店旁边。
+PROPQUEST_INC_110295,Good. Try anything on the oven nearby. Oven is near the food shop.,好的。用附近的烤炉随便试试吧。烤炉就在餐饮店旁边。
 PROPQUEST_INC_110296,Carpentry Class,木工课程
 PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpenting?,你可以用木材制作家具。想学习木工吗？
 PROPQUEST_INC_110298,"Okay, try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.",好的，用附近的木工工具随便试试吧。木工工具就在房屋管理员旁边。
@@ -1832,7 +1832,7 @@ PROPQUEST_INC_110303,"Go out into the field and chop some. It will be a great he
 PROPQUEST_INC_110304,"Go out into the field and try to dig some. It will be a great help, whether you succeed or not.",到野外去挖掘一些来吧。无论成败，对我都是莫大的帮助。
 PROPQUEST_INC_110305,"Go to the nearest river and try fishing. Whether you succeed or fail, it'll help you a lot.",去附近的河边钓鱼试试吧。无论成败，都会对你大有裨益。
 PROPQUEST_INC_110306,Try anything on the caldron nearby. Caldron is near the magic shop.,去旁边的大锅那里试试吧，大锅就在魔法商店附近。
-PROPQUEST_INC_110307,Try anything on the oven nearby. Oven is near the food shop.,用附近的烤炉随便试试吧。烤炉就在食品店旁边。
+PROPQUEST_INC_110307,Try anything on the oven nearby. Oven is near the food shop.,用附近的烤炉随便试试吧。烤炉就在餐饮店旁边。
 PROPQUEST_INC_110308,Try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.,用附近的木工工具随便试试吧。木工工具就在房屋管理员旁边。
 PROPQUEST_INC_110309,Try anything at the nearest crafting tool. The tools are near the jewelry.,用最近的加工工具随便试试吧。工具就在首饰店旁边。
 PROPQUEST_INC_110310,Hero Grade (2),英雄品级 (2)
@@ -2752,7 +2752,7 @@ PROPQUEST_INC_150699,Zombie Defense,抵御丧尸
 PROPQUEST_INC_150700,The zombie horde is closing in on the town!! We need to buy time until reinforcements arrive — I need your help!!,丧尸大军压境！！我们必须争取时间，等援军赶来——求你帮帮忙！！
 PROPQUEST_INC_150701,Thank you!! I'll never forget what you've done for us!!,太感谢你了！！你为我们做的一切，我们永生难忘！！
 PROPQUEST_INC_150702,Time is running out... Come back if you change your mind.,没时间了……要是你回心转意，就回来找我吧。
-PROPQUEST_INC_150703,You're a hero! The reinforcements will handle the rest of the zombies!,你真是我们的大英雄！剩下的丧尸援军会搞定的！
+PROPQUEST_INC_150703,You're a hero! The reinforcements will handle the rest of the zombies!,你真是我们的大英雄！剩下的丧尸，援军会搞定的！
 PROPQUEST_INC_150704,Defend the town against the zombie horde until reinforcements arrive.,保护城镇，抵御丧尸群，直到援军抵达。
 PROPQUEST_INC_150800,Retrieve the 4th Anniversary Birthday Banner!,找回4周年生日横幅！
 PROPQUEST_INC_150801,Would you like to participate in our 4th Anniversary event and receive your event banner?,你愿意参加我们的4周年活动并领取活动横幅吗？

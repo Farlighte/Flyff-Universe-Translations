@@ -3018,7 +3018,7 @@ PROPITEM_TXT_005294,Mon-Book 1,突变怪物的诞生背景
 PROPITEM_TXT_005295,Quest Item: Book about the birth of Super Giant Monsters.,记载着超大型怪物诞生背景的书
 PROPITEM_TXT_005296,Mon-Book 2,突变怪物行动研究报告
 PROPITEM_TXT_005297,Quest Item: Book about the actions of Super Giant Monsters.,超大型怪物的行动研究报告书
-PROPITEM_TXT_005298,Mon-Book 3,突变怪物节剖研究报告
+PROPITEM_TXT_005298,Mon-Book 3,突变怪物解剖研究报告
 PROPITEM_TXT_005299,Quest Item: Book about the organization and movements of Super Giant Monsters.,超大型怪物的构造与动作原理的报告书
 PROPITEM_TXT_005314,Nyanyang,彩色野果
 PROPITEM_TXT_005315,Giant Nyangnyang's favorite food. Can be found wherever Giant Nyangnyang is.,彩冠翎猫王最爱吃的食物。
@@ -3028,23 +3028,23 @@ PROPITEM_TXT_005318,Unknown Certificate,诡异的证件
 PROPITEM_TXT_005319,Quest Item: A mysterious and unpleasant certificate.,神秘且充满诡异气氛的证件
 PROPITEM_TXT_005320,Office Document,城镇服务处的文件
 PROPITEM_TXT_005396,Scholarship Application,研究费用申请书
-PROPITEM_TXT_005397,Quest Item: Martinyc's application for a scholarship.,研究学者玛缇雅克提特制造的费用申请书
+PROPITEM_TXT_005397,Quest Item: Martinyc's application for a scholarship.,申请研究项目费用需要填写的表单，填写后递交给市长。
 PROPITEM_TXT_005398,Stone Piece of Flaris,帕里岩石的碎片
 PROPITEM_TXT_005399,Quest Item: A rare stone found rarely in Flaris.,任务物品：在帕里找到后石。
 PROPITEM_TXT_005400,Stone Piece of Saint Morning,晨光岩石的碎片
 PROPITEM_TXT_005402,Stone Piece of Darkon,达肯岩石的碎片
 PROPITEM_TXT_005404,Proof of Continent Division,大陆分裂的证据资料
 PROPITEM_TXT_005405,Quest Item: Proof that proves the continents of Madrigal separated at one time.,大陆被分裂的主要证据资料
-PROPITEM_TXT_005406,Recommendation of Gothante,高潭提拉的推荐书
-PROPITEM_TXT_005407,Quest Item: A recommendation from Gothante.,写给扎森特所信任的人的推荐书
+PROPITEM_TXT_005406,Recommendation of Gothante,扎森特的推荐书
+PROPITEM_TXT_005407,Quest Item: A recommendation from Gothante.,扎森特写给其所信之人的推荐书
 PROPITEM_TXT_005408,Piece of Strange Cloth,诡异的布料
-PROPITEM_TXT_005409,Quest Item: A piece of cloth with the same pattern as the one in the Field of Bubble.,外型与波卜尔平原的样子很相同，有点破掉的布料
+PROPITEM_TXT_005409,Quest Item: A piece of cloth with the same pattern as the one in the Field of Bubble.,外型与波卜尔平原的纹样很相似，有点破掉的布料。
 PROPITEM_TXT_005410,Unknown Mark,无法知道的纹样
 PROPITEM_TXT_005411,Quest Item: Cloth with a weird pattern on it. Found in the Field of Bubble.,在波卜尔平原中找到的整个布料。
 PROPITEM_TXT_005412,Piece of Unknown Cloth,无法知道的布料
-PROPITEM_TXT_005413,Quest Item: A piece of cloth with the same pattern as the one in the Hill of Shade.,外型与谢莉德之丘的样子很相同，有点像破掉的布料
+PROPITEM_TXT_005413,Quest Item: A piece of cloth with the same pattern as the one in the Hill of Shade.,外型与谢莉德之丘的纹样很相似，有点破掉的布料。
 PROPITEM_TXT_005414,Book of Troubled History,苦难的历史
-PROPITEM_TXT_005415,Quest Item: Ancient document entailing life in the past.,不知道是什么样的内容，大概是写着古代历史的内容
+PROPITEM_TXT_005415,Quest Item: Ancient document entailing life in the past.,不知道是什么样的内容，大概是写着古代历史。
 PROPITEM_TXT_005416,Data Examined by Hachal,哈查尔的调查资料
 PROPITEM_TXT_005417,Quest Item: A collection of Data that Hachal has studied.,任务物品：哈查尔研究过的资料收集。
 PROPITEM_TXT_005418,Ancient Book,破烂的书籍
@@ -3054,11 +3054,11 @@ PROPITEM_TXT_005421,Quest Item: Black gem found in the center of the Hill of Sha
 PROPITEM_TXT_005422,Mysterious Red Gem,诡异的晶球(红)
 PROPITEM_TXT_005423,Quest Item: Red gem found in the center of the Field of Bubble.,在波卜尔平原中找到的红色晶球。
 PROPITEM_TXT_005424,Book of Laola,拉宇的奇迹
-PROPITEM_TXT_005425,Quest Item: A book that seems to be useful to Gothante.,拉宇制作的证书，对于扎森特来说可能是一个很重要的文书
+PROPITEM_TXT_005425,Quest Item: A book that seems to be useful to Gothante.,似乎扎森特需要这本书。
 PROPITEM_TXT_005426,Scroll of Gothante,扎森特的卷轴
-PROPITEM_TXT_005427,Quest Item: Scroll with important information for Matinyc.,谢着要交给马特尼提特的内容
+PROPITEM_TXT_005427,Quest Item: Scroll with important information for Matinyc.,卷轴上写着给玛缇雅克的重要信息。
 PROPITEM_TXT_005464,Soulstone of Hero,英雄的宝石
-PROPITEM_TXT_005465,Quest Item: Gem with a piece of a Hero's soul in it.,拥有英雄的灵魂的碎宝石，听说是最后战役结束后，拉迪温制作出来的。放置在英雄祭坛上的象征宝石
+PROPITEM_TXT_005465,Quest Item: Gem with a piece of a Hero's soul in it.,拥有英雄的灵魂的碎宝石，听说是最后战役结束后拉迪温制作出来的，放置在英雄祭坛上的象征宝石。
 PROPITEM_TXT_005472,Mark of Hero,英雄的象征
 PROPITEM_TXT_005473,Quest Item: Mark that proves that you are qualified to follow in the Heroes' footsteps.,认同有资格跟随英雄之路的证明
 PROPITEM_TXT_005482,Venel Heart,贝纳的心脏
@@ -6646,9 +6646,9 @@ PROPITEM_TXT_100220,"A cute and fast, baby, Giant Aibatt that follows its master
 PROPITEM_TXT_100221,Baby Glaphan,可爱的双足食人鱼
 PROPITEM_TXT_100222,"A scary but fast, baby, Glaphan that follows its master around and picks up dropped items",捡宠，召唤时会自动拾取周围道具。
 PROPITEM_TXT_100223,Box of Element Attack,属性攻击魔法石箱
-PROPITEM_TXT_100224,"This box contains one Attack Stone per natural element, increasing Element Attack by 20% for 1 hour. Each Stone's element must match the Weapon's element.",这个箱子中包含每个元素属性的攻击石头各一块，1小时内增加20%属性攻击。每块石头的元素属性必须与武器相匹配。
+PROPITEM_TXT_100224,"This box contains one Attack Stone per natural element, increasing Element Attack by 20% for 1 hour. Each Stone's element must match the Weapon's element.",这个箱子中包含每个元素属性的攻击石各一块，1小时内增加20%属性攻击。\n每块石头的元素属性必须与武器相匹配。
 PROPITEM_TXT_100225,Box of Element Defense,属性防御魔法石箱
-PROPITEM_TXT_100226,"This box contains one Defense Stone per natural element, increasing Element Defense by 20% for 1 hour. Each Stone's element must match the Suit's element.",这个箱子中包含每个元素属性的防御石头各一块，1小时内增加20%属性防御。每块石头的元素属性必须与衣服相匹配。
+PROPITEM_TXT_100226,"This box contains one Defense Stone per natural element, increasing Element Defense by 20% for 1 hour. Each Stone's element must match the Suit's element.",这个箱子中包含每个元素属性的防御石各一块，1小时内增加20%属性防御。\n每块石头的元素属性必须与衣服相匹配。
 PROPITEM_TXT_010742,Big Bad Wolf Set (M),大灰狼套装(男)
 PROPITEM_TXT_010743,This box contains a Male Big Bad Wolf Set. 'Caution when opening. Contents Ferocious.',男性角色大灰狼套装。“小心开启，内含猛兽。”
 PROPITEM_TXT_010752,Red Riding Hood Set (F),小红帽套装(女)
@@ -14973,9 +14973,9 @@ PROPITEM_TXT_723263,A package containing 2x Extra Bag (30 Days) and 2x Bank Extr
 PROPITEM_TXT_723264,Remote-Access Kit,远程道具箱
 PROPITEM_TXT_723265,"A package containing 10x Scroll of Guild Custody, 10x Scroll of General Shop, 10x Scroll of Food Shop and 10x Scroll of Multi-Shop. All items are also linked.","包含 10x 公会仓库卷轴, 10x 精品店卷轴, 10x 餐饮店卷轴以及10x 多类型商店卷轴。所有道具均为绑定。"
 PROPITEM_TXT_723266,Elemental Attack Stone Select Box,元素属性石选择箱
-PROPITEM_TXT_723267,"This box contains an elemental stone of your choice, increasing Element Attack by 20% for 1 hour. Each Stone's element must match the Weapon's element.",可任选一颗元素属性攻击石，一小时内元素攻击力提升百分之二十。元素石的属性必须与武器属性一致。
+PROPITEM_TXT_723267,"This box contains an elemental stone of your choice, increasing Element Attack by 20% for 1 hour. Each Stone's element must match the Weapon's element.",可任选一颗元素属性攻击石，一小时内元素攻击力提升20%。\n元素石的属性必须与武器属性一致。
 PROPITEM_TXT_723268,Elemental Defense Stone Select Box,元素属性防御石选择箱
-PROPITEM_TXT_723269,"This box contains an elemental stone of your choice, increasing Element Defense by 20% for 1 hour. Each Stone's element must match the Suit's element.",可任选一颗元素属性防御石，一小时内元素防御力提升百分之二十。元素石的属性必须与衣服属性一致。
+PROPITEM_TXT_723269,"This box contains an elemental stone of your choice, increasing Element Defense by 20% for 1 hour. Each Stone's element must match the Suit's element.",可任选一颗元素属性防御石，一小时内元素防御力提升20%。\n元素石的属性必须与衣服属性一致。
 PROPITEM_TXT_723270,Metaverse random box,元宇宙随机箱
 PROPITEM_TXT_723271,This box contains a random metaverse furniture.,包含一件元宇宙风家具。
 PROPITEM_TXT_723272,PickUp Pet Package,捡宠礼包
@@ -29356,7 +29356,7 @@ PROPITEM_TXT_1902582,Mysterious Accessory Lv3 Selection Box,神秘饰品Lv3自�
 PROPITEM_TXT_1902583,You can choose 1 out of 3 types of Lv.3 Mysterious Accessory,您可以从3种类型的3级神秘饰品中选择一种
 PROPITEM_TXT_1902584,Mysterious Accessory Lv4 Selection Box,神秘饰品Lv4自选箱
 PROPITEM_TXT_1902585,You can choose 1 out of 3 types of Lv.4 Mysterious Accessory,您可以从3种类型的4级神秘饰品中选择一种
-PROPITEM_TXT_1902586,Guild Siege reward (used to buy items from Waforu).,公会战奖励 (用于再华弗处兑换道具)。
+PROPITEM_TXT_1902586,Guild Siege reward (used to buy items from Waforu).,公会战奖励 (用于在华弗处兑换道具)。
 PROPITEM_TXT_1902587,Blossom,花灵
 PROPITEM_TXT_1902589,Kebaras Costume Fragment,卡巴拉斯时装碎片
 PROPITEM_TXT_1902590,Exchange these in Kebaras 2 for unique cosmetics.,可以在卡巴拉斯2将这些碎片兑换成独特的装扮。

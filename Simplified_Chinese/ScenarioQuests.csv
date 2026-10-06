@@ -42,7 +42,7 @@ PROPQUEST_SCENARIO_INC_000345,"What? No, you cannot stop now. You have come so f
 PROPQUEST_SCENARIO_INC_000346,Ahhh you are here finally. Give me the data and letter of recommendation.,啊，你终于来了。把数据和推荐信交给我吧。
 PROPQUEST_SCENARIO_INC_000347,This place is very strange... Hmm... Field of Bubble... What do you think about it?,这地方很奇怪……嗯……和波卜尔平原有什么关联呢……你怎么看？
 PROPQUEST_SCENARIO_INC_000348,"You know the Field of Bubble, right? I think we can find some evidence there. Lets go! Hurry up!",你知道波卜尔平原吧?我看了这些之后才想到的，你到那边的话，或许可以找到一些线索..快去吧!
-PROPQUEST_SCENARIO_INC_000350,Chapter 1: Field of Bubble: The Strange Pattern,第一章 - 波卜尔的平原 <诡异的纹样>
+PROPQUEST_SCENARIO_INC_000350,Chapter 1: Field of Bubble: The Strange Pattern,第一章 - 波卜尔平原 <诡异的纹样>
 PROPQUEST_SCENARIO_INC_000351,Before you showed up I took a look around and found something strange to the North. The ground was dug up and...,你出现之前我转了一圈，发现北边有点不对劲。地面被人动了手脚，而且……
 PROPQUEST_SCENARIO_INC_000352,...it looked like some kind of pattern. I could get a close look at it because it was surrounded .,……看起来像是某种图案。我想凑近观察，可它被围起来了……
 PROPQUEST_SCENARIO_INC_000353,Strange fellows were hanging around there. I think they were defending something. There was no way I could have fought them off.,那里有些奇怪的人在围着它。我想他们是在保护什么。可我根本打不过他们。
@@ -72,7 +72,7 @@ PROPQUEST_SCENARIO_INC_000378,Hey we are in this together. We are all in the sam
 PROPQUEST_SCENARIO_INC_000379,Hmm... Is this what Hachal said? Good job. Thank you very much. Let me check.,嗯……哈查尔是这么说的吗？做得好。非常感谢。我查一下。
 PROPQUEST_SCENARIO_INC_000380,History is always more interesting than current events but this is especially mysterious.,历史总是比当下更有趣，但这一点尤其神秘。
 PROPQUEST_SCENARIO_INC_000381,Here. Take this picture. Please deliver it to Rovanett who is working in the National Library in Saint City. You can find her in Saint Hall.,拿好这个图片，晨光之后把这个交给在图书馆工作的鲁巴迦丽，在晨光圣教堂附近可以找到她。
-PROPQUEST_SCENARIO_INC_000383,Chapter 2 Hill of Shade: The Great Troupe Leader.,第二章 - 谢莉德之丘 <大团长豋场>
+PROPQUEST_SCENARIO_INC_000383,Chapter 2 Hill of Shade: The Great Troupe Leader.,第二章 - 谢莉德之丘 <大团长登场>
 PROPQUEST_SCENARIO_INC_000384,Oh your story about the pattern reminds me of something I read in one of the ancient texts.,啊，听完这个纹样的事情之后想到了一件事情。是我在以前研究古代文书的时候发现的。
 PROPQUEST_SCENARIO_INC_000385,Do you know the Hill of Shade? I found it in one of my books but have only dared to venture there once.,你知道<谢莉德之丘>吗?突然想到，我在之前研究古代文书时，发现的一个地方，后来我去过那边。
 PROPQUEST_SCENARIO_INC_000386,There is a pattern similar to the one that you saw in the Field of Bubble. Or maybe it was exactly the same. If those two patterns are the same...,有一种类似于你在波卜尔平原中看到的纹样。或者可能是完全一样的。如果这两种是一样的……
@@ -106,7 +106,7 @@ PROPQUEST_SCENARIO_INC_000416,Chapter 3 Purple Magician: The Secret of the Altar
 PROPQUEST_SCENARIO_INC_000417,Hmm... I have some good theories but we are going to need more information about the altar and the Magic Troupe.,嗯……我有一些很好的理论，但我们需要更多关于祭坛和魔法团的信息。
 PROPQUEST_SCENARIO_INC_000418,I think there is something in the altar. I have a strong feeling that we could find something there if we look closely enough.,我觉得祭团那边应该会有一些线索才对，仔细的去找找的话，或许会找的到吧。
 PROPQUEST_SCENARIO_INC_000419,Listen. This is very important. Just stick with this until the end. Would you?,我告诉你，这非常重要。坚持到底，你会的对吧？
-PROPQUEST_SCENARIO_INC_000420,Please check the altar until you can find some evidence.,请帮我去查一下紫色的剧团。帮我找到线索。
+PROPQUEST_SCENARIO_INC_000420,Please check the altar until you can find some evidence.,请帮我调查祭坛，直到找到证据。
 PROPQUEST_SCENARIO_INC_000421,"What could be more important than this? Oh fine, just go.",还有什么比这更重要的吗？行了，你走吧。
 PROPQUEST_SCENARIO_INC_000422,Hmm... Everything is written in an ancient language. But we can translate it. Thanks.,嗯……一切都是用一种古文写成的。但我们可以翻译。谢谢。
 PROPQUEST_SCENARIO_INC_000423,Please come back to me after the translation is over. Let me bring this book to the translator.,请在翻译结束后再来找我。我得把这本书带给翻译。
@@ -138,7 +138,7 @@ PROPQUEST_SCENARIO_INC_000450,"This is it. I have to check this first, so please
 PROPQUEST_SCENARIO_INC_000452,Chapter 3 Purple Magician: Identity of the Purple Magician,第三章 - 紫色的魔法师 <紫色魔法师的身份>
 PROPQUEST_SCENARIO_INC_000453,"*cough* *cough* This bead, with all of its power, was crafted by the only pupil I ever had, Lapranche. *cough*",这个晶球是我的徒弟<拉普朗什>做的..
 PROPQUEST_SCENARIO_INC_000454,She is the Black Magician. I was also the Black Magician at one point. We have often been confused for each other throughout history. *Sigh* It seems that Lapranche found out about them.,她是黑魔法师。我曾经也一样是。所以在整个历史中，我们经常被混淆。*唉* ，看来拉普朗什发现了他们的事。
-PROPQUEST_SCENARIO_INC_000455,"You believe in them now right? If you are looking to me for answers about what they were, you are wasting your time. All I know is that they created all of Madrigal and that they were once agents of Rhisis.",你是想要知道关于他们的事情吗?嗯..可是我也不是很清楚..我知道的只有他们是被莱斯神所创作出来的。
+PROPQUEST_SCENARIO_INC_000455,"You believe in them now right? If you are looking to me for answers about what they were, you are wasting your time. All I know is that they created all of Madrigal and that they were once agents of Rhisis.",你现在相信他们了，对吧？如果你想从我这里了解他们的身份，那就别浪费时间了。我只知道是他们创造了整个瑞加大陆，他们曾经也是莱斯神的使者。
 PROPQUEST_SCENARIO_INC_000456,"Yes Lapranche found out about them and attempted to bring them back to this world with the Purple Magic, the same magic that drained me of so much.",是的，拉普朗什发现了他们，并试图用紫魔法将他们带回这个世界，正是这种魔法曾让我失去太多。
 PROPQUEST_SCENARIO_INC_000457,Do me a favor would you?,年轻人，我有一个事情想拜托你。
 PROPQUEST_SCENARIO_INC_000459,You are afraid. I am not surprised. The world hangs in the balance. Who would not be scared? Go on. Get out of here.,我就知道你会害怕。世界岌岌可危，谁不会恐惧呢？走吧，快离开这里。

@@ -251,7 +251,7 @@ UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),弓箭攻击力
 UI_TOOLTIP_DST_KNUCKLE_DMG,Attack Power (Knuckle),拳套攻击力
 UI_TOOLTIP_DST_SWD_DMG,Attack Power (Sword),剑攻击力
 UI_TOOLTIP_DST_AXE_DMG,Attack Power (Axe),斧攻击力
-UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,攻击速率
+UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,攻击速度
 UI_TOOLTIP_DST_DMG_GET,Lifesteal,生命偷取
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,攻击力和HP
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,防御力和命中率降低
@@ -587,7 +587,7 @@ UI_DROP_FILTER_12,Pets,宠物
 UI_DROP_FILTER_13,Misc.,其他杂项
 UI_DROP_FILTER_CAT_ETC,Others,其他
 UI_DROP_FILTER_14,Common,普通
-UI_DROP_FILTER_15,Uncommon,特殊
+UI_DROP_FILTER_15,Uncommon,精良
 UI_DROP_FILTER_16,Rare & Higher,稀有及其以上的
 UI_DROP_FILTER_17,Uncommon & Higher,精良及其以上的
 UI_DROP_FILTER_19,Refreshers,MP药水
@@ -740,8 +740,8 @@ UI_DUELREQUEST_PARTY,%s challenges your party to a duel %s. Accept the party due
 UI_DUELREQUEST_NOBET,(no bet),（无赌注）
 UI_DUELREQUEST_BETAMOUNT,with a %s Penya bet,以 %s 金币下注
 UI_DUELRESULT_TITLE,Duel Result,对战结果
-UI_DUELRESULT_WIN,%s wins the Duel!,PVP结束，输给 %s
-UI_DUELRESULT_LOSE,%s loses the Duel!,与 %s PVP结束，获得胜利
+UI_DUELRESULT_WIN,%s wins the Duel!,PvP结束，%s 获得了胜利！
+UI_DUELRESULT_LOSE,%s loses the Duel!,PvP结束，%s 落败了。
 UI_CASHSHOP_RELOAD,TOP-UP,充值
 UI_CASHSHOP_LEGALINFO,Legal Information,法律条款
 UI_CASHSHOP_GSC,General Sales Conditions,通用销售条款
@@ -1049,9 +1049,9 @@ UI_TOOLTIP_BASE_HEAL,Base Heal: %d,基础治疗量：%d
 UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,基础 MP 回复量： %d
 UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,基础 FP 回复量： %d
 UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,基础持续时间: %.2d:%.2d.%.3d
-UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PvP & Giants),/ %.2d:%.2d (PVP&BOSS)
+UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PvP & Giants),/ %.2d:%.2d (PvP&BOSS)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,概率: %d%%
-UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PvP & Giants),/ %d%% (PVP&BOSS)
+UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PvP & Giants),/ %d%% (PvP&BOSS)
 UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,击飞概率: %d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,冷却时间: %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PvP),/ %.2d:%.2d (PvP)
@@ -1073,7 +1073,7 @@ UI_KEYBIND_WALK,Toggle Run/Walk,切换跑步/行走模式
 UI_KEYBIND_SKILL_COMBO,Action Slot,连续技能栏
 UI_KEYBIND_CLEAR_TARGET,Clear Target,取消选中
 UI_KEYBIND_TRACE_TARGET,Follow Target,跟随目标
-UI_KEYBIND_SELECT_TARGET,Cycle Targets (PvP),选择PVP目标
+UI_KEYBIND_SELECT_TARGET,Cycle Targets (PvP),选择PvP目标
 UI_KEYBIND_APPLETS,Windows,窗口
 UI_KEYBIND_CAMERA,Camera Controls,控制镜头
 UI_KEYBIND_CAMERA_LEFT,Rotate Left,向左旋转
@@ -1152,9 +1152,9 @@ UI_ACHIEVEMENTS_CARD_LEVEL,Level %d,等级 %d
 UI_ACHIEVEMENTS_CARD_BONUS,Attack +%s%%,攻击力 +%s%%
 UI_ACHIEVEMENTS_NOTITLE,(No Title),不选择称号
 UI_ACHIEVEMENTS_NOTITLE_DESCRIPTION,Hide your title.,不展示任何称号
-UI_ACHIEVEMENTS_PVPTITLE,PvP Title,PVP称号
+UI_ACHIEVEMENTS_PVPTITLE,PvP Title,PvP称号
 UI_ACHIEVEMENTS_PVPTITLE_CURRENT,"(Currently ""%s"")","(目前 ""%s"")"
-UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Display your current PvP title.,显示您当前的PVP称号
+UI_ACHIEVEMENTS_PVPTITLE_DESCRIPTION,Display your current PvP title.,显示您当前的PvP称号
 UI_ACHIEVEMENTS_TITLES_SELECT,Apply,选择
 UI_ACHIEVEMENTS_TITLES_FROM,Unlocked By,来自
 UI_ACHIEVEMENTS_CLAIMBTN,Claim,领取
@@ -1265,7 +1265,7 @@ UI_CASHSHOP_PENYA_VIP,Penya (VIP),金币（VIP）
 UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,此物品#b无法交易或出售#nb
 UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,此次购买 #b不是商品#nb。
 UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,暴击抗性
-UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,PVP伤害减免
+UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,PvP伤害减免
 UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,PvE伤害减免
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,魔法抵抗
 UI_TOOLTIP_DST_DEFPHYS_RATE,Physical Resistance,物理抵抗
@@ -1275,8 +1275,8 @@ UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum 伤害
 UI_TOOLTIP_WALL_LIVES,Number of lives: %d,攻击次数: %d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,取消增益状态
 UI_BUFF_REMOVE_QUESTION,Remove the buff #b%s#nb? This action cannot be undone.,你是否确定删除增益效果 #b%s#nb? 这一行为不可撤销。
-UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PvP),反射伤害: %d%% / %d%% (PVP)
-UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PvP),晕眩概率 (PVP)
+UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PvP),反射伤害: %d%% / %d%% (PvP)
+UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PvP),晕眩概率 (PvP)
 UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PvE),晕眩概率 (PVE)
 UI_TOOLTIP_CHANCEPOISON,Poison Probability,中毒概率
 UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,吸血概率
@@ -2009,8 +2009,8 @@ UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s 结束时间：#b%s#nb（U
 UI_REMOTE_SHOP_TITLE,Remote Shop,远程商店
 UI_HALLOWEENPASS,Halloween Pass,万圣节通行证
 UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,购买扩容
-UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,仓库额外背包
-UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s,仓库额外背包剩余时间: %s
+UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,仓库扩展背包
+UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s,仓库扩展背包剩余时间: %s
 UI_RAINBOWRACE_ITEMS,Rainbow Items,彩虹道具
 UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!,在比赛中获取道具，并用其对付其他玩家！
 UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),名次 %d / %d (%d 分)
@@ -2160,10 +2160,10 @@ UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Adjust the in-game video/graphic settings to m
 UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure hardware acceleration is enabled in your browser.,2) 启动浏览器硬件加速。
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Settings,进入游戏设置
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish a Rainbow Race,完成彩虹竞赛
-UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).",额外背包空格可通过完成特定任务/成就，或使用额外背包（Flyff 商店有售）来解锁。
-UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,额外的背包空格可通过提升情侣等级或使用更高级的情侣戒指求婚来解锁。
-UI_QUEST_SLOTS_COMMAND,Uncompleted quests that unlock inventory slots:,可解锁背包空格的未完成任务：
-UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or incomplete achievements that unlock inventory slots:,可解锁背包空格的未领取或未达成成就：
+UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).",额外背包栏位可通过完成特定任务或成就，以及使用商城售卖的扩展背包来解锁。
+UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,额外的背包栏位可通过提升情侣等级或使用更高级的情侣戒指求婚来解锁。
+UI_QUEST_SLOTS_COMMAND,Uncompleted quests that unlock inventory slots:,可解锁背包栏位的未完成任务：
+UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or incomplete achievements that unlock inventory slots:,可解锁背包栏位的未领取或未达成成就：
 UI_QUEST_KILL_MONSTER_COUNT,Defeat Monsters #cffc32f07#b%d/%d#nb#nc,击杀怪物 #cffc32f07#b%d/%d#nb#nc
 UI_STORAGE_EXPIRED,(Expired),(已过期)
 UI_STORAGE_GETALL,Retrieve All,全部取回
@@ -2447,7 +2447,7 @@ UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,万圣节活动
 UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,达成奖励
 UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,要摧毁的南瓜
 UI_SEARCHSHOP_PLAYERNAME,Player Name,玩家名称
-UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PVP手动匹配
+UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PvP手动匹配
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,昵称
 UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,邀请加入队伍1
 UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,邀请加入队伍2
@@ -2527,7 +2527,7 @@ UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除终极宝石
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,移除
 UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",要移除此装备上选定的终极宝石吗？ #b#cffff0000如果没有宝石镊子，该宝石将被销毁。#nc#nb
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,融合终极宝石
-UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,放入终极宝石作为材料
+UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,提交终极宝石材料宝石
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,融合 3 至 6 颗终极宝石，可获得 1 颗更高等级的终极宝石。
 UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,材料宝石将被消耗。\n是否继续？
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功: #b%s#nb
@@ -2591,7 +2591,7 @@ UI_PETTRAINING_INTERVALS,Feeding Interval,喂养间隔
 UI_PETTRAINING_CONFIRM,"#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?",已选宠物正在训练中，无法使用。#cffff0000若停止训练，宠物将被归还。#nc是否继续？
 UI_PETTRAINING_TOTALTRAINING,Total Training Time,总训练时长
 UI_PETTRAINING_CLAIM,Claim,领取
-UI_PETTRAINING_NEXTCANDY,Next Candy In,下次喂养时间：
+UI_PETTRAINING_NEXTCANDY,Next Candy In,下次糖果时间：
 UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,你即将取消宠物训练。宠物将按当前进度返还至你的房屋仓库。是否继续？
 UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,你即将取消宠物训练。宠物将按当前进度返还至你的背包。是否继续？
 UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc",你可以在背包中通过将已培育宠物委托给看护者来进行训练。每位看护者 NPC 拥有不同的喂食时间表与间隔，且仅适用于特定阶位的宠物。\n\n请通过 #b双击或将已培育宠物拖入槽位#nb 来选择要训练的宠物，然后点击“完成”按钮开始训练。\n\n#cffff0000若更换已培育宠物，喂食时间表将被重置；若看护者持续时间结束，训练也将终止。#nc
@@ -2674,7 +2674,7 @@ UI_PRODUCTION_ACCESSORY,Accessories,首饰
 UI_PRODUCTION_COUPLERING,Couple Ring,恋人戒指(15天)
 UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,制作者: %s
 UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,品质:%s
-UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,可叠加: %dx
+UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,叠加: %dx
 UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,耐久: %d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
 UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
