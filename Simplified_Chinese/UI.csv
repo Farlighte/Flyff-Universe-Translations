@@ -3500,7 +3500,7 @@ UI_ZD_STATE_WAVE_2,Defend the house against Wave 2,防守第2波
 UI_ZD_STATE_WAVE_3,Defend the house against Wave 3,防守第3波
 UI_ZD_STATE_WAVE_4,Defend the house against Wave 4,防守第4波
 UI_ZD_STATE_WAVE_5,Defend the house against Wave 5,防守第5波
-UI_ZD_STATE_REWARD,Pick up your reward at the house,防守第6波
+UI_ZD_STATE_REWARD,Pick up your reward at the house,拾取奖励
 UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,防守成功！
 UI_ZD_DEFENSE_FAILED,Defense Failed!,防守失败！
 UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,拾取奖励!
