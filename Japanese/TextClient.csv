@@ -1426,7 +1426,7 @@ TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.,こ
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.,このエモートをリクエストするには、パートナーを選択する必要があります。
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.,パートナーがエモートの実行を拒否しました。
 TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this emote.,このエモートを行うには、パートナーとの距離が離れすぎています。
-TEXTCLIENT_APP_LIFE,Life Skills,ライフスタイル
+TEXTCLIENT_APP_LIFE,Life Skills,ライフスタイルスキル
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,%sを装備する必要があります。
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,正しい道具かご確認ください。
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,採取に失敗しました。

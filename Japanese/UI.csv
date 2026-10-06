@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,成功回数�
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,成功率：
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,プロダクトアップグレード
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,材料アイテムを入れてください。
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,下位ランクの生産アイテムを交換し、上位グレードのアイテムを入手できる可能性があります。\n交換比率：C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,下位ランクの生産アイテムを交換し、上位ランクのアイテムを入手できる可能性があります。\n交換比率：C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,ショップ更新
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,行商人リフレッシュチケットを使用して、ショップの在庫を更新しますか？
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,%sを使用してショップの在庫を更新
