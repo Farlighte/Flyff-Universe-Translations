@@ -7311,7 +7311,7 @@ PROPITEM_TXT_100751,Crystal Essence,クリスタルエッセンス
 PROPITEM_TXT_100752,Wood that can be used to fortify the town defenses.,町の防御を強化するために使用できる木材。
 PROPITEM_TXT_100753,Stone that can be used to fortify the town defenses.,町の防御を強化するために使用できる石。
 PROPITEM_TXT_100754,Soul of a once renowned ruler.,かつての高名な統治者の魂。
-PROPITEM_TXT_100755,"It seems Orphanage Keeper is collecting Yetti's Hammer, let's bring one to him.",マッドイエティが振るう巨大なハンマー。
+PROPITEM_TXT_100755,"It seems Orphanage Keeper is collecting Yetti's Hammer, let's bring one to him.",ロード・イエティが振るう巨大なハンマー。
 PROPITEM_TXT_100756,Mysterious magical essence gathered from Augu.,アウグから集められた謎の魔素。
 PROPITEM_TXT_100757,Bloody Obsidian Sword,オブシディアン ブラッディ ソード
 PROPITEM_TXT_100758,Bloody Obsidian Slayer,オブシディアン ブラッディ スレイヤー
@@ -9197,43 +9197,43 @@ PROPITEM_TXT_400322,Kraken's Head,クラーケンの頭
 PROPITEM_TXT_400323,Siren's Head,セイレーンの頭
 PROPITEM_TXT_400324,Pyramid Guardian's Head,ピラミッド・ガーディアンズヘッド
 PROPITEM_TXT_400325,Pyramid Keeper's Head,ピラミッド・キーパーズヘッド
-PROPITEM_TXT_400326,Legends of Leren Mountains,レレン山脈の伝説
-PROPITEM_TXT_400327,Quest Item: A book of myths and legends about the history of the Leren Mountains.,レレン山脈の歴史に関する神話と伝説の本。(クエストアイテム)
-PROPITEM_TXT_400328,Flaris Fungi,フラリス菌
-PROPITEM_TXT_400329,Quest Item: A potent fungus said to grant health and longevity.,健康と長寿を与えると言われている強力な真菌。(クエストアイテム)
-PROPITEM_TXT_400330,Mothbee Spore,モスビー胞子
-PROPITEM_TXT_400331,Quest Item: Magic spores that fall from the wings of Mothbees.,モスビーの翼から落ちる魔法の胞子。(クエストアイテム)
-PROPITEM_TXT_400332,Elixir of Vitality,活力のエリクサー
-PROPITEM_TXT_400333,Quest Item: A potent elixir that may hold the key to learning about the magic caves of the Leren Mountains.,レレン山脈の魔法の洞窟について学ぶための鍵を握る可能性のある強力なエリクサー。(クエストアイテム)
-PROPITEM_TXT_400334,Broken Vial,壊れたバイアル
-PROPITEM_TXT_400335,Quest Item: An empty vial that may have once held a true Elixir of Vitality.,かつて真の活力のエリクサーを保持していた可能性のある空のバイアル。(クエストアイテム)
+PROPITEM_TXT_400326,Legends of Leren Mountains,レルエン山脈の伝説
+PROPITEM_TXT_400327,Quest Item: A book of myths and legends about the history of the Leren Mountains.,レルエン山脈の歴史にまつわる神話や伝説が記された本。(クエストアイテム)
+PROPITEM_TXT_400328,Flaris Fungi,フラリスキノコ
+PROPITEM_TXT_400329,Quest Item: A potent fungus said to grant health and longevity.,健康と長寿をもたらすと言われている、不思議な力を持つキノコ。(クエストアイテム)
+PROPITEM_TXT_400330,Mothbee Spore,モスビーの胞子
+PROPITEM_TXT_400331,Quest Item: Magic spores that fall from the wings of Mothbees.,モスビーの羽からこぼれ落ちる、魔力を秘めた胞子。(クエストアイテム)
+PROPITEM_TXT_400332,Elixir of Vitality,生命の霊薬
+PROPITEM_TXT_400333,Quest Item: A potent elixir that may hold the key to learning about the magic caves of the Leren Mountains.,レルエン山脈の洞窟に秘められた魔力の謎を解く鍵となるかもしれない、強力な霊薬。(クエストアイテム)
+PROPITEM_TXT_400334,Broken Vial,割れた小瓶
+PROPITEM_TXT_400335,Quest Item: An empty vial that may have once held a true Elixir of Vitality.,かつて本物の「生命の霊薬」が入っていたと思われる、空の小瓶。(クエストアイテム)
 PROPITEM_TXT_400336,Soul of the Nightmist,ナイトミストの魂
-PROPITEM_TXT_400337,Quest Item: The soul left behind after slaying the Nightmist. Strangely the face looks like a troll..,ナイトミストを倒した後に残された魂。不思議なことに、顔は荒らしのように見えます..。(クエストアイテム)
+PROPITEM_TXT_400337,Quest Item: The soul left behind after slaying the Nightmist. Strangely the face looks like a troll..,ナイトミストを倒した後に残された魂。不思議なことに、その中にはトロールの顔のようなものが見える。(クエストアイテム)
 PROPITEM_TXT_400338,Weapon Piercing Card Box (D),武器ソケットカードボックス(D)
 PROPITEM_TXT_400339,Select which piercing card (D) you want!,欲しいソケットカードを選択してください!
-PROPITEM_TXT_400340,Metallurgical Bull Ring,メタリジカルブルリング
-PROPITEM_TXT_400341,Quest Item: A powerful ring with special metal properties. Rarely a Giant Dumb Bull may wear one.,特殊な金属特性を持つ強力なリング。ジャイアント・ダンブルが着用することはめったにありません。(クエストアイテム)
+PROPITEM_TXT_400340,Metallurgical Bull Ring,メタリジカル・ブルリング
+PROPITEM_TXT_400341,Quest Item: A powerful ring with special metal properties. Rarely a Giant Dumb Bull may wear one.,特殊な金属特性を持つリング。まれにジャイアント・ダンブルが身につけていることがある。(クエストアイテム)
 PROPITEM_TXT_400342,Lightning Rod,避雷針
-PROPITEM_TXT_400343,Quest Item: A lightning rod that can draw away small amounts of lightning from an area.,エリアから少量の稲妻を引き離すことができる避雷針。(クエストアイテム)
-PROPITEM_TXT_400344,Supercharged Lightning Rod,過給された避雷針
-PROPITEM_TXT_400345,Quest Item: A supercharged lightning rod that can draw away massive amounts of lightning from an area.,エリアから大量の稲妻を引き離すことができる過給された避雷針。(クエストアイテム)
-PROPITEM_TXT_400346,Heart of Red Otem,レッドコルム・ハート
-PROPITEM_TXT_400347,Quest Item: The heart of a Red Otem from deep inside the Iblis dungeon.,イブリスダンジョンの奥深くで入手したレッドコルムの心臓。(クエストアイテム)
-PROPITEM_TXT_400348,Clothing Scrap,衣料品スクラップ
-PROPITEM_TXT_400349,Quest Item: The remaining clothing of adventurers lost inside the Rhisis Catacombs.,リシス地下墓地内で失くした冒険者の衣服。(クエストアイテム)
+PROPITEM_TXT_400343,Quest Item: A lightning rod that can draw away small amounts of lightning from an area.,周囲の雷を少量引き寄せることができる避雷針。(クエストアイテム)
+PROPITEM_TXT_400344,Supercharged Lightning Rod,チャージされた避雷針
+PROPITEM_TXT_400345,Quest Item: A supercharged lightning rod that can draw away massive amounts of lightning from an area.,周囲の雷を大量に引き寄せることができる、フルチャージされた避雷針。(クエストアイテム)
+PROPITEM_TXT_400346,Heart of Red Otem,レッド・オーテムの心臓
+PROPITEM_TXT_400347,Quest Item: The heart of a Red Otem from deep inside the Iblis dungeon.,イブリス神殿の奥深くで入手したレッド・オーテムの心臓。(クエストアイテム)
+PROPITEM_TXT_400348,Clothing Scrap,衣服の切れ端
+PROPITEM_TXT_400349,Quest Item: The remaining clothing of adventurers lost inside the Rhisis Catacombs.,リシスの地下墓地で行方不明になった冒険者たちの衣服の切れ端。(クエストアイテム)
 PROPITEM_TXT_400350,Broken Shield,壊れたシールド
-PROPITEM_TXT_400351,Quest Item: A broken shield once used by a lost adventurer.,かつて迷子になった冒険者が使用した壊れた盾。(クエストアイテム)
-PROPITEM_TXT_400352,Dungeoneer's Pack,ダンジョンアーズパック
-PROPITEM_TXT_400353,Quest Item: The remaining pack of adventurers lost inside the Rhisis Catacombs.,リシス地下墓地内で失われた残冒険者のバックパック。(クエストアイテム)
+PROPITEM_TXT_400351,Quest Item: A broken shield once used by a lost adventurer.,行方不明になった冒険者が使っていた壊れた盾。(クエストアイテム)
+PROPITEM_TXT_400352,Dungeoneer's Pack,冒険者のバッグ
+PROPITEM_TXT_400353,Quest Item: The remaining pack of adventurers lost inside the Rhisis Catacombs.,リシスの地下墓地で行方不明になった冒険者たちが残したバッグ。(クエストアイテム)
 PROPITEM_TXT_400354,Broken Sword,壊れた剣
-PROPITEM_TXT_400355,Quest Item: A broken sword once used by a lost adventurer.,かつて迷子になった冒険者が使用した壊れた剣。(クエストアイテム)
+PROPITEM_TXT_400355,Quest Item: A broken sword once used by a lost adventurer.,行方不明になった冒険者が使っていた壊れた剣。(クエストアイテム)
 PROPITEM_TXT_400356,Tainted Root,汚染された根
-PROPITEM_TXT_400357,Quest Item: The tainted roots of a Sentient Tree Warrior.,感覚のある木の戦士の汚染された根。(クエストアイテム)
-PROPITEM_TXT_400358,Cracked Bark of Shelid,シェリッドのひびの入った樹皮
-PROPITEM_TXT_400359,"Quest Item: A piece of cracked bark from the Sentient Tree Guardian. Strangely, a mark of Shelid is etched into the aging wood..",センティエント・ツリー・ガーディアンのひびの入った樹皮。不思議なことに、老朽化した木にシェリッドの跡が刻まれています。(クエストアイテム)
+PROPITEM_TXT_400357,Quest Item: The tainted roots of a Sentient Tree Warrior.,センティエント・ツリー・ウォーリアーの汚染された根。(クエストアイテム)
+PROPITEM_TXT_400358,Cracked Bark of Shelid,シェリッドのひび割れた樹皮
+PROPITEM_TXT_400359,"Quest Item: A piece of cracked bark from the Sentient Tree Guardian. Strangely, a mark of Shelid is etched into the aging wood..",センティエント・ツリー・ガーディアンから剥がれ落ちた、ひび割れた樹皮。不思議なことに、古びた樹皮にはシェリッドの印が刻まれている。(クエストアイテム)
 PROPITEM_TXT_400360,Weapon Piercing Card Box (C),武器ソケットカードボックス(C)
 PROPITEM_TXT_400361,Select which piercing card (C) you want!,欲しいソケットカードを選択してください!
-PROPITEM_TXT_400362,Cardpuppet Gear,カードパペットギア
+PROPITEM_TXT_400362,Cardpuppet Gear,カードパペットの歯車
 PROPITEM_TXT_400363,Quest Item: Gears from the body of a Cardpuppet.,カードパペットの体からギア。(クエストアイテム)
 PROPITEM_TXT_400364,Corrupted Symbol of Shade,破損したシェードのシンボル
 PROPITEM_TXT_400365,Quest Item: A Symbol of Shade that can be used to create strong magical seals.,強力な魔法の封印を作成するために使用できるシェードのシンボル。(クエストアイテム)
@@ -9465,7 +9465,7 @@ PROPITEM_TXT_130050,Skeletal Militant Shield,スケルタルミリタントシ�
 PROPITEM_TXT_130053,Hael's Letter,ハエルの手紙
 PROPITEM_TXT_130054,"Hidden Quest Item: In his letter, Hael explains the pain of losing his memory to an old friend. Unfortunately, he never wrote who the letter was to.",手紙の中で、ヘイルは記憶を失った痛みを旧友に説明しています。残念なことに、彼はその手紙が誰に宛てたものかを書くことはありませんでした。(クエストアイテム)
 PROPITEM_TXT_130055,Hael's Map,ハエルの地図
-PROPITEM_TXT_130056,Hidden Quest Item: A mysterious map Reonan found hidden with Hael's Letter. Holes are torn in the map by The Middle of Leren Mountains and the Saint Tree.,レオナンが見つけた謎の地図が、ヘールの手紙で隠されているのを見つけた。マップに穴が開いたのは、レレン山脈の真ん中と聖人の木です。(クエストアイテム)
+PROPITEM_TXT_130056,Hidden Quest Item: A mysterious map Reonan found hidden with Hael's Letter. Holes are torn in the map by The Middle of Leren Mountains and the Saint Tree.,レオナンが見つけた謎の地図が、ヘールの手紙で隠されているのを見つけた。マップに穴が開いたのは、レルエン山脈の真ん中と聖人の木です。(クエストアイテム)
 PROPITEM_TXT_130057,Aura of Shade,影のオーラ
 PROPITEM_TXT_130058,Quest Item: A strange object that appears to glow when near a ritual of dark magic.,黒魔術の儀式に近づくと光るように見える奇妙なオブジェクト。(クエストアイテム)
 PROPITEM_TXT_130059,Corrupted Aura of Shade,堕落した影のオーラ
@@ -15980,14 +15980,14 @@ PROPITEM_TXT_132256,Orange Earless Seal,オレンジアザラシ
 PROPITEM_TXT_132257,Blue Earless Seal,ブルーアザラシ
 PROPITEM_TXT_132258,White Earless Seal,ホワイトアザラシ
 PROPITEM_TXT_132259,Earless seal follows his master around and pick up dropped items.,アザラシは主人についてまわり、落ちているアイテムを拾い集めてくれます。
-PROPITEM_TXT_725111,Magic Clock of Leren Chasm (5 Min),《レレン層岩巨淵の魔時計》 (5分)
-PROPITEM_TXT_725112,Re-entry cooldown for Leren Chasm has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レレン層岩巨淵」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のレレン層岩巨淵の魔法の時計と共有されます。
-PROPITEM_TXT_725113,Magic Clock of Leren Chasm (10 Min),レレン層岩巨淵の魔時計 (10分)
-PROPITEM_TXT_725114,Re-entry cooldown for Leren Chasm has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レレン層岩巨淵」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のレレン層岩巨淵の魔法の時計と共有されます。
-PROPITEM_TXT_725115,Magic Clock of Rhisis Catacombs (5 Min),リシスの地下墓地の魔法の時計 (5分)
-PROPITEM_TXT_725116,Re-entry cooldown for Rhisis Catacombs has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のリシス・カタコンベズムの魔時計と共有されます。
-PROPITEM_TXT_725117,Magic Clock of Rhisis Catacombs (10 Min),リシスの地下墓地の魔法の時計 (10分)
-PROPITEM_TXT_725118,Re-entry cooldown for Rhisis Catacombs has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの秘宝の魔法の時計と共有されます。
+PROPITEM_TXT_725111,Magic Clock of Leren Chasm (5 Min),レルエン峡谷の魔時計 (5分)
+PROPITEM_TXT_725112,Re-entry cooldown for Leren Chasm has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レルエン峡谷」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のレルエン峡谷の魔時計と共有されます。
+PROPITEM_TXT_725113,Magic Clock of Leren Chasm (10 Min),レルエン峡谷の魔時計 (10分)
+PROPITEM_TXT_725114,Re-entry cooldown for Leren Chasm has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レルエン峡谷」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のレルエン峡谷の魔時計と共有されます。
+PROPITEM_TXT_725115,Magic Clock of Rhisis Catacombs (5 Min),リシスの地下墓地の魔時計 (5分)
+PROPITEM_TXT_725116,Re-entry cooldown for Rhisis Catacombs has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの地下墓地の魔時計と共有されます。
+PROPITEM_TXT_725117,Magic Clock of Rhisis Catacombs (10 Min),リシスの地下墓地の魔時計 (10分)
+PROPITEM_TXT_725118,Re-entry cooldown for Rhisis Catacombs has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの地下墓地の魔時計と共有されます。
 PROPITEM_TXT_725119,Magic Clock of Envy Depths (5 Min),嫉妬の深淵の魔時計 (5分)
 PROPITEM_TXT_725120,Re-entry cooldown for Envy Depths has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「羨望の深淵」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他の羨望の深さの魔法の時計と共有されます。
 PROPITEM_TXT_725121,Magic Clock of Envy Depths (10 Min),嫉妬の深淵の魔時計 (10分)
