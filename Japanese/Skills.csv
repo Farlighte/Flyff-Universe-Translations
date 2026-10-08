@@ -23,7 +23,7 @@ PROPSKILL_TXT_000019,Increases accuracy and enhances the power of the wielded ax
 PROPSKILL_TXT_000020,Empower Weapon,パワーウェポン
 PROPSKILL_TXT_000021,Enhances the weapon's elemental power.,一定時間、属性が付与されている武器を装備しているキャラクターの攻撃力を増加させます。
 PROPSKILL_TXT_000022,Bloody Strike,ブラッディストライク
-PROPSKILL_TXT_000024,Sword Mastery,ｿｰﾄﾞﾏｽﾀﾘｰ
+PROPSKILL_TXT_000024,Sword Mastery,ソードマスタリー
 PROPSKILL_TXT_000025,Enhances the power of the wielded sword.,剣の熟練度を上昇させ、剣を装備した際の攻撃力をアップさせます。
 PROPSKILL_TXT_000026,Axe Mastery,アックスマスタリー
 PROPSKILL_TXT_000027,Enhances the power of the wielded axe.,斧の熟練度を上昇させ、斧を装備した際の攻撃力をアップさせます。
@@ -574,7 +574,7 @@ PROPSKILL_TXT_150073,Malefic Detonation,Malefic Detonation
 PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.","Track the number of Disable type debuffs you apply, multiplying the bonuses given."
 PROPSKILL_TXT_150075,Weaken at full charge,Weaken at full charge
 PROPSKILL_TXT_150076,Cooldown reduction,Cooldown reduction
-PROPSKILL_TXT_150077,Shield,ｼｰﾙﾄﾞ
+PROPSKILL_TXT_150077,Shield,シールド
 PROPSKILL_TXT_150078,Hexe's Lament,Hexe's Lament
 PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.","Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently."
 PROPSKILL_TXT_150080,Aoe Range,Aoe Range
@@ -583,59 +583,59 @@ PROPSKILL_TXT_150082,Damage increase,Damage increase
 PROPSKILL_TXT_150083,Damnation Surge,Damnation Surge
 PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","Track the number of Weaken type debuffs you apply, multiplying the bonuses given."
 PROPSKILL_TXT_150085,Sleep at full charge,Sleep at full charge
-PROPSKILL_TXT_150087,Shield,ｼｰﾙﾄﾞ
+PROPSKILL_TXT_150087,Shield,シールド
 PROPSKILL_TXT_150088,Enhanced Blinkpool,Enhanced Blinkpool
 PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,Movement speed is temporarily increased after using Blinkpool.
 PROPSKILL_TXT_150090,Additional damage disable,Additional damage disable
 PROPSKILL_TXT_150091,Additional damage weaken,Additional damage weaken
 PROPSKILL_TXT_150092,Debuff Damage Reduction,Debuff Damage Reduction
-PROPSKILL_TXT_150093,Shield Crush,Shield Crush
-PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,Swing your shield to stun enemies with a certain chance.
+PROPSKILL_TXT_150093,Shield Crush,シールドクラッシュ
+PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,盾を振るい、一定確率で敵をスタンさせます。
 PROPSKILL_TXT_150095,Increased Range,Increased Range
 PROPSKILL_TXT_150096,Quick Stun,Quick Stun
 PROPSKILL_TXT_150097,Forceful Attack,Forceful Attack
-PROPSKILL_TXT_150098,Maelstrom Strike,Maelstrom Strike
-PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.","A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun."
+PROPSKILL_TXT_150098,Maelstrom Strike,メイルストローム
+PROPSKILL_TXT_150099,"A spinning attack that releases a gust of wind, hitting nearby enemies twice with a chance to stun.",回転して突風を起こし、周囲の敵を2回攻撃して一定確率でスタンさせます。
 PROPSKILL_TXT_150100,Enhance Stun,Enhance Stun
 PROPSKILL_TXT_150101,Quick Stun,Quick Stun
-PROPSKILL_TXT_150103,Templar's Call,Templar's Call
-PROPSKILL_TXT_150104,Pull your target towards yourself.,Pull your target towards yourself.
+PROPSKILL_TXT_150103,Templar's Call,テンプラーコール
+PROPSKILL_TXT_150104,Pull your target towards yourself.,周囲の敵を自分のもとへ引き寄せます。
 PROPSKILL_TXT_150105,Ankle Slice,Ankle Slice
 PROPSKILL_TXT_150106,Relentless Embrace,Relentless Embrace
 PROPSKILL_TXT_150107,Multi-capture,Multi-capture
-PROPSKILL_TXT_150108,Rush Attack,Rush Attack
-PROPSKILL_TXT_150109,Quickly charge at your target to attack.,Quickly charge at your target to attack.
+PROPSKILL_TXT_150108,Rush Attack,ラッシュアタック
+PROPSKILL_TXT_150109,Quickly charge at your target to attack.,対象に素早く突進して攻撃します。
 PROPSKILL_TXT_150110,Deep Impact,Deep Impact
 PROPSKILL_TXT_150111,Ankle Strike,Ankle Strike
-PROPSKILL_TXT_150112,Shield,ｼｰﾙﾄﾞ
-PROPSKILL_TXT_150113,Sky Splitter,Sky Splitter
-PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.","Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon."
+PROPSKILL_TXT_150112,Shield,シールド
+PROPSKILL_TXT_150113,Sky Splitter,スカイスプリッター
+PROPSKILL_TXT_150114,"Split the skies using your two handed weapon, dealing damage to your target. Requires a two handed weapon.",両手武器で空を切り裂き、対象を攻撃します。
 PROPSKILL_TXT_150116,Defensive Stance,Defensive Stance
 PROPSKILL_TXT_150117,Reduce Cooldown,Reduce Cooldown
 PROPSKILL_TXT_150118,Strong Impact,Strong Impact
-PROPSKILL_TXT_150119,Last One Standing,Last One Standing
-PROPSKILL_TXT_150120,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.
+PROPSKILL_TXT_150119,Last One Standing,ラストスタンド
+PROPSKILL_TXT_150120,Reflects damage while draining HP per second and immobilizing yourself. Can be re-cast to cancel.,ダメージを反射する代わりに、移動不能になり毎秒HPを消費します。再使用で解除できます。
 PROPSKILL_TXT_150121,Slow Pace,Slow Pace
 PROPSKILL_TXT_150122,Reduce HP Penalty,Reduce HP Penalty
 PROPSKILL_TXT_150123,Damage Reduction,Damage Reduction
-PROPSKILL_TXT_150124,Increased HP Recovery,Increased HP Recovery
-PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,Gain additional HP recovery when restoring it with items or skills.
+PROPSKILL_TXT_150124,Increased HP Recovery,回復効果UP
+PROPSKILL_TXT_150125,Gain additional HP recovery when restoring it with items or skills.,回復アイテムやスキルによるHP回復量が増加します。
 PROPSKILL_TXT_150126,Undying,アンダイン
-PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.","Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected."
-PROPSKILL_TXT_150128,Enhanced HP Recovery,Enhanced HP Recovery
-PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,Improve the effectiveness of healing received when low on health.
-PROPSKILL_TXT_150130,Increased HP Regeneration,Increased HP Regeneration
-PROPSKILL_TXT_150131,Increases the amount of natural HP recovery.,Increases the amount of natural HP recovery.
+PROPSKILL_TXT_150127,"Gain stacks of Undying, protecting you from going below 1 HP. If a stack is consumed, HP, FP, and MP are all reduced to 1. Once all stacks are consumed, you are no longer protected.",致死ダメージを受けるとスタックを1消費してHP1の状態で生き残り、FPとMPも残量1になります。スタックが残っている間は効果が継続します。
+PROPSKILL_TXT_150128,Enhanced HP Recovery,回復効果UP+
+PROPSKILL_TXT_150129,Improve the effectiveness of healing received when low on health.,HPが少ない時、回復アイテムやスキルによるHP回復量がさらに増加します。
+PROPSKILL_TXT_150130,Increased HP Regeneration,HPリジェネ
+PROPSKILL_TXT_150131,Increases the amount of natural HP recovery.,HPの自然回復量が増加します。
 PROPSKILL_TXT_150132,One-handed Mastery,One-handed Mastery
 PROPSKILL_TXT_150133,Increase your damage when using one-handed weapons.,Increase your damage when using one-handed weapons.
 PROPSKILL_TXT_150134,Two-handed Mastery,Two-handed Mastery
 PROPSKILL_TXT_150135,Increase your damage when using two-handed weapons.,Increase your damage when using two-handed weapons.
-PROPSKILL_TXT_150136,Shield Mastery,Shield Mastery
-PROPSKILL_TXT_150137,Increases defense when wearing a shield.,Increases defense when wearing a shield.
-PROPSKILL_TXT_150138,Enhanced Physical Defense,Enhanced Physical Defense
-PROPSKILL_TXT_150139,Increases defense when HP is low.,Increases defense when HP is low.
-PROPSKILL_TXT_150140,Enhanced Magical Defense,Enhanced Magical Defense
-PROPSKILL_TXT_150141,Increases magic defense when HP is low.,Increases magic defense when HP is low.
+PROPSKILL_TXT_150136,Shield Mastery,シールドマスタリー
+PROPSKILL_TXT_150137,Increases defense when wearing a shield.,盾装備時の防御力が増加します。
+PROPSKILL_TXT_150138,Enhanced Physical Defense,防御力UP+
+PROPSKILL_TXT_150139,Increases defense when HP is low.,HPが少ない時、防御力が増加します。
+PROPSKILL_TXT_150140,Enhanced Magical Defense,魔法抵抗UP+
+PROPSKILL_TXT_150141,Increases magic defense when HP is low.,HPが少ない時、魔法攻撃に対する抵抗力が増加します。
 PROPSKILL_TXT_140000,Asylum HP Low Bless,Asylum HP Low Bless
 PROPSKILL_TXT_140001,"The Asylum bestows a 5% hp boost, filling you with eerie strength.","The Asylum bestows a 5% hp boost, filling you with eerie strength."
 PROPSKILL_TXT_140002,Asylum HP High Bless,Asylum HP High Bless
@@ -728,11 +728,11 @@ PROPSKILL_TXT_140097,Nearby Shot,Nearby Shot
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Increased damage for auto attacks when you more than 5m from your target.
 PROPSKILL_TXT_140099,Feeble Arms,Feeble Arms
 PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,Monsters take less damages from you but have higher drop rates.
-PROPSKILL_TXT_150142,Five Strikes,Five Strikes
-PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 5 stacks to deal extra damage.","Your auto attacks apply stacks, which pop at 5 stacks to deal extra damage."
+PROPSKILL_TXT_150142,Five Strikes,フィフスストライク
+PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 5 stacks to deal extra damage.",通常攻撃でスタックが蓄積され、5つ溜まると追加ダメージを与えます。
 PROPSKILL_TXT_150144,Auto Attack Stacks,Auto Attack Stacks
-PROPSKILL_TXT_150145,Execution of Justice,Execution of Justice
-PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","Leap forward, knocking nearby enemies towards you and reducing their movement speed."
+PROPSKILL_TXT_150145,Execution of Justice,ジャスティスリープ
+PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.",対象に跳びかかり、周囲の敵を引き寄せて移動速度を低下させます。
 PROPSKILL_TXT_150147,Leap of Faith,Leap of Faith
 PROPSKILL_TXT_150148,Hero's Emergence,Hero's Emergence
 PROPSKILL_TXT_150149,Faction Collapse,Faction Collapse
@@ -755,21 +755,21 @@ PROPSKILL_TXT_150170,Toxic Cloud,Toxic Cloud
 PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.","Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby."
 PROPSKILL_TXT_150172,Extended Range,Extended Range
 PROPSKILL_TXT_150174,Gas Cloud,Gas Cloud
-PROPSKILL_TXT_150175,Bloody Rush,Bloody Rush
-PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.","Rush forward, causing slicing and bleeding the first enemy hit."
+PROPSKILL_TXT_150175,Bloody Rush,ブラッディラッシュ
+PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.",前方に突進し、最初に命中した敵を斬りつけて出血させます。
 PROPSKILL_TXT_150177,Enhanced Dash,Enhanced Dash
 PROPSKILL_TXT_150178,Strong Impact,Strong Impact
 PROPSKILL_TXT_150179,Bloody Release,Bloody Release
-PROPSKILL_TXT_150180,Cross of Blood,Cross of Blood
-PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.","Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits."
+PROPSKILL_TXT_150180,Cross of Blood,クロスブラッド
+PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.",力を溜めて地面を踏みつけ、周囲の敵を攻撃して出血させます。最大までチャージすると追加攻撃が発生します。
 PROPSKILL_TXT_150183,Berserk,バーサーク
 PROPSKILL_TXT_150184,Knockback,Knockback
-PROPSKILL_TXT_150185,Bloody Thorn,Bloody Thorn
-PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,Knocks back and causes bleeding with an explosion. Charging increases range.
+PROPSKILL_TXT_150185,Bloody Thorn,ブラッディソーン
+PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,爆発で敵をノックバックさせて出血させます。チャージすると攻撃範囲が広がります。
 PROPSKILL_TXT_150187,Critical Hit,Critical Hit
 PROPSKILL_TXT_150189,Blood Penetration,Blood Penetration
-PROPSKILL_TXT_150190,Storm Slash,Storm Slash
-PROPSKILL_TXT_150191,Conjure up a whirlwind in front of you.,Conjure up a whirlwind in front of you.
+PROPSKILL_TXT_150190,Storm Slash,ストームスラッシュ
+PROPSKILL_TXT_150191,Conjure up a whirlwind in front of you.,前方に旋風を巻き起こします。
 PROPSKILL_TXT_150192,Additional Whirlwind,Additional Whirlwind
 PROPSKILL_TXT_150193,Resistance Reduction,Resistance Reduction
 PROPSKILL_TXT_150194,Airborne,Airborne
@@ -778,22 +778,22 @@ PROPSKILL_TXT_150196,"Perform a lower-body strike on the target. If the target b
 PROPSKILL_TXT_150197,Fatal Strike,Fatal Strike
 PROPSKILL_TXT_150198,Fall Over,Fall Over
 PROPSKILL_TXT_150199,Speed Decrease,Speed Decrease
-PROPSKILL_TXT_150200,Tempest Barrage,Tempest Barrage
-PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increases defense.,Creates a sword aura that damages nearby enemies and increases defense.
+PROPSKILL_TXT_150200,Tempest Barrage,テンペストバラージ
+PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increases defense.,剣のオーラで周囲の敵を攻撃し、自身の防御力を増加させます。
 PROPSKILL_TXT_150202,Speed Increase,Speed Increase
 PROPSKILL_TXT_150203,Bleeding,ブリーディング
-PROPSKILL_TXT_150205,First Blood,First Blood
-PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.","Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies."
-PROPSKILL_TXT_150207,Left Handed,Left Handed
-PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,Sub-weapon attacks deal increased damage with normal attacks.
-PROPSKILL_TXT_150209,Ambidextrous,Ambidextrous
-PROPSKILL_TXT_150210,You become more comfortable using both of your hands simultaneously.,You become more comfortable using both of your hands simultaneously.
-PROPSKILL_TXT_150211,Blood Armor,Blood Armor
-PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,Damage reduction increases as HP decreases.
-PROPSKILL_TXT_150213,Master of Sword,Master of Sword
-PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.
-PROPSKILL_TXT_150215,Master of Axe,Master of Axe
-PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,Increases attack power. Scaled with number of axes equipped.
+PROPSKILL_TXT_150205,First Blood,ファーストブラッド
+PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.",HP消費量が増える代わりにスキルダメージが増加し、出血中の敵を倒すとHPが回復します。
+PROPSKILL_TXT_150207,Left Handed,レフトハンド
+PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,通常攻撃時、メインではない左手武器によるダメージが増加します。
+PROPSKILL_TXT_150209,Ambidextrous,デュアルハンド
+PROPSKILL_TXT_150210,You become more comfortable using both of your hands simultaneously.,両手の武器を巧みに扱い、攻撃力を増加させます。
+PROPSKILL_TXT_150211,Blood Armor,ブラッドアーマー
+PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,HPが減少するほど、受けるダメージが軽減されます。
+PROPSKILL_TXT_150213,Master of Sword,ソードマスター
+PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,スレイヤースキルのクールタイムを短縮し、クリティカル率が増加します。装備中の剣の本数に応じて効果が上昇します。
+PROPSKILL_TXT_150215,Master of Axe,アックスマスター
+PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,スレイヤースキルのダメージが増加し、ブロック率と命中率が上昇します。装備中の斧の本数に応じて効果が上昇します。
 PROPSKILL_TXT_150217,Survival Stance,Survival Stance
 PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,Enhance your defense shortly after being affected by a disable or immobility type debuff.
 PROPSKILL_TXT_150219,Blessing of the Wise,Blessing of the Wise
@@ -1053,14 +1053,14 @@ PROPSKILL_TXT_150516,Grasping Roots,Grasping Roots
 PROPSKILL_TXT_150517,Stranglethorns,Stranglethorns
 PROPSKILL_TXT_150518,Nature's Grasp,Nature's Grasp
 PROPSKILL_TXT_150519,"Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them.","Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them."
-PROPSKILL_TXT_150520,Stigma I,Stigma I
+PROPSKILL_TXT_150520,Stigma I,スティグマ I
 PROPSKILL_TXT_150521,Increased Stigma,Increased Stigma
-PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.","Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies."
-PROPSKILL_TXT_150523,Stigma II,Stigma II
+PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",敵1体を突いてスティグマを1スタック付与します。5スタック蓄積した敵に使用すると、直線上の敵すべてを貫通します。
+PROPSKILL_TXT_150523,Stigma II,スティグマ II
 PROPSKILL_TXT_150524,Increased Targets,Increased Targets
-PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.","Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits."
-PROPSKILL_TXT_150526,Stigma III,Stigma III
-PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.","Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced."
+PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.",対象に刃の鎖を放ち、周囲の敵を攻撃して別の敵へ連鎖させます。一定確率でスティグマを1スタック付与し、5スタック蓄積した敵に使用すると、HPを吸収します。
+PROPSKILL_TXT_150526,Stigma III,スティグマ III
+PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.",両手の武器を振り下ろして対象と周囲の敵を攻撃し、スティグマを1スタック付与します。5スタック蓄積した敵に使用すると、沈黙効果を付与します。
 PROPSKILL_TXT_150528,Petrify,Petrify
 PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.","You are immobilized, physical damage taken is reduced, while magical damage taken is increased."
 PROPSKILL_TXT_150530,Earthen Fortitude,Earthen Fortitude
@@ -1154,7 +1154,7 @@ PROPSKILL_TXT_150617,First Player Level 190 Buff,First Player Level 190 Buff
 PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,Enjoy Exp+15% until level 164!
 PROPSKILL_TXT_150619,Stun duration is increased.,Stun duration is increased.
 PROPSKILL_TXT_150620,Increases the target's damage.,Increases the target's damage.
-PROPSKILL_TXT_150621,Strikes the enemy and drains HP based on the damage dealt.,Strikes the enemy and drains HP based on the damage dealt.
+PROPSKILL_TXT_150621,Strikes the enemy and drains HP based on the damage dealt.,敵を攻撃し、与えたダメージに応じてHPを吸収します。
 PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.
 PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.","Curses the enemy, immobilizing them with dark magic."
 PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,Deals damage over time to enemies within the area.
