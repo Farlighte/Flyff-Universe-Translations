@@ -1,7 +1,7 @@
 ﻿Key,English,Japanese
 PROPSKILL_TXT_000309,,
 PROPSKILL_TXT_000000,Clean Hit,クリーンヒット
-PROPSKILL_TXT_000001,"A powerful, downward strike.",剣や斧で強力な一撃を与えます。
+PROPSKILL_TXT_000001,"A powerful, downward strike.",武器を力強く振り下ろし、敵に強烈な一撃を与えます。
 PROPSKILL_TXT_000002,Flurry,ブランディッシュ
 PROPSKILL_TXT_000003,A rapid stabbing attack.,剣や斧を素早く繰り出して連続攻撃を行います。(アクションスロットでのみ発動)
 PROPSKILL_TXT_000004,Over Cutter,オーバーカッター
@@ -11,17 +11,17 @@ PROPSKILL_TXT_000007,Strikes the enemy twice in rapid succession.,マーシナ�
 PROPSKILL_TXT_000008,Keenwheel,キーンフィール
 PROPSKILL_TXT_000009,A continuous spinning attack.,マーシナリー・サークルスキルで、身体を回転させながら、相手を切り刻むように攻撃します。
 PROPSKILL_TXT_000010,Blindside,ブラインドサイド
-PROPSKILL_TXT_000011,A spinning finishing move that may stun the enemy.,マーシナリーのフィニッシュスキルで、敵の急所を狙って強烈な一撃を放ちます。
+PROPSKILL_TXT_000011,A spinning finishing move that may stun the enemy.,マーシナリー・フィニッシュスキルで、回転しながら強烈な一撃を放ち、一定確率で敵をスタンさせます。
 PROPSKILL_TXT_000012,Protection,プロテクション
-PROPSKILL_TXT_000013,Draws out the wielded shield's power to increase defense against physical attacks and significantly increase Ranged Block.,盾を使って一定時間、防御力をアップさせます
+PROPSKILL_TXT_000013,Draws out the wielded shield's power to increase defense against physical attacks and significantly increase Ranged Block.,装備している盾の力を引き出し、防御力と遠距離攻撃のブロック率を上昇させます。
 PROPSKILL_TXT_000014,Pan Barrier,パンバリア
-PROPSKILL_TXT_000015,Significantly increases Ranged Block.,長距離攻撃に対して盾で身を守ります。
+PROPSKILL_TXT_000015,Significantly increases Ranged Block.,遠距離攻撃のブロック率を上昇させます。
 PROPSKILL_TXT_000016,Blazing Sword,ブレイジングソード
-PROPSKILL_TXT_000017,Increases accuracy and enhances the power of the wielded sword.,剣を装備している際に、一定時間、攻撃力が上昇します
+PROPSKILL_TXT_000017,Increases accuracy and enhances the power of the wielded sword.,剣を装備している際に、一定時間、攻撃力と命中率が上昇します。
 PROPSKILL_TXT_000018,Smite Axe,スマイトアックス
-PROPSKILL_TXT_000019,Increases accuracy and enhances the power of the wielded axe.,精度を上げ、斧を装備している際の、攻撃力が上昇します。
+PROPSKILL_TXT_000019,Increases accuracy and enhances the power of the wielded axe.,斧を装備している際に、一定時間、攻撃力と命中率が上昇します。
 PROPSKILL_TXT_000020,Empower Weapon,パワーウェポン
-PROPSKILL_TXT_000021,Enhances the weapon's elemental power.,一定時間、属性が付与されている武器を装備しているキャラクターの攻撃力を増加させます。
+PROPSKILL_TXT_000021,Enhances the weapon's elemental power.,一定時間、武器に付与された属性の攻撃力が上昇します。
 PROPSKILL_TXT_000022,Bloody Strike,ブラッディストライク
 PROPSKILL_TXT_000024,Sword Mastery,ソードマスタリー
 PROPSKILL_TXT_000025,Enhances the power of the wielded sword.,剣の熟練度を上昇させ、剣を装備した際の攻撃力をアップさせます。
@@ -34,39 +34,39 @@ PROPSKILL_TXT_000031,A powerful ranged attack.,剣に込めた気を刃と化し
 PROPSKILL_TXT_000032,Sneaker,スネーカー
 PROPSKILL_TXT_000033,"Traps the enemy in a net, immobilizing them.",強烈な殺気で対象を取り囲み、対象の動きを封じます。
 PROPSKILL_TXT_000034,Reflex Hit,リフレックスヒット
-PROPSKILL_TXT_000035,Absorbs an incoming attack and strikes an enemy with the absorbed damage.,対象に攻撃す際に受けたダメージの反射量を合わせてダメージを与えます。
+PROPSKILL_TXT_000035,Absorbs an incoming attack and strikes an enemy with the absorbed damage.,攻撃中に受けたダメージの一部を敵に跳ね返します。
 PROPSKILL_TXT_000036,Guard,ガード
-PROPSKILL_TXT_000037,Reduces all incoming damage from enemies at the cost of attack power.,防御に専念することで、一定時間、攻撃力が下がる代わりに防御力が上昇します。武器を装備している必要があります。
+PROPSKILL_TXT_000037,Reduces all incoming damage from enemies at the cost of attack power.,防御に専念することで、一定時間、攻撃力が低下する代わりに、敵から受けるダメージを軽減します。
 PROPSKILL_TXT_000038,Pain Reflection,ペインリフレクション
-PROPSKILL_TXT_000039,Reflects a portion of the damage received back at the enemy.,敵の攻撃の隙をついて反撃することで、受けたダメージの一部を敵に送り返します。
+PROPSKILL_TXT_000039,Reflects a portion of the damage received back at the enemy.,敵の攻撃の隙をついて反撃することで、受けたダメージの一部を跳ね返します。
 PROPSKILL_TXT_000040,Rage,レイジ
-PROPSKILL_TXT_000041,Increases striking power but makes you more vulnerable to all incoming attacks.,攻撃に専念することで、一定時間、防御力と命中率が下がる代わりに、攻撃力と最大HPが上昇します。
+PROPSKILL_TXT_000041,Increases striking power but makes you more vulnerable to all incoming attacks.,攻撃に専念することで、一定時間、受けるダメージが増加する代わりに、攻撃力とブロック貫通力が上昇します。
 PROPSKILL_TXT_000042,Power Swing,パワースウィング
-PROPSKILL_TXT_000043,Swings the weapon to strike surrounding enemies and push them back. Requires a two-handed weapon.,渾身の力で敵をなぎ払い、ダメージを与えると同時に敵を吹き飛ばします。
+PROPSKILL_TXT_000043,Swings the weapon to strike surrounding enemies and push them back. Requires a two-handed weapon.,渾身の力で周囲の敵をなぎ払い、ダメージを与えると同時に吹き飛ばします。両手武器で使用可能。
 PROPSKILL_TXT_000044,Earth Divider,アースディバイダー
-PROPSKILL_TXT_000045,A powerful downward strike that may reduce HP Restoration on the target. Requires a two-handed weapon.,渾身の力で両手剣を叩きつけて、前方の敵に大ダメージを与えます。両手武器で使用可能
+PROPSKILL_TXT_000045,A powerful downward strike that may reduce HP Restoration on the target. Requires a two-handed weapon.,渾身の力で武器を振り下ろし、敵に大ダメージを与え、一定確率で対象のHP自動回復量を低下させます。両手武器で使用可能。
 PROPSKILL_TXT_000046,Charge,チャージ
-PROPSKILL_TXT_000047,A powerful upward strike that stuns the enemy. Requires a two-handed weapon.,ソードを構えて突撃し、その勢いで強烈な一撃を与えます。両手武器で使用可能
+PROPSKILL_TXT_000047,A powerful upward strike that stuns the enemy. Requires a two-handed weapon.,武器を力強く振り上げ、敵に強烈な一撃を与えてスタンさせます。両手武器で使用可能。
 PROPSKILL_TXT_000048,Pain Dealer,アーマーブレイカー
-PROPSKILL_TXT_000049,A powerful downward strike that lowers the defense of the target. Requires a two-handed weapon.,敵の装甲を破壊することを目的にした攻撃で、ダメージを与えると共に一時的に敵の防御力をダウンさせます。
+PROPSKILL_TXT_000049,A powerful downward strike that lowers the defense of the target. Requires a two-handed weapon.,強烈な一撃で敵の装甲を打ち砕き、ダメージを与えると共に防御力を低下させます。両手武器で使用可能。
 PROPSKILL_TXT_000050,Power Stomp,アックスボム
-PROPSKILL_TXT_000051,"Pounds the ground, hitting surrounding enemies with a chance to stun them. Requires a two-handed weapon.",斧を地面に叩きつけ、発生した衝撃で周囲の敵にダメージを与えると共に一定確率でスタンさせます。
+PROPSKILL_TXT_000051,"Pounds the ground, hitting surrounding enemies with a chance to stun them. Requires a two-handed weapon.",武器を地面に叩きつけ、発生した衝撃で周囲の敵にダメージを与えると共に一定確率でスタンさせます。両手武器で使用可能。
 PROPSKILL_TXT_000052,Cross Strike,クロスストライク
-PROPSKILL_TXT_000053,A powerful dual-weapon strike that knocks down the enemy.,2本の武器をクロスさせて強烈な攻撃を行います。
+PROPSKILL_TXT_000053,A powerful dual-weapon strike that knocks down the enemy.,2本の武器をクロスさせて強烈な一撃を放ち、敵を転倒させます。
 PROPSKILL_TXT_000054,Armor Penetrate,アーマーペネトレイト
-PROPSKILL_TXT_000055,Strikes the enemy and lowers their block rate.,敵の装甲の弱い部分を攻撃することで対象にダメージを与えます。
+PROPSKILL_TXT_000055,Strikes the enemy and lowers their block rate.,敵の装甲の弱点を狙って攻撃し、ダメージを与えると共にブロック率を低下させます。
 PROPSKILL_TXT_000056,Silent Strike,フラシュシュート
-PROPSKILL_TXT_000057,"Pounces on the enemy from afar, stunning them. Requires two weapons.",高速で敵に斬りつけながら駆け抜けます。
+PROPSKILL_TXT_000057,"Pounces on the enemy from afar, stunning them. Requires two weapons.",離れた敵に素早く飛びかかって斬りつけ、一定確率でスタンさせます。武器を2本装備時に使用可能。
 PROPSKILL_TXT_000058,Blade Dance,ブレードダンス
-PROPSKILL_TXT_000059,Rapidly strikes surrounding enemies twice with both weapons. Requires two weapons.,両手に持った剣を巧みに使い、剣舞を舞いながら周囲の敵を切り裂きます。
+PROPSKILL_TXT_000059,Rapidly strikes surrounding enemies twice with both weapons. Requires two weapons.,両手に持った剣を巧みに使い、剣舞を舞いながら周囲の敵を切り裂きます。武器を2本装備時に使用可能。
 PROPSKILL_TXT_000060,Spring Attack,アックスラッシュ
-PROPSKILL_TXT_000061,"Strikes the enemy multiple times, with each hit having a chance to deal double damage. Requires two weapons.",両手に持った片手斧を振り回し、4連続攻撃を行います。
+PROPSKILL_TXT_000061,"Strikes the enemy multiple times, with each hit having a chance to deal double damage. Requires two weapons.",片手武器を振り回して4連続攻撃を行い、一定確率で2倍のダメージを与えます。武器を2本装備時に使用可能。
 PROPSKILL_TXT_000062,Hawk Attack,ホークアタック
-PROPSKILL_TXT_000063,A powerful downward strike that lowers the accuracy of the target. Requires two weapons.,敵に向かってジャンプして、鷹のように頭上から両手の斧で敵に襲いかかります。
+PROPSKILL_TXT_000063,A powerful downward strike that lowers the accuracy of the target. Requires two weapons.,鷹のように敵の頭上から飛びかかり、強烈な一撃で命中率を低下させます。武器を2本装備時に使用可能。
 PROPSKILL_TXT_000064,Sonic Blade,ソニックブレード
-PROPSKILL_TXT_000065,A powerful slashing attack that hits all surrounding enemies. Requires two weapons.,身体の中に気を集中させて、剣や斧の先から一気に放出して敵を攻撃します。
+PROPSKILL_TXT_000065,A powerful slashing attack that hits all surrounding enemies. Requires two weapons.,身体に集中させた気を武器から一気に放出し、周囲の敵をなぎ払います。武器を2本装備時に使用可能。
 PROPSKILL_TXT_000066,Berserk,バーサーク
-PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.,攻撃速度と打撃力が上昇し、スキルダメージが軽減されます。
+PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.,攻撃速度、追加攻撃力、ブロック貫通力が上昇する代わりに、スキルで与えるダメージが減少します。
 PROPSKILL_TXT_000068,Heal,ヒール
 PROPSKILL_TXT_000069,Recovers the target's HP.,対象のHP（生命力）を回復させます。
 PROPSKILL_TXT_000070,Temping Hole,タンピングホール
@@ -133,89 +133,89 @@ PROPSKILL_TXT_000131,Strikes nearby enemies with an outward shockwave.,衝撃波
 PROPSKILL_TXT_000132,Asalraalaikum,アッサルラアルライクム
 PROPSKILL_TXT_000133,A fully concentrated strike. Always consumes 100% MP.,すべてのMPを破壊の力に変え、絶大なダメージを与えます。
 PROPSKILL_TXT_000134,Flame Ball,ファイアーブーメラン
-PROPSKILL_TXT_000135,Strikes the enemy with a ball of flame that may reduce the target's HP Restoration.,炎の玉を敵にぶつけ、一定確率で対象の回復能力を低下させます。
+PROPSKILL_TXT_000135,Strikes the enemy with a ball of flame that may reduce the target's HP Restoration.,炎の玉を敵にぶつけ、一定確率で対象のHP自動回復量を低下させます。
 PROPSKILL_TXT_000136,Flame Geyser,ホットエアー
-PROPSKILL_TXT_000137,"Engulfs the enemy in a geyser of flame, dealing damage over time.",マジシャンの一般スキルで、熱い炎で単体の敵に持続的なダメージを与えます。
+PROPSKILL_TXT_000137,"Engulfs the enemy in a geyser of flame, dealing damage over time.",噴き上がる炎で敵を包み込み、持続的なダメージを与えます。
 PROPSKILL_TXT_000138,Swordwind,ソードウィンド
 PROPSKILL_TXT_000140,Strongwind,ストロングウィンド
-PROPSKILL_TXT_000141,A ranged wind attack that pushes the enemy back.,遠距離攻撃で、強い風で敵を移動させながら攻撃を行います。
+PROPSKILL_TXT_000141,A ranged wind attack that pushes the enemy back.,強烈な風で遠距離から敵を攻撃し、後方へ吹き飛ばします。
 PROPSKILL_TXT_000142,Blinkpool,ブリンクプール
-PROPSKILL_TXT_000143,Teleports you to a target point within range.,魔術で自らの近くに小さな風穴を開け瞬間的に移動を行います。
+PROPSKILL_TXT_000143,Teleports you to a target point within range.,魔術で小さな風穴を開き、射程範囲内の指定地点へ瞬間移動します。
 PROPSKILL_TXT_000144,Ice Missile,アイスミサイル
-PROPSKILL_TXT_000145,Blasts the enemy with a missile of ice that may reduce the target's speed.,氷の弾で対象を攻撃します。
+PROPSKILL_TXT_000145,Blasts the enemy with a missile of ice that may reduce the target's speed.,氷の弾で敵を攻撃し、一定確率で移動速度を低下させます。
 PROPSKILL_TXT_000146,Lightning Ball,ライトニングボール
-PROPSKILL_TXT_000147,Damages the enemy with a ball of static that may reduce the target's defense.,空気中の静電気を一点に集め、対象を攻撃します。
+PROPSKILL_TXT_000147,Damages the enemy with a ball of static that may reduce the target's defense.,空気中の静電気を一点に集めて敵を攻撃し、一定確率で防御力を低下させます。
 PROPSKILL_TXT_000148,Stone Spike,スパイクストーン
-PROPSKILL_TXT_000149,Damages the enemy with a stone spike that may stun.,硬い石の槍で対象にダメージを与えると共に、一定の確率でスタンさせます。
+PROPSKILL_TXT_000149,Damages the enemy with a stone spike that may stun.,硬い石の槍で対象にダメージを与えると共に、一定確率でスタンさせます。
 PROPSKILL_TXT_000150,Mental Strike,メンタルストライク
-PROPSKILL_TXT_000151,A medium-ranged mental attack.,精神力を物理的な力に代え、対象に無属性の攻撃を行います。与えるダメージは、術者と対象の知能(Int)の差によって変化します。
+PROPSKILL_TXT_000151,A medium-ranged mental attack.,精神力を力に変え、中距離から対象に無属性の攻撃を行います。
 PROPSKILL_TXT_000152,Fire Strike,バーニングストライク
-PROPSKILL_TXT_000153,"Blasts the enemy with a ball of fire, setting them ablaze and making them more susceptible to water attacks.",強力な炎の弾を放って攻撃します。攻撃を受けた相手の水属性スキルに対する防御力が低下します。
+PROPSKILL_TXT_000153,"Blasts the enemy with a ball of fire, setting them ablaze and making them more susceptible to water attacks.",強力な炎の弾で敵を炎上させ、水属性攻撃に対する防御力を低下させます。
 PROPSKILL_TXT_000154,Wind Cutter,ウインドカッター
-PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",風属性の遠距離攻撃。一定確率で対象の火属性体制を低下させます。
+PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",鋭い風の刃で敵を切り裂き、火属性攻撃に対する防御力を低下させます。
 PROPSKILL_TXT_000156,Waterball,ウォーターボール
-PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at the target.,スキルレベルに応じて複数個の水の弾を発射します。
+PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at the target.,スキルレベルに応じた数の水の弾を発射し、敵を攻撃します。
 PROPSKILL_TXT_000158,Water Well,ウォータースプラッシュ
-PROPSKILL_TXT_000159,"Soaks the enemy with rushing water, making them more susceptible to electricity attacks.",水柱を出現させて攻撃します。攻撃を受けた相手の雷属性スキルに対する防御力が低下します。
+PROPSKILL_TXT_000159,"Soaks the enemy with rushing water, making them more susceptible to electricity attacks.",水柱を出現させて敵を攻撃し、雷属性攻撃に対する防御力を低下させます。
 PROPSKILL_TXT_000160,Lightning Ram,ライトニングパーム
-PROPSKILL_TXT_000161,Damages the enemy with an electric ball.,射程距離の短い雷を敵に放ち、攻撃します。
+PROPSKILL_TXT_000161,Damages the enemy with an electric ball.,電気の球を放ち、敵にダメージを与えます。
 PROPSKILL_TXT_000162,Lightning Shock,ライトニングショック
-PROPSKILL_TXT_000163,"Blasts the enemy with a ball of lightning, electrifying them and making them more susceptible to earth attacks.",雷で敵を攻撃します。攻撃を受けた相手の土属性スキルに対する防御力が低下します。
+PROPSKILL_TXT_000163,"Blasts the enemy with a ball of lightning, electrifying them and making them more susceptible to earth attacks.",雷の球で敵を攻撃し、土属性攻撃に対する防御力を低下させます。
 PROPSKILL_TXT_000164,Rock Crash,ロッククラッシュ
-PROPSKILL_TXT_000165,"Crushes the enemy with a massive stone, making them more susceptible to wind attacks.",巨大な岩を召還して、敵に飛ばします。
+PROPSKILL_TXT_000165,"Crushes the enemy with a massive stone, making them more susceptible to wind attacks.",巨大な岩を召喚して敵に叩きつけ、風属性攻撃に対する防御力を低下させます。
 PROPSKILL_TXT_000166,Rooting,ルーティング
-PROPSKILL_TXT_000167,"Binds the enemy with roots, immobilizing them.",地の精霊の力を借りて、敵の接近を妨げます。
+PROPSKILL_TXT_000167,"Binds the enemy with roots, immobilizing them.",地の精霊の力を借りて、敵を拘束して移動不能にします。
 PROPSKILL_TXT_000168,Demonology,デーモンオルグ
-PROPSKILL_TXT_000169,Damages the enemy with a mental blast that reduces their Attack.,悪魔の邪念を召還して、敵に精神的なダメージを与えます。
+PROPSKILL_TXT_000169,Damages the enemy with a mental blast that reduces their Attack.,悪魔の邪念を召喚して敵に精神的なダメージを与え、攻撃力を低下させます。
 PROPSKILL_TXT_000170,Satanology,サターンアイ
 PROPSKILL_TXT_000172,Psychic Bomb,サイキックボム
-PROPSKILL_TXT_000173,Damages the enemy with a ball of mental energy.,精神力を破壊の力に換え、強力なダメージを与えます。
+PROPSKILL_TXT_000173,Damages the enemy with a ball of mental energy.,精神エネルギーの球で敵を攻撃し、一定確率でスタンさせます。
 PROPSKILL_TXT_000174,Psychic Wall,サイキックウォール
-PROPSKILL_TXT_000175,"Conjures a mystic wall at your location. On enemy contact, the wall pushes them back, reduces their movement speed, and deals minor damage.",見えない壁を創り出し、敵の侵入を防ぎます。
+PROPSKILL_TXT_000175,"Conjures a mystic wall at your location. On enemy contact, the wall pushes them back, reduces their movement speed, and deals minor damage.",神秘の壁を創り出し、接触した敵を押し戻して移動速度を低下させ、ダメージを与えます。
 PROPSKILL_TXT_000176,Spirit Bomb,メンタルクラッシュ
-PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,Damages the enemy through the power of your mind.
+PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,強大な精神エネルギーを解き放ち、敵に強烈な一撃を与えます。
 PROPSKILL_TXT_000178,Crucio Spell,カーズスペル
-PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.,魔法攻撃に対して2倍のダメージを相手に与えます。
+PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.,敵の通常攻撃で受けたダメージを反射します。PvPでは反射効果が低下します。
 PROPSKILL_TXT_000180,Maximum Crisis,マキシマムクライシス
-PROPSKILL_TXT_000181,"Unleashes a powerful mental explosion that damages surrounding enemies, with a small chance to stun.",強力な精神波で一定範囲の敵に一定確率でダメージを与え、スタンさせます。
+PROPSKILL_TXT_000181,"Unleashes a powerful mental explosion that damages surrounding enemies, with a small chance to stun.",強烈な精神波を放ち、周囲の敵にダメージを与え、低確率でスタンさせます。
 PROPSKILL_TXT_000182,Psychic Square,サイキックスクエア
 PROPSKILL_TXT_000183,Damages the target enemy and enemies surrounding them with a psychic blast.,一定範囲の敵を自分の精神世界に引き入れてダメージを与えます。
 PROPSKILL_TXT_000184,Firebird,ファイアバード
-PROPSKILL_TXT_000185,Launches a fiery projectile that engulfs the enemy in towering flames.,炎の鳥を出現させて敵を攻撃します。
+PROPSKILL_TXT_000185,Launches a fiery projectile that engulfs the enemy in towering flames.,炎の鳥を放ち、激しく燃え上がる炎で敵を包み込みます。
 PROPSKILL_TXT_000186,Fire Mastery,ファイアマスター
 PROPSKILL_TXT_000187,Enhances the power of Fire spells.,火の精霊と盟約を結び、火属性の攻撃力を強化します。
-PROPSKILL_TXT_000190,Lightning Strike,サンダーストライク
+PROPSKILL_TXT_000190,Lightning Strike,ライトニングストライク
 PROPSKILL_TXT_000191,Calls down a devastating bolt of lightning upon the enemy.,敵に強力な稲妻を落とします。
 PROPSKILL_TXT_000192,Lightning Mastery,ライトニングマスター
 PROPSKILL_TXT_000193,Enhances the power of Electric spells.,雷の精霊と盟約を結び、雷属性の攻撃力を強化します。
 PROPSKILL_TXT_000194,Electric Shock,サンダーショック
-PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",周囲に強い電場を形成し、一定範囲の敵にランダムに雷を落とします。
+PROPSKILL_TXT_000195,"Unleashes converging bolts of electricity that surge around surrounding enemies, damaging them and reducing their Magic Resistance.",周囲の敵に雷撃を浴びせてダメージを与え、魔法抵抗を低下させます。
 PROPSKILL_TXT_000196,Stone Spear,ストーンスピア
-PROPSKILL_TXT_000197,"Hurls a spear of stone that shatters on impact, blasting the enemy with flying stone fragments.",鋭い石の槍を出現させ、敵を攻撃します。
+PROPSKILL_TXT_000197,"Hurls a spear of stone that shatters on impact, blasting the enemy with flying stone fragments.",鋭い石の槍を放ち、命中時に飛び散る破片で敵にダメージを与えます。
 PROPSKILL_TXT_000198,Earth Mastery,アースマスター
 PROPSKILL_TXT_000199,Enhances the power of Earth spells.,地の精霊と盟約を結び、地属性の攻撃力を強化します。
 PROPSKILL_TXT_000200,Earthquake,アースクエイク
-PROPSKILL_TXT_000201,"Shatters the ground beneath the target enemy and surrounding enemies, sending chunks of earth flying outward, with a chance to reduce their Attack.",周囲の敵エリアにダメージを与える。対象の攻撃力を一定確率で下げる。
+PROPSKILL_TXT_000201,"Shatters the ground beneath the target enemy and surrounding enemies, sending chunks of earth flying outward, with a chance to reduce their Attack.",対象と周囲の敵の足元を砕いてダメージを与え、一定確率で攻撃力を低下させます。
 PROPSKILL_TXT_000202,Iceshark,アイスシャーク
-PROPSKILL_TXT_000203,"Fires an icy projectile that explodes on impact, bursting outward in freezing shards.",鋭い氷塊を出現させ、敵を攻撃します。
+PROPSKILL_TXT_000203,"Fires an icy projectile that explodes on impact, bursting outward in freezing shards.",鋭い氷塊を放ち、命中時に砕け散る氷の破片で敵にダメージを与えます。
 PROPSKILL_TXT_000204,Water Mastery,ウォーターマスター
 PROPSKILL_TXT_000205,Enhances the power of Water spells.,水の精霊と盟約を結び、水属性の攻撃力を強化します。
 PROPSKILL_TXT_000206,Poison Cloud,ポイズンクラウド
-PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",毒素を含んだ雲を出現させて、一定範囲の敵に毒のダメージを与えます。
+PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",対象の頭上に毒雲を発生させ、周囲の敵を毒状態にして継続的にダメージを与えます。
 PROPSKILL_TXT_000208,Void,ヴォイド
-PROPSKILL_TXT_000209,Creates a powerful vacuum that crushes the enemy.,真空状態を作り出し、対象を切り裂きます。
+PROPSKILL_TXT_000209,Creates a powerful vacuum that crushes the enemy.,強力な真空状態を作り出し、敵を押しつぶしてダメージを与えます。
 PROPSKILL_TXT_000210,Wind Mastery,ウインドマスター
 PROPSKILL_TXT_000211,Enhances the power of Wind spells.,風の精霊と盟約を結び、風属性の攻撃力を強化します。
 PROPSKILL_TXT_000212,Windfield,ウインドフィールド
-PROPSKILL_TXT_000213,"Summons a field of cutting winds beneath the target enemy, damaging the target enemy and surrounding enemies, with a chance to reduce their movement speed.",一定範囲内に強烈な空気の渦を発生させ、中にいる者の移動力を低下させます。
+PROPSKILL_TXT_000213,"Summons a field of cutting winds beneath the target enemy, damaging the target enemy and surrounding enemies, with a chance to reduce their movement speed.",対象の足元に激しい風の渦を発生させ、周囲の敵にダメージを与え、一定確率で移動速度を低下させます。
 PROPSKILL_TXT_000214,Meteo Shower,メテオストライク
-PROPSKILL_TXT_000215,Calls down a shower of meteors that strike the target enemy and surrounding enemies.,天空の彼方から隕石を召還し、一定範囲内の敵に火と地の攻撃を行います。
+PROPSKILL_TXT_000215,Calls down a shower of meteors that strike the target enemy and surrounding enemies.,天空から巨大な隕石を落とし、対象と周囲の敵にダメージを与えます。
 PROPSKILL_TXT_000216,Lightning Storm,サンダーストーム
-PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target enemy and surrounding enemies, with a chance to reduce Critical Damage.",電撃で周囲の敵にダメージを与える。クリティカルダメージを軽減するチャンス。
+PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target enemy and surrounding enemies, with a chance to reduce Critical Damage.",雷の嵐を巻き起こし、対象と周囲の敵にダメージを与え、一定確率でクリティカルダメージを低下させます。
 PROPSKILL_TXT_000218,Sandstorm,サンドストーム
-PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a violent sandstorm, with a chance to reduce their accuracy.",砂嵐を発生させて、周囲の敵に地と風の攻撃を行います。
+PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a violent sandstorm, with a chance to reduce their accuracy.",激しい砂嵐で対象と周囲の敵を攻撃し、一定確率で命中率を低下させます。
 PROPSKILL_TXT_000220,Blizzard,アバランチ
-PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",雪崩を発生させて、周囲の敵に水と地の攻撃を行い、スタンさせます。
+PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",激しい雪崩で対象と周囲の敵にダメージを与え、高確率でスタンさせます。
 PROPSKILL_TXT_000222,Yo-Yo Mastery,ヨーヨーマスタリー
 PROPSKILL_TXT_000223,Increases damage dealt with Yo-Yos.,ヨーヨーの熟練度を上げ、攻撃力を増加させる
 PROPSKILL_TXT_000224,Bow Mastery,ボウマスタリー
@@ -314,13 +314,13 @@ PROPSKILL_TXT_000327,Reduces incoming damage by wrapping your body in tree bark.
 PROPSKILL_TXT_000328,Buff Break,バフブレーカー
 PROPSKILL_TXT_000330,Buff Break X,バフブレーカーX
 PROPSKILL_TXT_000350,Burn,バーンブレス
-PROPSKILL_TXT_000351,Damages the target continuously over time.,一定時間、強力な炎によるダメージを与えます。
+PROPSKILL_TXT_000351,Damages the target continuously over time.,一定時間、対象に継続的なダメージを与えます。
 PROPSKILL_TXT_000380,Shield Bash,シールドストライク
-PROPSKILL_TXT_000381,"Strikes the target with your shield, with a chance to stun. Requires a shield.",対象を盾で突き飛ばし、一定確率でスタン状態にする。
+PROPSKILL_TXT_000381,"Strikes the target with your shield, with a chance to stun. Requires a shield.",盾で敵を突き飛ばし、一定確率でスタンさせます。盾装備時に使用可能。
 PROPSKILL_TXT_000378,Grand Rage,グランドレイジ
-PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% of the damage dealt.,対象に大ダメージを与える。
+PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% of the damage dealt.,片手武器で敵に強烈な一撃を与え、与えたダメージの5%に相当するFPを回復します。
 PROPSKILL_TXT_000384,Heart of Fury,ホーリーアーマー
-PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon.,攻撃ごとに最大FPの1%を消費して、戦闘能力を向上させます。ダメージは最大FPの10%増加します。片手武器で使用可能
+PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon.,攻撃ごとに最大FPの1%を消費して戦闘能力を向上させ、最大FPの10%に相当するダメージを追加します。片手武器で使用可能。
 PROPSKILL_TXT_100000,Moon Beam,ムーンビーム
 PROPSKILL_TXT_100001,"Calls upon the moon to afflict the target, dealing damage over time and making them more susceptible to all incoming damage.",月を呼び出し、対象を弱体化させる。効果中ターゲットに与える全てのダメージが増加する。
 PROPSKILL_TXT_100002,Shade's Support,シャドウサポート
@@ -346,17 +346,17 @@ PROPSKILL_TXT_100021,"Empowered by your angel, gaining increased Critical Damage
 PROPSKILL_TXT_100022,King Crab's Grace,キングクラブグレイス
 PROPSKILL_TXT_100023,"Empowered by your king crab, gaining increased Block Penetration.",キングクラブの力がブロック貫通力を覚醒させます。
 PROPSKILL_TXT_100024,Call of Fury,怒りの呼び声
-PROPSKILL_TXT_100025,Lets out a furious shout that forces the target enemy and surrounding enemies to focus their attacks on you.,大声で相手を妨害し、相手近くの敵を自分のほうへ呼び寄せます。
+PROPSKILL_TXT_100025,Lets out a furious shout that forces the target enemy and surrounding enemies to focus their attacks on you.,怒りの雄叫びを上げ、対象と周囲の敵の注意を引きつけ、自分に攻撃を集中させます。
 PROPSKILL_TXT_100026,Heart of Sacrifice,犠牲の心
-PROPSKILL_TXT_100027,Redirects damage taken by the target player to yourself.,ターゲットプレイヤーから受けたダメージを自分にリダイレクトします。
+PROPSKILL_TXT_100027,Redirects damage taken by the target player to yourself.,対象プレイヤーが受けるダメージの一部を、自分が代わりに引き受けます。
 PROPSKILL_TXT_000392,Rending Entry,レンディングエントリ
-PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset.",カーソルクリック位置にテレポートし、近くの敵にダメージを与えます。この攻撃で敵が死亡した場合、レンディングエントリーのクールダウンはリセットされます。
+PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset.",指定地点に瞬間移動し、周囲の敵にダメージを与え、一定確率で移動不能にします。この攻撃で敵を倒すと、スキルのクールダウンがリセットされます。
 PROPSKILL_TXT_000394,Barrier of Life,生命の障壁
 PROPSKILL_TXT_000395,Grants the target a barrier that causes all incoming hits to be blocked for a short duration.,ターゲットは、何があっても次のインカミングヒットをブロックします。
 PROPSKILL_TXT_000430,Gravity Well,グラビティウェル
-PROPSKILL_TXT_000431,Creates a gravity well at a target point that greatly slows enemies within the area.,カーソル位置にグラビティウェルを生成し、エリア内の敵の速度を大幅に低下させます。
+PROPSKILL_TXT_000431,Creates a gravity well at a target point that greatly slows enemies within the area.,指定した地点に重力場を発生させ、範囲内の敵の移動速度を大幅に低下させます。
 PROPSKILL_TXT_000440,Eye of the Storm,ストームアイ
-PROPSKILL_TXT_000441,"Summons a violent storm around you that pushes enemies back on contact, forming a barrier that prevents enemies from approaching.",自分の周りに竜巻を召喚し、近くの敵を押し戻し、人々があなたに到達するのを妨げる障壁を作成します。
+PROPSKILL_TXT_000441,"Summons a violent storm around you that pushes enemies back on contact, forming a barrier that prevents enemies from approaching.",自身の周囲に激しい竜巻を発生させ、敵を押し戻す結界を形成して接近を防ぎます。
 PROPSKILL_TXT_000424,Sury's Tenacity,テナシティスリーズ
 PROPSKILL_TXT_000425,"Grants immunity to crowd control and increased incoming healing, but prevents skill usage.",スキルを唱える能力を失い、入ってくる回復を増やすという犠牲を払って、群衆の制御に免疫を取ります。
 PROPSKILL_TXT_000400,Jester's Blast,ジェスターズブラスト
@@ -566,29 +566,29 @@ PROPSKILL_TXT_150064,Laughter of La Croix,Laughter of La Croix
 PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,You can ignore one instance of disable or weaken debuffs
 PROPSKILL_TXT_150066,Successfull Debuff,Successfull Debuff
 PROPSKILL_TXT_150067,Additional Shield,Additional Shield
-PROPSKILL_TXT_150069,Chimera's Curse,Chimera's Curse
-PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success."
+PROPSKILL_TXT_150069,Chimera's Curse,キメラカース
+PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.",キメラの霊力で対象を呪い、ダメージを与えてアイバットに変身させます。変身した敵は攻撃できなくなります。最大までチャージすると、変身の成功率が30%上昇します。
 PROPSKILL_TXT_150071,Full charge duration increase,Full charge duration increase
 PROPSKILL_TXT_150072,Full charge debuff increase,Full charge debuff increase
-PROPSKILL_TXT_150073,Malefic Detonation,Malefic Detonation
-PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.","Track the number of Disable type debuffs you apply, multiplying the bonuses given."
+PROPSKILL_TXT_150073,Malefic Detonation,マレフィックチャージ
+PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.",敵に付与されている妨害系デバフの数に応じてスタックを蓄積し、自身の魔法の弾速と妨害効果を強化します。
 PROPSKILL_TXT_150075,Weaken at full charge,Weaken at full charge
 PROPSKILL_TXT_150076,Cooldown reduction,Cooldown reduction
 PROPSKILL_TXT_150077,Shield,シールド
-PROPSKILL_TXT_150078,Hexe's Lament,Hexe's Lament
-PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.","Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently."
+PROPSKILL_TXT_150078,Hexe's Lament,ヘクセラメント
+PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.",魔女の嘆きで対象の周囲を攻撃し、一定確率で敵のクリティカル攻撃を封じます。最大までチャージすると効果時間が延び、攻撃頻度が増加します。
 PROPSKILL_TXT_150080,Aoe Range,Aoe Range
 PROPSKILL_TXT_150081,Debuff increase,Debuff increase
 PROPSKILL_TXT_150082,Damage increase,Damage increase
-PROPSKILL_TXT_150083,Damnation Surge,Damnation Surge
-PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","Track the number of Weaken type debuffs you apply, multiplying the bonuses given."
+PROPSKILL_TXT_150083,Damnation Surge,ダムネーションサージ
+PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.",敵に付与されている弱体系デバフの数に応じてスタックを蓄積し、自身のデバフ持続時間と弱体効果を強化します。
 PROPSKILL_TXT_150085,Sleep at full charge,Sleep at full charge
 PROPSKILL_TXT_150087,Shield,シールド
-PROPSKILL_TXT_150088,Enhanced Blinkpool,Enhanced Blinkpool
-PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,Movement speed is temporarily increased after using Blinkpool.
-PROPSKILL_TXT_150090,Additional damage disable,Additional damage disable
-PROPSKILL_TXT_150091,Additional damage weaken,Additional damage weaken
-PROPSKILL_TXT_150092,Debuff Damage Reduction,Debuff Damage Reduction
+PROPSKILL_TXT_150088,Enhanced Blinkpool,ブリンクブースト
+PROPSKILL_TXT_150089,Movement speed is temporarily increased after using Blinkpool.,ブリンクプール使用後、一時的に移動速度が上昇します。
+PROPSKILL_TXT_150090,Additional damage disable,妨害ダメージUP
+PROPSKILL_TXT_150091,Additional damage weaken,弱体ダメージUP
+PROPSKILL_TXT_150092,Debuff Damage Reduction,デバフダメージ軽減
 PROPSKILL_TXT_150093,Shield Crush,シールドクラッシュ
 PROPSKILL_TXT_150094,Swing your shield to stun enemies with a certain chance.,盾を振るい、一定確率で敵をスタンさせます。
 PROPSKILL_TXT_150095,Increased Range,Increased Range
@@ -736,15 +736,15 @@ PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and redu
 PROPSKILL_TXT_150147,Leap of Faith,Leap of Faith
 PROPSKILL_TXT_150148,Hero's Emergence,Hero's Emergence
 PROPSKILL_TXT_150149,Faction Collapse,Faction Collapse
-PROPSKILL_TXT_150150,Lillith's Gaze,Lillith's Gaze
-PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.","Gaze upon your target, slowing them down and forcing them to move towards you."
+PROPSKILL_TXT_150150,Lillith's Gaze,リリスゲイズ
+PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.",魔性の眼差しで対象を魅了し、移動速度を低下させながら自分の元へと引き寄せます。
 PROPSKILL_TXT_150152,Sure Gaze,Sure Gaze
 PROPSKILL_TXT_150153,Slowing,Slowing
-PROPSKILL_TXT_150155,Cimetiere's Scream,Cimetiere's Scream
-PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.","Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence."
+PROPSKILL_TXT_150155,Cimetiere's Scream,シメティエール
+PROPSKILL_TXT_150156,"Invoke the spirit of Cimetiere for a short period on the target area, dealing damage to the vicinity with a chance to silence.",指定した範囲に呼び出した亡霊たちの悲鳴で、周囲の敵に一定時間ダメージを与えます。さらに一定確率で沈黙効果を付与します。
 PROPSKILL_TXT_150158,Debuff Chance,Debuff Chance
-PROPSKILL_TXT_150160,Aether Rend,Aether Rend
-PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.
+PROPSKILL_TXT_150160,Aether Rend,エーテルレンド
+PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,マレフィックチャージとダムネーションサージのスタック数を上限に、対象の妨害系と弱体系デバフを解除して強力な一撃を放ちます。両スキルの全スタックを消費し、自身の妨害効果と弱体効果に応じてダメージが増加します。
 PROPSKILL_TXT_150162,Additional Buffs,Additional Buffs
 PROPSKILL_TXT_150163,Additional Damage,追加ダメージ
 PROPSKILL_TXT_150165,Yo-Yo Storm,Yo-Yo Storm
@@ -756,16 +756,16 @@ PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of pois
 PROPSKILL_TXT_150172,Extended Range,Extended Range
 PROPSKILL_TXT_150174,Gas Cloud,Gas Cloud
 PROPSKILL_TXT_150175,Bloody Rush,ブラッディラッシュ
-PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.",前方に突進し、最初に命中した敵を斬りつけて出血させます。
+PROPSKILL_TXT_150176,"Rush forward, causing slicing and bleeding the first enemy hit.",前方に突進し、最初に命中した敵を出血状態にします。
 PROPSKILL_TXT_150177,Enhanced Dash,Enhanced Dash
 PROPSKILL_TXT_150178,Strong Impact,Strong Impact
 PROPSKILL_TXT_150179,Bloody Release,Bloody Release
 PROPSKILL_TXT_150180,Cross of Blood,クロスブラッド
-PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.",力を溜めて地面を踏みつけ、周囲の敵を攻撃して出血させます。最大までチャージすると追加攻撃が発生します。
+PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and bleeding nearby enemies. Fully charged stomps do extra hits.",力を溜めて地面を踏みつけ、周囲の敵を攻撃して出血状態にします。最大までチャージすると追加攻撃が発生します。
 PROPSKILL_TXT_150183,Berserk,バーサーク
 PROPSKILL_TXT_150184,Knockback,Knockback
 PROPSKILL_TXT_150185,Bloody Thorn,ブラッディソーン
-PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,爆発で敵をノックバックさせて出血させます。チャージすると攻撃範囲が広がります。
+PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,爆発で敵をノックバックさせて出血状態にします。チャージすると攻撃範囲が広がります。
 PROPSKILL_TXT_150187,Critical Hit,Critical Hit
 PROPSKILL_TXT_150189,Blood Penetration,Blood Penetration
 PROPSKILL_TXT_150190,Storm Slash,ストームスラッシュ
@@ -783,13 +783,13 @@ PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increa
 PROPSKILL_TXT_150202,Speed Increase,Speed Increase
 PROPSKILL_TXT_150203,Bleeding,ブリーディング
 PROPSKILL_TXT_150205,First Blood,ファーストブラッド
-PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.",HP消費量が増える代わりにスキルダメージが増加し、出血中の敵を倒すとHPが回復します。
-PROPSKILL_TXT_150207,Left Handed,レフトハンド
-PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,通常攻撃時、メインではない左手武器によるダメージが増加します。
+PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.",HP消費量が増える代わりにスキルダメージが増加し、出血状態の敵を倒すとHPが回復します。
+PROPSKILL_TXT_150207,Left Handed,レフティー
+PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,通常攻撃時、左手武器によるダメージが増加します。
 PROPSKILL_TXT_150209,Ambidextrous,デュアルハンド
 PROPSKILL_TXT_150210,You become more comfortable using both of your hands simultaneously.,両手の武器を巧みに扱い、攻撃力を増加させます。
 PROPSKILL_TXT_150211,Blood Armor,ブラッドアーマー
-PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,HPが減少するほど、受けるダメージが軽減されます。
+PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,HPが減少するほど、ダメージ軽減効果が高まります。
 PROPSKILL_TXT_150213,Master of Sword,ソードマスター
 PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,スレイヤースキルのクールタイムを短縮し、クリティカル率が増加します。装備中の剣の本数に応じて効果が上昇します。
 PROPSKILL_TXT_150215,Master of Axe,アックスマスター
@@ -904,44 +904,44 @@ PROPSKILL_TXT_150354,CC Attack,CC Attack
 PROPSKILL_TXT_150355,Far Shot,Far Shot
 PROPSKILL_TXT_150356,Party Buff,Party Buff
 PROPSKILL_TXT_150357,Slowing,Slowing
-PROPSKILL_TXT_150358,Incinerate,Incinerate
+PROPSKILL_TXT_150358,Incinerate,インシネレート
 PROPSKILL_TXT_150359,Increased Elemental,Increased Elemental
 PROPSKILL_TXT_150360,Additional Burn Damage,Additional Burn Damage
-PROPSKILL_TXT_150362,Ignite,Ignite
+PROPSKILL_TXT_150362,Ignite,イグナイト
 PROPSKILL_TXT_150363,Increased Spread Damage,Increased Spread Damage
-PROPSKILL_TXT_150364,Hellfire,Hellfire
-PROPSKILL_TXT_150367,Wind Counter,Wind Counter
-PROPSKILL_TXT_150368,Blaze Eater,Blaze Eater
-PROPSKILL_TXT_150369,Ice Shard,Ice Shard
-PROPSKILL_TXT_150370,Tidal Omen,Tidal Omen
+PROPSKILL_TXT_150364,Hellfire,ヘルファイア
+PROPSKILL_TXT_150367,Wind Counter,ウインドカウンター
+PROPSKILL_TXT_150368,Blaze Eater,ブレイズイーター
+PROPSKILL_TXT_150369,Ice Shard,アイスシャード
+PROPSKILL_TXT_150370,Tidal Omen,タイダルオーメン
 PROPSKILL_TXT_150371,Increased Recovery,Increased Recovery
-PROPSKILL_TXT_150373,Fire Counter,Fire Counter
-PROPSKILL_TXT_150374,Aqua Veil,Aqua Veil
-PROPSKILL_TXT_150375,Gale,Gale
+PROPSKILL_TXT_150373,Fire Counter,ファイアカウンター
+PROPSKILL_TXT_150374,Aqua Veil,アクアヴェール
+PROPSKILL_TXT_150375,Gale,ゲイル
 PROPSKILL_TXT_150376,Increased Suffocate Chance,Increased Suffocate Chance
-PROPSKILL_TXT_150377,Earth Counter,Earth Counter
-PROPSKILL_TXT_150378,Stormveil Cloak,Stormveil Cloak
-PROPSKILL_TXT_150379,EVA Storm,EVA Storm
+PROPSKILL_TXT_150377,Earth Counter,アースカウンター
+PROPSKILL_TXT_150378,Stormveil Cloak,ストームヴェール
+PROPSKILL_TXT_150379,EVA Storm,EVAストーム
 PROPSKILL_TXT_150380,Increased Shock Chance,Increased Shock Chance
 PROPSKILL_TXT_150381,Thunder Strike,サンダーストライク
-PROPSKILL_TXT_150382,Water Counter,Water Counter
-PROPSKILL_TXT_150383,Voltguard,Voltguard
-PROPSKILL_TXT_150384,Stone Pillar,Stone Pillar
+PROPSKILL_TXT_150382,Water Counter,ウォーターカウンター
+PROPSKILL_TXT_150383,Voltguard,ボルトガード
+PROPSKILL_TXT_150384,Stone Pillar,ストーンピラー
 PROPSKILL_TXT_150385,Increased Explosion Range,Increased Explosion Range
-PROPSKILL_TXT_150386,Swampy Area,Swampy Area
-PROPSKILL_TXT_150387,Electric Counter,Electric Counter
-PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them.","Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them."
+PROPSKILL_TXT_150386,Swampy Area,スワンピーエリア
+PROPSKILL_TXT_150387,Electric Counter,エレキカウンター
+PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. If used on a burning target, they take extra damage. Burned enemies also hurt nearby enemies, but do not burn them.",対象を焼き尽くしてダメージを与え、燃焼状態にします。燃焼中の敵には追加ダメージを与えます。燃焼した敵は周囲にもダメージを与えますが、燃焼は広がりません。
 PROPSKILL_TXT_150389,Suffocation,Suffocation
 PROPSKILL_TXT_150390,Sleeping,Sleeping
 PROPSKILL_TXT_150391,Paralyzed,Paralyzed
 PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.","You are sleeping, and will be awaken once you take damage."
 PROPSKILL_TXT_150393,"You are paralyzed, physical damage is increased and magical damage is decreased.","You are paralyzed, physical damage is increased and magical damage is decreased."
-PROPSKILL_TXT_150394,Shocked,Shocked
-PROPSKILL_TXT_150395,You are shocked and all elemental resistances are reduced by 10%.,You are shocked and all elemental resistances are reduced by 10%.
+PROPSKILL_TXT_150394,Shocked,感電
+PROPSKILL_TXT_150395,You are shocked and all elemental resistances are reduced by 10%.,感電状態になり、全属性抵抗が10%低下します。
 PROPSKILL_TXT_150396,Raging Storm,Raging Storm
-PROPSKILL_TXT_150397,Zephyr's Grace,Zephyr's Grace
-PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,Gain shields when you use Gale or Gust.
-PROPSKILL_TXT_150399,Gust,Gust
+PROPSKILL_TXT_150397,Zephyr's Grace,ゼファーグレイス
+PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,ゲイルもしくはガストを使用すると、HPシールドを獲得します。
+PROPSKILL_TXT_150399,Gust,ガスト
 PROPSKILL_TXT_150400,The skill's range increases.,The skill's range increases.
 PROPSKILL_TXT_150401,Skill cooldown is reduced.,Skill cooldown is reduced.
 PROPSKILL_TXT_150402,Skill damage increases proportionally to the shield's defense.,Skill damage increases proportionally to the shield's defense.
@@ -1048,22 +1048,22 @@ PROPSKILL_TXT_150511,Hammer of Judgement,Hammer of Judgement
 PROPSKILL_TXT_150512,"Summon a hammer from the skies, leaving a damaging area behind.","Summon a hammer from the skies, leaving a damaging area behind."
 PROPSKILL_TXT_150513,Justice Hammer,Justice Hammer
 PROPSKILL_TXT_150514,Sanctuary Area,Sanctuary Area
-PROPSKILL_TXT_150515,Entangling Roots,Entangling Roots
+PROPSKILL_TXT_150515,Entangling Roots,エンタングルーツ
 PROPSKILL_TXT_150516,Grasping Roots,Grasping Roots
 PROPSKILL_TXT_150517,Stranglethorns,Stranglethorns
 PROPSKILL_TXT_150518,Nature's Grasp,Nature's Grasp
-PROPSKILL_TXT_150519,"Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them.","Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them."
+PROPSKILL_TXT_150519,"Fire a root in front of you, binding the first enemy hit in place. If the enemy bound is affected by Stone Pillar or Swampy Area, they are Petrified, increasing the magic damage they receive and reducing the physical damage they receive, and stunning them.",前方に木の根を放ち、最初に命中した敵を拘束します。ストーンピラーかスワンピーエリアの効果中なら石化させ、物理ダメージを軽減させる代わりに魔法ダメージを受けやすくし、スタンさせます。
 PROPSKILL_TXT_150520,Stigma I,スティグマ I
 PROPSKILL_TXT_150521,Increased Stigma,Increased Stigma
-PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",敵1体を突いてスティグマを1スタック付与します。5スタック蓄積した敵に使用すると、直線上の敵すべてを貫通します。
+PROPSKILL_TXT_150522,"Swift piercing attack on a single target in a straight line. Applies a stack of Stigma. If used on a target with 5 Stigma stacks, the attack will piercing all enemies.",敵1体を突いてスティグマを1スタック付与します。5スタック蓄積した敵に使用すると、直線上の敵すべてを貫通する攻撃になります。
 PROPSKILL_TXT_150523,Stigma II,スティグマ II
 PROPSKILL_TXT_150524,Increased Targets,Increased Targets
 PROPSKILL_TXT_150525,"Launch a chain of blades towards your target which binds onto them, spinning and attacking enemies around them, then chaining to another nearby target. Has a chance to apply a stack of Stigma. If used on a target with 5 stacks, will steal HP through hits.",対象に刃の鎖を放ち、周囲の敵を攻撃して別の敵へ連鎖させます。一定確率でスティグマを1スタック付与し、5スタック蓄積した敵に使用すると、HPを吸収します。
 PROPSKILL_TXT_150526,Stigma III,スティグマ III
 PROPSKILL_TXT_150527,"Slam down on the target with both of your weapons, dealing damage around them. Applies a stack of Stigma. If used on a target with 5 stacks of Stigma, they will be silenced.",両手の武器を振り下ろして対象と周囲の敵を攻撃し、スティグマを1スタック付与します。5スタック蓄積した敵に使用すると、沈黙効果を付与します。
-PROPSKILL_TXT_150528,Petrify,Petrify
-PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.","You are immobilized, physical damage taken is reduced, while magical damage taken is increased."
-PROPSKILL_TXT_150530,Earthen Fortitude,Earthen Fortitude
+PROPSKILL_TXT_150528,Petrify,石化
+PROPSKILL_TXT_150529,"You are immobilized, physical damage taken is reduced, while magical damage taken is increased.",移動不能になり、受ける物理ダメージが減少する代わりに、魔法ダメージが増加します。
+PROPSKILL_TXT_150530,Earthen Fortitude,アースフォート
 PROPSKILL_TXT_150531,Petrifying an enemy using Entangling Roots will grant you with bonuses.,Petrifying an enemy using Entangling Roots will grant you with bonuses.
 PROPSKILL_TXT_150532,Stigma,Stigma
 PROPSKILL_TXT_150533,Reduced Penalty,Reduced Penalty
@@ -1072,45 +1072,45 @@ PROPSKILL_TXT_150535,Full Charge Time Decrease,Full Charge Time Decrease
 PROPSKILL_TXT_150536,Your movement speed is also increased.,Your movement speed is also increased.
 PROPSKILL_TXT_150537,Enemies hit by the aura have a chance to bleed.,Enemies hit by the aura have a chance to bleed.
 PROPSKILL_TXT_150538,Extra damage when used on a burning target is increased.,Extra damage when used on a burning target is increased.
-PROPSKILL_TXT_150539,"Ignite your target, dealing damage and burning them. If used on a burning target, the damage is reduced but the target is stunned. Burned enemies also hurt nearby enemies, but do not burn them.","Ignite your target, dealing damage and burning them. If used on a burning target, the damage is reduced but the target is stunned. Burned enemies also hurt nearby enemies, but do not burn them."
+PROPSKILL_TXT_150539,"Ignite your target, dealing damage and burning them. If used on a burning target, the damage is reduced but the target is stunned. Burned enemies also hurt nearby enemies, but do not burn them.",対象を発火させてダメージを与え、燃焼状態にします。すでに燃焼中の敵に使用すると、与えるダメージが減少する代わりにスタンさせます。燃焼した敵は周囲にもダメージを与えますが、燃焼は広がりません。
 PROPSKILL_TXT_150540,Damage reduction when used on a burning target is reduced.,Damage reduction when used on a burning target is reduced.
-PROPSKILL_TXT_150541,"Lock yourself in ice, becoming invulnerable and deal damage to surrounding enemies. You cannot use items or skills while frozen.","Lock yourself in ice, becoming invulnerable and deal damage to surrounding enemies. You cannot use items or skills while frozen."
-PROPSKILL_TXT_150542,"Freeze your target in a water bubble, stealing health from them.","Freeze your target in a water bubble, stealing health from them."
+PROPSKILL_TXT_150541,"Lock yourself in ice, becoming invulnerable and deal damage to surrounding enemies. You cannot use items or skills while frozen.",自身を氷で包み込み、無敵状態となって周囲の敵にダメージを与えます。氷に閉ざされている間は、アイテムやスキルを使用できません。
+PROPSKILL_TXT_150542,"Freeze your target in a water bubble, stealing health from them.",対象を水の泡に閉じ込めて動きを封じ、HPを吸収します。
 PROPSKILL_TXT_150543,Stolen health is increased.,Stolen health is increased.
-PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random.","Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random."
+PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random.",激しい風をまとい、移動速度を上げて周囲の敵にダメージを与えます。効果中の攻撃は窒息効果を一定確率で付与し、5スタック蓄積させるとスタン/睡眠/麻痺のいずれかを引き起こします。
 PROPSKILL_TXT_150545,Suffocate stack chance is increased.,Suffocate stack chance is increased.
 PROPSKILL_TXT_150546,"You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random.","You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random."
-PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit, reducing all elemental resistances by 10%. If the ball hits a shocked target, it will always do maximum damage.","Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit, reducing all elemental resistances by 10%. If the ball hits a shocked target, it will always do maximum damage."
+PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit, reducing all elemental resistances by 10%. If the ball hits a shocked target, it will always do maximum damage.",雷球を放ち、周囲の敵へ次々と連鎖してダメージを与えます。命中した敵を一定確率で感電状態にし、全属性抵抗を10%低下させます。感電中の敵には必ず最大ダメージを与えます。
 PROPSKILL_TXT_150548,Shock chance is increased.,Shock chance is increased.
-PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock, reducing all elemental resistances by 10%. Strikes against Shocked targets deal maximum damage.","Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock, reducing all elemental resistances by 10%. Strikes against Shocked targets deal maximum damage."
+PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock, reducing all elemental resistances by 10%. Strikes against Shocked targets deal maximum damage.",指定範囲に雷雲を呼び寄せ、周囲の敵に一定間隔で雷撃を落とします。雷撃は必ず敵を感電状態にし、全属性抵抗を10%低下させます。感電中の敵には最大ダメージを与えます。
 PROPSKILL_TXT_150550,Strike interval is shorter.,Strike interval is shorter.
-PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies."
-PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills."
-PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance."
+PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.",大地を揺るがして石柱を出現させ、敵にダメージを与えて移動速度を低下させます。石柱は一定時間後に爆発し、周囲の敵に追加ダメージを与えます。
+PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.",指定範囲に沼地を作り出し、敵にダメージを与えて移動速度を低下させます。沼地にいる敵は移動スキルを使用できません。
+PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.",突風を巻き起こして周囲の敵を押し戻し、魔法抵抗と遠距離攻撃のブロック率を上昇させます。
 PROPSKILL_TXT_150554,Roots will go through more enemies.,Roots will go through more enemies.
 PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down."
 PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Fire additional roots in a cone in front of you.
-PROPSKILL_TXT_150557,Increases your fire mastery.,Increases your fire mastery.
-PROPSKILL_TXT_150558,Increases your water mastery.,Increases your water mastery.
-PROPSKILL_TXT_150559,Increases your earth mastery.,Increases your earth mastery.
-PROPSKILL_TXT_150560,Increases your electric mastery.,Increases your electric mastery.
-PROPSKILL_TXT_150561,Increases your wind mastery.,Increases your wind mastery.
-PROPSKILL_TXT_150562,The damage you take from burning enemies is decreased.,The damage you take from burning enemies is decreased.
-PROPSKILL_TXT_150563,The damage you take from enemies affected by water skills is decreased.,The damage you take from enemies affected by water skills is decreased.
-PROPSKILL_TXT_150564,The damage you take from enemies with Suffocate stacks is decreased.,The damage you take from enemies with Suffocate stacks is decreased.
-PROPSKILL_TXT_150565,The damage you take from Shocked enemies is decreased.,The damage you take from Shocked enemies is decreased.
-PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.","When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased."
+PROPSKILL_TXT_150557,Increases your fire mastery.,火属性強化が上昇します。
+PROPSKILL_TXT_150558,Increases your water mastery.,水属性強化が上昇します。
+PROPSKILL_TXT_150559,Increases your earth mastery.,土属性強化が上昇します。
+PROPSKILL_TXT_150560,Increases your electric mastery.,雷属性強化が上昇します。
+PROPSKILL_TXT_150561,Increases your wind mastery.,風属性強化が上昇します。
+PROPSKILL_TXT_150562,The damage you take from burning enemies is decreased.,燃焼状態の敵から受けるダメージが減少します。
+PROPSKILL_TXT_150563,The damage you take from enemies affected by water skills is decreased.,水属性スキルの効果を受けている敵からのダメージが減少します。
+PROPSKILL_TXT_150564,The damage you take from enemies with Suffocate stacks is decreased.,窒息効果を受けている敵からのダメージが減少します。
+PROPSKILL_TXT_150565,The damage you take from Shocked enemies is decreased.,感電状態の敵から受けるダメージが減少します。
+PROPSKILL_TXT_150566,"When enemies are petrified by Entangling Roots, your incoming damage is reduced and your melee block rate is increased.",エンタングルーツで敵を石化させると、受けるダメージが減少し、近接攻撃のブロック率が上昇します。
 PROPSKILL_TXT_150567,Probability is increased.,Probability is increased.
 PROPSKILL_TXT_150568,Slowing effect is increased.,Slowing effect is increased.
 PROPSKILL_TXT_150569,Silence chance is increased.,Silence chance is increased.
 PROPSKILL_TXT_150570,Skill duration when fully charged is increased.,Skill duration when fully charged is increased.
 PROPSKILL_TXT_150571,Mutation chance when fully charged is 100%.,Mutation chance when fully charged is 100%.
 PROPSKILL_TXT_150572,Charging time is decreased.,Charging time is decreased.
-PROPSKILL_TXT_150573,Damage against enemies with Disable type debuffs is increased.,Damage against enemies with Disable type debuffs is increased.
-PROPSKILL_TXT_150574,Damage against enemies with Weaken type debuffs is increased.,Damage against enemies with Weaken type debuffs is increased.
-PROPSKILL_TXT_150575,Damage taken from enemies with debuffs is decreased.,Damage taken from enemies with debuffs is decreased.
+PROPSKILL_TXT_150573,Damage against enemies with Disable type debuffs is increased.,妨害系デバフが付与された敵へのダメージが増加します。
+PROPSKILL_TXT_150574,Damage against enemies with Weaken type debuffs is increased.,弱体系デバフが付与された敵へのダメージが増加します。
+PROPSKILL_TXT_150575,Damage taken from enemies with debuffs is decreased.,デバフが付与された敵から受けるダメージが減少します。
 PROPSKILL_TXT_150576,"When fully charged, target will be slept.","When fully charged, target will be slept."
-PROPSKILL_TXT_150577,"A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire.","A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire."
+PROPSKILL_TXT_150577,"A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire.",前方に地獄の業火を放ち、炎に巻き込まれた敵に継続的なダメージを与えます。
 PROPSKILL_TXT_150578,The hymn's effects are increased.,The hymn's effects are increased.
 PROPSKILL_TXT_150579,Healing is increased.,Healing is increased.
 PROPSKILL_TXT_150580,The skill also heals MP and FP on allies.,The skill also heals MP and FP on allies.
@@ -1128,8 +1128,8 @@ PROPSKILL_TXT_150591,Skill scaling is improved.,Skill scaling is improved.
 PROPSKILL_TXT_150592,Maximum number of stacks is increased to 8 at maximum level.,Maximum number of stacks is increased to 8 at maximum level.
 PROPSKILL_TXT_150593,Death's Rush,Death's Rush
 PROPSKILL_TXT_150594,The God of Death gazes upon you.,The God of Death gazes upon you.
-PROPSKILL_TXT_150595,Infusion,Infusion
-PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.","Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element."
+PROPSKILL_TXT_150595,Infusion,インフュージョン
+PROPSKILL_TXT_150596,"Infuse any elemental skills you use with your weapon's applied element, overriding the skill's element.",使用する属性スキルの属性を、武器に付与された属性に変更します。
 PROPSKILL_TXT_150597,Intelligent Scaling,Intelligent Scaling
 PROPSKILL_TXT_150598,"Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels.","Skill duration scales with INT instead of STA, with increased duration, reduced penalty, and improved casting efficiency as it levels."
 PROPSKILL_TXT_150599,Reduced Penalty,Reduced Penalty
@@ -1155,10 +1155,10 @@ PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,Enjoy Exp+15% until level 16
 PROPSKILL_TXT_150619,Stun duration is increased.,Stun duration is increased.
 PROPSKILL_TXT_150620,Increases the target's damage.,Increases the target's damage.
 PROPSKILL_TXT_150621,Strikes the enemy and drains HP based on the damage dealt.,敵を攻撃し、与えたダメージに応じてHPを吸収します。
-PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.
-PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.","Curses the enemy, immobilizing them with dark magic."
-PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,Deals damage over time to enemies within the area.
-PROPSKILL_TXT_150625,Burn Damage,Burn Damage
+PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.,風による遠距離攻撃を行い、一定確率で対象の攻撃速度と詠唱速度を低下させます。
+PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.",闇の魔法で敵に呪いをかけ、移動できなくします。
+PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,範囲内の敵に継続的にダメージを与えます。
+PROPSKILL_TXT_150625,Burn Damage,燃焼ダメージ
 PROPSKILL_TXT_150626,Lord's Cheer,Lord's Cheer
 PROPSKILL_TXT_150627,Increases the experience and drop rate for yourself or one target.,Increases the experience and drop rate for yourself or one target.
 PROPSKILL_TXT_150628,Lord's Blessing,Lord's Blessing

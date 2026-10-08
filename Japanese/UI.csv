@@ -243,8 +243,8 @@ UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,FP消費量の減少
 UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,魔法キャスティングタイム
 UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,行動速度
 UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,弾速
-UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,無力化効果
-UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,弱体化効果
+UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,妨害効果
+UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,弱体効果
 UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,クリティカルダメージ
 UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),ヨーヨー攻撃力増加
 UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),弓攻撃力増加
@@ -3216,8 +3216,8 @@ UI_SKILL_SYNERGY_PER,per level %d+,レベル%d+ごと
 UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,背後からの暗黒幻影ダメージ
 UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,クリティカルマーク付与率
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),デイリークエスト #cffc32f07#b%d/%d#nb#nc 件達成
-UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,無力化デバフごとのダメージ増加
-UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,弱体化デバフごとのダメージ増加
+UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,妨害系デバフごとのダメージ増加
+UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,弱体系デバフごとのダメージ増加
 UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),デバフごとの被ダメージ減少(最大8)
 UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(妨害)
 UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(弱体)
