@@ -3229,7 +3229,7 @@ UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,ボスからの被ダメージ
 UI_TOOLTIP_DMG_TICK,Damage Tick,ダメージティック
 UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,HP閾値：%d%%
 UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,HP閾値：%d%%未満
-UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,ピットクリティカルダメージ
+UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,罠対象へのクリティカルダメージ
 UI_TOOLTIP_TRAP_RANGE,Trap Range,トラップ範囲
 UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,3M以内のダメージ
 UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,5M以上先のダメージ

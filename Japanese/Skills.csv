@@ -217,69 +217,69 @@ PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a viol
 PROPSKILL_TXT_000220,Blizzard,アバランチ
 PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",激しい雪崩で対象と周囲の敵にダメージを与え、高確率でスタンさせます。
 PROPSKILL_TXT_000222,Yo-Yo Mastery,ヨーヨーマスタリー
-PROPSKILL_TXT_000223,Increases damage dealt with Yo-Yos.,ヨーヨーの熟練度を上げ、攻撃力を増加させる
+PROPSKILL_TXT_000223,Increases damage dealt with Yo-Yos.,ヨーヨーの熟練度を上げ、装備時の攻撃力をアップさせます。
 PROPSKILL_TXT_000224,Bow Mastery,ボウマスタリー
-PROPSKILL_TXT_000225,Increases damage dealt with bows.,ボウの熟練度を上げ、攻撃力を増加させる
+PROPSKILL_TXT_000225,Increases damage dealt with bows.,弓の熟練度を上げ、装備時の攻撃力をアップさせます。
 PROPSKILL_TXT_000226,Dark Illusion,ダークイリュージョン
-PROPSKILL_TXT_000227,Turns you invisible for a short time.,自分の残像を出現させつつ、自らは闇へ姿を隠す
+PROPSKILL_TXT_000227,Turns you invisible for a short time.,一定時間、闇に姿を隠して敵から見えなくなります。
 PROPSKILL_TXT_000228,Junk Arrow,ジャンクアロー
-PROPSKILL_TXT_000229,"Fires multiple volleys of arrows wildly at the enemy, some of which may miss.",命中率は高くないが、複数の矢をランダムに射る。レベルが上がると命中する矢の数が多くなる
+PROPSKILL_TXT_000229,"Fires multiple volleys of arrows wildly at the enemy, some of which may miss.",命中率は高くないが、敵に向かって複数の矢を連続して乱射します。スキルレベルが上がると命中率も上昇します。
 PROPSKILL_TXT_000230,Fast Walker,ファストウォーカー
-PROPSKILL_TXT_000231,Increases movement speed for a short time.,一定時間、移動速度を高める
+PROPSKILL_TXT_000231,Increases movement speed for a short time.,一定時間、移動速度を高めます。
 PROPSKILL_TXT_000232,Aimed Shot,エイムドショット
-PROPSKILL_TXT_000233,"A slow, carefully aimed shot with a chance to deal double damage.",相手の急所を狙い、一定確率で2倍のダメージ効果のある矢を射る
+PROPSKILL_TXT_000233,"A slow, carefully aimed shot with a chance to deal double damage.",敵の急所にじっくりと狙いを定め、一定確率で2倍のダメージを与える矢を放ちます。
 PROPSKILL_TXT_000234,Slow Step,スローステップ
-PROPSKILL_TXT_000235,An attack that may reduce the enemy's movement speed.,攻撃が当たった対象に対して、一定確率で移動速度を減少させる効果を与える
+PROPSKILL_TXT_000235,An attack that may reduce the enemy's movement speed.,敵を攻撃し、一定確率で移動速度を低下させます。
 PROPSKILL_TXT_000236,Silent Shot,サイレントショット
-PROPSKILL_TXT_000237,A surprise attack that deals increased damage during Dark Illusion.,ダークイリュージョンの状態で使うことにより、敵に強力な不意打ちを行う
+PROPSKILL_TXT_000237,A surprise attack that deals increased damage during Dark Illusion.,ダークイリュージョンの状態で使うことにより、敵に強力な不意打ちを仕掛けます。
 PROPSKILL_TXT_000238,Perfect Block,パーフェクトブロック
-PROPSKILL_TXT_000239,Increases your Block.,ブロック率が上昇する
+PROPSKILL_TXT_000239,Increases your Block.,ブロック率を上昇させます。
 PROPSKILL_TXT_000240,Arrow Rain,アローレイン
-PROPSKILL_TXT_000241,"Rains down arrows on the target enemy and surrounding enemies, dealing damage over time.",空に向け何本もの矢を打ち上げ、対象の頭上に矢の雨を降らせる
+PROPSKILL_TXT_000241,"Rains down arrows on the target enemy and surrounding enemies, dealing damage over time.",空に向けて何本もの矢を打ち上げ、対象とその周囲の敵に矢の雨を降らせ、持続的なダメージを与えます。
 PROPSKILL_TXT_000242,Cross Line,クロスライン
-PROPSKILL_TXT_000243,A Yo-Yo strike with a chance to stun the enemy.,ヨーヨーに気を込め、その気を爆発させながら攻撃する。対象に一定確率でスタン効果を与える
+PROPSKILL_TXT_000243,A Yo-Yo strike with a chance to stun the enemy.,ヨーヨーに気を込め、その力を爆発させて敵を攻撃し、一定確率でスタンさせます。
 PROPSKILL_TXT_000244,Auto Shot,オートショット
-PROPSKILL_TXT_000245,"Fires multiple arrows at the enemy, with a chance to reduce their accuracy.",呪力を込めた矢を射る。対象に一定確率で闇効果を与える。
+PROPSKILL_TXT_000245,"Fires multiple arrows at the enemy, with a chance to reduce their accuracy.",呪力を込めた複数の矢を敵に放ち、一定確率で命中率を低下させます。
 PROPSKILL_TXT_000246,Snatch,スニッチ
-PROPSKILL_TXT_000247,Steals Penya from the target while under Dark Illusion. Must attack from behind.,ダークイリュージョン状態で敵の背後でのみ使えるスキル。強いダメージを与え、一定確率でぺニャを盗む
+PROPSKILL_TXT_000247,Steals Penya from the target while under Dark Illusion. Must attack from behind.,ダークイリュージョン中に敵の背後から攻撃し、ペニャを盗みます。
 PROPSKILL_TXT_000248,Counter Attack,カウンターアタック
-PROPSKILL_TXT_000249,Assume a counterattack stance that nullifies the next close-range attack against you and stuns the attacker. You cannot perform other actions while in this stance.,敵の攻撃を避けながらカウンターで攻撃を行う
+PROPSKILL_TXT_000249,Assume a counterattack stance that nullifies the next close-range attack against you and stuns the attacker. You cannot perform other actions while in this stance.,カウンターの構えで次の近距離攻撃を無効化し、敵をスタンさせます。発動中はほかの行動ができません。
 PROPSKILL_TXT_000250,Deadly Swing,デッドリースウィング
-PROPSKILL_TXT_000251,A powerful Yo-Yo strike that may reduce the enemy's Attack Speed and Casting Speed.,敵の急所に攻撃を行い、継続的な出血を起こさせる。近距離で使用可能
+PROPSKILL_TXT_000251,A powerful Yo-Yo strike that may reduce the enemy's Attack Speed and Casting Speed.,ヨーヨーで敵の急所に強力な一撃を加え、一定確率で攻撃速度と詠唱速度を低下させます。
 PROPSKILL_TXT_000252,Pulling,プーリング
-PROPSKILL_TXT_000253,Pulls the target toward you using the Yo-Yo.,敵をヨーヨーで絡め取って、自分の前に引き寄せる
+PROPSKILL_TXT_000253,Pulls the target toward you using the Yo-Yo.,敵をヨーヨーで絡め取り、自分の前に引き寄せます。
 PROPSKILL_TXT_000254,Critical Swing,クリティカルスウィング
-PROPSKILL_TXT_000255,Increases your Critical Chance and Block Penetration.,ヨーヨーでの攻撃の際に、クリティカルの発生確率を増加させる
+PROPSKILL_TXT_000255,Increases your Critical Chance and Block Penetration.,ヨーヨー使用時に、クリティカル率とブロック貫通力を上昇させます。
 PROPSKILL_TXT_000256,Enchant Poison,エンチャントポイズン
-PROPSKILL_TXT_000257,Imbues the Yo-Yo so attacks have a chance to inflict poison and increases Attack.,ヨーヨーに毒属性を追加し、ダメージを上昇させると共に、一定確率で毒状態にする
+PROPSKILL_TXT_000257,Imbues the Yo-Yo so attacks have a chance to inflict poison and increases Attack.,ヨーヨーに毒の力を付与して攻撃力を上昇させ、一定確率で敵を毒状態にします。
 PROPSKILL_TXT_000258,Enchant Blood,エンチャントブラッド
-PROPSKILL_TXT_000259,Imbues the Yo-Yo so attacks have a chance to inflict bleeding and increases Attack.,ヨーヨーで敵の急所に強力な攻撃を行い、継続的な出血を起こさせる
+PROPSKILL_TXT_000259,Imbues the Yo-Yo so attacks have a chance to inflict bleeding and increases Attack.,ヨーヨーの攻撃力を上昇させ、急所を狙った攻撃によって敵を一定確率で出血状態にします。
 PROPSKILL_TXT_000260,Enchant Absorb,エンチャントアブソード
-PROPSKILL_TXT_000261,Imbues the Yo-Yo so attacks have a chance to drain HP and increases Attack.,ヨーヨーで強力な攻撃を行い、一定確率で相手のHPを吸収する
+PROPSKILL_TXT_000261,Imbues the Yo-Yo so attacks have a chance to drain HP and increases Attack.,ヨーヨーの攻撃力を上昇させ、攻撃時に一定確率で敵のHPを吸収します。
 PROPSKILL_TXT_000262,Multi-Stab,マルチスタブ
-PROPSKILL_TXT_000263,Strikes the enemy multiple times with the Yo-Yo.,ヨーヨーで連続攻撃を行います。
+PROPSKILL_TXT_000263,Strikes the enemy multiple times with the Yo-Yo.,一度の発動で、ヨーヨーによる素早い連続攻撃を繰り出します。
 PROPSKILL_TXT_000264,Hit of Penya,ヒットオブペニャ
-PROPSKILL_TXT_000265,Consumes your own Penya to strike the enemy with devastating force.,ペニャを消費して力の分だけダメージを与えます。
+PROPSKILL_TXT_000265,Consumes your own Penya to strike the enemy with devastating force.,所持しているペニャを消費し、敵に強烈な一撃を与えます。
 PROPSKILL_TXT_000266,Escape,エスケープ
-PROPSKILL_TXT_000267,Removes all debuffs from yourself.,全ての弱体効果（デバフ）を解除します。
-PROPSKILL_TXT_000268,Vital Stab,ヴァイタルスタッブ
-PROPSKILL_TXT_000269,A surprise attack that can only be used under Dark Illusion.,ダークイリュージョンの状態でのみ使用でき、相手に不意打ちで攻撃を与えるスキル。
-PROPSKILL_TXT_000270,Critical Shot,ファストショット
-PROPSKILL_TXT_000271,Increases Critical Chance for a limited time.,一定時間、矢を射る速度が上昇する
+PROPSKILL_TXT_000267,Removes all debuffs from yourself.,自身にかけられたすべての弱体効果(デバフ)を解除します。
+PROPSKILL_TXT_000268,Vital Stab,ヴァイタルスタブ
+PROPSKILL_TXT_000269,A surprise attack that can only be used under Dark Illusion.,ダークイリュージョン中にのみ使用でき、不意打ちで敵の急所に痛烈な一撃を与えます。
+PROPSKILL_TXT_000270,Critical Shot,クリティカルショット
+PROPSKILL_TXT_000271,Increases Critical Chance for a limited time.,一定時間、クリティカル率が上昇します。
 PROPSKILL_TXT_000272,Ice Arrow,アイスアロー
-PROPSKILL_TXT_000273,"Shoots ice-covered arrows at the target enemy and surrounding enemies, reducing their movement speed.",氷の矢が粉砕し、周囲の敵に水属性ダメージを与え、一定時間動きを鈍くさせる
+PROPSKILL_TXT_000273,"Shoots ice-covered arrows at the target enemy and surrounding enemies, reducing their movement speed.",氷の矢を放ち、周囲の敵に水属性ダメージを与え、移動速度を低下させます。
 PROPSKILL_TXT_000274,Flame Arrow,フレイムアロー
-PROPSKILL_TXT_000275,"Fires a flame-imbued arrow that leaves a burning field at the impact point, dealing damage over time to enemies within it.",炎の矢が爆発し、周囲の敵に一定時間継続ダメージを与える炎が立ち上がる
+PROPSKILL_TXT_000275,"Fires a flame-imbued arrow that leaves a burning field at the impact point, dealing damage over time to enemies within it.",炎の矢を放ち、着弾地点に発生した炎で周囲の敵に持続的な火属性ダメージを与えます。
 PROPSKILL_TXT_000276,Piercing Arrow,ピエーシングアロー
-PROPSKILL_TXT_000277,Fires a powerful arrow that pierces through enemies in a line.,矢の命中率が上昇する。
+PROPSKILL_TXT_000277,Fires a powerful arrow that pierces through enemies in a line.,強力な矢を放ち、一直線上の敵を貫通してダメージを与えます。
 PROPSKILL_TXT_000278,Poison Arrow,ポイズンアロー
-PROPSKILL_TXT_000279,"Shoots a poison-tipped arrow at the enemy, inflicting poison damage over time.",毒属性の矢を射て、継続的なダメージを与える
+PROPSKILL_TXT_000279,"Shoots a poison-tipped arrow at the enemy, inflicting poison damage over time.",毒を塗った矢を放ち、敵に持続的な毒ダメージを与えます。
 PROPSKILL_TXT_000280,Silent Arrow,サイレントアロー
-PROPSKILL_TXT_000281,Attacks the enemy and prevents them from casting spells.,強力なダメージを与えると共に、一定確率で沈黙状態(魔法が使用できない)にする。
+PROPSKILL_TXT_000281,Attacks the enemy and prevents them from casting spells.,敵を攻撃して沈黙状態にし、一定時間、魔法の使用を封じます。
 PROPSKILL_TXT_000282,Nature,ネイチャリング
-PROPSKILL_TXT_000283,"Attunes you to nature, heightening your senses to increase Magic Resistance and Bow Range.",自然に対する感覚を高め、魔法抵抗力と弓の射程距離を伸ばす
+PROPSKILL_TXT_000283,"Attunes you to nature, heightening your senses to increase Magic Resistance and Bow Range.",自然と感覚を同調させ、魔法抵抗と弓の射程距離を上昇させます。
 PROPSKILL_TXT_000284,Triple Shot,トリプルショット
-PROPSKILL_TXT_000285,Fires a volley of arrows that stuns the target.,3本の矢を一度に発射し、敵に強力なダメージを与え、弾き飛ばす
+PROPSKILL_TXT_000285,Fires a volley of arrows that stuns the target.,3本の矢を一度に放ち、敵にダメージを与えてスタンさせます。
 PROPSKILL_TXT_000286,Flash,フラッシュ
 PROPSKILL_TXT_000287,Blinded by the flash of light.,まばゆい閃光で視力を落とします。
 PROPSKILL_TXT_000288,Single Stun,スタンシングル
@@ -359,10 +359,10 @@ PROPSKILL_TXT_000440,Eye of the Storm,ストームアイ
 PROPSKILL_TXT_000441,"Summons a violent storm around you that pushes enemies back on contact, forming a barrier that prevents enemies from approaching.",自身の周囲に激しい竜巻を発生させ、敵を押し戻す結界を形成して接近を防ぎます。
 PROPSKILL_TXT_000424,Sury's Tenacity,テナシティスリーズ
 PROPSKILL_TXT_000425,"Grants immunity to crowd control and increased incoming healing, but prevents skill usage.",スキルを唱える能力を失い、入ってくる回復を増やすという犠牲を払って、群衆の制御に免疫を取ります。
-PROPSKILL_TXT_000400,Jester's Blast,ジェスターズブラスト
-PROPSKILL_TXT_000401,"Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range.","Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range."
+PROPSKILL_TXT_000400,Jester's Blast,ジェスターブラスト
+PROPSKILL_TXT_000401,"Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range.",敵に時限爆弾を仕掛け、一定時間後に周囲を巻き込んで爆発させます。同じ敵に再使用すると即座に爆発しますが、威力と範囲が減少します。
 PROPSKILL_TXT_000402,Boomburst,ブームバースト
-PROPSKILL_TXT_000403,"Fires a long-range projectile that detonates on impact, knocking down the target enemy and surrounding enemies.",ターゲットの周囲に衝撃波を送る長距離ショット。この攻撃は、影響を受けたターゲットの周りの敵をノックダウンします。
+PROPSKILL_TXT_000403,"Fires a long-range projectile that detonates on impact, knocking down the target enemy and surrounding enemies.",遠距離から衝撃波を放ち、着弾時の爆発で対象と周囲の敵をノックダウンさせます。
 PROPSKILL_TXT_000404,Raon's Fire,ラオンズファイア
 PROPSKILL_TXT_000405,Reduces fire resistance by 20%.,火抵抗20%減少
 PROPSKILL_TXT_000406,Herness' Water,ハーネスウォーター
@@ -506,57 +506,57 @@ PROPSKILL_TXT_FWC_202501,Grinder's Blessing,Grinder's Blessing
 PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,Madrigal's elites guide you!
 PROPSKILL_TXT_FWC_202503,Bubble's Fortune,Bubble's Fortune
 PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,Madrigal's most fortunate guide you!
-PROPSKILL_TXT_150000,Harlequin's Greeting,Harlequin's Greeting
-PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","Perform a quick step, teleporting behind your target with a swift attack."
+PROPSKILL_TXT_150000,Harlequin's Greeting,ハーレクイングリーティング
+PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.",素早い身のこなしで敵の背後に瞬間移動し、すかさず攻撃を仕掛けます。
 PROPSKILL_TXT_150002,Shadow Attack,Shadow Attack
 PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If used while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
 PROPSKILL_TXT_150004,Range Increase,Range Increase
-PROPSKILL_TXT_150005,Harlequin's Charge,Harlequin's Charge
-PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,Gather strength to perform a powerful charging attack against a single enemy.
+PROPSKILL_TXT_150005,Harlequin's Charge,ハーレクインチャージ
+PROPSKILL_TXT_150006,Gather strength to perform a powerful charging attack against a single enemy.,力を溜めて、単体の敵に強力な一撃を放ちます。
 PROPSKILL_TXT_150007,Increased Damage,Increased Damage
 PROPSKILL_TXT_150008,Reduced Charge Time,Reduced Charge Time
 PROPSKILL_TXT_150009,Reduced Cooldown,Reduced Cooldown
-PROPSKILL_TXT_150010,Alter Ego,Alter Ego
-PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.","Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death."
+PROPSKILL_TXT_150010,Alter Ego,オルターエゴ
+PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.",姿を消してその場に分身を生み出します。分身はランダムに移動してダメージを反射し、倒されると爆発します。
 PROPSKILL_TXT_150012,Maintain Ego,Maintain Ego
-PROPSKILL_TXT_150014,Special Yo-Yo Mastery,Special Yo-Yo Mastery
-PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.","Increases auto attack damage, multistrike chance, and Yo-Yo range when used."
+PROPSKILL_TXT_150014,Special Yo-Yo Mastery,スペシャルヨーヨーマスタリー
+PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.",ヨーヨー使用時に、通常攻撃のダメージとマルチストライクの発生確率、射程距離を上昇させます。
 PROPSKILL_TXT_150016,Auto Attack,自動攻撃
 PROPSKILL_TXT_150017,Range,Range
 PROPSKILL_TXT_150018,Multistrike,Multistrike
 PROPSKILL_TXT_150019,Critical Yo-Yo Mastery,Critical Yo-Yo Mastery
 PROPSKILL_TXT_150020,String Yo-Yo Mastery,String Yo-Yo Mastery
-PROPSKILL_TXT_150021,Critical Stab,Critical Stab
-PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.","Your critical chance is lowered, but critical damage is increased."
+PROPSKILL_TXT_150021,Critical Stab,クリティカルスタブ
+PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.",クリティカル率が低下する代わりに、クリティカルダメージが増加します。
 PROPSKILL_TXT_150024,Increased Duration,Increased Duration
-PROPSKILL_TXT_150026,Shadow Strike,Shadow Strike
-PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,Attacking from behind while invisible deals additional damage.
-PROPSKILL_TXT_150028,Agility,Agility
-PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibility.,Movement speed temporarily increases after leaving invisibility.
+PROPSKILL_TXT_150026,Shadow Strike,シャドウストライク
+PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,透明化状態で敵の背後から攻撃すると、追加ダメージを与えます。
+PROPSKILL_TXT_150028,Agility,アジリティ
+PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibility.,透明化状態が解除されると、一定時間、移動速度が上昇します。
 PROPSKILL_TXT_150030,Concentration [Nen],Concentration [Nen]
 PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.
 PROPSKILL_TXT_150032,Forced Critical Hit,Forced Critical Hit
 PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,Your next auto attack is guaranteed to be a critical hit.
 PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.","Your critical chance is capped at 10%, while greatly increasing critical damage."
-PROPSKILL_TXT_150035,Barrage,Barrage
-PROPSKILL_TXT_150036,Normal attacks have a chance to fire double arrows.,Normal attacks have a chance to fire double arrows.
+PROPSKILL_TXT_150035,Barrage,バラージ
+PROPSKILL_TXT_150036,Normal attacks have a chance to fire double arrows.,一定時間、通常攻撃に矢の2連射が発生するようになります。
 PROPSKILL_TXT_150037,Increased Strike,Increased Strike
 PROPSKILL_TXT_150038,Maintain Buff,Maintain Buff
-PROPSKILL_TXT_150040,Heavy Shot,Heavy Shot
-PROPSKILL_TXT_150041,Knocks back the target with an arrow.,Knocks back the target with an arrow.
+PROPSKILL_TXT_150040,Heavy Shot,ヘビーショット
+PROPSKILL_TXT_150041,Knocks back the target with an arrow.,矢を放ち、対象をノックバックさせます。
 PROPSKILL_TXT_150042,Increased Knockback,Increased Knockback
 PROPSKILL_TXT_150043,Group Knockback,Group Knockback
-PROPSKILL_TXT_150045,Repelling Shot,Repelling Shot
-PROPSKILL_TXT_150046,Leap backwards after attacking the target.,Leap backwards after attacking the target.
+PROPSKILL_TXT_150045,Repelling Shot,リペリングショット
+PROPSKILL_TXT_150046,Leap backwards after attacking the target.,敵を攻撃した後、後方へ素早く跳び退きます。
 PROPSKILL_TXT_150047,Long Jump,Long Jump
 PROPSKILL_TXT_150048,Debuff,Debuff
-PROPSKILL_TXT_150050,Condor Dive,Condor Dive
-PROPSKILL_TXT_150051,Unleashes an area attack within the designated range.,Unleashes an area attack within the designated range.
+PROPSKILL_TXT_150050,Condor Dive,コンドルダイブ
+PROPSKILL_TXT_150051,Unleashes an area attack within the designated range.,コンドルのごとく急降下して襲いかかり、指定範囲内の敵にダメージを与えます。
 PROPSKILL_TXT_150054,Quiver Master,Quiver Master
-PROPSKILL_TXT_150055,Swift Hands,Swift Hands
-PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,Your action speed increases when using non-magical skills.
-PROPSKILL_TXT_150057,Eagle Eye,Eagle Eye
-PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,Call upon your inherent eagle to increase bow range.
+PROPSKILL_TXT_150055,Swift Hands,クイックハンド
+PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,魔法以外のスキルを使用する際、動作速度が上昇します。
+PROPSKILL_TXT_150057,Eagle Eye,イーグルアイ
+PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,内なる鷲の力を呼び起こし、弓の射程距離を拡大します。
 PROPSKILL_TXT_150059,Arcane Enchantment,Arcane Enchantment
 PROPSKILL_TXT_150060,Provide Elemental status to the skills..,Provide Elemental status to the skills..
 PROPSKILL_TXT_150061,Increased Element,Increased Element
@@ -700,30 +700,30 @@ PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
 PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.
 PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
 PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.
-PROPSKILL_TXT_140064,Trap: Debuff,Trap: Debuff
-PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,Deploy a trap that deals damage with a 15% chance to slow down targets.
-PROPSKILL_TXT_140066,Pit,Pit
-PROPSKILL_TXT_140067,You have stepped on a trap.,You have stepped on a trap.
+PROPSKILL_TXT_140064,Trap: Debuff,トラップ：スロウ
+PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,ダメージを与え、15%の確率で敵の移動速度を下げるトラップを設置します。
+PROPSKILL_TXT_140066,Pit,罠
+PROPSKILL_TXT_140067,You have stepped on a trap.,トラップを踏んだ状態です。
 PROPSKILL_TXT_140068,Proficient Traps,Proficient Traps
 PROPSKILL_TXT_140069,Crowd Controller,Crowd Controller
-PROPSKILL_TXT_140071,Trap: DoT,Trap: DoT
-PROPSKILL_TXT_140072,Deploy a trap that deals continuous damage.,Deploy a trap that deals continuous damage.
+PROPSKILL_TXT_140071,Trap: DoT,トラップ：DoT
+PROPSKILL_TXT_140072,Deploy a trap that deals continuous damage.,範囲内の敵に持続的なダメージを与えるトラップを設置します。
 PROPSKILL_TXT_140073,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140076,Trap: AoE,Trap: AoE
-PROPSKILL_TXT_140077,Deploy a trap that deals damage in the designated area.,Deploy a trap that deals damage in the designated area.
+PROPSKILL_TXT_140076,Trap: AoE,トラップ：AoE
+PROPSKILL_TXT_140077,Deploy a trap that deals damage in the designated area.,指定した範囲にダメージを与えるトラップを設置します。
 PROPSKILL_TXT_140078,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140081,Trap: Binding,Trap: Binding
-PROPSKILL_TXT_140082,Deploy a trap that immobilizes the target.,Deploy a trap that immobilizes the target.
+PROPSKILL_TXT_140081,Trap: Binding,トラップ：バインド
+PROPSKILL_TXT_140082,Deploy a trap that immobilizes the target.,対象を移動できなくするトラップを設置します。
 PROPSKILL_TXT_140083,Skilled Installation,Skilled Installation
-PROPSKILL_TXT_140086,Trap: Blast,Trap: Blast
-PROPSKILL_TXT_140087,Deploy a trap that pushes the target away.,Deploy a trap that pushes the target away.
+PROPSKILL_TXT_140086,Trap: Blast,トラップ：ブラスト
+PROPSKILL_TXT_140087,Deploy a trap that pushes the target away.,対象を吹き飛ばすトラップを設置します。
 PROPSKILL_TXT_140088,Proficient Traps,Proficient Traps
-PROPSKILL_TXT_140091,Marked Prey,Marked Prey
-PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.
-PROPSKILL_TXT_140093,Advanced Trap,Advanced Trap
-PROPSKILL_TXT_140094,Increases your traps’ range.,Increases your traps’ range.
-PROPSKILL_TXT_140095,Devastating Sting,Devastating Sting
-PROPSKILL_TXT_140096,Increases damage dealt by normal attacks and increases PvE damage.,Increases damage dealt by normal attacks and increases PvE damage.
+PROPSKILL_TXT_140091,Marked Prey,マークドプレイ
+PROPSKILL_TXT_140092,Normal attack critical damage increases against enemies affected by the Pit debuff from being caught in a trap.,トラップにかかった敵に対する通常攻撃のクリティカルダメージが増加します。
+PROPSKILL_TXT_140093,Advanced Trap,トラップアドバンス
+PROPSKILL_TXT_140094,Increases your traps’ range.,設置するトラップの効果範囲が拡大します。
+PROPSKILL_TXT_140095,Devastating Sting,デバステーション
+PROPSKILL_TXT_140096,Increases damage dealt by normal attacks and increases PvE damage.,一定時間、通常攻撃のダメージとモンスターへのダメージが増加します。
 PROPSKILL_TXT_140097,Nearby Shot,Nearby Shot
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Increased damage for auto attacks when you more than 5m from your target.
 PROPSKILL_TXT_140099,Feeble Arms,Feeble Arms
@@ -747,12 +747,12 @@ PROPSKILL_TXT_150160,Aether Rend,エーテルレンド
 PROPSKILL_TXT_150161,Remove a number of Disable and Weaken debuffs from your target up to the number of Malefic Detonation and Damnation Surge stacks available. This skill consumes all stacks of both skills. The damage of this skill scales with Debuff and Weaken effect on you.,マレフィックチャージとダムネーションサージのスタック数を上限に、対象の妨害系と弱体系デバフを解除して強力な一撃を放ちます。両スキルの全スタックを消費し、自身の妨害効果と弱体効果に応じてダメージが増加します。
 PROPSKILL_TXT_150162,Additional Buffs,Additional Buffs
 PROPSKILL_TXT_150163,Additional Damage,追加ダメージ
-PROPSKILL_TXT_150165,Yo-Yo Storm,Yo-Yo Storm
-PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,Spin your yo-yos in place to continuously attack all nearby enemies.
+PROPSKILL_TXT_150165,Yo-Yo Storm,ヨーヨーストーム
+PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby enemies.,その場でヨーヨーを振り回し、周囲のすべての敵に連続攻撃を繰り出します。
 PROPSKILL_TXT_150167,Extended Range,Extended Range
 PROPSKILL_TXT_150169,CC Attack,CC Attack
-PROPSKILL_TXT_150170,Toxic Cloud,Toxic Cloud
-PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.","Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby."
+PROPSKILL_TXT_150170,Toxic Cloud,トキシッククラウド
+PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.",指定した場所に毒の小瓶を投げつけ、発生した毒霧で周囲の敵に持続的なダメージを与え、一定確率で毒状態にします。
 PROPSKILL_TXT_150172,Extended Range,Extended Range
 PROPSKILL_TXT_150174,Gas Cloud,Gas Cloud
 PROPSKILL_TXT_150175,Bloody Rush,ブラッディラッシュ
@@ -885,20 +885,20 @@ PROPSKILL_TXT_150333,Marked Attack,Marked Attack
 PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.
 PROPSKILL_TXT_150335,Nen Acquisition,Nen Acquisition
 PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,Increases your chance to gain an additional Nen stack when using Concentration.
-PROPSKILL_TXT_150337,Toxic Assault,Toxic Assault
-PROPSKILL_TXT_150338,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.
+PROPSKILL_TXT_150337,Toxic Assault,トキシックアサルト
+PROPSKILL_TXT_150338,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.,敵に連続攻撃を繰り出し、攻撃が命中するたびに一定確率で毒状態にします。
 PROPSKILL_TXT_150339,Increased Chance,Increased Chance
 PROPSKILL_TXT_150341,Increased Toxins,Increased Toxins
-PROPSKILL_TXT_150342,Toxic Fury,Toxic Fury
-PROPSKILL_TXT_150343,Inflict poison on yourself to increase your power at the cost of defense.,Inflict poison on yourself to increase your power at the cost of defense.
+PROPSKILL_TXT_150342,Toxic Fury,トキシックフューリー
+PROPSKILL_TXT_150343,Inflict poison on yourself to increase your power at the cost of defense.,自身を毒状態にして防御力を犠牲にする代わりに、戦闘能力を高めます。
 PROPSKILL_TXT_150345,Maintain Addiction,Maintain Addiction
 PROPSKILL_TXT_150346,No Pain No Gain,No Pain No Gain
-PROPSKILL_TXT_150347,Toxic Analogy,Toxic Analogy
-PROPSKILL_TXT_150348,Reduces damage taken from poisoned enemies.,Reduces damage taken from poisoned enemies.
-PROPSKILL_TXT_150349,Master of Toxins,Master of Toxins
-PROPSKILL_TXT_150350,Increase your damage against poisoned enemies.,Increase your damage against poisoned enemies.
-PROPSKILL_TXT_150351,Risk Management,Risk Management
-PROPSKILL_TXT_150352,Becoming invisible has a chance to remove your own poison.,Becoming invisible has a chance to remove your own poison.
+PROPSKILL_TXT_150347,Toxic Analogy,トキシックアナロジー
+PROPSKILL_TXT_150348,Reduces damage taken from poisoned enemies.,毒状態の敵から受けるダメージを軽減します。
+PROPSKILL_TXT_150349,Master of Toxins,ポイズンマスター
+PROPSKILL_TXT_150350,Increase your damage against poisoned enemies.,毒状態の敵に与えるダメージが増加します。
+PROPSKILL_TXT_150351,Risk Management,リスクマネジメント
+PROPSKILL_TXT_150352,Becoming invisible has a chance to remove your own poison.,透明化状態になると、一定確率で自身の毒状態を解除します。
 PROPSKILL_TXT_150353,Dual Ego,Dual Ego
 PROPSKILL_TXT_150354,CC Attack,CC Attack
 PROPSKILL_TXT_150355,Far Shot,Far Shot
