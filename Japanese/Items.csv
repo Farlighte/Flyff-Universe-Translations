@@ -7505,8 +7505,8 @@ PROPITEM_TXT_100941,Rider Purple Gloves (M),ライダーパープルグローブ
 PROPITEM_TXT_100942,Rider Green Gloves (M),ライダーグリーングローブ(M)
 PROPITEM_TXT_100943,Rider Yellow Gloves (M),ライダーイエローグローブ(M)
 PROPITEM_TXT_100944,Rider Gloves for male characters.,ライダーグローブ。
-PROPITEM_TXT_100945,Volkane Key Piece,ヴォルケインのキーピース
-PROPITEM_TXT_100946,Volkane Key,火山の鍵
+PROPITEM_TXT_100945,Volkane Key Piece,ヴォルケインの鍵の欠片
+PROPITEM_TXT_100946,Volkane Key,ヴォルケインの鍵
 PROPITEM_TXT_100947,Gray Crystal,グレークリスタル
 PROPITEM_TXT_100948,Quest item that drops from Medumet.,メデュメットから回収した希少なクリスタル。(クエストアイテム)
 PROPITEM_TXT_100949,Red Crystal,レッドクリスタル
@@ -7521,7 +7521,7 @@ PROPITEM_TXT_100957,Blinkwing of Azria,ブリンクウィング(アズリア)
 PROPITEM_TXT_100958,Teleport to Azria,アズリアにテレポート
 PROPITEM_TXT_100959,Pet Transmute,ペット変身
 PROPITEM_TXT_100960,This item will give a new random appearance to your pet. There is a chance to get rare visuals!,このアイテムは、ペットに新しいランダムな外観を与えます。レアビジュアルゲットのチャンスあり！
-PROPITEM_TXT_100961,Cyclops X Life Gem,サイクロプス X ライフジェム
+PROPITEM_TXT_100961,Cyclops X Life Gem,サイクロプスX ライフジェム
 PROPITEM_TXT_102038,Tooth of Leyena,レイーナの歯
 PROPITEM_TXT_102039,A tooth of hungry monsters. Take it to Chonjang in town!!,飢えたモンスターの歯。町のチョンジャンに持っていって!
 PROPITEM_TXT_008902,Red Chips,レッドチップ
@@ -9187,16 +9187,16 @@ PROPITEM_TXT_400312,Regal Kumai Stick,レガル・クマイスティック
 PROPITEM_TXT_400313,Kraken Knuckle,クラーケンナックル
 PROPITEM_TXT_400314,Enchanted Shaman Staff,エンチャント・シャーマンスタッフ
 PROPITEM_TXT_400315,Merman Staff,マーマンスタッフ
-PROPITEM_TXT_400316,Pyramid Guardian Sword,ピラミッドガーディアンソード
-PROPITEM_TXT_400317,Pyramid Keeper Sword,ピラミッドキーパーソード
-PROPITEM_TXT_400318,Pyramid Guardian Big Sword,ピラミッドガーディアンビッグソード
-PROPITEM_TXT_400319,Pyramid Keeper Big Sword,ピラミッドキーパービッグソード
-PROPITEM_TXT_400320,Enchanted Shaman Wand,魅惑のシャーマンワンド
+PROPITEM_TXT_400316,Pyramid Guardian Sword,ピラミッド・ガーディアンソード
+PROPITEM_TXT_400317,Pyramid Keeper Sword,ピラミッド・キーパーソード
+PROPITEM_TXT_400318,Pyramid Guardian Big Sword,ピラミッド・ガーディアンビッグソード
+PROPITEM_TXT_400319,Pyramid Keeper Big Sword,ピラミッド・キーパービッグソード
+PROPITEM_TXT_400320,Enchanted Shaman Wand,エンチャント・シャーマンワンド
 PROPITEM_TXT_400321,Kraken Yo-Yo,クラーケンヨーヨー
 PROPITEM_TXT_400322,Kraken's Head,クラーケンの頭
 PROPITEM_TXT_400323,Siren's Head,セイレーンの頭
-PROPITEM_TXT_400324,Pyramid Guardian's Head,ピラミッドガーディアンズヘッド
-PROPITEM_TXT_400325,Pyramid Keeper's Head,ピラミッドキーパーズヘッド
+PROPITEM_TXT_400324,Pyramid Guardian's Head,ピラミッド・ガーディアンズヘッド
+PROPITEM_TXT_400325,Pyramid Keeper's Head,ピラミッド・キーパーズヘッド
 PROPITEM_TXT_400326,Legends of Leren Mountains,レルエン山脈の伝説
 PROPITEM_TXT_400327,Quest Item: A book of myths and legends about the history of the Leren Mountains.,レルエン山脈の歴史にまつわる神話や伝説が記された本。(クエストアイテム)
 PROPITEM_TXT_400328,Flaris Fungi,フラリスキノコ
@@ -9260,16 +9260,16 @@ PROPITEM_TXT_400385,Elemental Upcut Stone Box,エレメンタルアップカッ�
 PROPITEM_TXT_400386,Select which elemental upcut stone you want!,あなたが望むエレメンタルアップカットストーンを選択してください!
 PROPITEM_TXT_400387,Echo of Herness,エコー・オブ・ハーネス
 PROPITEM_TXT_400388,Quest Item: An echo of an ancient god. You can still feel power emanating from this relic.,古代の神のエコー。あなたはまだこの遺物から発せられる力を感じることができます。(クエストアイテム)
-PROPITEM_TXT_400389,Bearnerky Fang,ハニーシーカー・ファング
-PROPITEM_TXT_400390,Quest Item: The fang of a mighty Bearnerky. Only seasoned heroes could pull one of these from a Bearnerky's mouth.,強大なハニーシーカーの牙。ベテランのヒーローだけが、ハニーシーカーの口からこれらの1つを引き出すことができました。(クエストアイテム)
-PROPITEM_TXT_400391,Muffrin Bucket,マフリンバケット
-PROPITEM_TXT_400392,"Quest Item: Muffrins carry these around to store their food, and use as a blunt weapon against their foes.",マフリンはこれらを持ち歩いて食べ物を保管し、敵に対する鈍器として使用します。(クエストアイテム)
-PROPITEM_TXT_400393,Smelted Steel,製錬鋼
-PROPITEM_TXT_400394,Quest Item: Steel smelted by an expert craftsman. Can be used to craft basic armor and weapons for adventurers.,熟練した職人が製錬した鋼。冒険者のための基本的な鎧や武器を作るために使用することができます。(クエストアイテム)
-PROPITEM_TXT_400395,Vial of Purple Mist,紫の霧のバイアル
-PROPITEM_TXT_400396,Quest Item: A vial of swirling purple mist. The mist seems to be connected to Purple Magic.,渦巻く紫色の霧の小瓶。霧はパープルマジックとつながっているようです。(クエストアイテム)
-PROPITEM_TXT_400397,Purple Essence,パープルエッセンス
-PROPITEM_TXT_400398,Quest Item: The leftover residue left behind in an area tainted by Purple Magic.,パープルマジックで汚染されたエリアに残された残りの残留物。(クエストアイテム)
+PROPITEM_TXT_400389,Bearnerky Fang,ハニーシーカーの牙
+PROPITEM_TXT_400390,Quest Item: The fang of a mighty Bearnerky. Only seasoned heroes could pull one of these from a Bearnerky's mouth.,強大なハニーシーカーの牙。これを手に入れられるのは、熟練した冒険者だけだ。(クエストアイテム)
+PROPITEM_TXT_400391,Muffrin Bucket,マフリンのバケツ
+PROPITEM_TXT_400392,"Quest Item: Muffrins carry these around to store their food, and use as a blunt weapon against their foes.",マフリンが食べ物を入れて持ち歩いているバケツ。敵と戦うときには鈍器としても使われる。(クエストアイテム)
+PROPITEM_TXT_400393,Smelted Steel,製錬された鋼
+PROPITEM_TXT_400394,Quest Item: Steel smelted by an expert craftsman. Can be used to craft basic armor and weapons for adventurers.,熟練の職人によって製錬された鋼。冒険者用の基本的な武器や防具の製作に使用できる。(クエストアイテム)
+PROPITEM_TXT_400395,Vial of Purple Mist,紫の霧の小瓶
+PROPITEM_TXT_400396,Quest Item: A vial of swirling purple mist. The mist seems to be connected to Purple Magic.,渦巻く紫の霧が入った小瓶。この霧はパープルマジックと何か関係があるようだ。(クエストアイテム)
+PROPITEM_TXT_400397,Purple Essence,紫の魔力の痕跡
+PROPITEM_TXT_400398,Quest Item: The leftover residue left behind in an area tainted by Purple Magic.,パープルマジックに侵された場所に残された、紫の魔力の痕跡。(クエストアイテム)
 PROPITEM_TXT_200307,Sul Bim Set (M),改良韓服セット(男の子用)
 PROPITEM_TXT_200308,Sul Bim Set for male characters.,男の子用改良韓服セット
 PROPITEM_TXT_200309,Sul Bim Set (F),改良韓服セット(女の子用)
@@ -15992,10 +15992,10 @@ PROPITEM_TXT_725119,Magic Clock of Envy Depths (5 Min),嫉妬の深淵の魔時�
 PROPITEM_TXT_725120,Re-entry cooldown for Envy Depths has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「羨望の深淵」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他の羨望の深さの魔法の時計と共有されます。
 PROPITEM_TXT_725121,Magic Clock of Envy Depths (10 Min),嫉妬の深淵の魔時計 (10分)
 PROPITEM_TXT_725122,Re-entry cooldown for Envy Depths has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「羨望の深淵」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他の羨望の深さの魔法の時計と共有されます。
-PROPITEM_TXT_725123,Magic Clock of Guardiane Sanctuary (5 Min),ガーディアン・サンクチュアリの魔法の時計 (5分)
-PROPITEM_TXT_725124,Re-entry cooldown for Guardiane Sanctuary has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Guardiane Sanctuary magic clocks.,ガーディアンサンクチュアリの再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のガーディアンサンクチュアリの魔法の時計と共有されます。
-PROPITEM_TXT_725125,Magic Clock of Guardiane Sanctuary (10 Min),ガーディアン・サンクチュアリの魔法の時計 (10分)
-PROPITEM_TXT_725126,Re-entry cooldown for Guardiane Sanctuary has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Guardiane Sanctuary magic clocks.,ガーディアンサンクチュアリの再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のガーディアンサンクチュアリの魔法の時計と共有されます。
+PROPITEM_TXT_725123,Magic Clock of Guardiane Sanctuary (5 Min),ガルディア聖域の魔時計 (5分)
+PROPITEM_TXT_725124,Re-entry cooldown for Guardiane Sanctuary has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Guardiane Sanctuary magic clocks.,ガルディア聖域の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のガルディア聖域の魔時計と共有されます。
+PROPITEM_TXT_725125,Magic Clock of Guardiane Sanctuary (10 Min),ガルディア聖域の魔時計 (10分)
+PROPITEM_TXT_725126,Re-entry cooldown for Guardiane Sanctuary has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Guardiane Sanctuary magic clocks.,ガルディア聖域の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のガルディア聖域の魔時計と共有されます。
 PROPITEM_TXT_725127,Magic Clock of Storm Peak (5 Min),ストームピークの魔時計 (5分)
 PROPITEM_TXT_725128,Re-entry cooldown for Storm Peak has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,ストームピークの再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のストームピークの魔法時計と共有されます。
 PROPITEM_TXT_725129,Magic Clock of Storm Peak (10 Min),ストームピークの魔時計 (10分)
@@ -29305,12 +29305,12 @@ PROPITEM_TXT_1902515,Great Kraken Attack 3,グレートクラーケン・攻撃3
 PROPITEM_TXT_1902516,Great Kraken Meteor Attack 4,グレートクラーケン・メテオ攻撃4
 PROPITEM_TXT_1902517,Great Kraken Attack 5,グレートクラーケン・攻撃5
 PROPITEM_TXT_1902518,Great Kraken Attack 6,グレートクラーケン・攻撃6
-PROPITEM_TXT_1902519,Pyramid Guardian Overlap Damage Attack 1,ピラミッドガーディアン・ダメージスタック攻撃1
-PROPITEM_TXT_1902520,Pyramid Guardian Attack 2,ピラミッドガーディアン・攻撃2
-PROPITEM_TXT_1902521,Pyramid Guardian Attack 3,ピラミッドガーディアン・攻撃3
-PROPITEM_TXT_1902522,Pyramid Guardian Meteor Attack 4,ピラミッドガーディアン・メテオ攻撃4
-PROPITEM_TXT_1902523,Pyramid Guardian Attack 5,ピラミッドガーディアン・攻撃5
-PROPITEM_TXT_1902524,Pyramid Guardian Attack 6,ピラミッドガーディアン・攻撃6
+PROPITEM_TXT_1902519,Pyramid Guardian Overlap Damage Attack 1,ピラミッド・ガーディアン・ダメージスタック攻撃1
+PROPITEM_TXT_1902520,Pyramid Guardian Attack 2,ピラミッド・ガーディアン・攻撃2
+PROPITEM_TXT_1902521,Pyramid Guardian Attack 3,ピラミッド・ガーディアン・攻撃3
+PROPITEM_TXT_1902522,Pyramid Guardian Meteor Attack 4,ピラミッド・ガーディアン・メテオ攻撃4
+PROPITEM_TXT_1902523,Pyramid Guardian Attack 5,ピラミッド・ガーディアン・攻撃5
+PROPITEM_TXT_1902524,Pyramid Guardian Attack 6,ピラミッド・ガーディアン・攻撃6
 PROPITEM_TXT_1902525,Crystal Demon Lord Overlap Damage Attack 1,クリスタルデーモンロード・ダメージスタック攻撃1
 PROPITEM_TXT_1902526,Crystal Demon Lord Attack 2,クリスタルデーモンロード・攻撃2
 PROPITEM_TXT_1902527,Crystal Demon Lord Fly Back Attack 3,クリスタルデーモンロード・フライバック攻撃3

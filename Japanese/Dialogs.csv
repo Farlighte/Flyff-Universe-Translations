@@ -986,15 +986,15 @@ NPC_100039,Who goes there?,そこにいるのはだれだ？
 NPC_100040,I am Gigaka! Protector of these lands.,ギガカです！わたしは土地の守護者。
 NPC_100041,Watch yourself.,気をつけてください。
 NPC_100042,Welcome to Azria!,アズリアへようこそ！
-NPC_100043,"Stay safe out there, traveler.",旅人さん、どうかお気をつけて。
+NPC_100043,"Stay safe out there, traveler.",気をつけることだ、旅人よ。
 NPC_100044,Stay safe.,おげんきで。
 NPC_100045,Hm... Yes...,うーん...はい...
 NPC_100046,...,……
 NPC_100047,May Rhisis be with you.,リシスがあなたと共にありますように。
-NPC_100048,You should not be here...,あなたはここにいるべきではありません...
-NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,ヴォルケインはマガミエントの奥深くにある、かつては忘れ去られていた古代の洞窟です。空気は火山灰と高温ガスで満たされています。ここはあなたのための場所ではありません。
-NPC_100050,A traveler? In this place? Oh my.,冒険者？この場所で？なんてこった。
-NPC_100051,Hm.,うーん。
+NPC_100048,You should not be here...,ここは、お前が来るべき場所ではない...
+NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,ヴォルケイン。マグミアントの奥深くに眠る、古く忘れ去られた洞窟。火山灰と灼熱のガスが満ちている。お前が来るべき場所ではない。
+NPC_100050,A traveler? In this place? Oh my.,旅人？ このような場所に...なんということ。
+NPC_100051,Hm.,ふむ...
 NPC_100052,This is no place for travelers. You must leave if you value your life.,ここは旅人がくるべきところではありません。命を大事に思うなら帰ってください。
 NPC_100053,The name's Buur! I love crystals more than anything. I can't get enough crystals. There is no such thing as too many crystals.,バウアーだよ！クリスタルがすっきなんだあ～。クリスタルをたっくさん集めてきて！クリスタルは多いに越したことはないからね。
 NPC_100054,I love crystals but they are so hard to come by. You can only get crystals by defeating a masquerpet here.,クリスタルは好きだけど、なかなか手に入らないんだよね～。この辺りのモンスター倒せばクリスタル手に入るんだけど...。
@@ -1028,11 +1028,11 @@ NPC_100081,Beware the masquerpets touched by waters of the Envy Depths.,エン�
 NPC_100082,Turn around while you still have some life left in you.. these waters are cursed.,あなたがまだあなたの中にいくらかの人生が残っている間に振り返ってください..これらの水は呪われています。
 NPC_100083,I am a guard hired by the Mayor of Darken City to ensure the safety of adventurers who wander too close to the Envy Depths.,私はダーコン市長に雇われた警備員で、エンヴィーデプスに近づきすぎた冒険者の安全を確保しています。
 NPC_100084,Tell those who are weak to avoid the Envy Depths at all costs!,自信のない人には、エンヴィーデプスから離れるように伝えてください!
-NPC_100085,The heart of the Guardiane Sanctuary has been torn asunder!,ガーディアンサンクチュアリの中心部が引き裂かれました!
-NPC_100086,Death and decay are all that remain within the Guardiane Sanctuary..,死と腐敗は、ガーディアンサンクチュアリ内に残っているすべてです..
-NPC_100087,Escape this place before you are turned into the living dead like those poor souls.,あなたがそれらの貧しい魂のように生きている死者になる前に、この場所を脱出してください。
-NPC_100088,I was sent here to guard the entrance of the Guardiane Sanctuary.. hopefully the Purple Magician does not come back.,私はガーディアンサンクチュアリの入り口を守るためにここに送られました..うまくいけば、紫の魔術師は戻ってこない。
-NPC_100089,May the heart of Guardiane be one day restored!,いつの日かガーディアンの心が回復しますように!
+NPC_100085,The heart of the Guardiane Sanctuary has been torn asunder!,ガルディア聖域の中心が引き裂かれてしまった！
+NPC_100086,Death and decay are all that remain within the Guardiane Sanctuary..,ガルディア聖域に残るのは、死と腐敗だけだ...
+NPC_100087,Escape this place before you are turned into the living dead like those poor souls.,あの哀れな者たちのように生ける屍にされる前に、ここから逃げてください。
+NPC_100088,I was sent here to guard the entrance of the Guardiane Sanctuary.. hopefully the Purple Magician does not come back.,私はガルディア聖域の入口を守るために派遣されました...。パープルマジシャンが戻ってこなければいいのですが。
+NPC_100089,May the heart of Guardiane be one day restored!,いつの日か、ガルディアに平穏が戻りますように！
 NPC_100090,Something strange is in the mountain air of Storm Peak..,ストームピークの山の空気に奇妙な何かがあります。
 NPC_100091,Within the Storm Peak mountain a great evil is said to lurk.,ストームピーク山の中には大きな悪が潜んでいると言われています。
 NPC_100092,Go back home before you get frostbite!,凍傷になる前に家に帰ってください!
