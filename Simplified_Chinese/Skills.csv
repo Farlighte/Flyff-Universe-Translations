@@ -367,11 +367,11 @@ PROPSKILL_TXT_000404,Raon's Fire,瑞恩之火
 PROPSKILL_TXT_000405,Reduces fire resistance by 20%.,降低20%火属性抵抗。
 PROPSKILL_TXT_000406,Herness' Water,赫内斯之水
 PROPSKILL_TXT_000407,Reduces water resistance by 20%.,降低20%水属性抵抗。
-PROPSKILL_TXT_000408,Ishirut's Spark,Ishirut的火花
+PROPSKILL_TXT_000408,Ishirut's Spark,伊希鲁特之雷
 PROPSKILL_TXT_000409,Reduces electric resistance by 20%.,降低20%雷属性抵抗。
-PROPSKILL_TXT_000410,Shelid's Earth,Shelid的土壤
+PROPSKILL_TXT_000410,Shelid's Earth,谢莉德之石
 PROPSKILL_TXT_000411,Reduces earth resistance by 20%.,降低20%土属性抵抗。
-PROPSKILL_TXT_000412,Ipuli's Breath,Ipuli的气息
+PROPSKILL_TXT_000412,Ipuli's Breath,依普利之风
 PROPSKILL_TXT_000413,Reduces wind resistance by 20%.,降低20%风属性抵抗。
 PROPSKILL_TXT_100028,Lifesteal,生命偷取
 PROPSKILL_TXT_100029,Mysterious Energy,神秘能量
@@ -562,7 +562,7 @@ PROPSKILL_TXT_150060,Provide Elemental status to the skills..,为技能赋予元
 PROPSKILL_TXT_150061,Increased Element,元素强化
 PROPSKILL_TXT_150062,Decreased Element,元素弱化
 PROPSKILL_TXT_150063,Elemental Debuff,元素减益效果
-PROPSKILL_TXT_150064,Laughter of La Croix,La Croix的笑声
+PROPSKILL_TXT_150064,Laughter of La Croix,Laughter of La Croix
 PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,你可以无视一次控制或虚弱类减益效果。
 PROPSKILL_TXT_150066,Successfull Debuff,减益生效
 PROPSKILL_TXT_150067,Additional Shield,额外护盾
@@ -882,7 +882,7 @@ PROPSKILL_TXT_150330,"When Nen charge reaches 20, your critical hits will be mor
 PROPSKILL_TXT_150331,Tenacity,韧性
 PROPSKILL_TXT_150332,Debuffs applied on you do not last as long.,自身受到的减益持续时间降低。
 PROPSKILL_TXT_150333,Marked Attack,印记打击
-PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,Normal attacks leave a mark. 对同一敌人连续命中 5 次时，造成额外伤害并获得 1 层念气。
+PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,普通攻击会留下印记。对同一敌人连续命中 5 次时，造成额外伤害并获得 1 层念气。
 PROPSKILL_TXT_150335,Nen Acquisition,念气汲取
 PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,使用专注技能时，额外获得一层念气的概率提高。
 PROPSKILL_TXT_150337,Toxic Assault,剧毒强袭
