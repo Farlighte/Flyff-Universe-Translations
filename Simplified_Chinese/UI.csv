@@ -115,8 +115,8 @@ UI_TOOLTIP_DEF_BASE,Base Defense:,基础防御力:
 UI_TOOLTIP_ATTACK,Attack:,攻击力:
 UI_TOOLTIP_DEF_A,Defense:,防御力:
 UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度:%s
-UI_TOOLTIP_REQ_JOB,Req Job:,职业:
-UI_TOOLTIP_REQ_LEVEL,Required Level: %d,等级: %d
+UI_TOOLTIP_REQ_JOB,Req Job:,必要职业:
+UI_TOOLTIP_REQ_LEVEL,Required Level: %d,必要等级: %d
 UI_TOOLTIP_REQ,Requires %s,还需 %s
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP回复量：%d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP: %d
@@ -1930,7 +1930,7 @@ UI_PVPCONTEST_RANKING_FINALS,Finals,决赛
 UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current FWC PvP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb",“这里包含当前 FWC PvP 大赛的所有排名数据。\n如果预选赛排名中仅出现一个公会，说明该公会没有对手！\n#b#u点击公会可查看参赛玩家的详细数据。#nu#nb”
 UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,FWC PvP 大赛排行榜
 UI_PVPCONTEST_RANKING_RANKING,Ranking,排名
-UI_PVPCONTEST_RANKING_RANK,Rank,Rank
+UI_PVPCONTEST_RANKING_RANK,Rank,名次
 UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,公会名称
 UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,积分
 UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,击杀
@@ -2742,7 +2742,7 @@ UI_LIFE_CRAFT_START,Start,开始
 UI_LIFE_CRAFT_STOP,Stop,停止
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d 秒\n(已使用 %d%% 缩减)
 UI_LIFE_CRAFT_RESET,Reset,重置
-UI_LIFE_CRAFT_COUNT,Crafts: %d,Crafts: %d
+UI_LIFE_CRAFT_COUNT,Crafts: %d,制作数量: %d
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,生产一旦开始将无法取消。是否继续？\n\n#cffffc000生产时间：%s#nc
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,生产一旦开始将无法取消。是否继续？\n\n#cffffc000生产时间：%s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,开采矿石 #cffc32f07#b%d/%d#nb#nc
@@ -3098,7 +3098,7 @@ UI_GENERIC_3,Setting 3,Setting 3
 UI_GENERIC_4,Setting 4,Setting 4
 UI_SBX_TIME,Time,Time
 UI_SBX_LIGHT_OFFSET,Light Offset,Light Offset
-UI_SSAO_SHD_STR,Strength,力量
+UI_SSAO_SHD_STR,Strength,强度
 UI_SSAO_SHD_MAX_D,Max Distance,最远
 UI_SSAO_SHD_FALLOFF,Falloff,衰减
 UI_SSAO_SHD_RADIUS,Radius,半径
