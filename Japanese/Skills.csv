@@ -68,66 +68,66 @@ PROPSKILL_TXT_000065,A powerful slashing attack that hits all surrounding enemie
 PROPSKILL_TXT_000066,Berserk,バーサーク
 PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.,攻撃速度、追加攻撃力、ブロック貫通力が上昇する代わりに、スキルで与えるダメージが減少します。
 PROPSKILL_TXT_000068,Heal,ヒール
-PROPSKILL_TXT_000069,Recovers the target's HP.,対象のHP（生命力）を回復させます。
+PROPSKILL_TXT_000069,Recovers the target's HP.,対象のHPを回復します。
 PROPSKILL_TXT_000070,Temping Hole,タンピングホール
 PROPSKILL_TXT_000071,A powerful straight punch.,ナックルに込めた精神力を爆発させて、強力な一撃を敵に叩き込みます。
 PROPSKILL_TXT_000072,Resurrection,リザレクション
 PROPSKILL_TXT_000073,Resurrects a dead player.,死んでしまったキャラクターを復活させます。
 PROPSKILL_TXT_000074,Patience,ペイシェンス
-PROPSKILL_TXT_000075,Increases the target's maximum HP.,一定時間、対象の最大ＨＰ量を増加させます。
+PROPSKILL_TXT_000075,Increases the target's maximum HP.,対象の最大HPを増加させます。
 PROPSKILL_TXT_000076,Prevention,プリベンション
-PROPSKILL_TXT_000077,Automatically recovers your HP when it falls below a certain threshold.,持続時間中、自分のHPが一定量以下に落ちると自動にHPを回復させます。
+PROPSKILL_TXT_000077,Automatically recovers your HP when it falls below a certain threshold.,自分のHPが一定値以下になると、自動的にHPを回復します。
 PROPSKILL_TXT_000078,Heap Up,ヒップアップ
-PROPSKILL_TXT_000079,Increases the target's STA.,一定時間、対象の持久力を高め、体力(STA)を増加させます。
+PROPSKILL_TXT_000079,Increases the target's STA.,対象の持久力を高め、体力を増加させます。
 PROPSKILL_TXT_000080,Cannon Ball,キャノンボール
-PROPSKILL_TXT_000081,Increases the target's DEX.,一定時間、対象の瞬発力を増加させ、敏捷（Ｄｅｘ）を上昇させます。
+PROPSKILL_TXT_000081,Increases the target's DEX.,対象の瞬発力を高め、敏捷を増加させます。
 PROPSKILL_TXT_000082,Circle Healing,サークルヒーリング
-PROPSKILL_TXT_000083,Heals nearby party members.,自分の周りにいる同じパーティメンバーのHPを同時に回復させます。
+PROPSKILL_TXT_000083,Heals nearby party members.,自分の周囲にいるパーティメンバーのHPを同時に回復します。
 PROPSKILL_TXT_000084,Mental Sign,メンタルサイン
-PROPSKILL_TXT_000085,Increases the target's INT.,一定時間、対象の知力(Int)を上昇させます。
+PROPSKILL_TXT_000085,Increases the target's INT.,対象の精神力を高め、知能を増加させます。
 PROPSKILL_TXT_000086,Beef Up,マッスルパワー
-PROPSKILL_TXT_000087,Increases the target's STR.,一定時間、対象の筋力を増強させ、攻撃力を上昇させます。
+PROPSKILL_TXT_000087,Increases the target's STR.,対象の筋力を増強させ、力を増加させます。
 PROPSKILL_TXT_000088,Burst Crack,バーストクラック
-PROPSKILL_TXT_000089,"Pounds the ground, damaging enemies around you.",ナックルハンマーを利用するスキルで、拳を地面に叩きつけ、その衝撃で自分の近くにいる敵にダメージを与えます。
+PROPSKILL_TXT_000089,"Pounds the ground, damaging enemies around you.",ナックルを装備した拳を地面に叩きつけ、その衝撃で周囲の敵にダメージを与えます。
 PROPSKILL_TXT_000090,Stonehand,スタンハンド
-PROPSKILL_TXT_000091,Grants all attacks a chance to stun.,一定時間、攻撃にスタン効果を付与します。スタン効果は一定の確率で発動します。
+PROPSKILL_TXT_000091,Grants all attacks a chance to stun.,一定確率で敵をスタンさせる効果を攻撃に付与します。
 PROPSKILL_TXT_000092,Quick Step,クイックステップ
-PROPSKILL_TXT_000093,Increases the target's movement speed.,一定時間、対象の移動速度を上昇させます。
+PROPSKILL_TXT_000093,Increases the target's movement speed.,対象の脚力を高め、移動速度を上昇させます。
 PROPSKILL_TXT_000094,Cat's Reflex,キャッツリフレックス
-PROPSKILL_TXT_000095,Increases the target's block rate.,一定時間、ブロック率が上昇します。
+PROPSKILL_TXT_000095,Increases the target's block rate.,対象の反射神経を高め、ブロック率を上昇させます。
 PROPSKILL_TXT_000096,Accuracy,アキュラシー
-PROPSKILL_TXT_000097,Increases the target's accuracy.,一定時間、対象の動体視力を高めることで命中率を上昇させます。
+PROPSKILL_TXT_000097,Increases the target's accuracy.,対象の動体視力を高め、命中率を上昇させます。
 PROPSKILL_TXT_000098,Power Fist,パワーフィスト
-PROPSKILL_TXT_000099,Strikes the enemy three times with concentrated power.,ナックルにかかる力を増大させ、敵に強力な攻撃を行います。
+PROPSKILL_TXT_000099,Strikes the enemy three times with concentrated power.,ナックルに力を集中させ、敵に強力な3連撃を叩き込みます。
 PROPSKILL_TXT_000100,Haste,ヘイスト
-PROPSKILL_TXT_000101,Increases the target's Attack Speed and Casting Speed.,一定時間、対象の攻撃速度を上昇させます。
+PROPSKILL_TXT_000101,Increases the target's Attack Speed and Casting Speed.,対象の動作を加速させ、攻撃速度と詠唱速度を上昇させます。
 PROPSKILL_TXT_000102,Heal Rain,ヒールレイン
-PROPSKILL_TXT_000103,Heals nearby party members with powerful restorative energy.,生命力が結晶した雨を降らせて、パーティーメンバーのHPを大幅に回復させます。
+PROPSKILL_TXT_000103,Heals nearby party members with powerful restorative energy.,生命力が結晶した雨を降らせ、周囲のパーティメンバーのHPを大幅に回復させます。
 PROPSKILL_TXT_000104,Holycross,ホーリークロス
-PROPSKILL_TXT_000105,Causes the next hit against the target to deal double damage.,神の加護を受けて、敵に2倍のダメージを与えます。
+PROPSKILL_TXT_000105,Causes the next hit against the target to deal double damage.,神の加護により、対象が次に受けるダメージを2倍にします。
 PROPSKILL_TXT_000106,Protect,プロテクト
-PROPSKILL_TXT_000107,Increases the target's Defense and Magic Resistance.,一定時間、対象を目に見えない障壁で包み、防御力と魔法抵抗力を上昇させます。
+PROPSKILL_TXT_000107,Increases the target's Defense and Magic Resistance.,対象を目に見えない障壁で包み、防御力と魔法抵抗を上昇させます。
 PROPSKILL_TXT_000108,Holyguard,ホーリーガード
-PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.,一定時間、対象を目に見えない結界で包み、クリティカル耐性を上昇させます。
+PROPSKILL_TXT_000109,Protects the target from incoming critical hits for a limited time.,一定時間、対象を目に見えない結界で包み、クリティカル攻撃から守ります。
 PROPSKILL_TXT_000110,Spirit Fortune,エンチャントウェポン
 PROPSKILL_TXT_000112,Gvur Tialla,パーゲイション
 PROPSKILL_TXT_000113,Removes debuffs from the target.,聖なる力で対象の状態異常を解除します。
 PROPSKILL_TXT_000114,Geburah Tiphreth,バトルソング
-PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time.",勇壮な歌で一定範囲のパーティーメンバーの闘志を奮い立たせ、一定時間、追加ダメージを発生させ、攻撃速度を上昇させます。
+PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time.",勇壮な歌で自分と周囲のパーティメンバーの闘志を奮い立たせ、攻撃力、攻撃速度、詠唱速度を一定時間上昇させます。
 PROPSKILL_TXT_000116,Merkaba Hanzelrusha,ホーリーフィールド
-PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.,一定範囲内に神聖な結界を張り、そこに進入した敵に対して持続的ダメージを与えます。
+PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.,周囲に神聖な結界を張り、その範囲内にいる敵に持続的なダメージを与えます。
 PROPSKILL_TXT_000118,Belial Smashing,ベリアルスマッシュ
-PROPSKILL_TXT_000119,Strikes the enemy with five powerful blows.,ダッシュしながら拳に気を集中させて敵を攻撃します。
+PROPSKILL_TXT_000119,Strikes the enemy with five powerful blows.,拳に気を集中させ、敵に強力な5連撃を叩き込みます。
 PROPSKILL_TXT_000120,Piercing Serpent,ピアッシングサーペント
-PROPSKILL_TXT_000121,Fires a piercing beam at the enemy.,指先に集中させた気を放出させて、対象を中心に一定範囲の敵を攻撃します。
+PROPSKILL_TXT_000121,Fires a piercing beam at the enemy.,指先に集中させた気を光線のように放ち、敵を貫く一撃を与えます。
 PROPSKILL_TXT_000122,Blood Fist,ブラッドフィスト
-PROPSKILL_TXT_000123,Strikes the enemy with a heavy blow that causes bleeding.,敵の急所を突いて出血させて、持続的なダメージを与えます。
+PROPSKILL_TXT_000123,Strikes the enemy with a heavy blow that causes bleeding.,敵の急所に強烈な一撃を叩き込み、出血による持続的なダメージを与えるとともに、敵の動作を鈍らせます。
 PROPSKILL_TXT_000124,Sonichand,ソニックハンド
-PROPSKILL_TXT_000125,"A fast, straight punch.",真空の刃を飛ばして敵を攻撃します。
+PROPSKILL_TXT_000125,"A fast, straight punch.",素早く拳を突き出し、真空の刃を飛ばして敵を攻撃します。
 PROPSKILL_TXT_000126,Asmodeus,アスモデウス
-PROPSKILL_TXT_000127,Enhances the power of the wielded knuckle.,ナックル系の武器を装備している際に追加攻撃力が上昇します。
+PROPSKILL_TXT_000127,Enhances the power of the wielded knuckle.,装備しているナックルに力を宿し、攻撃の威力を高めます。
 PROPSKILL_TXT_000128,Baraqijal Esna,バラキーアルエスナ
-PROPSKILL_TXT_000129,Increases damage dealt to the target while also increasing their Attack.,敵の攻撃力を上昇させる代わりに防御力を減少させます。
+PROPSKILL_TXT_000129,Increases damage dealt to the target while also increasing their Attack.,敵の攻撃力を上昇させる代わりに、その敵が受けるダメージを増加させます。
 PROPSKILL_TXT_000130,Bgvur Tialbold,グブルティアボルド
 PROPSKILL_TXT_000131,Strikes nearby enemies with an outward shockwave.,衝撃波で自分の周囲の敵にダメージを与えます。
 PROPSKILL_TXT_000132,Asalraalaikum,アッサルラアルライクム
@@ -201,7 +201,7 @@ PROPSKILL_TXT_000203,"Fires an icy projectile that explodes on impact, bursting 
 PROPSKILL_TXT_000204,Water Mastery,ウォーターマスター
 PROPSKILL_TXT_000205,Enhances the power of Water spells.,水の精霊と盟約を結び、水属性の攻撃力を強化します。
 PROPSKILL_TXT_000206,Poison Cloud,ポイズンクラウド
-PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",対象の頭上に毒雲を発生させ、周囲の敵を毒状態にして継続的にダメージを与えます。
+PROPSKILL_TXT_000207,"Summons a poisonous cloud above the target enemy, raining toxins that poison the target enemy and surrounding enemies over time.",対象の頭上に毒雲を発生させ、周囲の敵を毒状態にして持続的なダメージを与えます。
 PROPSKILL_TXT_000208,Void,ヴォイド
 PROPSKILL_TXT_000209,Creates a powerful vacuum that crushes the enemy.,強力な真空状態を作り出し、敵を押しつぶしてダメージを与えます。
 PROPSKILL_TXT_000210,Wind Mastery,ウインドマスター
@@ -261,7 +261,7 @@ PROPSKILL_TXT_000263,Strikes the enemy multiple times with the Yo-Yo.,一度の�
 PROPSKILL_TXT_000264,Hit of Penya,ヒットオブペニャ
 PROPSKILL_TXT_000265,Consumes your own Penya to strike the enemy with devastating force.,所持しているペニャを消費し、敵に強烈な一撃を与えます。
 PROPSKILL_TXT_000266,Escape,エスケープ
-PROPSKILL_TXT_000267,Removes all debuffs from yourself.,自身にかけられたすべての弱体効果(デバフ)を解除します。
+PROPSKILL_TXT_000267,Removes all debuffs from yourself.,自身にかけられたすべての状態異常(デバフ)を解除します。
 PROPSKILL_TXT_000268,Vital Stab,ヴァイタルスタブ
 PROPSKILL_TXT_000269,A surprise attack that can only be used under Dark Illusion.,ダークイリュージョン中にのみ使用でき、不意打ちで敵の急所に痛烈な一撃を与えます。
 PROPSKILL_TXT_000270,Critical Shot,クリティカルショット
@@ -314,7 +314,7 @@ PROPSKILL_TXT_000327,Reduces incoming damage by wrapping your body in tree bark.
 PROPSKILL_TXT_000328,Buff Break,バフブレーカー
 PROPSKILL_TXT_000330,Buff Break X,バフブレーカーX
 PROPSKILL_TXT_000350,Burn,バーンブレス
-PROPSKILL_TXT_000351,Damages the target continuously over time.,一定時間、対象に継続的なダメージを与えます。
+PROPSKILL_TXT_000351,Damages the target continuously over time.,一定時間、対象に持続的なダメージを与えます。
 PROPSKILL_TXT_000380,Shield Bash,シールドストライク
 PROPSKILL_TXT_000381,"Strikes the target with your shield, with a chance to stun. Requires a shield.",盾で敵を突き飛ばし、一定確率でスタンさせます。盾装備時に使用可能。
 PROPSKILL_TXT_000378,Grand Rage,グランドレイジ
@@ -322,7 +322,7 @@ PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% o
 PROPSKILL_TXT_000384,Heart of Fury,ホーリーアーマー
 PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon.,攻撃ごとに最大FPの1%を消費して戦闘能力を向上させ、最大FPの10%に相当するダメージを追加します。片手武器で使用可能。
 PROPSKILL_TXT_100000,Moon Beam,ムーンビーム
-PROPSKILL_TXT_100001,"Calls upon the moon to afflict the target, dealing damage over time and making them more susceptible to all incoming damage.",月を呼び出し、対象を弱体化させる。効果中ターゲットに与える全てのダメージが増加する。
+PROPSKILL_TXT_100001,"Calls upon the moon to afflict the target, dealing damage over time and making them more susceptible to all incoming damage.",月の力を借りて持続的なダメージを与え、さらに対象が受けるあらゆるダメージを増幅させます。
 PROPSKILL_TXT_100002,Shade's Support,シャドウサポート
 PROPSKILL_TXT_100003,Protects the monster from stun and rooting debuffs.,スタンや不動デバフからモンスターを守ります。
 PROPSKILL_TXT_100004,Shade's Boost,シェイドブースト
@@ -352,13 +352,13 @@ PROPSKILL_TXT_100027,Redirects damage taken by the target player to yourself.,�
 PROPSKILL_TXT_000392,Rending Entry,レンディングエントリ
 PROPSKILL_TXT_000393,"Blink to a target point, damaging nearby enemies with a chance to immobilize them. If an enemy is defeated by this attack, Rending Entry's cooldown is reset.",指定地点に瞬間移動し、周囲の敵にダメージを与え、一定確率で移動不能にします。この攻撃で敵を倒すと、スキルのクールダウンがリセットされます。
 PROPSKILL_TXT_000394,Barrier of Life,生命の障壁
-PROPSKILL_TXT_000395,Grants the target a barrier that causes all incoming hits to be blocked for a short duration.,ターゲットは、何があっても次のインカミングヒットをブロックします。
+PROPSKILL_TXT_000395,Grants the target a barrier that causes all incoming hits to be blocked for a short duration.,対象を聖なる守護の力で包み、一定時間すべての攻撃をブロックします。
 PROPSKILL_TXT_000430,Gravity Well,グラビティウェル
 PROPSKILL_TXT_000431,Creates a gravity well at a target point that greatly slows enemies within the area.,指定した地点に重力場を発生させ、範囲内の敵の移動速度を大幅に低下させます。
 PROPSKILL_TXT_000440,Eye of the Storm,ストームアイ
 PROPSKILL_TXT_000441,"Summons a violent storm around you that pushes enemies back on contact, forming a barrier that prevents enemies from approaching.",自身の周囲に激しい竜巻を発生させ、敵を押し戻す結界を形成して接近を防ぎます。
-PROPSKILL_TXT_000424,Sury's Tenacity,テナシティスリーズ
-PROPSKILL_TXT_000425,"Grants immunity to crowd control and increased incoming healing, but prevents skill usage.",スキルを唱える能力を失い、入ってくる回復を増やすという犠牲を払って、群衆の制御に免疫を取ります。
+PROPSKILL_TXT_000424,Sury's Tenacity,シュリテナシティ
+PROPSKILL_TXT_000425,"Grants immunity to crowd control and increased incoming healing, but prevents skill usage.",スキルが使用できなくなる代わりに、行動を妨げる状態異常を無効化し、受ける回復効果を高めます。
 PROPSKILL_TXT_000400,Jester's Blast,ジェスターブラスト
 PROPSKILL_TXT_000401,"Plants a time bomb on the target enemy that explodes after a short delay, damaging the target enemy and surrounding enemies. Recasting the skill on the same target triggers an early detonation with reduced damage and range.",敵に時限爆弾を仕掛け、一定時間後に周囲を巻き込んで爆発させます。同じ敵に再使用すると即座に爆発しますが、威力と範囲が減少します。
 PROPSKILL_TXT_000402,Boomburst,ブームバースト
@@ -533,8 +533,8 @@ PROPSKILL_TXT_150026,Shadow Strike,シャドウストライク
 PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,透明化状態で敵の背後から攻撃すると、追加ダメージを与えます。
 PROPSKILL_TXT_150028,Agility,アジリティ
 PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibility.,透明化状態が解除されると、一定時間、移動速度が上昇します。
-PROPSKILL_TXT_150030,Concentration [Nen],Concentration [Nen]
-PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.
+PROPSKILL_TXT_150030,Concentration [Nen],コンセントレイト
+PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,精神を集中させて[念]を獲得します。このスキルでは最大10の[念]を蓄積でき、その効果は蓄積数に応じて高まります。
 PROPSKILL_TXT_150032,Forced Critical Hit,Forced Critical Hit
 PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,Your next auto attack is guaranteed to be a critical hit.
 PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.","Your critical chance is capped at 10%, while greatly increasing critical damage."
@@ -702,7 +702,7 @@ PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,Asylum Boss Incoming Curse
 PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.
 PROPSKILL_TXT_140064,Trap: Debuff,トラップ：スロウ
 PROPSKILL_TXT_140065,Deploy a trap that deals damage with a 15% chance to slow down targets.,ダメージを与え、15%の確率で敵の移動速度を下げるトラップを設置します。
-PROPSKILL_TXT_140066,Pit,罠
+PROPSKILL_TXT_140066,Pit,捕縛
 PROPSKILL_TXT_140067,You have stepped on a trap.,トラップを踏んだ状態です。
 PROPSKILL_TXT_140068,Proficient Traps,Proficient Traps
 PROPSKILL_TXT_140069,Crowd Controller,Crowd Controller
@@ -796,95 +796,95 @@ PROPSKILL_TXT_150215,Master of Axe,アックスマスター
 PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,スレイヤースキルのダメージが増加し、ブロック率と命中率が上昇します。装備中の斧の本数に応じて効果が上昇します。
 PROPSKILL_TXT_150217,Survival Stance,Survival Stance
 PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,Enhance your defense shortly after being affected by a disable or immobility type debuff.
-PROPSKILL_TXT_150219,Blessing of the Wise,Blessing of the Wise
-PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on nearby allies.","Perform a blessing to remove ""disable"" type debuffs on nearby allies."
+PROPSKILL_TXT_150219,Blessing of the Wise,ブレスワイズ
+PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on nearby allies.",聖なる祝福を与え、周囲の味方にかかった妨害系の状態異常を解除します。
 PROPSKILL_TXT_150221,Stun Resistance,Stun Resistance
 PROPSKILL_TXT_150222,DoT Resistance,DoT Resistance
 PROPSKILL_TXT_150223,Area Increase,Area Increase
-PROPSKILL_TXT_150224,Soul of Rhisis,Soul of Rhisis
-PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
+PROPSKILL_TXT_150224,Soul of Rhisis,ソウルオブリシス
+PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",聖歌を唱え、自分を含む周囲の味方が受けるダメージを軽減します。詠唱中に他のスキルを使うと中断され、唱え続けるほど効果が高まります。
 PROPSKILL_TXT_150226,Effect Increase,Effect Increase
 PROPSKILL_TXT_150228,Duration Increase,Duration Increase
-PROPSKILL_TXT_150229,Celestial Barrier,Celestial Barrier
-PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150234,Heaven's Step,Heaven's Step
-PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150239,Gloria Patri,Gloria Patri
-PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150244,Kyrie Eleison,Kyrie Eleison
-PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting."
-PROPSKILL_TXT_150249,Flow of Salvation,Flow of Salvation
-PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise."
+PROPSKILL_TXT_150229,Celestial Barrier,セレスティバリア
+PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",聖歌を唱え、自分を含む周囲の味方の属性抵抗を高めます。詠唱中に他のスキルを使うと中断され、唱え続けるほど効果が高まります。
+PROPSKILL_TXT_150234,Heaven's Step,ヘブンズステップ
+PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",聖歌を唱え、自分を含む周囲の味方の回避率とブロック率を上昇させます。詠唱中に他のスキルを使うと中断され、唱え続けるほど効果が高まります。
+PROPSKILL_TXT_150239,Gloria Patri,グロリア･パトリ
+PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",聖歌を唱え、自分を含む周囲の味方のHPを一定間隔で回復します。詠唱中に他のスキルを使うと中断され、唱え続けるほど効果が高まります。
+PROPSKILL_TXT_150244,Kyrie Eleison,キリエ･エレイソン
+PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",聖歌を唱え、自分を含む周囲の味方の攻撃力、魔法攻撃力、状態異常短縮の効果を高めます。詠唱中に他のスキルを使うと中断され、唱え続けるほど効果が高まります。
+PROPSKILL_TXT_150249,Flow of Salvation,サルベーションフロー
+PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.",救済の力を対象に注ぎ込み、味方のHPを回復し、敵にはダメージを与えます。その効果は周囲の対象へと連鎖します。
 PROPSKILL_TXT_150251,Increased Healing,Increased Healing
 PROPSKILL_TXT_150253,Increased Chain,Increased Chain
-PROPSKILL_TXT_150254,Hymn - Damage Reduction,Hymn - Damage Reduction
-PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.","While a hymn is being chanted, gain extra damage reduction for yourself."
-PROPSKILL_TXT_150256,Hymn - Perfect Performance,Hymn - Perfect Performance
-PROPSKILL_TXT_150257,Hymns that are chanted to completion will have their cooldowns reduced.,Hymns that are chanted to completion will have their cooldowns reduced.
-PROPSKILL_TXT_150258,Hymn - Quick Step,Hymn - Quick Step
-PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.","While a hymn is being chanted, walking speed is increased."
-PROPSKILL_TXT_150260,Hymn - Liberation,Hymn - Liberation
-PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,Allow other hymn skills to be chanted at the same time.
-PROPSKILL_TXT_150262,Nen Overflow,Nen Overflow
-PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.","Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow."
+PROPSKILL_TXT_150254,Hymn - Damage Reduction,聖歌 (ダメージ減)
+PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.",聖歌の詠唱中、自身へのダメージをさらに軽減します。
+PROPSKILL_TXT_150256,Hymn - Perfect Performance,聖歌 (完全詠唱)
+PROPSKILL_TXT_150257,Hymns that are chanted to completion will have their cooldowns reduced.,聖歌を最後まで詠唱すると、そのスキルのクールタイムが短縮されます。
+PROPSKILL_TXT_150258,Hymn - Quick Step,聖歌 (移動速度)
+PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.",聖歌の詠唱中、移動速度が上昇します。
+PROPSKILL_TXT_150260,Hymn - Liberation,聖歌 (解放)
+PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,聖歌の詠唱中に、ほかの聖歌スキルも同時に詠唱できるようになります。
+PROPSKILL_TXT_150262,Nen Overflow,ネンオーバーフロー
+PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overflow, certain skills Nen Enhancement variations will be used. Nen cannot be gained while in Nen overflow.",蓄積した[念]をすべて解き放ち、覚醒状態になります。一部のスキルに[念強化]の効果が適用されますが、効果中は[念]を獲得できません。
 PROPSKILL_TXT_150264,Form Enhancement,Form Enhancement
 PROPSKILL_TXT_150265,Mind Enhancement,Mind Enhancement
 PROPSKILL_TXT_150266,Aura Enhancement,Aura Enhancement
 PROPSKILL_TXT_150267,MP Retention,MP Retention
 PROPSKILL_TXT_150268,Nen Afterimage,Nen Afterimage
-PROPSKILL_TXT_150270,Power Palm,Power Palm
-PROPSKILL_TXT_150271,"Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times.","Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times."
+PROPSKILL_TXT_150270,Power Palm,パワーパーム
+PROPSKILL_TXT_150271,"Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times.",敵に掌打を放ち、[念]を獲得します。\n\n[念強化]：一定確率で敵をノックダウンさせます。フォースグリップの効果中に使用すると、連続攻撃になります。
 PROPSKILL_TXT_150272,Nen Mastery,Nen Mastery
 PROPSKILL_TXT_150273,Increased Effect,Increased Effect
-PROPSKILL_TXT_150275,Initiating Strike,Initiating Strike
-PROPSKILL_TXT_150276,"Attack your enemy using a strike. If the target is currently knocked down, you will dash forward to quickly close the gap. \n\n[Nen Enhancement]: Grants you tenacity when used.","Attack your enemy using a strike. If the target is currently knocked down, you will dash forward to quickly close the gap. \n\n[Nen Enhancement]: Grants you tenacity when used."
+PROPSKILL_TXT_150275,Initiating Strike,イニシエイトストライク
+PROPSKILL_TXT_150276,"Attack your enemy using a strike. If the target is currently knocked down, you will dash forward to quickly close the gap. \n\n[Nen Enhancement]: Grants you tenacity when used.",敵に打撃を与えます。敵がノックダウン中の場合、素早く接近して攻撃します。\n\n[念強化]：状態異常の短縮効果を獲得します。
 PROPSKILL_TXT_150277,Nen Mastery,Nen Mastery
 PROPSKILL_TXT_150278,Nen Enhancement,Nen Enhancement
-PROPSKILL_TXT_150280,Staggering Strike,Staggering Strike
-PROPSKILL_TXT_150281,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.
+PROPSKILL_TXT_150280,Staggering Strike,スタッガーストライク
+PROPSKILL_TXT_150281,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.,敵単体を攻撃し、一定確率でノックダウンさせます。\n\n[念強化]：ブロック率が上昇します。
 PROPSKILL_TXT_150282,Increased Knockdown Chance,Increased Knockdown Chance
 PROPSKILL_TXT_150283,Leg Attack,Leg Attack
-PROPSKILL_TXT_150285,Force Grip,Force Grip
-PROPSKILL_TXT_150286,"Grab the target, restraining both of you from moving, attacking, or using skills. \n\n[Nen Enhancement]: Allows skill usage while restraining the target.","Grab the target, restraining both of you from moving, attacking, or using skills. \n\n[Nen Enhancement]: Allows skill usage while restraining the target."
+PROPSKILL_TXT_150285,Force Grip,フォースグリップ
+PROPSKILL_TXT_150286,"Grab the target, restraining both of you from moving, attacking, or using skills. \n\n[Nen Enhancement]: Allows skill usage while restraining the target.",敵をつかんで拘束し、自分と相手の移動、攻撃、スキル使用を封じます。\n\n[念強化]：相手を拘束したままスキルを使用できます。
 PROPSKILL_TXT_150287,Diamond Body,Diamond Body
 PROPSKILL_TXT_150288,Group Binding,Group Binding
-PROPSKILL_TXT_150290,Nen Sphere,Nen Sphere
-PROPSKILL_TXT_150291,Focus your mind to launch a damaging orb towards your target.,Focus your mind to launch a damaging orb towards your target.
+PROPSKILL_TXT_150290,Nen Sphere,ネンスフィア
+PROPSKILL_TXT_150291,Focus your mind to launch a damaging orb towards your target.,精神を集中させ、[念]を込めた球状のエネルギーを敵に放ち、ダメージを与えます。
 PROPSKILL_TXT_150292,Continuous Shooting,Continuous Shooting
 PROPSKILL_TXT_150293,Nen Mastery,Nen Mastery
-PROPSKILL_TXT_150295,Aura Bomb,Aura Bomb
-PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.","Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage."
+PROPSKILL_TXT_150295,Aura Bomb,オーラボム
+PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.", 周囲のエネルギーを時間をかけて集め、指定範囲に放って大ダメージを与えます。
 PROPSKILL_TXT_150297,Casting Time Reduction,Casting Time Reduction
 PROPSKILL_TXT_150298,Range Enhancement,Range Enhancement
-PROPSKILL_TXT_150300,Enlightenment,Enlightenment
-PROPSKILL_TXT_150301,Increases knuckle damage.,Increases knuckle damage.
+PROPSKILL_TXT_150300,Enlightenment,エンライトメント
+PROPSKILL_TXT_150301,Increases knuckle damage.,ナックルのダメージを増加させます。
 PROPSKILL_TXT_150302,Quick Movement,Quick Movement
 PROPSKILL_TXT_150303,Critical Damage,クリティカルダメージ
 PROPSKILL_TXT_150304,Knuckle Power,Knuckle Power
-PROPSKILL_TXT_150305,Bubble's Blessing,Bubble's Blessing
-PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.
+PROPSKILL_TXT_150305,Bubble's Blessing,バブルの祝福
+PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,味方のクリティカルダメージと攻撃力を高めるオーラを展開します。再使用で解除できます。
 PROPSKILL_TXT_150309,Range Extension,Range Extension
-PROPSKILL_TXT_150310,Touch of Rhisis,Touch of Rhisis
-PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.
-PROPSKILL_TXT_150315,Ire of Iblis,Ire of Iblis
-PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.
-PROPSKILL_TXT_150320,Meditate,Meditate
-PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.","Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel."
+PROPSKILL_TXT_150310,Touch of Rhisis,リシスの加護
+PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,周囲の味方の防御力と受ける回復効果を高めます。ほかのオーラとは併用できず、再使用で解除できます。
+PROPSKILL_TXT_150315,Ire of Iblis,イブリスの怒り
+PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,味方のクリティカル耐性を高めるオーラを展開します。再使用で解除できます。
+PROPSKILL_TXT_150320,Meditate,メディテイト
+PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.",瞑想状態に入り、受けるダメージを減少させます。さらに、HP自然回復の間隔を短縮し、受ける回復効果を高めます。再使用で解除できます。
 PROPSKILL_TXT_150322,Deep Meditation,Deep Meditation
 PROPSKILL_TXT_150323,Adamantine Body,Adamantine Body
 PROPSKILL_TXT_150324,Nen Mastery,Nen Mastery
-PROPSKILL_TXT_150325,Nen Storage,Nen Storage
-PROPSKILL_TXT_150326,Nen-consuming skills may consume only half the required stacks.,Nen-consuming skills may consume only half the required stacks.
+PROPSKILL_TXT_150325,Nen Storage,ネンストレージ
+PROPSKILL_TXT_150326,Nen-consuming skills may consume only half the required stacks.,[念]を消費するスキルを、通常の半分の[念]で使用できる確率が上昇します。
 PROPSKILL_TXT_150327,Mental Unity,Mental Unity
 PROPSKILL_TXT_150328,Reduces the maximum MP penalty from Nen stacks.,Reduces the maximum MP penalty from Nen stacks.
-PROPSKILL_TXT_150329,Clear Reflection,Clear Reflection
-PROPSKILL_TXT_150330,"When Nen charge reaches 20, your critical hits will be more lucky, always dealing maximum damage at maximum level.","When Nen charge reaches 20, your critical hits will be more lucky, always dealing maximum damage at maximum level."
-PROPSKILL_TXT_150331,Tenacity,Tenacity
-PROPSKILL_TXT_150332,Debuffs applied on you do not last as long.,Debuffs applied on you do not last as long.
-PROPSKILL_TXT_150333,Marked Attack,Marked Attack
-PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.
-PROPSKILL_TXT_150335,Nen Acquisition,Nen Acquisition
-PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,Increases your chance to gain an additional Nen stack when using Concentration.
+PROPSKILL_TXT_150329,Clear Reflection,クリアリフレクション
+PROPSKILL_TXT_150330,"When Nen charge reaches 20, your critical hits will be more lucky, always dealing maximum damage at maximum level.",[念]が20に達すると、クリティカルヒットで高いダメージが出やすくなり、最大スキルレベルでは常に最大ダメージを与えるようになります。
+PROPSKILL_TXT_150331,Tenacity,テナシティ
+PROPSKILL_TXT_150332,Debuffs applied on you do not last as long.,自身が受ける状態異常の持続時間を短縮します。
+PROPSKILL_TXT_150333,Marked Attack,マークアタック
+PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,同じ敵に通常攻撃を5回当てると、追加ダメージを与え、[念]を1つ獲得します。
+PROPSKILL_TXT_150335,Nen Acquisition,ネンアクワイア
+PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,コンセントレイト使用時、追加で[念]を獲得する確率が上昇します。
 PROPSKILL_TXT_150337,Toxic Assault,トキシックアサルト
 PROPSKILL_TXT_150338,Perform a multi-hit combo on the target. Each hit has a chance to inflict poison.,敵に連続攻撃を繰り出し、攻撃が命中するたびに一定確率で毒状態にします。
 PROPSKILL_TXT_150339,Increased Chance,Increased Chance
@@ -1037,15 +1037,15 @@ PROPSKILL_TXT_150500,Casts an aura that reduces movement speed but increases all
 PROPSKILL_TXT_150501,Casts an aura that reduces the caster's movement speed while increasing allies’ magic attack and critical damage.,Casts an aura that reduces the caster's movement speed while increasing allies’ magic attack and critical damage.
 PROPSKILL_TXT_150502,"Casts an aura that greatly reduces movement speed but increases allies’ damage reduction, critical resistance, and element resistance. Cannot be used with other auras at the same time.","Casts an aura that greatly reduces movement speed but increases allies’ damage reduction, critical resistance, and element resistance. Cannot be used with other auras at the same time."
 PROPSKILL_TXT_150503,Casts an aura that greatly reduces movement speed but increases allies’ damage reduction and critical resistance. Cannot be used with other auras at the same time.,Casts an aura that greatly reduces movement speed but increases allies’ damage reduction and critical resistance. Cannot be used with other auras at the same time.
-PROPSKILL_TXT_150504,Sacrifice,Sacrifice
-PROPSKILL_TXT_150505,"Consume HP to grant a shield to party members proportional to your HP. If used while a hymn is active, the shield amount is increased by up to 15%.","Consume HP to grant a shield to party members proportional to your HP. If used while a hymn is active, the shield amount is increased by up to 15%."
+PROPSKILL_TXT_150504,Sacrifice,サクリファイス
+PROPSKILL_TXT_150505,"Consume HP to grant a shield to party members proportional to your HP. If used while a hymn is active, the shield amount is increased by up to 15%.",HPを消費し、使用者のHPに応じたシールドをパーティメンバーに付与します。聖歌の効果中に使用すると、シールド量が最大15%増加します。
 PROPSKILL_TXT_150506,Meaning of Sacrifice,Meaning of Sacrifice
 PROPSKILL_TXT_150507,Greater sacrifice for greater shields.,Greater sacrifice for greater shields.
 PROPSKILL_TXT_150508,Sacrifice of Sharing,Sacrifice of Sharing
 PROPSKILL_TXT_150509,Gain shields yourself as well.,Gain shields yourself as well.
 PROPSKILL_TXT_150510,Increased MP/FP Recovery,Increased MP/FP Recovery
-PROPSKILL_TXT_150511,Hammer of Judgement,Hammer of Judgement
-PROPSKILL_TXT_150512,"Summon a hammer from the skies, leaving a damaging area behind.","Summon a hammer from the skies, leaving a damaging area behind."
+PROPSKILL_TXT_150511,Hammer of Judgement,ジャッジメントハンマー
+PROPSKILL_TXT_150512,"Summon a hammer from the skies, leaving a damaging area behind.",天空から巨大なハンマーを召喚し、着弾地点の周囲に持続的なダメージを与えます。
 PROPSKILL_TXT_150513,Justice Hammer,Justice Hammer
 PROPSKILL_TXT_150514,Sanctuary Area,Sanctuary Area
 PROPSKILL_TXT_150515,Entangling Roots,エンタングルーツ
@@ -1110,7 +1110,7 @@ PROPSKILL_TXT_150573,Damage against enemies with Disable type debuffs is increas
 PROPSKILL_TXT_150574,Damage against enemies with Weaken type debuffs is increased.,弱体系デバフが付与された敵へのダメージが増加します。
 PROPSKILL_TXT_150575,Damage taken from enemies with debuffs is decreased.,デバフが付与された敵から受けるダメージが減少します。
 PROPSKILL_TXT_150576,"When fully charged, target will be slept.","When fully charged, target will be slept."
-PROPSKILL_TXT_150577,"A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire.",前方に地獄の業火を放ち、炎に巻き込まれた敵に継続的なダメージを与えます。
+PROPSKILL_TXT_150577,"A blast of hellfire shoots in front of you, dealing tick damage while burning enemies in the line of fire.",前方に地獄の業火を放ち、炎に巻き込まれた敵に持続的なダメージを与えます。
 PROPSKILL_TXT_150578,The hymn's effects are increased.,The hymn's effects are increased.
 PROPSKILL_TXT_150579,Healing is increased.,Healing is increased.
 PROPSKILL_TXT_150580,The skill also heals MP and FP on allies.,The skill also heals MP and FP on allies.
@@ -1142,10 +1142,10 @@ PROPSKILL_TXT_150605,"Base damage is increased, but scaling is reduced.","Base d
 PROPSKILL_TXT_150606,Increased Lifesteal,Increased Lifesteal
 PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%.,Health stolen in enhanced effect is increased by 10%.
 PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,Chance to gain an extra Stigma stack.
-PROPSKILL_TXT_150609,Nen Release,Nen Release
-PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,Remove all your Nen stacks at a cost of power.
-PROPSKILL_TXT_150611,Divinecross,Divinecross
-PROPSKILL_TXT_150612,"Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again.","Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again."
+PROPSKILL_TXT_150609,Nen Release,ネンリリース
+PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,力を代償にして、蓄積した[念]をすべて取り除きます。
+PROPSKILL_TXT_150611,Divinecross,ディバインクロス
+PROPSKILL_TXT_150612,"Curse your target with divine power, recording the highest hit taken and replicating up to 75% of it upon expiry. This debuff can be expired early if pressed again.",神聖な力で対象を呪い、効果中に対象が受けた最大ダメージを記録し、効果終了時にその最大75%の一撃を与えます。再使用すると即座にダメージが発生します。
 PROPSKILL_TXT_150613,Increased Multiplier,Increased Multiplier
 PROPSKILL_TXT_150614,Reduced PvP Cooldown,Reduced PvP Cooldown
 PROPSKILL_TXT_150615,Cooldown is reduced in PvP.,Cooldown is reduced in PvP.
@@ -1153,11 +1153,11 @@ PROPSKILL_TXT_150616,Up to 100% of the recorded hit is replicated.,Up to 100% of
 PROPSKILL_TXT_150617,First Player Level 190 Buff,First Player Level 190 Buff
 PROPSKILL_TXT_150618,Enjoy Exp+15% until level 164!,Enjoy Exp+15% until level 164!
 PROPSKILL_TXT_150619,Stun duration is increased.,Stun duration is increased.
-PROPSKILL_TXT_150620,Increases the target's damage.,Increases the target's damage.
+PROPSKILL_TXT_150620,Increases the target's damage.,対象が与えるダメージを増加させます。
 PROPSKILL_TXT_150621,Strikes the enemy and drains HP based on the damage dealt.,敵を攻撃し、与えたダメージに応じてHPを吸収します。
 PROPSKILL_TXT_150622,A ranged wind attack that may reduce the enemy's Attack Speed and Casting Speed.,風による遠距離攻撃を行い、一定確率で対象の攻撃速度と詠唱速度を低下させます。
 PROPSKILL_TXT_150623,"Curses the enemy, immobilizing them with dark magic.",闇の魔法で敵に呪いをかけ、移動できなくします。
-PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,範囲内の敵に継続的にダメージを与えます。
+PROPSKILL_TXT_150624,Deals damage over time to enemies within the area.,範囲内の敵に持続的なダメージを与えます。
 PROPSKILL_TXT_150625,Burn Damage,燃焼ダメージ
 PROPSKILL_TXT_150626,Lord's Cheer,Lord's Cheer
 PROPSKILL_TXT_150627,Increases the experience and drop rate for yourself or one target.,Increases the experience and drop rate for yourself or one target.
