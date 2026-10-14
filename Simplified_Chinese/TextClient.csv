@@ -988,7 +988,7 @@ TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_5,Costume is already used.,该服装已�
 TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_6,Achievement collection error 06.,成就收集错误06.
 TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_7,Achievement collection error 07.,成就收集错误07.
 TEXTCLIENT_ACHIEVEMENT_COLLECTIONSUCCESS,Costumes successfully submitted.,时装已成功登记。
-TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""","你已达到 %d - ""%s"""
+TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""","你已达到第 %d 阶段 - ""%s"""
 TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,您的消息超过了最大长度限制。
 TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,你无法在角色被固定时传送。
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,您必须达到 %d 级才能交易高级道具。
