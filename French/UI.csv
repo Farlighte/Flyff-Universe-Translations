@@ -2743,8 +2743,8 @@ UI_LIFE_CRAFT_STOP,Stop,Stop
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% de réduction appliquée)
 UI_LIFE_CRAFT_RESET,Reset,Reset
 UI_LIFE_CRAFT_COUNT,Crafts: %d,Confections : %d
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,"Lancer la production ? Elle peut être arrêtée à tout moment afin de récupérer les ingrédients des confections non terminées.\n\n#cffffc000Temps de production : %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,"Lancer la production ? Elle peut être arrêtée à tout moment afin de récupérer les ingrédients des confections non terminées.\n\n#cffffc000Temps de production : %s~%s#nc"
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,Lancer la production ? Elle peut être arrêtée à tout moment afin de récupérer les ingrédients des confections non terminées.\n\n#cffffc000Temps de production : %s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,Lancer la production ? Elle peut être arrêtée à tout moment afin de récupérer les ingrédients des confections non terminées.\n\n#cffffc000Temps de production : %s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Minage. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Coupe de bois. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Pêche. #cffc32f07#b%d/%d#nb#nc
@@ -3505,4 +3505,3 @@ UI_ZD_DEFENSE_SUCCESSFUL,Defense Successful!,Défense réussie !
 UI_ZD_DEFENSE_FAILED,Defense Failed!,Défense échouée !
 UI_ZD_REWARD_PICKUP,Pick up your reward at the house!,Récupérez votre récompense à la maison !
 UI_ZD_RETURN_COUNT,Returning to town in: %d seconds,Retour en ville dans : %d seconde(s)
-

@@ -1811,10 +1811,10 @@ PROPQUEST_INC_110293,Cooking Class,烹饪课程
 PROPQUEST_INC_110294,Food is the basic of survival. Why don't you cook on your own?,食物是生存的根本。你何不自己下厨试试？
 PROPQUEST_INC_110295,Good. Try anything on the oven nearby. Oven is near the food shop.,好的。用附近的烤炉随便试试吧。烤炉就在餐饮店旁边。
 PROPQUEST_INC_110296,Carpentry Class,木工课程
-PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpenting?,你可以用木材制作家具。想学习木工吗？
-PROPQUEST_INC_110298,"Okay, try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.",好的，用附近的木工工具随便试试吧。木工工具就在房屋管理员旁边。
+PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpentry?,你可以用木材制作家具。想学习木工吗？
+PROPQUEST_INC_110298,"Okay, try anything on the woodworking tools nearby. The woodworking tools are near the Housing Manager.",好的，用附近的木工工具随便试试吧。木工工具就在房屋管理员旁边。
 PROPQUEST_INC_110299,Smithing Class,锻造课程
-PROPQUEST_INC_110300,You can make furniture out of wood. Would you like to learn carpenting?,你可以用金属锻造装备。想学习锻造吗？
+PROPQUEST_INC_110300,You can create various accessories. Would you like to learn smithing?,你可以用金属锻造装备。想学习锻造吗？
 PROPQUEST_INC_110301,"Okay, try anything at the nearest crafting tool. The tools are near the jewelry.",好的，用最近的加工工具随便试试吧。工具就在首饰店旁边。
 PROPQUEST_INC_132091,Destroy the pumpkins 1,摧毁南瓜 1
 PROPQUEST_INC_132092,Complete the mission.,完成任务。
@@ -1833,7 +1833,7 @@ PROPQUEST_INC_110304,"Go out into the field and try to dig some. It will be a gr
 PROPQUEST_INC_110305,"Go to the nearest river and try fishing. Whether you succeed or fail, it'll help you a lot.",去附近的河边钓鱼试试吧。无论成败，都会对你大有裨益。
 PROPQUEST_INC_110306,Try anything on the caldron nearby. Caldron is near the magic shop.,去旁边的大锅那里试试吧，大锅就在魔法商店附近。
 PROPQUEST_INC_110307,Try anything on the oven nearby. Oven is near the food shop.,用附近的烤炉随便试试吧。烤炉就在餐饮店旁边。
-PROPQUEST_INC_110308,Try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.,用附近的木工工具随便试试吧。木工工具就在房屋管理员旁边。
+PROPQUEST_INC_110308,Try anything on the woodworking tools nearby. The woodworking tools are near the Housing Manager.,用附近的木工工具随便试试吧。木工工具就在房屋管理员旁边。
 PROPQUEST_INC_110309,Try anything at the nearest crafting tool. The tools are near the jewelry.,用最近的加工工具随便试试吧。工具就在首饰店旁边。
 PROPQUEST_INC_110310,Hero Grade (2),英雄品级 (2)
 PROPQUEST_INC_110311,I need you to reach level 140 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,我需要你升到140 级，并带来 $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$。只有真正的英雄才能做到！
@@ -1937,7 +1937,7 @@ PROPQUEST_INC_132193,"Excellent! The analysis should reveal invaluable informati
 PROPQUEST_INC_132194,"Really? You’re choosing not to follow up on this? Dr. Estly’s analysis could be the key to understanding Herneos and possibly even stopping Shade. But if you won’t go, we’ll have to hope someone else steps up to the task.",不是吧？你打算就此放弃跟进？依斯特里博士的分析，很可能就是洞悉赫尼奥斯、甚至阻止谢莉德的关键。但如果你不愿前往，我们也只能寄希望于其他人来承担这项使命了。
 PROPQUEST_INC_132195,"You haven’t visited Dr. Estly yet? The analysis of the water might hold crucial answers about Herneos! Time is ticking, and we need that information to understand what Shade might be planning. Please, head to him as soon as possible.",你还没去找埃斯特利博士吗？对水质的分析很可能包含着关于赫尼奥斯的关键答案！时间紧迫，我们需要这份情报来判断谢莉德的阴谋。拜托你，尽快去找他。
 PROPQUEST_INC_132196,"The analysis is complete, but... (annoyed look)",分析已经完成了，只是……（面露不悦）
-PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to her as soon as you can!",是时候回去找依斯特里博士了。分析现在应该已经结束了，有了它，我们或许终于能查明赫尼奥斯的真相。尽快回到她那里去！
+PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to him as soon as you can!",是时候回去找依斯特里博士了。分析现在应该已经结束了，有了它，我们或许终于能查明赫尼奥斯的真相。尽快回到她那里去！
 PROPQUEST_INC_132198,A rumor says a great reward awaits you... Go speak to the mayor of Flarine!    ,传闻有一份丰厚的奖励正等着你…… 去和帕里市长谈谈吧！
 PROPQUEST_INC_132199,That's awesome! Hurry and go see the mayor!,太棒了！赶紧去见市长吧！
 PROPQUEST_INC_132200,"What do you mean, no?! You've already done everything.. You just need to claim your reward from the mayor of Flarine!",什么叫不用了？！所有事情你都已经完成了…… 你只需要去帕里城市长那里领取你的奖励就好！
@@ -2763,19 +2763,19 @@ PROPQUEST_INC_155001,Chapter Ex) Dungeon,外传篇 - 泥土下的世界
 PROPQUEST_INC_155002,Something Is Very Wrong with the Plants,植物有些非常不对劲
 PROPQUEST_INC_155003,"Something's wrong in the fields. Farmers are panicking, claiming crops are walking around and attacking them.",农田里出事了！农户们惊慌失措，说庄稼会自己走动，还会攻击人！
 PROPQUEST_INC_155004,"Rumors are spreading faster than weeds, and I don't like rumors.",流言传得比野草还快，而我不喜欢流言......
-PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. He hasn't returned from the fields. He must know something.",这场令人作呕的战争总算要结束了，我不会让这种传言拖垮我们！去找娅苗，娅苗还没从田里回来，一定知道些什么。
+PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. She hasn't returned from the fields. She must know something.",这场令人作呕的战争总算要结束了，我不会让这种传言拖垮我们！去找娅苗，娅苗还没从田里回来，一定知道些什么。
 PROPQUEST_INC_155006,"Good. Keep your eyes open and your weapon ready.\nIf this is just rotten soil, fine. If it's something worse, I want to know immediately.",很好。睁大眼睛，备好武器。\n如果只是土壤腐坏，那还好。如果是更糟的东西，我得立刻查明！
 PROPQUEST_INC_155007,"Hmph. I won't force you.\nBut if this turns into a real problem, the village could be in danger.",哼。我不会强迫你。\n但如果这事真闹大了，村庄可能会有危险！
 PROPQUEST_INC_155008,"O-oh! You're from the guard, r-right?\nI-I swear, it's not just bad farming! The mushrooms just... changed.\nS-something's not right, I'm telling you...",啊-啊！你是卫队的人，对-对吧？\n我-我发誓，这不只是种坏了！蘑菇不知怎的就……变了。\n一定有-有什么不对劲，我说真的……
 PROPQUEST_INC_155009,You can reach the farm through that portal over there.\nFind out what's happening. Worry won't fix this answers will.,从那边的传送门就能直达农场。\n去查明发生了什么。光担心解决不了问题，找到答案才能。
-PROPQUEST_INC_155010,Go find Sprout. He hasn't returned from the fields he must know something.,去找娅苗。娅苗还没从田里回来，一定知道些什么。
+PROPQUEST_INC_155010,Go find Sprout. She hasn't returned from the fields. She must know something.,去找娅苗。娅苗还没从田里回来，一定知道些什么。
 PROPQUEST_INC_155011,Sprout Has a Bad Feeling About This,娅苗有种不祥的预感
 PROPQUEST_INC_155012,P-please help me! I-I can't go back to the village like this!\nWh-what if those things show up again? I-I won't make it on my own...,求-求你帮帮我！我-我不能就这样回村子里去！\n万-万一那些东西又出现了怎么办？我-我一个人撑不下去……
 PROPQUEST_INC_155013,"R-really? You'll walk with me?\nTh-thank you... j-just stay close, okay? The portal's right over there...",真-真的吗？你愿意带我走？\n谢-谢谢你……就-就别离开我，好吗？传送门就在那边……
 PROPQUEST_INC_155014,O-oh... I s-see...\nI-I guess I'll j-just... hide here until something eats me...,哦-哦……我-我明白了……\n我-我想我-我就……躲在这里，直到被什么东西吃掉吧……
 PROPQUEST_INC_155015,"P-please don't leave me behind...\nI-I can see the portal, b-but my legs won't move...",求-求你别丢下我……\n我-我能看见传送门，可-可是我的腿动不了……
 PROPQUEST_INC_155016,"You made it back safely... good.\nSprout, take a breath. Now tell me everything, slowly.",你平安回来了……很好。\n娅苗，喘口气。现在把一切慢慢告诉我。
-PROPQUEST_INC_155017,Rescue Sprout and escort him back to the portal.,救出娅苗，并护送他回到传送门。
+PROPQUEST_INC_155017,Rescue Sprout and escort her back to the portal.,救出娅苗，并护送他回到传送门。
 PROPQUEST_INC_155018,"Noises, Nightmares, and a Bad Hunch",声响、噩梦与不祥的预感
 PROPQUEST_INC_155019,"I've heard enough. Strange noises at night, farmers too afraid to sleep and now they're seeing crops that move and attack.",我听够了！夜里传来的奇怪声响，搞得农户们吓得不敢睡觉......现在大伙又说看见了会走动、会攻击人的庄稼。
 PROPQUEST_INC_155020,This isn't a coincidence. Something is stirring out there.,这不是巧合。外面有什么东西在蠢蠢欲动。
@@ -2854,7 +2854,7 @@ PROPQUEST_INC_155093,"O-oh… it’s you again. I-I know I should be used to thi
 PROPQUEST_INC_155094,"Y-you’ll walk with me, r-right? Th-thank you… j-just don’t leave me behind, okay?",你-你会带我走，对-对吧？谢-谢谢你……就-就别丢下我，好吗？
 PROPQUEST_INC_155095,O-oh… I s-see… I-I guess I’ll wait here a bit longer… maybe it’ll be safer later…,哦-哦……我-我明白了……我-我想我就在这里再等一会儿吧……也许过会儿会更安全……
 PROPQUEST_INC_155096,Aah! D-don't leave me here! I-I knew this was a mistake... I-I'm going back to hide in the village b-before something eats me!,啊！别-别把我丢在这里！我-我就知道这是个错误……我-我要回村子里躲起来，趁-趁还没被什么东西吃掉！
-PROPQUEST_INC_155097,"Sprout made it back safely. Good. He’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it.",娅苗平安回来了。很好。虽然受了点惊吓，但没有受伤——这才是最重要的。你已经尽了自己的一份力。村子感激你。
+PROPQUEST_INC_155097,"Sprout made it back safely. Good. She’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it.",娅苗平安回来了。很好。虽然受了点惊吓，但没有受伤——这才是最重要的。你已经尽了自己的一份力。村子感激你。
 PROPQUEST_INC_155098,Escort Sprout safely to Baron.,护送娅苗安全抵达巴伦处。
 PROPQUEST_INC_155099,Walking with a Short Fuse,与暴脾气同行
 PROPQUEST_INC_155100,"Great. Just the person I was hoping to see. I need to get back, and I’m not in the mood to deal with trouble alone.",好啊，正想见你呢。我得回去了，可没心情一个人应付麻烦。

@@ -4597,7 +4597,7 @@ PROPITEM_TXT_012227,This stylish Soul Dancer has some wicked moves! He also foll
 PROPITEM_TXT_012654,Chameleon
 PROPITEM_TXT_012655,Chameleon follows his owner around picking up dropped items.
 PROPITEM_TXT_012986,Braaaaains
-PROPITEM_TXT_012987,"It took some elbow grease to get this little sucker in the game, but we finally got it. Hope you enjoy him as much as we do. - Raizei and Polynikes"
+PROPITEM_TXT_012987,"A cute little zombie that follows his master around, picking up dropped items."
 PROPITEM_TXT_013252,Big Red
 PROPITEM_TXT_013253,"No little Pang freshens buffs longer than Big Red. So kill a little longer, grind a little longer, hold tight a little longer. Longer with Big Red."
 PROPITEM_TXT_013254,Bone Golem
@@ -27218,6 +27218,7 @@ PROPITEM_TXT_904185,Concerned Emote
 PROPITEM_TXT_904186,Embarassed Emote
 PROPITEM_TXT_904187,Angry Emote
 PROPITEM_TXT_904188,Me Me! Emote
+PROPITEM_TXT_904189,Lie Down Emote
 PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)"
 PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.
 PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days)
@@ -32286,3 +32287,32 @@ PROPITEM_TXT_1903966,Eternal Nightmare  Weapon Set
 PROPITEM_TXT_1903967,Select which Eternal Nightmare Weapon you want to receive!
 PROPITEM_TXT_1903968,Eternal Nightmare Wings
 PROPITEM_TXT_1903969,"These tattered wings, once pure and radiant, have been twisted by nightmares, carrying their bearer through Madrigal with an eerie grace."
+PROPITEM_TXT_1903970,FWC 2026 Grand Final Coupon 1
+PROPITEM_TXT_1903971,"A package containing 5x FWC Special combo, 5x FWC 2026 Popcorn Select Box, 5x Upcut Stone and 5x Activation. All items are Soul-Linked."
+PROPITEM_TXT_1903972,FWC 2026 Grand Final Coupon 2
+PROPITEM_TXT_1903973,"A package containing 3x Scroll of Amplification ES, 2x Extra Bag (3 days), 1x Feed Bag (3 Days) and 3x Vital Drink X or Refresher Hold. All items are Soul-Linked."
+PROPITEM_TXT_1903974,FWC 2026 Grand Final Coupon 3
+PROPITEM_TXT_1903975,"A package containing 2x Bank Extra Bag (3 Days), 5x Flask Box, 1x 1 Day Scroll of Combined Party Effects, 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are Soul-Linked."
+PROPITEM_TXT_1903976,FWC 2026 Grand Final Online Coupon 1
+PROPITEM_TXT_1903977,"A package containing 10x Scroll of Return Town, 1x Scroll of Amplification ES, 5x Scroll of Velocity and 5x Balloon Select Box(6h). All items are Soul-Linked."
+PROPITEM_TXT_1903978,FWC 2026 Grand Final Online Coupon 2
+PROPITEM_TXT_1903979,"A package containing 1x Extra Bag (15 days), 1x Power Scroll, 3x FWC 2026 Popcorn Select Box and 1x Upcut Stone. All items are Soul-Linked."
+PROPITEM_TXT_1903980,FWC 2026 Grand Final Online Coupon 3
+PROPITEM_TXT_1903981,"A package containing 3x Smelting Scroll Box, 1x Stat Scroll Box and 3x Flask Box. All items are Soul-Linked."
+PROPITEM_TXT_1903982,FWC 2026 Welcome Coupon
+PROPITEM_TXT_1903983,"A package containing 1x Flyffer's Flying Select Box (15 days), 3x Power Scroll and 20x FWC Special combo. All items are Soul-Linked."
+PROPITEM_TXT_1903984,FWC 2026 Ultimate Coupon
+PROPITEM_TXT_1903985,"A package containing 2x 2026 Premium Costume Select Box, 10x Scroll of Resurrection, 15x Flask Box, 10x Power Scroll, 15x Upcut Stone, 15x Def-Upcut Stone, 10x Scroll of SProtect, 10x Scroll of AProtect, 2x Extra Bag (30 days), 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days), 1x Scroll of PickUp Range (15 Days) and 20x FWC Special combo. All items are Soul-Linked."
+PROPITEM_TXT_1903986,FWC 2026 Unique Coupon
+PROPITEM_TXT_1903987,"A package containing 1x 2026 Premium Costume Select Box, 5x Flask Box, 5x Vital Drink X or Refresher Hold, 5x Activation, 5x Power Scroll, 5x Scroll of Resurrection, 5x Scroll of SProtect, 5x Scroll of AProtect, 5x Grilled Eel, 2x Extra Bag (30 days) and 20x FWC Special combo. All items are Soul-Linked."
+PROPITEM_TXT_1903988,FWC 2026 Streamer Event Coupon 1
+PROPITEM_TXT_1903989,"A package containing 5x FWC 2026 Popcorn Select Box, 5x Potion Box, 1x Power Scroll and 1x Extra Bag (15 days). All items are Soul-Linked."
+PROPITEM_TXT_1903990,FWC 2026 Streamer Event Coupon 2
+PROPITEM_TXT_1903991,"A package containing 2x Scroll of Amplification ES, 5x FWC Special combo, 5x Scroll of Resurrection and 5x Upcut Stone. All items are Soul-Linked."
+PROPITEM_TXT_1903992,FWC 2026 Streamer Event Coupon 3
+PROPITEM_TXT_1903993,"A package containing 5x Scroll of Food Shop, 5x Activation, 4x Scroll of Amplification ES and 5x Scroll of Velocity. All items are Soul-Linked."
+PROPITEM_TXT_1903994,2026 Premium Costume Select Box
+PROPITEM_TXT_1903995,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set, Black Wedding Set, Blue Snowboarder Set and Wolf & Hunter Set Select Box. All items are Soul-Linked."
+PROPITEM_TXT_1903996,Provides a new title for your character!
+PROPITEM_TXT_1903997,Neon Pang's Best Friend Title
+PROPITEM_TXT_1903998,Master of Eternal Nightmare Title
