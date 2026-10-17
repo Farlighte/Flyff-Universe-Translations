@@ -6291,7 +6291,7 @@ PROPITEM_TXT_100050,Azure Shield,アジュールシールド
 PROPITEM_TXT_100052,Scroll of Change Pet Name,収集ペット改名の巻物
 PROPITEM_TXT_100053,A Special Scroll used to name your summoned pet. This scroll only works on pickup pets.,召喚したペットに名前を付けることが出来る巻物。この巻物は収集ペットにのみ有効です。
 PROPITEM_TXT_100054,Scroll of Guild Rejoin,ギルド再加入の巻物
-PROPITEM_TXT_100055,This Scroll resets the cooldown to join another guild.,ギルド脱退時に発生する再加入までのクールタイムがなくなる巻物
+PROPITEM_TXT_100055,This Scroll resets the cooldown to join another guild.,ギルド脱退時に発生する再加入までのクールダウンがなくなる巻物
 PROPITEM_TXT_100056,Vendor Shop,売り子ショップ
 PROPITEM_TXT_100057,This Vendor manages a Personal Shop for you! The higher your level the longer it lasts. Double click to close the Shop.,この売り子は個人商店を代行してくれます！レベルが高いほど、長持ちします。バフアイコンでダブルクリックするとショップを閉じることができます。
 PROPITEM_TXT_100058,Lightning Effect (7 days),稲妻効果(7日)
