@@ -744,7 +744,7 @@ PROPQUEST_SCENARIO_INC_002050,Deliver the pendant from Reodos to Reonan.,将吊�
 PROPQUEST_SCENARIO_INC_002132,Returning Home in Glory,荣归故里
 PROPQUEST_SCENARIO_INC_002133,"Oh, Reonan said to return to Flarine after you had completed your duties here. Do not fret about us any longer. Go see Reonan!",Oh，瑞尔南说你在这里完成任务后要返回帕里了。不需要再为我们烦恼了。去见瑞尔南吧！
 PROPQUEST_SCENARIO_INC_002134,"Thank you for your efforts in Saint City. Your name will be forever praised here. Now, hurry on your way!",感谢你对晨光的帮助。你的名字将在这里永远被赞美。现在，快点上路吧！
-PROPQUEST_SCENARIO_INC_002135,"Eh? You don't want to go back? Then, plese feel free to join the illustrious ranks of our tourist industry!",诶？你不想回去？那么，欢迎随时加入我们哦！
+PROPQUEST_SCENARIO_INC_002135,"Eh? You don't want to go back? Then, please feel free to join the illustrious ranks of our tourist industry!",诶？你不想回去？那么，欢迎随时加入我们哦！
 PROPQUEST_SCENARIO_INC_002136,"I heard of your remarkable activities at Saint City from the Mayor! I have another mission for you... but it's too early right now. Reach level 40, then I will give you the next mission.",我从市长那里听说了您在晨光镇的出色活动！我还有另一个任务要交给你…但现在还为时过早。达到40级，我会给你下一个任务。
 PROPQUEST_SCENARIO_INC_002137,Reonan is waiting for you in Flaris.,瑞尔南正在帕里等你。
 PROPQUEST_SCENARIO_INC_002138,Go to Reonan after reaching level 40.,达到40级后再去找瑞尔南吧。
@@ -1514,11 +1514,11 @@ PROPQUEST_SCENARIO_INC_002802,Kill 30 Frozen Hare Guard and 1 Frozen Hare Assass
 PROPQUEST_SCENARIO_INC_002803,Building a Weapon,打造武器
 PROPQUEST_SCENARIO_INC_002804,With the guards out of our hair we can start collecting supplies to start building a brand new weapon! ,守卫不再碍事，我们可以开始收集物资，着手打造一件全新的武器了！
 PROPQUEST_SCENARIO_INC_002805,The Enraged Yetti and Saphyryan Hounds that live in the valley below have weapons and armor we can use to forge the basis of a mechanical beast like Clockworks.,下方山谷中的暴怒怪力羊和冰封斑狼持有武器与护甲，我们可以用它们锻造出类似时空毁灭者的机械巨兽雏形。
-PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",前往下方的山谷，收集怪力羊的锤子和恶犬挽具，它们在打造时会派上用场……
+PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Wild Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",前往下方的山谷，收集怪力羊的锤子和恶犬挽具，它们在打造时会派上用场……
 PROPQUEST_SCENARIO_INC_002807,The hounds only bite a little bit...,那些猎犬只是稍微咬人而已……
 PROPQUEST_SCENARIO_INC_002808,"Yes, this will do nicely! I can start forging a new Clockworks with these materials. But there's one thing we're missing...",很好，这正合用！有了这些材料，我就能开始锻造新的时空毁灭者了。不过我们还缺一样东西……
-PROPQUEST_SCENARIO_INC_002809,Collect Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,从下方山谷的怪物身上收集怪力羊的锤子和恶犬挽具。
-PROPQUEST_SCENARIO_INC_002810,"Collect 30 Yetti Hammers from the Enraged Yetti, and 15 Hound Harness from the Saphyryan Hounds.",从暴怒怪力羊身上收集30把怪力羊的锤子，从冰封斑狼身上收集15副恶犬挽具。
+PROPQUEST_SCENARIO_INC_002809,Collect Wild Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,从下方山谷的怪物身上收集怪力羊的锤子和恶犬挽具。
+PROPQUEST_SCENARIO_INC_002810,"Collect 30 Wild Yetti Hammers from the Enraged Yetti, and 15 Hound Harnesses from the Saphyryan Hounds.",从暴怒怪力羊身上收集30把怪力羊的锤子，从冰封斑狼身上收集15副恶犬挽具。
 PROPQUEST_SCENARIO_INC_002811,Army of the Dead,亡者大军
 PROPQUEST_SCENARIO_INC_002812,"These armaments are a good foundation to work off of for now... but to bring a new Clockworks to life, we need a powerful core of energy. ",这些军备暂时是个不错的底子……但要让新的时空毁灭者获得生命，我们还需要一个强大的能量核心。
 PROPQUEST_SCENARIO_INC_002813,"When the masquerpets invaded Storm Peak, the Crystal Demon Lord led an army of undead deep within the mountains and sealed away the last known energy core produced by my people...",怪物入侵风暴之巅时，冰封恶魔领主率领一支亡者大军深入山中，将我族制造的最后一颗已知能量核心封存了起来……

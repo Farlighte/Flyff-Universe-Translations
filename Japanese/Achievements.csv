@@ -1381,3 +1381,7 @@ ACHIEVEMENT_FIRST_CHALLENGER_NAME,The First Challenger,最初の挑戦者
 ACHIEVEMENT_FIRST_CHALLENGER_DESC,Awarded to the first player to clear the dungeon.,ダンジョンを最初にクリアしたプレイヤーに授与されます。
 ACHIEVEMENT_FESTEST_CHALLENGER_NAME,The Fastest Challenger,最速の挑戦者
 ACHIEVEMENT_FESTEST_CHALLENGER_DESC,Awarded to the player who cleared the dungeon in the shortest time.,ダンジョンを最短時間でクリアしたプレイヤーに授与されます。
+ACHIEVEMENT_NEON_PANG_BEST_FRIEND_NAME,Neon Pang's Best Friend,Neon Pang's Best Friend
+ACHIEVEMENT_NEON_PANG_BEST_FRIEND_DESC,"Awarded when reaching 5,000 YouTube subscribers.","Awarded when reaching 5,000 YouTube subscribers."
+ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_NAME,Master of Eternal Nightmare,Master of Eternal Nightmare
+ACHIEVEMENT_MASTER_OF_ETERNAL_NIGHTMARE_DESC,"Awarded when reaching 10,000 YouTube subscribers.","Awarded when reaching 10,000 YouTube subscribers."

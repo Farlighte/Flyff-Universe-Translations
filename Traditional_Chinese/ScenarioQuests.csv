@@ -744,7 +744,7 @@ PROPQUEST_SCENARIO_INC_002050,Deliver the pendant from Reodos to Reonan.,將分�
 PROPQUEST_SCENARIO_INC_002132,Returning Home in Glory,衣錦還鄉
 PROPQUEST_SCENARIO_INC_002133,"Oh, Reonan said to return to Flarine after you had completed your duties here. Do not fret about us any longer. Go see Reonan!",對了。雷奧南說這裡的事情結束之後，要你快一點回去布拉里斯。不用在擔心這裡了，快一點回去找雷奧南吧。
 PROPQUEST_SCENARIO_INC_002134,"Thank you for your efforts in Saint City. Your name will be forever praised here. Now, hurry on your way!",這段時間，非常謝謝你為了我們聖音特市盡心盡力。我一輩子都不會忘記你的名字的。那麼，快一點過去吧。
-PROPQUEST_SCENARIO_INC_002135,"Eh? You don't want to go back? Then, plese feel free to join the illustrious ranks of our tourist industry!",咦？你不想要回去雷奧南啊？那麼就一輩子在這裡，為了聖音特城做愛心活動吧。
+PROPQUEST_SCENARIO_INC_002135,"Eh? You don't want to go back? Then, please feel free to join the illustrious ranks of our tourist industry!",咦？你不想要回去雷奧南啊？那麼就一輩子在這裡，為了聖音特城做愛心活動吧。
 PROPQUEST_SCENARIO_INC_002136,"I heard of your remarkable activities at Saint City from the Mayor! I have another mission for you... but it's too early right now. Reach level 40, then I will give you the next mission.",聖音特城裡都已經透過市長，知道你的活躍了！真的是非常的驕傲！雖然我還想再給你下一個任務…任是對你來說好像還太早。達到 40 級以後，再過來吧。到時候，我會給你下一道的任務。
 PROPQUEST_SCENARIO_INC_002137,Reonan is waiting for you in Flaris.,雷奧南應該在布拉里斯等待你的回去。
 PROPQUEST_SCENARIO_INC_002138,Go to Reonan after reaching level 40.,達到 40 等級之後，再去找雷奧南吧。
@@ -1514,11 +1514,11 @@ PROPQUEST_SCENARIO_INC_002802,Kill 30 Frozen Hare Guard and 1 Frozen Hare Assass
 PROPQUEST_SCENARIO_INC_002803,Building a Weapon,打造兵器
 PROPQUEST_SCENARIO_INC_002804,With the guards out of our hair we can start collecting supplies to start building a brand new weapon! ,守衛的問題解決後，我們終於可以開始蒐集材料，著手打造一把全新的武器了！
 PROPQUEST_SCENARIO_INC_002805,The Enraged Yetti and Saphyryan Hounds that live in the valley below have weapons and armor we can use to forge the basis of a mechanical beast like Clockworks.,住在下方山谷裡的暴怒雪怪和薩菲利安獵犬，身上都有武器與護具可供我們熔鑄，作為打造類似機甲鐘樓的機械巨獸基礎材料。
-PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",下到山谷去，收集雪怪重錘和獵犬束具。這些都是打造時相當實用的材料……
+PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Wild Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",下到山谷去，收集雪怪重錘和獵犬束具。這些都是打造時相當實用的材料……
 PROPQUEST_SCENARIO_INC_002807,The hounds only bite a little bit...,那些獵犬其實也就稍微會咬人一點點啦……
 PROPQUEST_SCENARIO_INC_002808,"Yes, this will do nicely! I can start forging a new Clockworks with these materials. But there's one thing we're missing...",很好，這些材料很夠用了！我可以開始用它們打造新的機甲鐘樓。不過我們還缺一樣關鍵東西……
-PROPQUEST_SCENARIO_INC_002809,Collect Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,從下方山谷的怪物身上收集雪怪重錘與獵犬束具。
-PROPQUEST_SCENARIO_INC_002810,"Collect 30 Yetti Hammers from the Enraged Yetti, and 15 Hound Harness from the Saphyryan Hounds.",從暴怒雪怪身上收集 30 個雪怪重錘，從薩菲利安獵犬身上收集 15 個獵犬束具。
+PROPQUEST_SCENARIO_INC_002809,Collect Wild Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,從下方山谷的怪物身上收集雪怪重錘與獵犬束具。
+PROPQUEST_SCENARIO_INC_002810,"Collect 30 Wild Yetti Hammers from the Enraged Yetti, and 15 Hound Harnesses from the Saphyryan Hounds.",從暴怒雪怪身上收集 30 個雪怪重錘，從薩菲利安獵犬身上收集 15 個獵犬束具。
 PROPQUEST_SCENARIO_INC_002811,Army of the Dead,亡者之軍
 PROPQUEST_SCENARIO_INC_002812,"These armaments are a good foundation to work off of for now... but to bring a new Clockworks to life, we need a powerful core of energy. ",這些裝備材料現在已經是很好的基底了……但若想讓新的機甲鐘樓真正動起來，我們還需要一顆強大的能源核心。
 PROPQUEST_SCENARIO_INC_002813,"When the masquerpets invaded Storm Peak, the Crystal Demon Lord led an army of undead deep within the mountains and sealed away the last known energy core produced by my people...",當怪物大軍入侵風暴峰時，水晶惡魔領主率領一支不死軍團深入山脈，並把我族最後已知的一枚能源核心封印了起來……

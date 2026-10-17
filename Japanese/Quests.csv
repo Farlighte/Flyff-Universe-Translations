@@ -1811,10 +1811,10 @@ PROPQUEST_INC_110293,Cooking Class,料理講座
 PROPQUEST_INC_110294,Food is the basic of survival. Why don't you cook on your own?,食事は生きていくための基本です。せっかくですから、自分で料理してみませんか？
 PROPQUEST_INC_110295,Good. Try anything on the oven nearby. Oven is near the food shop.,よろしい。それでは近くのオーブンで、何か生産してみましょう。オーブンは食料品店の近くにありますよ。
 PROPQUEST_INC_110296,Carpentry Class,木工講座
-PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpenting?,木材を使えば、いろいろな家具を作ることができます。木工、習ってみませんか？
-PROPQUEST_INC_110298,"Okay, try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.",よろしい。それでは近くの木工道具で、何か生産してみましょう。木工道具はハウジングマネージャーの近くにありますよ。
+PROPQUEST_INC_110297,You can make furniture out of wood. Would you like to learn carpentry?,木材を使えば、いろいろな家具を作ることができます。木工、習ってみませんか？
+PROPQUEST_INC_110298,"Okay, try anything on the woodworking tools nearby. The woodworking tools are near the Housing Manager.",よろしい。それでは近くの木工道具で、何か生産してみましょう。木工道具はハウジングマネージャーの近くにありますよ。
 PROPQUEST_INC_110299,Smithing Class,鍛冶講座
-PROPQUEST_INC_110300,You can make furniture out of wood. Would you like to learn carpenting?,鍛冶を覚えれば、さまざまなアクセサリーを作ることができます。鍛冶、習ってみませんか？
+PROPQUEST_INC_110300,You can create various accessories. Would you like to learn smithing?,鍛冶を覚えれば、さまざまなアクセサリーを作ることができます。鍛冶、習ってみませんか？
 PROPQUEST_INC_110301,"Okay, try anything at the nearest crafting tool. The tools are near the jewelry.",よろしい。それでは近くの生産設備で、何か生産してみましょう。設備は宝飾店の近くにありますよ。
 PROPQUEST_INC_132091,Destroy the pumpkins 1,カボチャを破壊せよ 1
 PROPQUEST_INC_132092,Complete the mission.,ミッションを完了する。
@@ -1833,7 +1833,7 @@ PROPQUEST_INC_110304,"Go out into the field and try to dig some. It will be a gr
 PROPQUEST_INC_110305,"Go to the nearest river and try fishing. Whether you succeed or fail, it'll help you a lot.",近くの川へ行って、実際に釣ってみましょう。成功しても失敗しても、その経験がきっと役に立ちますよ。
 PROPQUEST_INC_110306,Try anything on the caldron nearby. Caldron is near the magic shop.,近くの大釜で、何か生産してみましょう。大釜は魔法店の近くにありますよ。
 PROPQUEST_INC_110307,Try anything on the oven nearby. Oven is near the food shop.,近くのオーブンで、何か生産してみましょう。オーブンは食料品店の近くにありますよ。
-PROPQUEST_INC_110308,Try anything on the woodcutting tools nearby. The woodcutting tools are near the Housing Manager.,近くの木工道具で、何か生産してみましょう。木工道具はハウジングマネージャーの近くにありますよ。
+PROPQUEST_INC_110308,Try anything on the woodworking tools nearby. The woodworking tools are near the Housing Manager.,近くの木工道具で、何か生産してみましょう。木工道具はハウジングマネージャーの近くにありますよ。
 PROPQUEST_INC_110309,Try anything at the nearest crafting tool. The tools are near the jewelry.,近くの生産設備で、何か生産してみましょう。生産設備は宝飾店の近くにありますよ。
 PROPQUEST_INC_110310,Hero Grade (2),ヒーローグレード (2)
 PROPQUEST_INC_110311,I need you to reach level 140 and bring $QUEST_END_ITEM_COUNT$x $QUEST_END_ITEM_NAME$. Only a real Hero can do that!,レベル140に到達し、$QUEST_END_ITEM_NAME$を$QUEST_END_ITEM_COUNT$個持ってきてほしい。本物の英雄にしかできないことだ！
@@ -1937,7 +1937,7 @@ PROPQUEST_INC_132193,"Excellent! The analysis should reveal invaluable informati
 PROPQUEST_INC_132194,"Really? You’re choosing not to follow up on this? Dr. Estly’s analysis could be the key to understanding Herneos and possibly even stopping Shade. But if you won’t go, we’ll have to hope someone else steps up to the task.",何だよ、ここまで来て確かめに行かねぇのか？ エストリー博士の分析が、ヘルネオスの謎を解く鍵になるかもしれねぇ。それどころか、シェードを止める手掛かりになる可能性だってある。...まあ、お前が行かねぇってんなら、ほかの奴に頼むしかないな。
 PROPQUEST_INC_132195,"You haven’t visited Dr. Estly yet? The analysis of the water might hold crucial answers about Herneos! Time is ticking, and we need that information to understand what Shade might be planning. Please, head to him as soon as possible.",まだエストリー博士のところへ行ってねぇのか？ 水の分析結果から、ヘルネオスについて重要なことが分かるかもしれねぇんだ！ こうしてる間にも時間は過ぎてる。シェードが何を企んでるのか突き止めるためにも、早く博士のところへ行ってくれ！
 PROPQUEST_INC_132196,"The analysis is complete, but... (annoyed look)",分析は終わりました。ですが... (苛立った様子)
-PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to her as soon as you can!",エストリー博士のもとへ戻ろう。そろそろ分析が終わっているはずだ。その結果から、ヘルネオスの真相が明らかになるかもしれない。
+PROPQUEST_INC_132197,"It’s time to return to Dr. Estly. The analysis should be complete by now, and with it, we might finally learn the truth about Herneos. Head back to him as soon as you can!",エストリー博士のもとへ戻ろう。そろそろ分析が終わっているはずだ。その結果から、ヘルネオスの真相が明らかになるかもしれない。
 PROPQUEST_INC_132198,A rumor says a great reward awaits you... Go speak to the mayor of Flarine!    ,すばらしい報酬が待っているという噂だ...フラリスの市長に会いに行こう！
 PROPQUEST_INC_132199,That's awesome! Hurry and go see the mayor!,そいつは最高だな！ ほら、早く市長に会いに行ってこい！
 PROPQUEST_INC_132200,"What do you mean, no?! You've already done everything.. You just need to claim your reward from the mayor of Flarine!",何っ、行かねぇのか!? もう全部やり遂げたんだぞ！ あとはフラリス市長から褒美を受け取るだけじゃねぇか！
@@ -2763,19 +2763,19 @@ PROPQUEST_INC_155001,Chapter Ex) Dungeon,番外編）ダンジョン
 PROPQUEST_INC_155002,Something Is Very Wrong with the Plants,植物の異変
 PROPQUEST_INC_155003,"Something's wrong in the fields. Farmers are panicking, claiming crops are walking around and attacking them.",畑で何かが起きている。作物が歩き回って襲ってきたと、農場の村人たちが騒いでいる。
 PROPQUEST_INC_155004,"Rumors are spreading faster than weeds, and I don't like rumors.",噂は雑草より早く広がるものだが、俺は噂というものが嫌いでな。
-PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. He hasn't returned from the fields. He must know something.",この忌々しい戦争もようやく終わりが見えてきたんだ。くだらん噂で皆の士気を落とすわけにはいかない。スプラウトを探してくれ。畑へ行ったきり戻っていない。何か知っているはずだ。
+PROPQUEST_INC_155005,"We're finally nearing the end of this disgusting war, and I won't let talk like this drag us down. Go find Sprout. She hasn't returned from the fields. She must know something.",この忌々しい戦争もようやく終わりが見えてきたんだ。くだらん噂で皆の士気を落とすわけにはいかない。スプラウトを探してくれ。畑へ行ったきり戻っていない。何か知っているはずだ。
 PROPQUEST_INC_155006,"Good. Keep your eyes open and your weapon ready.\nIf this is just rotten soil, fine. If it's something worse, I want to know immediately.",よし。周囲から目を離すな。武器もいつでも使えるようにしておけ。\nただ土が腐っているだけならそれでいい。だが、それ以上の何かならすぐに知らせてくれ。
 PROPQUEST_INC_155007,"Hmph. I won't force you.\nBut if this turns into a real problem, the village could be in danger.",ふむ。無理強いはしない。\nだが、これが本当の異変なら、村が危険にさらされることになる。
 PROPQUEST_INC_155008,"O-oh! You're from the guard, r-right?\nI-I swear, it's not just bad farming! The mushrooms just... changed.\nS-something's not right, I'm telling you...",あ、あなた、衛兵の人ですよね？\nわ、私、誓って言いますが、そ、育て方が悪かったんじゃないんです！キノコが、その...変わったんです。\nな、何かがおかしいんです、本当に...
 PROPQUEST_INC_155009,You can reach the farm through that portal over there.\nFind out what's happening. Worry won't fix this answers will.,あそこのポータルから畑へ行けるはずだ。\n何が起きているのか確かめてくれ。心配しているだけでは何も解決しない。必要なのは答えだ。
-PROPQUEST_INC_155010,Go find Sprout. He hasn't returned from the fields he must know something.,畑へ行ったきり戻っていないスプラウトを探し、何を知っているのか確かめる
+PROPQUEST_INC_155010,Go find Sprout. She hasn't returned from the fields. She must know something.,畑へ行ったきり戻っていないスプラウトを探し、何を知っているのか確かめる
 PROPQUEST_INC_155011,Sprout Has a Bad Feeling About This,スプラウトの嫌な予感
 PROPQUEST_INC_155012,P-please help me! I-I can't go back to the village like this!\nWh-what if those things show up again? I-I won't make it on my own...,た、助けてください！こ、このままじゃ村に戻れません！\nも、もしまたあれが現れたら？ひ、一人じゃ無理です...
 PROPQUEST_INC_155013,"R-really? You'll walk with me?\nTh-thank you... j-just stay close, okay? The portal's right over there...",ほ、本当ですか？一緒に来てくれるんですか？\nあ、ありがとうございます...そ、そばにいてくださいね？ポータルはあそこです...
 PROPQUEST_INC_155014,O-oh... I s-see...\nI-I guess I'll j-just... hide here until something eats me...,そ、そうですか...わ、分かりました...\nな、ならここに隠れて...何かに食べられるのを待つしかないですね...
 PROPQUEST_INC_155015,"P-please don't leave me behind...\nI-I can see the portal, b-but my legs won't move...",お、置いていかないでください...\nポ、ポータルは見えるんです、で、でも足が動かなくて...
 PROPQUEST_INC_155016,"You made it back safely... good.\nSprout, take a breath. Now tell me everything, slowly.",無事に戻ったか...よかった。\nスプラウト、まずは落ち着け。ゆっくりでいい、何があったのか全部話してくれ。
-PROPQUEST_INC_155017,Rescue Sprout and escort him back to the portal.,スプラウトを救出し、ポータルまで護衛する
+PROPQUEST_INC_155017,Rescue Sprout and escort her back to the portal.,スプラウトを救出し、ポータルまで護衛する
 PROPQUEST_INC_155018,"Noises, Nightmares, and a Bad Hunch",物音、悪夢、そして胸騒ぎ
 PROPQUEST_INC_155019,"I've heard enough. Strange noises at night, farmers too afraid to sleep and now they're seeing crops that move and attack.",もう十分だ。夜中の奇妙な物音、怖くて眠れない農場の村人たち、そして今度は動いて人を襲う作物か。
 PROPQUEST_INC_155020,This isn't a coincidence. Something is stirring out there.,偶然とは思えんな。向こうで何かが動き始めている。
@@ -2854,7 +2854,7 @@ PROPQUEST_INC_155093,"O-oh… it’s you again. I-I know I should be used to thi
 PROPQUEST_INC_155094,"Y-you’ll walk with me, r-right? Th-thank you… j-just don’t leave me behind, okay?",い、一緒に来てくれるんですよね？あ、ありがとうございます...お、置いていかないでくださいね？
 PROPQUEST_INC_155095,O-oh… I s-see… I-I guess I’ll wait here a bit longer… maybe it’ll be safer later…,そ、そうですか...じゃ、じゃあもう少しここで待つことにします...。あとになれば、少しは安全になるかもしれないし...
 PROPQUEST_INC_155096,Aah! D-don't leave me here! I-I knew this was a mistake... I-I'm going back to hide in the village b-before something eats me!,きゃあ！こ、ここに置いていかないで！や、やっぱり来るんじゃなかった...な、何かに食べられる前に、む、村に戻って隠れてます！
-PROPQUEST_INC_155097,"Sprout made it back safely. Good. He’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it.",スプラウトは無事に戻ったか。よし。まだ怯えてはいるが怪我はない。それが何よりだ。お前は役目を果たしてくれた。村を代表して感謝する。
+PROPQUEST_INC_155097,"Sprout made it back safely. Good. She’s shaken, but unharmed—that’s what matters. You’ve done your part. The village appreciates it.",スプラウトは無事に戻ったか。よし。まだ怯えてはいるが怪我はない。それが何よりだ。お前は役目を果たしてくれた。村を代表して感謝する。
 PROPQUEST_INC_155098,Escort Sprout safely to Baron.,スプラウトを無事にバロンのもとへ護衛する
 PROPQUEST_INC_155099,Walking with a Short Fuse,短気な農夫との帰り道
 PROPQUEST_INC_155100,"Great. Just the person I was hoping to see. I need to get back, and I’m not in the mood to deal with trouble alone.",おう、ちょうどいいところに来たな。お前みたいな奴を待ってたんだ。そろそろ戻らなきゃならないんだが、一人で厄介事を相手にする気分じゃなくてな。

@@ -744,7 +744,7 @@ PROPQUEST_SCENARIO_INC_002050,Deliver the pendant from Reodos to Reonan.,英雄�
 PROPQUEST_SCENARIO_INC_002132,Returning Home in Glory,凱旋
 PROPQUEST_SCENARIO_INC_002133,"Oh, Reonan said to return to Flarine after you had completed your duties here. Do not fret about us any longer. Go see Reonan!",レオナンが私の依頼が終わったら戻ってくるようにと言っていましたよ。さあ、ここはもう大丈夫です。どうぞレオナンに貴方の勇士を報告して下さい。
 PROPQUEST_SCENARIO_INC_002134,"Thank you for your efforts in Saint City. Your name will be forever praised here. Now, hurry on your way!",色々とセイントモーニングを助けて頂きありがとうございました。貴方のお名前は一生忘れません。
-PROPQUEST_SCENARIO_INC_002135,"Eh? You don't want to go back? Then, plese feel free to join the illustrious ranks of our tourist industry!",え、ひょっとしてこのままセイントモーニングの自警団に入って下さるのですか？
+PROPQUEST_SCENARIO_INC_002135,"Eh? You don't want to go back? Then, please feel free to join the illustrious ranks of our tourist industry!",え、ひょっとしてこのままセイントモーニングの自警団に入って下さるのですか？
 PROPQUEST_SCENARIO_INC_002136,"I heard of your remarkable activities at Saint City from the Mayor! I have another mission for you... but it's too early right now. Reach level 40, then I will give you the next mission.",おお、戻ったか。セイントモーニングでのお前さんの活躍は風のうわさで聞いたぞ。Lv40に到達すれば次のミッションを話そう。
 PROPQUEST_SCENARIO_INC_002137,Reonan is waiting for you in Flaris.,フラリスでレオナンが貴方を待っていますよ。
 PROPQUEST_SCENARIO_INC_002138,Go to Reonan after reaching level 40.,レベル40に達した後、レオナンに報告せよ。
@@ -1514,11 +1514,11 @@ PROPQUEST_SCENARIO_INC_002802,Kill 30 Frozen Hare Guard and 1 Frozen Hare Assass
 PROPQUEST_SCENARIO_INC_002803,Building a Weapon,新たな兵器
 PROPQUEST_SCENARIO_INC_002804,With the guards out of our hair we can start collecting supplies to start building a brand new weapon! ,邪魔者もいなくなったし、いよいよ新しい兵器を造るための材料集めだ！
 PROPQUEST_SCENARIO_INC_002805,The Enraged Yetti and Saphyryan Hounds that live in the valley below have weapons and armor we can use to forge the basis of a mechanical beast like Clockworks.,下の谷にいるエンレイジド・イエティとサフィリアン・ハウンドから、武器や防具を集めよう！ それがあれば、クロックワークスのような機械兵器の土台を造れるはずだ！
-PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",谷へ行って、＜ワイルドイエティハンマー＞と＜ハウンドハーネス＞を集めてきて！ きっといい材料になるよ...
+PROPQUEST_SCENARIO_INC_002806,"Head down to the valley and collect Wild Yetti Hammers and Hound Harnesses, they'll come in handy for crafting...",谷へ行って、＜ワイルドイエティハンマー＞と＜ハウンドハーネス＞を集めてきて！ きっといい材料になるよ...
 PROPQUEST_SCENARIO_INC_002807,The hounds only bite a little bit...,ハウンドだって、ちょっと噛むくらいなのに...
 PROPQUEST_SCENARIO_INC_002808,"Yes, this will do nicely! I can start forging a new Clockworks with these materials. But there's one thing we're missing...",うん、これならいける！ この材料があれば、新しいクロックワークスを造り始められるよ！ でも...まだ一つ足りないものがあるんだ。
-PROPQUEST_SCENARIO_INC_002809,Collect Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,下の谷にいるモンスターから、＜ワイルドイエティハンマー＞と＜ハウンドハーネス＞を集めてきて！
-PROPQUEST_SCENARIO_INC_002810,"Collect 30 Yetti Hammers from the Enraged Yetti, and 15 Hound Harness from the Saphyryan Hounds.",エンレイジド・イエティから＜ワイルドイエティハンマー＞を30個、サフィリアン・ハウンドから＜ハウンドハーネス＞を15個集める
+PROPQUEST_SCENARIO_INC_002809,Collect Wild Yetti Hammers and Hound Harnesses from the masquerpets in the valley below.,下の谷にいるモンスターから、＜ワイルドイエティハンマー＞と＜ハウンドハーネス＞を集めてきて！
+PROPQUEST_SCENARIO_INC_002810,"Collect 30 Wild Yetti Hammers from the Enraged Yetti, and 15 Hound Harnesses from the Saphyryan Hounds.",エンレイジド・イエティから＜ワイルドイエティハンマー＞を30個、サフィリアン・ハウンドから＜ハウンドハーネス＞を15個集める
 PROPQUEST_SCENARIO_INC_002811,Army of the Dead,死者の軍勢
 PROPQUEST_SCENARIO_INC_002812,"These armaments are a good foundation to work off of for now... but to bring a new Clockworks to life, we need a powerful core of energy. ",集めた武器や防具で土台は造れそうだ...。でも、新しいクロックワークスに命を吹き込むには、強力なエネルギーコアが必要なんだ。
 PROPQUEST_SCENARIO_INC_002813,"When the masquerpets invaded Storm Peak, the Crystal Demon Lord led an army of undead deep within the mountains and sealed away the last known energy core produced by my people...",ストームピークがモンスターに襲われたとき、クリスタルデーモンロードはアンデッドの軍勢を率いて山奥へ侵入し、ボクらドワーフが造った最後のエネルギーコアを封印したんだ...
