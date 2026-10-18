@@ -1276,13 +1276,13 @@ UI_TOOLTIP_WALL_LIVES,Number of lives: %d,生命の数: %d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,バフの解除
 UI_BUFF_REMOVE_QUESTION,Remove the buff #b%s#nb? This action cannot be undone.,#b%s#nb のバフを解除しますか？解除後は元に戻すことができません。
 UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PvP),反射ダメージ: %d%% / %d%% (PVP)
-UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PvP),スタンの確率 (PVP)
-UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PvE),スタンの確率 (PVE)
-UI_TOOLTIP_CHANCEPOISON,Poison Probability,ポイズンの確率
-UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,HP吸収の確率
-UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,MP吸収確率
-UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,FP吸収確率
-UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,出血の確率
+UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PvP),スタン発動率 (PVP)
+UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PvE),スタン発動率 (PVE)
+UI_TOOLTIP_CHANCEPOISON,Poison Probability,ポイズン発動率
+UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,HP吸収発動率
+UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,MP吸収発動率
+UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,FP吸収発動率
+UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,出血発動率
 UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,パーティーメンバーのHP
 UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,継続ダメージ: %s 秒
 UI_TOOLTIP_MAXHIT,Max Targets: %d,最大対象数：%d
@@ -2043,15 +2043,15 @@ UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,保護の巻物
 UI_ULTIMATE_PREFIX,[Ultimate],[アルティマ]
-UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,ラストスタンドチャンス
-UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,リポスト反射のチャンス
-UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,いたずら好きの脱出チャンス
-UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,ヒーリンググレースチャンス
-UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,スピリチュアル・オーバーチャージ・チャンス
-UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,オーラバーストチャンス
+UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,ラストスタンド発動率
+UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,リポスト反射発動率
+UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,いたずら好きの逃走発動率
+UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,ヒーリンググレース発動率
+UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,スピリチュアルチャージ発動率
+UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,オーラバースト発動率
 UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,ウォーターボム
 UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,DMGスローレート
-UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,秘儀の洞察力のチャンス
+UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,秘術の閃き発動率
 UI_MSGBOX_DISMANTLE,Dismantle,取り外す
 UI_PLAYERHOUSINGBUY_TITLE,Select House Template,ハウステンプレートを選択
 UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb,ハウスのテンプレートを選択してください。 \n\n#b#cffff0000家のテンプレートを変更すると、現在の家からすべての装飾アイテムが撤去されます。再び同じ配置したい場合は、プリセットに保存してください。#nc#nb
