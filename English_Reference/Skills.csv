@@ -334,7 +334,7 @@ PROPSKILL_TXT_100009,"Empowered by your lion, gaining increased max HP."
 PROPSKILL_TXT_100010,Tiger's Grace
 PROPSKILL_TXT_100011,"Empowered by your tiger, gaining increased Critical Damage."
 PROPSKILL_TXT_100012,Fox's Grace
-PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack and Casting Speed."
+PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack Power and Casting Speed."
 PROPSKILL_TXT_100014,Rabbit's Grace
 PROPSKILL_TXT_100015,"Empowered by your rabbit, gaining increased Speed."
 PROPSKILL_TXT_100016,Griffin's Grace
@@ -661,9 +661,9 @@ PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5%
 PROPSKILL_TXT_140022,Asylum Boss DMG High Bless
 PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.
 PROPSKILL_TXT_140024,Asylum All Stats Low Bless
-PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.
+PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 5 as if guided by unseen forces.
 PROPSKILL_TXT_140026,Asylum All Stats High Bless
-PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength."
+PROPSKILL_TXT_140027,"The Asylum bestows a +10 boost to all base stats, filling you with eerie strength."
 PROPSKILL_TXT_140028,Asylum Boss Incoming Bless
 PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.
 PROPSKILL_TXT_140030,Asylum Boss Incoming Bless
@@ -865,7 +865,7 @@ PROPSKILL_TXT_150305,Bubble's Blessing
 PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.
 PROPSKILL_TXT_150309,Range Extension
 PROPSKILL_TXT_150310,Touch of Rhisis
-PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.
+PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and incoming healing. Cannot be used with other auras at the same time. Can be re-cast to cancel.
 PROPSKILL_TXT_150315,Ire of Iblis
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.
 PROPSKILL_TXT_150320,Meditate
