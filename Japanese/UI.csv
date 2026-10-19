@@ -1238,7 +1238,7 @@ UI_SHOP_QUICK_SELL_FOOD,Food,フード
 UI_SHOP_QUICK_SELL_POTION,Potion,ポーション
 UI_SHOP_BACK_TITLE,Buy back item,アイテムを買い戻す
 UI_SHOP_BACK_CONFIRM,Buy this item back for %s Penya?,%s ペニャでアイテムを買い戻しますか？
-UI_TOOLTIP_BOWRANGE,Bow Range,弓の距離
+UI_TOOLTIP_BOWRANGE,Bow Range,弓の射程
 UI_TOOLTIP_SKILLUP,Skill Damage,スキルダメージ
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,単体スキルダメージ
 UI_TOOLTIP_HEALUP,Healing,ヒール
@@ -1749,9 +1749,9 @@ UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,必
 UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s がアイテムを獲得しました。
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,不在のプレイヤーにアイテムがポストへ転送されました。
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,アイテム: %d/%d
-UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,マルチストライクチャンス
-UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),マルチストライクチャンス（PvP）
-UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),マルチストライクチャンス（PvE）
+UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,マルチストライク発動率
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),マルチストライク発動率(PvP)
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),マルチストライク発動率(PvE)
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,PKチャンネルでモンスターLv.%s+を狩る
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,PK チャネルで %s をハントします
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),ダンジョンをクリアする
@@ -3213,12 +3213,12 @@ UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,左手武器攻撃力
 UI_PARTS_SHIELD_DEF,Shield Defense,シールド防御力
 UI_SKILL_SYNERGY,Synergy,シナジー
 UI_SKILL_SYNERGY_PER,per level %d+,レベル%d+ごと
-UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,背後からの暗黒幻影ダメージ
+UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,ダーク背後攻撃ダメージ
 UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,クリティカルマーク付与率
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),デイリークエスト #cffc32f07#b%d/%d#nb#nc 件達成
 UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,妨害系デバフごとのダメージ増加
 UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,弱体系デバフごとのダメージ増加
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),デバフごとの被ダメージ減少(最大8)
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),デバフ数(最大8)に応じた被ダメージ軽減
 UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(妨害)
 UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(弱体)
 UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(行動不能)
@@ -3226,7 +3226,7 @@ UI_ACTIVE_SKILLS,Active Skills,アクティブスキル
 UI_PASSIVE_SKILLS,Passive Skills,パッシブスキル
 UI_MASTER_SKILLS,Master Variations,マスターバリエーション
 UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,ボスからの被ダメージ
-UI_TOOLTIP_DMG_TICK,Damage Tick,ダメージティック
+UI_TOOLTIP_DMG_TICK,Damage Tick,HP減少量
 UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,HP閾値：%d%%
 UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,HP閾値：%d%%未満
 UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,捕縛対象へのクリティカルダメージ
@@ -3236,13 +3236,13 @@ UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,5M以上先のダメージ
 UI_DUNGEON_MODLEVEL,Lv.%d,Lv.%d
 UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\n現在のボーナス：
 UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,通常攻撃スタック付与率
-UI_TOOLTIP_YOYORANGE,Yo-Yo Range,ヨーヨー範囲
+UI_TOOLTIP_YOYORANGE,Yo-Yo Range,ヨーヨー射程
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),HP: %d (%d%%)
 UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,HP消費量減少
-UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,出血状態の敵撃破時にHP回復
+UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,出血中の敵撃破時HP回復
 UI_TOOLTIP_DST_LEFT_HAND_DMG,Left Hand Damage,左手ダメージ
-UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,HPに応じたダメージ軽減
-UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,3次職クールダウン減少
+UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,HP量によるダメージ軽減
+UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,3次職スキルクールダウン減少
 UI_TOOLTIP_DST_SPEC_DMG,3rd Job Skill Damage,3次職スキルダメージ
 UI_TOOLTIP_DST_HYMN_CD_REDUCT,Hymn Cooldown Reduction,聖歌クールダウン減少
 UI_TOOLTIP_DST_HYMN_DMG_REDUCT,Hymn Damage Reduction,聖歌ダメージ軽減
@@ -3275,8 +3275,8 @@ UI_TOOLTIP_SKILLLOCK,Locks:,ロック：
 UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,追加スキルページ
 UI_SKILL_CHANGEPAGE_TOOLTIP,Switch skill pages,スキルページを切り替え
 UI_SKILL_CHANGEPAGE_TITLE,Switch Skill Page,スキルページ切り替え
-UI_TOOLTIP_DST_NEN_CHANCE,Additional Nen Chance,追加Nen発動率
-UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Nen消費半減率
+UI_TOOLTIP_DST_NEN_CHANCE,Additional Nen Chance,[念]追加発動率
+UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,[念]消費半減率
 UI_TOOLTIP_DST_STEALMP,MP Steal,MP吸収
 UI_TOOLTIP_DST_STEALFP,FP Steal,FP吸収
 UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%sスタック：%d
@@ -3288,14 +3288,14 @@ UI_DUNGEONTIMERECAP_CLOSE,Close,閉じる
 UI_DUNGEONTIMERECAP_HELP_1,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.,ボス部屋に%d分以内に到達するとゴールドティアになります。ゴールドティアでは最強のボスが出現します。
 UI_DUNGEONTIMERECAP_HELP_2,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.,ボス部屋に%d分から%d分の間に到達するとシルバーティアになります。シルバーティアでは通常より強化されたボスが出現します。
 UI_DUNGEONTIMERECAP_HELP_3,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.,ボス部屋に%d分より後に到達するとブロンズティアになります。ブロンズティアでは通常のボスが出現します。
-UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,中毒状態の敵から受けるダメージ
-UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,中毒状態の敵へのダメージ
-UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,ステルス時に毒を解除する確率
+UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,毒状態の敵からの被ダメージ
+UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,毒状態の敵へのダメージ
+UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,ステルス時の毒解除率
 UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,窒息スタック付与率
-UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,火傷状態の敵から受けるダメージ
-UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,水濡れ状態の敵から受けるダメージ
-UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,窒息状態の敵から受けるダメージ
-UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,感電状態の敵から受けるダメージ
+UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,燃焼状態の敵からの被ダメージ
+UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,水効果中の敵からの被ダメージ
+UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,窒息状態の敵からの被ダメージ
+UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,感電状態の敵からの被ダメージ
 UI_TOOLTIP_HP_SHIELD,Max. Health Shield,最大HPシールド
 UI_TOOLTIP_AA_DMG,Auto Attack Damage,通常攻撃ダメージ
 UI_LEVELCHANGE_NONE,No available jobs at this level,このレベルで転職可能な職業はありません

@@ -556,7 +556,7 @@ PROPSKILL_TXT_150054,Quiver Master,クイバーマスター
 PROPSKILL_TXT_150055,Swift Hands,クイックハンド
 PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,魔法以外のスキルを使用する際、動作速度が上昇します。
 PROPSKILL_TXT_150057,Eagle Eye,イーグルアイ
-PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,内なる鷲の力を呼び起こし、弓の射程距離を拡大します。
+PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,内なる鷲の力を呼び起こし、弓の射程を延長します。
 PROPSKILL_TXT_150059,Arcane Enchantment,アーケインエンチャント
 PROPSKILL_TXT_150060,Provide Elemental status to the skills..,スキルに属性を付与します。
 PROPSKILL_TXT_150061,Increased Element,属性増加
@@ -602,7 +602,7 @@ PROPSKILL_TXT_150103,Templar's Call,テンプラーコール
 PROPSKILL_TXT_150104,Pull your target towards yourself.,対象を自分のもとへ引き寄せます。
 PROPSKILL_TXT_150105,Ankle Slice,アンクルスライス
 PROPSKILL_TXT_150106,Relentless Embrace,容赦なきコール
-PROPSKILL_TXT_150107,Multi-capture,マルチキャプチャー
+PROPSKILL_TXT_150107,Multi-capture,マルチキャプチャ
 PROPSKILL_TXT_150108,Rush Attack,ラッシュアタック
 PROPSKILL_TXT_150109,Quickly charge at your target to attack.,対象に素早く突進して攻撃します。
 PROPSKILL_TXT_150110,Deep Impact,ディープインパクト
