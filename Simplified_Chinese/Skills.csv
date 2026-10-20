@@ -86,7 +86,7 @@ PROPSKILL_TXT_000083,Heals nearby party members.,激发魔棒产生大量圣光�
 PROPSKILL_TXT_000084,Mental Sign,智力术
 PROPSKILL_TXT_000085,Increases the target's INT.,暂时提高施法对象的智力。
 PROPSKILL_TXT_000086,Beef Up,力量术
-PROPSKILL_TXT_000087,Increases the target's STR.,提高目标的攻击力
+PROPSKILL_TXT_000087,Increases the target's STR.,暂时提高施法对象的力量。
 PROPSKILL_TXT_000088,Burst Crack,圣光大地
 PROPSKILL_TXT_000089,"Pounds the ground, damaging enemies around you.",将大量的圣光之力聚集在拳套击向地面，对周围的敌人造成伤害。
 PROPSKILL_TXT_000090,Stonehand,昏厥术
@@ -661,9 +661,9 @@ PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5%
 PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,庇护所・首领增伤祝福
 PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,一股狂暴之力在你体内汹涌！首领受到你的攻击时，所受伤害增加10%。
 PROPSKILL_TXT_140024,Asylum All Stats Low Bless,庇护所・全属性微弱祝福
-PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,庇护所赐予你非自然的调和之力。你的基础属性提升10点，仿佛被无形之力所指引。
+PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,庇护所赐予你非自然的调和之力。你的基础属性提升5点，仿佛被无形之力所指引。
 PROPSKILL_TXT_140026,Asylum All Stats High Bless,庇护所・全属性强化祝福
-PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.",庇护所赐予你全属性10%的提升，让你充满诡异的力量。
+PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.",庇护所赐予你全属性+10的提升，让你充满诡异的力量。
 PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,庇护所・首领减伤祝福
 PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,庇护所用阴影将你遮蔽。来自首领的伤害降低5%。
 PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,庇护所・首领大减伤祝福
@@ -865,7 +865,7 @@ PROPSKILL_TXT_150305,Bubble's Blessing,波卜尔的祝福
 PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,施放一道光环，提升友方的暴击伤害与攻击力。可再次施放以取消该效果。
 PROPSKILL_TXT_150309,Range Extension,射程提升
 PROPSKILL_TXT_150310,Touch of Rhisis,莱斯神之触
-PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,施放光环，提升附近友军的防御力与格挡率。无法与其他光环同时使用。可再次施放取消。
+PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,施放光环，提升附近友军的防御力与受到的治疗效果。无法与其他光环同时使用。可再次施放取消。
 PROPSKILL_TXT_150315,Ire of Iblis,伊普利之怒
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,生成一道光环，提升友方暴击抗性。可再次施放取消。
 PROPSKILL_TXT_150320,Meditate,冥想
