@@ -452,8 +452,8 @@ UI_GUILD_LEVEL,Level:,等级：
 UI_GUILD_MEMBER,Members:,成员：
 UI_GUILD_DISCORD_TIP,Join the guild Discord server,加入公会的Discord频道
 UI_GUILD_LOGO,Logo:,徽标：
-UI_GUILD_LOGO_BUTTON,Change Logo,设置徽标
-UI_GUILD_NOTICE,Notice,设置公告
+UI_GUILD_LOGO_BUTTON,Change Logo,设置公会徽标
+UI_GUILD_NOTICE,Notice,设置会内公告
 UI_GUILD_DISMISS,Disband,解散公会
 UI_GUILD_NOTICE_TIP,Set your guild notice,设定公会的公告
 UI_GUILD_LOGO_TIP,Change your guild logo,设定在公会中使用的徽标
@@ -462,7 +462,7 @@ UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!",�
 UI_GUILDNAME_ENTER,Enter a new guild name:,输入公会名称
 UI_GUILDNAME_TITLE,Set Guild Name,设置公会名称
 UI_GUILDNOTICE_TITLE,Set Guild Notice,设置公会公告
-UI_GUILDNOTICESEARCH_TITLE,Set Guild Search Notice,设置搜索宣传语
+UI_GUILDNOTICESEARCH_TITLE,Set Guild Search Notice,设置对外宣传语
 UI_GUILDNOTICE_NEW,Clear,清空
 UI_GUILDNOTICE_SAVE,Save,保存
 UI_GUILDNOTICE_NEW_TIP,Clear notice text,清空公告文本
