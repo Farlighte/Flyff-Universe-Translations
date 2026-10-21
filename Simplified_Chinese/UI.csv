@@ -2089,7 +2089,7 @@ UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time Remaining to Select the Artifact Posi
 UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,传送至飞船
 UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,当前公会飞船加成
 UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,确定要让你们公会的神器在此处生成吗？#b#cffff0000注意：将从你们的公会银行中扣除 %s 金币。#nc#nb
-UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,公会船管理
+UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,公会飞船管理
 UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,这里的某处藏有公会飞船神器……
 UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,你的公会尚未拥有公会飞船。
 UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",如果你们公会拥有公会飞船，每周六你们必须在指定位置之一放置一枚神器。放置神器需花费 #b#u%s 金币#nu#nb。\n如果你们公会没有公会飞船，你可以支付 #b#u%s 金币#nu#nb 报名参加下一次神器争夺战，有机会获得一艘公会飞船。\n你只能在战斗开始前 1 小时内进行报名或取消。\n一旦神器被放置，你们公会必须在 PK 频道抵御其他玩家的进攻。如果防守失败，你们将失去公会飞船的所有权。\n如果成功防守，#b将返还部分报名费用。#nb

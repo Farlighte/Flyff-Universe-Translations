@@ -32,7 +32,7 @@ PROPSKILL_TXT_000029,A single powerful strike that hits all enemies around you.,
 PROPSKILL_TXT_000030,Guillotine,气刃冲击
 PROPSKILL_TXT_000031,A powerful ranged attack.,将聚集的斗气化做无数利刃冲击对方。
 PROPSKILL_TXT_000032,Sneaker,纠缠天网
-PROPSKILL_TXT_000033,"Traps the enemy in a net, immobilizing them.",召唤天网套住目标，有一定几率使其移动速度减缓。
+PROPSKILL_TXT_000033,"Traps the enemy in a net, immobilizing them.",召唤天网套住目标，有一定几率使其无法移动。
 PROPSKILL_TXT_000034,Reflex Hit,爆裂怒击
 PROPSKILL_TXT_000035,Absorbs an incoming attack and strikes an enemy with the absorbed damage.,带有爆炸效果的愤怒一击。
 PROPSKILL_TXT_000036,Guard,集中防卫
@@ -52,7 +52,7 @@ PROPSKILL_TXT_000049,A powerful downward strike that lowers the defense of the t
 PROPSKILL_TXT_000050,Power Stomp,大地共鸣
 PROPSKILL_TXT_000051,"Pounds the ground, hitting surrounding enemies with a chance to stun them. Requires a two-handed weapon.",打击地面制造冲击波攻击周围敌人，一定几率击晕附近敌人。需要装备双手武器。
 PROPSKILL_TXT_000052,Cross Strike,十字打击
-PROPSKILL_TXT_000053,A powerful dual-weapon strike that knocks down the enemy.,将双武器交错劈向对方，在对方身体上留下永恒的十字记号。
+PROPSKILL_TXT_000053,A powerful dual-weapon strike that knocks down the enemy.,将双武器交错劈向对方，在对方身体上留下永恒的十字记号，有几率将目标击飞。
 PROPSKILL_TXT_000054,Armor Penetrate,避实就虚
 PROPSKILL_TXT_000055,Strikes the enemy and lowers their block rate.,攻击对方弱点，降低对方格挡率。
 PROPSKILL_TXT_000056,Silent Strike,极速突刺
@@ -66,7 +66,7 @@ PROPSKILL_TXT_000063,A powerful downward strike that lowers the accuracy of the 
 PROPSKILL_TXT_000064,Sonic Blade,毁灭攻击
 PROPSKILL_TXT_000065,A powerful slashing attack that hits all surrounding enemies. Requires two weapons.,将所有的气集中在武器上，攻击周围全部敌人。需要装备两把武器。
 PROPSKILL_TXT_000066,Berserk,狂暴
-PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.,增加攻击速度和攻击力，并降低技能伤害。
+PROPSKILL_TXT_000067,Increases Attack Speed and striking power at the cost of reduced skill damage.,短时间增强普通攻击的各项能力，但会降低技能伤害。
 PROPSKILL_TXT_000068,Heal,治疗术
 PROPSKILL_TXT_000069,Recovers the target's HP.,借助魔棒产生微量圣光治疗目标的伤势。
 PROPSKILL_TXT_000070,Temping Hole,圣光破
@@ -100,7 +100,7 @@ PROPSKILL_TXT_000097,Increases the target's accuracy.,暂时提高施法对象�
 PROPSKILL_TXT_000098,Power Fist,神光破
 PROPSKILL_TXT_000099,Strikes the enemy three times with concentrated power.,将神灵赐予的圣力集中在拳套上重创敌人3次。
 PROPSKILL_TXT_000100,Haste,高效术
-PROPSKILL_TXT_000101,Increases the target's Attack Speed and Casting Speed.,暂时提高施法对象的攻击速度。
+PROPSKILL_TXT_000101,Increases the target's Attack Speed and Casting Speed.,暂时提高施法对象的攻击速度和施法速度。
 PROPSKILL_TXT_000102,Heal Rain,生命祝福
 PROPSKILL_TXT_000103,Heals nearby party members with powerful restorative energy.,大量恢复附近同伴的生命值。
 PROPSKILL_TXT_000104,Holycross,神圣惩戒
@@ -113,7 +113,7 @@ PROPSKILL_TXT_000110,Spirit Fortune,攻击强化
 PROPSKILL_TXT_000112,Gvur Tialla,清洁术
 PROPSKILL_TXT_000113,Removes debuffs from the target.,移除施法对象的异常状态。
 PROPSKILL_TXT_000114,Geburah Tiphreth,战斗之歌
-PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time.",吟唱战歌，提高周围同伴的攻击力和攻击速度。
+PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time.",吟唱战歌，提高周围同伴的攻击力、攻击速度和施法速度。
 PROPSKILL_TXT_000116,Merkaba Hanzelrusha,神圣领域
 PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.,在圣之光照射下形成具有圣力的领域，打击踏入领域的敌人。
 PROPSKILL_TXT_000118,Belial Smashing,冲击拳
@@ -150,9 +150,9 @@ PROPSKILL_TXT_000149,Damages the enemy with a stone spike that may stun.,调动�
 PROPSKILL_TXT_000150,Mental Strike,灵波狂想
 PROPSKILL_TXT_000151,A medium-ranged mental attack.,给对象施加无属性的精神压力。
 PROPSKILL_TXT_000152,Fire Strike,灼烈幻火
-PROPSKILL_TXT_000153,"Blasts the enemy with a ball of fire, setting them ablaze and making them more susceptible to water attacks.",召唤灼热的火焰，让对方受到灼烧，降低对风系攻击的抵抗力。
+PROPSKILL_TXT_000153,"Blasts the enemy with a ball of fire, setting them ablaze and making them more susceptible to water attacks.",召唤灼热的火焰，让对方受到灼烧，降低其水属性抵抗。
 PROPSKILL_TXT_000154,Wind Cutter,风之利刃
-PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",用锋利的风刃刺烈对方的身体。有几率降低目标的抗性。
+PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",用锋利的风刃刺烈对方的身体。率降低目标的抗性。
 PROPSKILL_TXT_000156,Waterball,水球凝聚
 PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at the target.,将水凝聚成水球连续发射。
 PROPSKILL_TXT_000158,Water Well,激流冲击
@@ -162,7 +162,7 @@ PROPSKILL_TXT_000161,Damages the enemy with an electric ball.,聚合雷电的力
 PROPSKILL_TXT_000162,Lightning Shock,电闪雷鸣
 PROPSKILL_TXT_000163,"Blasts the enemy with a ball of lightning, electrifying them and making them more susceptible to earth attacks.",唤起闪电强力攻击，令对方处于电击状态，降低对土系攻击的抵抗力。
 PROPSKILL_TXT_000164,Rock Crash,移山之术
-PROPSKILL_TXT_000165,"Crushes the enemy with a massive stone, making them more susceptible to wind attacks.",召唤巨大的岩石掷向敌人。
+PROPSKILL_TXT_000165,"Crushes the enemy with a massive stone, making them more susceptible to wind attacks.",召唤巨大的岩石掷向敌人，造成伤害的同时降低其属性抗性。
 PROPSKILL_TXT_000166,Rooting,大地灵缚
 PROPSKILL_TXT_000167,"Binds the enemy with roots, immobilizing them.",阻止敌人靠近
 PROPSKILL_TXT_000168,Demonology,幻象恐惧
@@ -173,9 +173,9 @@ PROPSKILL_TXT_000173,Damages the enemy with a ball of mental energy.,凝聚精�
 PROPSKILL_TXT_000174,Psychic Wall,灵力墙
 PROPSKILL_TXT_000175,"Conjures a mystic wall at your location. On enemy contact, the wall pushes them back, reduces their movement speed, and deals minor damage.",凭借对信念的执着形成一堵墙，任何敌人妄想通过必将受到严惩。
 PROPSKILL_TXT_000176,Spirit Bomb,神力攻击
-PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,使对方的精神崩溃，造成伤害。
+PROPSKILL_TXT_000177,Damages the enemy through the power of your mind.,使敌人的精神崩溃，受到此攻击时的实际伤害会按固定比例加深。
 PROPSKILL_TXT_000178,Crucio Spell,能量反弹
-PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.,将对方物理技能产生的伤害翻倍反弹回去。
+PROPSKILL_TXT_000179,Reflects damage from the enemy's basic attacks. Less effective in PvP.,将对方普通攻击产生的伤害加倍反弹回去。
 PROPSKILL_TXT_000180,Maximum Crisis,万念俱灰
 PROPSKILL_TXT_000181,"Unleashes a powerful mental explosion that damages surrounding enemies, with a small chance to stun.",以强大的意念摧毁一切异己的意志，小概率击晕敌对目标。
 PROPSKILL_TXT_000182,Psychic Square,混沌封印
@@ -261,7 +261,7 @@ PROPSKILL_TXT_000263,Strikes the enemy multiple times with the Yo-Yo.,使用飞�
 PROPSKILL_TXT_000264,Hit of Penya,乾坤一掷
 PROPSKILL_TXT_000265,Consumes your own Penya to strike the enemy with devastating force.,无视防御地攻击对方，造成伤害越大损失的金币也越多。
 PROPSKILL_TXT_000266,Escape,金蝉脱壳
-PROPSKILL_TXT_000267,Removes all debuffs from yourself.,移除所有负面状态。
+PROPSKILL_TXT_000267,Removes all debuffs from yourself.,移除自身所有负面状态。
 PROPSKILL_TXT_000268,Vital Stab,暗杀
 PROPSKILL_TXT_000269,A surprise attack that can only be used under Dark Illusion.,从潜行状态下现身，给予对方致命一击，有一定几率造成双倍伤害。
 PROPSKILL_TXT_000270,Critical Shot,致命射击
@@ -271,7 +271,7 @@ PROPSKILL_TXT_000273,"Shoots ice-covered arrows at the target enemy and surround
 PROPSKILL_TXT_000274,Flame Arrow,火焰箭矢
 PROPSKILL_TXT_000275,"Fires a flame-imbued arrow that leaves a burning field at the impact point, dealing damage over time to enemies within it.",赋予箭矢火元素，灼烧周围敌人。
 PROPSKILL_TXT_000276,Piercing Arrow,穿透箭
-PROPSKILL_TXT_000277,Fires a powerful arrow that pierces through enemies in a line.,提升弓箭伤害。
+PROPSKILL_TXT_000277,Fires a powerful arrow that pierces through enemies in a line.,对直线上的敌人造成贯穿伤害。
 PROPSKILL_TXT_000278,Poison Arrow,毒箭
 PROPSKILL_TXT_000279,"Shoots a poison-tipped arrow at the enemy, inflicting poison damage over time.",附毒的箭支有一定几率令敌人中毒。
 PROPSKILL_TXT_000280,Silent Arrow,沉默之箭
@@ -318,7 +318,7 @@ PROPSKILL_TXT_000351,Damages the target continuously over time.,在一定时间�
 PROPSKILL_TXT_000380,Shield Bash,盾牌猛击
 PROPSKILL_TXT_000381,"Strikes the target with your shield, with a chance to stun. Requires a shield.",使用盾牌攻击目标，有一定几率击晕敌人。需要装备盾牌。
 PROPSKILL_TXT_000378,Grand Rage,狂怒
-PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% of the damage dealt.,增强单持攻击力，从敌人身上偷取5%造成伤害的FP值。
+PROPSKILL_TXT_000379,A powerful one-handed attack that recovers FP equal to 5% of the damage dealt.,用单手武器造成强力一击，同时从敌人身上偷取5%造成伤害的FP值。
 PROPSKILL_TXT_000384,Heart of Fury,狂暴之心
 PROPSKILL_TXT_000385,Enhances combat ability at the cost of 1% of your maximum FP per strike. Damage is increased by 10% of your maximum FP. Requires a one-handed weapon.,提升10%最大FP值的普攻伤害，激活时每次普攻消耗1%最大FP值，需要单手武器。
 PROPSKILL_TXT_100000,Moon Beam,月光惩戒
