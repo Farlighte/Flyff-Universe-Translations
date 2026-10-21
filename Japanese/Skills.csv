@@ -215,7 +215,7 @@ PROPSKILL_TXT_000217,"Summons a raging lightning storm that strikes the target e
 PROPSKILL_TXT_000218,Sandstorm,サンドストーム
 PROPSKILL_TXT_000219,"Engulfs the target enemy and surrounding enemies in a violent sandstorm, with a chance to reduce their accuracy.",激しい砂嵐で対象と周囲の敵を攻撃し、一定確率で命中率を低下させます。
 PROPSKILL_TXT_000220,Blizzard,アバランチ
-PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",激しい雪崩で対象と周囲の敵にダメージを与え、高確率でスタンさせます。
+PROPSKILL_TXT_000221,"Summons a freezing blizzard on the target enemy, striking the target enemy and surrounding enemies, with a chance to stun.",激しい雪崩で対象と周囲の敵にダメージを与え、一定確率でスタンさせます。
 PROPSKILL_TXT_000222,Yo-Yo Mastery,ヨーヨーマスタリー
 PROPSKILL_TXT_000223,Increases damage dealt with Yo-Yos.,ヨーヨーの熟練度を上げ、装備時の攻撃力をアップさせます。
 PROPSKILL_TXT_000224,Bow Mastery,ボウマスタリー
@@ -380,20 +380,20 @@ PROPSKILL_TXT_100031,Bolstered,ボルスタード
 PROPSKILL_TXT_100032,Your defenses are enhanced.,防御力が強化されます。
 PROPSKILL_TXT_100033,Explode,エクスプロード
 PROPSKILL_TXT_100034,Curse of the Drowned Rangda,カースオブドロウン
-PROPSKILL_TXT_100035,"Monsters have increased attack, but take increased damage.",モンスターの攻撃力が上昇する代わりに、与えるダメージが増加します。
+PROPSKILL_TXT_100035,"Monsters have increased attack, but take increased damage.",モンスターの攻撃力が上昇する代わりに、モンスターに与えるダメージが増加します。
 PROPSKILL_TXT_100036,Shade's Cruel Bargain,シェードクルーエル
 PROPSKILL_TXT_100037,"Monsters explode on death, but have an increased drop rate.",モンスターの死亡時の爆発でダメージを受ける代わりに、ドロップ率が上昇します。
 PROPSKILL_TXT_100038,Iblis Touched,イブリスタッチ
 PROPSKILL_TXT_100039,"Monsters reflect damage, but have an increased drop rate.",モンスターがダメージを反射する代わりに、ドロップ率が上昇します。
 PROPSKILL_TXT_100040,Rhisis' Assistance,リシスアシスタンス
-PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their HP per second, but grant increased EXP.",モンスターが毎秒一定量のHPを回復する代わりに、獲得経験値が増加します。
-PROPSKILL_TXT_100042,"Monsters have increased movement speed, but take increased damage.",モンスターの移動速度が上昇する代わりに、与えるダメージが増加します。
+PROPSKILL_TXT_100041,"Monsters regenerate a percentage of their HP per second, but grant increased EXP.",モンスターが毎秒HPの一定割合を回復する代わりに、獲得経験値が増加します。
+PROPSKILL_TXT_100042,"Monsters have increased movement speed, but take increased damage.",モンスターの移動速度が上昇する代わりに、モンスターに与えるダメージが増加します。
 PROPSKILL_TXT_100043,Dagger from Within,ダガーフロムウィズイン
 PROPSKILL_TXT_100044,"Monsters have increased Critical Chance, but grant increased EXP.",モンスターのクリティカル率が上昇する代わりに、獲得経験値が増加します。
 PROPSKILL_TXT_100045,Phantom Pain,ファントムペイン
 PROPSKILL_TXT_100046,"Monsters have a chance to strike twice, but have an increased drop rate.",モンスターが一定確率で2回攻撃する代わりに、ドロップ率が上昇します。
 PROPSKILL_TXT_100047,Drain of Iblis,ドレインオブイブリス
-PROPSKILL_TXT_100048,"Monsters gain lifesteal, but take increased damage.",モンスターがライフスティール効果を得る代わりに、与えるダメージが増加します。
+PROPSKILL_TXT_100048,"Monsters gain lifesteal, but take increased damage.",モンスターがライフスティール効果を得る代わりに、モンスターに与えるダメージが増加します。
 PROPSKILL_TXT_100049,Shade's Adrenaline,シェードアドレナリン
 PROPSKILL_TXT_100050,"Monsters have increased Attack Speed, but have an increased drop rate.",モンスターの攻撃速度が上昇する代わりに、ドロップ率が上昇します。
 PROPSKILL_TXT_100051,Life-linked,ライフリンク
@@ -423,7 +423,7 @@ PROPSKILL_TXT_100074,A portion of the damage you deal to this monster is reflect
 PROPSKILL_TXT_100075,Siren's Call,セイレーンの呼び声
 PROPSKILL_TXT_100076,"The Siren draws you closer. Her pain is your pain, redirecting a portion of any damage dealt to her to you.",セイレーンに引き寄せられ、セイレーンへのダメージの一部を自分も受けてしまいます。
 PROPSKILL_TXT_100077,Double Vision,ダブルビジョン
-PROPSKILL_TXT_100078,"Your perception fractures. You take double damage, but your damage against monsters is doubled.",感覚が乱れ、受けるダメージが2倍になる代わりに、モンスターに与えるダメージも2倍になります。
+PROPSKILL_TXT_100078,"Your perception fractures. You take double damage, but your damage against monsters is doubled.",感覚が乱れ、受けるダメージが2倍になる代わりに、モンスターに与えるダメージが2倍になります。
 PROPSKILL_TXT_100079,Pack Tactics,パックタクティクス
 PROPSKILL_TXT_100080,This monster gains increased Attack while fighting alongside allies.,このモンスターは仲間と一緒に戦っている間、攻撃力が上昇します。
 PROPSKILL_TXT_100081,"You are caught in a gravitational well, suffering damage over time and greatly reduced movement speed.",強い重力に捕らわれ、継続的にダメージを受けるとともに、移動速度が大幅に低下します。
@@ -853,7 +853,7 @@ PROPSKILL_TXT_150291,Focus your mind to launch a damaging orb towards your targe
 PROPSKILL_TXT_150292,Continuous Shooting,連射
 PROPSKILL_TXT_150293,Nen Mastery,ネンマスタリー
 PROPSKILL_TXT_150295,Aura Bomb,オーラボム
-PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.", 周囲のエネルギーを時間をかけて集め、指定範囲に放って大ダメージを与えます。
+PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.",周囲のエネルギーを時間をかけて集め、指定範囲に放って大ダメージを与えます。
 PROPSKILL_TXT_150297,Casting Time Reduction,詠唱時間短縮
 PROPSKILL_TXT_150298,Range Enhancement,ワイドレンジ
 PROPSKILL_TXT_150300,Enlightenment,エンライトメント
@@ -882,7 +882,7 @@ PROPSKILL_TXT_150330,"When Nen charge reaches 20, your critical hits will be mor
 PROPSKILL_TXT_150331,Tenacity,テナシティ
 PROPSKILL_TXT_150332,Debuffs applied on you do not last as long.,自身が受ける状態異常の持続時間を短縮します。
 PROPSKILL_TXT_150333,Marked Attack,マークドアタック
-PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,同じ敵に通常攻撃を5回当てると、追加ダメージを与え、[念]を1つ獲得します。
+PROPSKILL_TXT_150334,Normal attacks leave a mark. Hitting the same enemy 5 times deals bonus damage and grants 1 Nen stack.,通常攻撃で敵にマークを付与します。同じ敵に5回攻撃を当てると追加ダメージを与え、[念]を1つ獲得します。
 PROPSKILL_TXT_150335,Nen Acquisition,ネンアクワイア
 PROPSKILL_TXT_150336,Increases your chance to gain an additional Nen stack when using Concentration.,コンセントレイト使用時、追加で[念]を獲得する確率が上昇します。
 PROPSKILL_TXT_150337,Toxic Assault,トキシックアサルト
