@@ -12266,10 +12266,10 @@ PROPITEM_TXT_018317,Fennith Boots,フェニスブーツ
 PROPITEM_TXT_018319,Fennith Gauntlets,フェニスガントレット
 PROPITEM_TXT_018321,Fennith Helmet,フェニスヘルメット
 PROPITEM_TXT_018323,Fennith Suit,フェニススーツ
-PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",原始的なエネルギーで脈動する荒野の謎のアーティファクト
+PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",ザ・ワイルズで発見された、原始の力が脈動する神秘的な装備品。
 PROPITEM_TXT_122300,Crumbling Coral Cutlass,朽ちたコーラルカットラス
 PROPITEM_TXT_122301,Lethargic Leviathan,力を失ったリヴァイアサン
-PROPITEM_TXT_122302,Neglected Nautilus,放置されたノーチラス
+PROPITEM_TXT_122302,Neglected Nautilus,放置されたオウムガイ
 PROPITEM_TXT_122303,Archaic Abyss,古びたアビス
 PROPITEM_TXT_122304,Nebulous Nemo's Fury,くすんだニモの怒り
 PROPITEM_TXT_122305,Tarnished Typhoon,輝きを失ったタイフーン
@@ -12408,7 +12408,7 @@ PROPITEM_TXT_019448,Seakissed Marinfury Gauntlets,シーキスドマリンフュ
 PROPITEM_TXT_019450,Seakissed Marinfury Boots,シーキスドマリンフューリーブーツ
 PROPITEM_TXT_019451,Destroyed Coral Cutlass,破壊されたコーラルカットラス
 PROPITEM_TXT_019452,Destroyed Leviathan,破壊されたリヴァイアサン
-PROPITEM_TXT_019453,Destroyed Nautilus,破壊されたノーチラス
+PROPITEM_TXT_019453,Destroyed Nautilus,破壊されたオウムガイ
 PROPITEM_TXT_019454,Destroyed Abyss,破壊されたアビス
 PROPITEM_TXT_019455,Destroyed Nemo's Fury,破壊されたニモの怒り
 PROPITEM_TXT_019456,Destroyed Typhoon,破壊されたタイフーン
@@ -24566,47 +24566,47 @@ PROPITEM_TXT_155515,Vial of Toxins,毒の小瓶
 PROPITEM_TXT_155516,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.,致死性の毒物が入った小瓶。ハーレクインの毒スキル使用に必要。
 PROPITEM_TXT_155517,Broken Butcher's Carnage,壊れたノトス
 PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,傷だらけのノトス
-PROPITEM_TXT_155519,Cursed Butcher's Carnage,呪われたノトス
+PROPITEM_TXT_155519,Cursed Butcher's Carnage,呪いのノトス
 PROPITEM_TXT_155520,Butcher's Carnage,ノトス
 PROPITEM_TXT_155521,Broken Dragon's Rain,壊れたアサルトレイン
 PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,傷だらけのアサルトレイン
-PROPITEM_TXT_155523,Cursed Dragon's Rain,呪われたアサルトレイン
+PROPITEM_TXT_155523,Cursed Dragon's Rain,呪いのアサルトレイン
 PROPITEM_TXT_155524,Dragon's Rain,アサルトレイン
 PROPITEM_TXT_155525,Broken Maw of Judgement,壊れたジャッジメント
 PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,傷だらけのジャッジメント
-PROPITEM_TXT_155527,Cursed Maw of Judgement,呪われたジャッジメント
+PROPITEM_TXT_155527,Cursed Maw of Judgement,呪いのジャッジメント
 PROPITEM_TXT_155528,Maw of Judgement,ジャッジメント
 PROPITEM_TXT_155529,Broken Roika's Staff,壊れたエウロス
 PROPITEM_TXT_155530,Battle-Worn Roika's Staff,傷だらけのエウロス
-PROPITEM_TXT_155531,Cursed Roika's Staff,呪われたエウロス
+PROPITEM_TXT_155531,Cursed Roika's Staff,呪いのエウロス
 PROPITEM_TXT_155532,Roika's Staff,エウロス
 PROPITEM_TXT_155533,Broken Oracle,壊れたオラクル
 PROPITEM_TXT_155534,Battle-Worn Oracle,傷だらけのオラクル
-PROPITEM_TXT_155535,Cursed Oracle,呪われたオラクル
+PROPITEM_TXT_155535,Cursed Oracle,呪いのオラクル
 PROPITEM_TXT_155536,Oracle,オラクル
 PROPITEM_TXT_155537,Broken Curtana,壊れたロンバルディア
 PROPITEM_TXT_155538,Battle-Worn Curtana,傷だらけのロンバルディア
-PROPITEM_TXT_155539,Cursed Curtana,呪われたロンバルディア
+PROPITEM_TXT_155539,Cursed Curtana,呪いのロンバルディア
 PROPITEM_TXT_155540,Curtana,ロンバルディア
 PROPITEM_TXT_155541,Broken K Fang,壊れたゼピュロス
 PROPITEM_TXT_155542,Battle-Worn K Fang,傷だらけのゼピュロス
-PROPITEM_TXT_155543,Cursed K Fang,呪われたゼピュロス
+PROPITEM_TXT_155543,Cursed K Fang,呪いのゼピュロス
 PROPITEM_TXT_155544,K Fang,ゼピュロス
 PROPITEM_TXT_155545,Broken Harbinger,壊れたマンイーター
 PROPITEM_TXT_155546,Battle-Worn Harbinger,傷だらけのマンイーター
-PROPITEM_TXT_155547,Cursed Harbinger,呪われたマンイーター
+PROPITEM_TXT_155547,Cursed Harbinger,呪いのマンイーター
 PROPITEM_TXT_155548,Harbinger,マンイーター
 PROPITEM_TXT_155549,Broken Celestial Edge,壊れたバルムンク
 PROPITEM_TXT_155550,Battle-Worn Celestial Edge,傷だらけのバルムンク
-PROPITEM_TXT_155551,Cursed Celestial Edge,呪われたバルムンク
+PROPITEM_TXT_155551,Cursed Celestial Edge,呪いのバルムンク
 PROPITEM_TXT_155552,Celestial Edge,バルムンク
 PROPITEM_TXT_155553,Broken Scepter of Disorder,壊れたボレアス
 PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,傷だらけのボレアス
-PROPITEM_TXT_155555,Cursed Scepter of Disorder,呪われたボレアス
+PROPITEM_TXT_155555,Cursed Scepter of Disorder,呪いのボレアス
 PROPITEM_TXT_155556,Scepter of Disorder,ボレアス
 PROPITEM_TXT_155557,Broken Dementia,壊れたゼファー
 PROPITEM_TXT_155558,Battle-Worn Dementia,傷だらけのゼファー
-PROPITEM_TXT_155559,Cursed Dementia,呪われたゼファー
+PROPITEM_TXT_155559,Cursed Dementia,呪いのゼファー
 PROPITEM_TXT_155560,Dementia,ゼファー
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,アルティマボーナスの巻物II
 PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,アルティマ武器に付与されたランダムなステータスと特殊オプションの値をリセットします。
