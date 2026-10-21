@@ -152,7 +152,7 @@ PROPSKILL_TXT_000151,A medium-ranged mental attack.,给对象施加无属性的�
 PROPSKILL_TXT_000152,Fire Strike,灼烈幻火
 PROPSKILL_TXT_000153,"Blasts the enemy with a ball of fire, setting them ablaze and making them more susceptible to water attacks.",召唤灼热的火焰，让对方受到灼烧，降低其水属性抵抗。
 PROPSKILL_TXT_000154,Wind Cutter,风之利刃
-PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",用锋利的风刃刺烈对方的身体。率降低目标的抗性。
+PROPSKILL_TXT_000155,"Slices the enemy with cutting winds, leaving them exposed and more susceptible to fire attacks.",用锋利的风刃刺烈对方的身体。降低目标的抗性。
 PROPSKILL_TXT_000156,Waterball,水球凝聚
 PROPSKILL_TXT_000157,A water attack that shoots multiple water orbs at the target.,将水凝聚成水球连续发射。
 PROPSKILL_TXT_000158,Water Well,激流冲击
