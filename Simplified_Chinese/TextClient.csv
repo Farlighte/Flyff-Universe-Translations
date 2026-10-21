@@ -1160,7 +1160,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough Penya in your 
 TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",你的公会现在可以放置公会飞船神器了！查看公会窗口选项卡“公会飞船”，了解更多信息。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,现在还不是设置神器生成位置的时候。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,您的公会失去了公会飞船的所有权，因为本周没有放置任何神器。
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,公会飞船神器已刷新! 在PK频道搜寻它们以获得战舰所有权!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,公会飞船神器已刷新! 在PK频道搜寻它们以获得公会飞船所有权!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,你的队伍摧毁了一个公会飞船神器! 公会飞船现在归你们所有!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,你的队伍摧毁了一个公会飞船神器！
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s Penya has been deposited into your guild bank. Congratulations!,%s金币已存入你们的公会仓库。恭喜！
