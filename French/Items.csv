@@ -23246,7 +23246,7 @@ PROPITEM_TXT_901404,The Rose Pink Yukata Set for male characters.,Ensemble Yukat
 PROPITEM_TXT_901405,Rose Pink Yukata (F) Costume Set,Ensemble Costume Yukata Rose (F)
 PROPITEM_TXT_901406,The Rose Pink Yukata Set for female characters.,Ensemble Yukata Rose pour personnages féminins.
 PROPITEM_TXT_134812,FWC Coin,Jeton FWC
-PROPITEM_TXT_134813,Betting currency,Monnaie de paris
+PROPITEM_TXT_134813,Betting currency,"Un jeton à l’effigie du FWC, utilisé pour participer aux paris et tenter votre chance. Misez judicieusement, car la victoire appartient à ceux qui osent !"
 PROPITEM_TXT_134814,2025 FWC Championship Pass,Pass Championnat FWC 2025
 PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season,Achat donnant accès à de nombreux avantages jusqu'à la fin de la saison du Pass Championnat FWC 2025.
 PROPITEM_TXT_134816,FWC Bonus Playtime Coupon,Bon de présence supplémentaire FWC
@@ -23362,12 +23362,12 @@ PROPITEM_TXT_134823,2025 FWC PopCorn Select box,Boîte de Sélection PopCorn FWC
 PROPITEM_TXT_134824,A Select Box filled with variety FWC buff items. You can choose 1 item from it,Une boîte de sélection remplie de divers buffs FWC. Vous pouvez en choisir 1.
 PROPITEM_TXT_134825,FWC Red Hot Fries,Frites Française FWC Brûlante
 PROPITEM_TXT_134826,Recovers 9999 HP,Aliment rechargeant instantanément 9999 PV. Sont-elles vraiment chaudes ou juste très épicées ?
-PROPITEM_TXT_134827,FWC BBQ Fries,Frites FWC BBQ
-PROPITEM_TXT_134828,Recovers 9999 FP,Aliment rechargeant instantanément 9999 PF.
+PROPITEM_TXT_134827,FWC BBQ Fries,Frites Belges FWC BBQ
+PROPITEM_TXT_134828,Recovers 9999 FP,Aliment rechargeant instantanément 9999 PF. De délicieuses frites belges nappées d'une sauce BBQ savoureuse.
 PROPITEM_TXT_134829,FWC Sparkling Lemon Water,Eau Pétillante Citron FWC
-PROPITEM_TXT_134830,Recovers 9999 MP,Aliment rechargeant instantanément 9999 PM.
-PROPITEM_TXT_134831,FWC Special combo,Combo spécial FWC
-PROPITEM_TXT_134832,20% HP recovered upon use,Récupère 20% des PV à l'utilisation
+PROPITEM_TXT_134830,Recovers 9999 MP,"Des bulles, du citron et un max de fraîcheur ! Cette eau pétillante au goût citronné vous fera voir la vie en jaune. Un petit coup de citron qui fait des miracles : restaure 9999 PM !"
+PROPITEM_TXT_134831,FWC Special combo,McFWC
+PROPITEM_TXT_134832,20% HP recovered upon use,"Un menu digne des plus grands champions du FWC ! Burger, frites et boisson : le combo parfait pour reprendre des forces avant de retourner mettre la raclée à vos adversaires. Restaure 20 % de vos PV."
 PROPITEM_TXT_134833,2025 FWC Red PopCorn,PopCorn Rouge FWC 2025
 PROPITEM_TXT_134834,This 2025 FWC Red PopCorn will grant you +25 STR for 30 minutes.,Cet PopCorn Rouge FWC 2025 vous donnera +25 STR pendant 30 minutes
 PROPITEM_TXT_134835,2025 FWC Green PopCorn,PopCorn Vert FWC 2025
