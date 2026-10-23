@@ -13449,7 +13449,7 @@ PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on t
 PROPITEM_TXT_131874,[Guild Ship NPC] Cobao,[公会飞船 NPC] Cobao
 PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.,该NPC在放置在公会飞船中时会给予以下加成：治疗 +3%。
 PROPITEM_TXT_131876,[Guild Ship NPC] Aibao,[公会飞船 NPC] Aibao
-PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,该NPC在放置在公会飞船中时会给予以下加成：魔法抗性 +3%。
+PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,该NPC在放置在公会飞船中时会给予以下加成：魔法抵抗 +3%。
 PROPITEM_TXT_131878,[Guild Ship NPC] Nanco,[公会飞船 NPC] Nanco
 PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.,该NPC在放置在公会飞船中时会给予以下加成：暴击抵抗 +3%。
 PROPITEM_TXT_131880,[Guild Ship NPC] Asa,[公会飞船 NPC] Asa
@@ -17254,7 +17254,7 @@ PROPITEM_TXT_800168,Gives +10% speed when applied to a ultimate weapon. Can only
 PROPITEM_TXT_800169,Gives +10% critical chance when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，暴击率 +10%，不可重复镶嵌。
 PROPITEM_TXT_800170,Gives +10% critical bonus when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，暴击伤害 +10%，不可重复镶嵌。
 PROPITEM_TXT_800171,Gives +10% hit rate when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，命中率 +10%，不可重复镶嵌。
-PROPITEM_TXT_800172,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，魔法抗性 +10%，不可重复镶嵌。
+PROPITEM_TXT_800172,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，魔法抵抗 +10%，不可重复镶嵌。
 PROPITEM_TXT_800173,Gives +10% critical resistance when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，暴击抵抗 +10%，不可重复镶嵌。
 PROPITEM_TXT_800174,Gives +10% melee block when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，近距离格挡 +10%，不可重复镶嵌。
 PROPITEM_TXT_800175,Gives +10% range block when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，远距离格挡 +10%，不可重复镶嵌。
@@ -30459,8 +30459,8 @@ PROPITEM_TXT_1903573,FWC 2026 Buff - PvP Critical Damage,FWC2026Buff - PvP暴击
 PROPITEM_TXT_1903574,This FWC 2026 Buff will grant you PvP Critical Damage +3% for 1 hour.,该FWC 2026增益将为你提供PvP暴击伤害 +3%，持续1小时。
 PROPITEM_TXT_1903575,FWC 2026 Buff - Healing,FWC2026Buff - 治疗量
 PROPITEM_TXT_1903576,This FWC 2026 Buff will grant you Healing +3% for 1 hour.,该FWC 2026增益将为你提供治疗量 +3%，持续1小时。
-PROPITEM_TXT_1903577,FWC 2026 Buff - Magic Resistance,FWC2026Buff - 魔法抗性
-PROPITEM_TXT_1903578,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.,该FWC 2026增益将为你提供魔法抗性 +3%，持续1小时。
+PROPITEM_TXT_1903577,FWC 2026 Buff - Magic Resistance,FWC2026Buff - 魔法抵抗
+PROPITEM_TXT_1903578,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.,该FWC 2026增益将为你提供魔法抵抗 +3%，持续1小时。
 PROPITEM_TXT_1903579,FWC 2026 Buff - Critical Resist,FWC2026Buff - 暴击抵抗
 PROPITEM_TXT_1903580,This FWC 2026 Buff will grant you Critical Resist +3% for 1 hour.,该FWC 2026增益将为你提供暴击抵抗 +3%，持续1小时。
 PROPITEM_TXT_1903581,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 FWC 2026 Popcorn Select box.","“掷幸运骰子”第三次完成奖励！\n可获得3x [活动] 商店置顶随机箱, 3x 彩色羽毛, 以及 20x FWC 2026 爆米花选择箱。"
@@ -30772,9 +30772,9 @@ PROPITEM_TXT_522583,Increased Defense: 150. Lasts 10 Mins.,防御力 +150，持�
 PROPITEM_TXT_522584,Increased Defense: 10%. Lasts 10 Mins.,防御力 +10%，持续10分钟。
 PROPITEM_TXT_522585,Increased Defense: 10%. Lasts 10 Mins.,防御力 +10%，持续10分钟。
 PROPITEM_TXT_522586,Increased Defense: 10%. Lasts 10 Mins.,防御力 +10%，持续10分钟。
-PROPITEM_TXT_522587,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抗性 +8%，持续10分钟。
-PROPITEM_TXT_522588,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抗性 +8%，持续10分钟。
-PROPITEM_TXT_522589,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抗性 +8%，持续10分钟。
+PROPITEM_TXT_522587,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抵抗 +8%，持续10分钟。
+PROPITEM_TXT_522588,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抵抗 +8%，持续10分钟。
+PROPITEM_TXT_522589,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抵抗 +8%，持续10分钟。
 PROPITEM_TXT_522590,Increased Elemental Attack: 15%. Lasts 20 Mins.,元素攻击 +15%，持续20分钟。
 PROPITEM_TXT_522591,Increased Elemental Attack: 15%. Lasts 20 Mins.,元素攻击 +15%，持续20分钟。
 PROPITEM_TXT_522592,Increased Elemental Attack: 15%. Lasts 20 Mins.,元素攻击 +15%，持续20分钟。

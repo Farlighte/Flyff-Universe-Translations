@@ -193,12 +193,12 @@ UI_TOOLTIP_ABILITYMIN,Min. Ability,最小能力
 UI_TOOLTIP_ABILITYMAX,Max. Ability,最大能力
 UI_TOOLTIP_DEFENSE,Defense,防御力
 UI_TOOLTIP_DEFMAGIC,Magic Defense,魔法防御力
-UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,雷属性抗性
-UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,全元素属性抗性
-UI_TOOLTIP_DEFFIRE,Fire Resistance,火属性抗性
-UI_TOOLTIP_DEFWIND,Wind Resistance,风属性抗性
-UI_TOOLTIP_DEFWATER,Water Resistance,水属性抗性
-UI_TOOLTIP_DEFEARTH,Earth Resistance,土属性抗性
+UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,雷属性抵抗
+UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,全元素属性抵抗
+UI_TOOLTIP_DEFFIRE,Fire Resistance,火属性抵抗
+UI_TOOLTIP_DEFWIND,Wind Resistance,风属性抵抗
+UI_TOOLTIP_DEFWATER,Water Resistance,水属性抵抗
+UI_TOOLTIP_DEFEARTH,Earth Resistance,土属性抵抗
 UI_CHARINFO_ELEMENTDEF,Resistance,抵抗
 UI_CHARINFO_ELEMENTMASTRY,Mastery,精通
 UI_TOOLTIP_HP,HP,HP
@@ -1162,8 +1162,8 @@ UI_ACHIEVEMENTS_CLAIMTIP,Claim your rewards,领取你的奖励！
 UI_ACHIEVEMENTS_CLAIMTIP_RAND,Try your luck and see what you get today!,转动轮盘!今天是你的幸运日吗?
 UI_ACHIEVEMENTS_AVAILABLE,Available,可领取
 UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,该成就已完成！
-UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,团队等级要求: %d
-UI_TOOLTIP_PARTY_POINTS,Required Points: %d,要求的点数: %d
+UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,必要剧团等级: %d
+UI_TOOLTIP_PARTY_POINTS,Required Points: %d,必要剧团点数: %d
 UI_PARTY_PERMANENT_CONFIRM,This scroll will transform your party into a permanent party. Offline members will no longer be removed automatically. This scroll applies only to your current party and will not affect any party you create or join later. Use it now?,当你的团队成员离线时，他们将不再会自动退团。如果你创建或加入另一个团队，这将不会影响到新团队。你确定要使用吗？
 UI_PARTY_PERMANENT,Permanent Party,永久剧团
 UI_SEARCHPARTY_TITLE,Search Party,搜索剧团
@@ -1264,7 +1264,7 @@ UI_CASHSHOP_PENYA,Penya,金币
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),金币（VIP）
 UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,此物品#b无法交易或出售#nb
 UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,此次购买 #b不是商品#nb。
-UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,暴击抗性
+UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,暴击抵抗
 UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,PvP伤害减免
 UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,PvE伤害减免
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,魔法抵抗
