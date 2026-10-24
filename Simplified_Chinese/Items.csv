@@ -4730,10 +4730,10 @@ PROPITEM_TXT_014517,,
 PROPITEM_TXT_014524,Blue Bike,蓝色摩托
 PROPITEM_TXT_015134,Super Chameleon,超级变色龙
 PROPITEM_TXT_015135,Cha-me-ha-le-on! Only the Bat chameleon can beat him.,变—色—龙！只有蝙蝠变色龙才能打败它。
-PROPITEM_TXT_016115,Golden Glory wings,荣耀金翼
-PROPITEM_TXT_016116,Soar through the clouds in style with these Golden Glory Wings.,带着这荣耀金翼在云端翱翔。
+PROPITEM_TXT_016115,Golden Glory wings,金色荣耀之翼
+PROPITEM_TXT_016116,Soar through the clouds in style with these Golden Glory Wings.,带着这金色荣耀金翼在云端翱翔。
 PROPITEM_TXT_016117,Silver Glory Wings,银色荣耀之翼
-PROPITEM_TXT_016118,Soar through the clouds in style with these Silver Glory Wings.,带着这些银色荣耀之翼在云端翱翔。
+PROPITEM_TXT_016118,Soar through the clouds in style with these Silver Glory Wings.,带着这银色荣耀之翼在云端翱翔。
 PROPITEM_TXT_016119,Bronze Glory Wings,青铜荣耀之翼
 PROPITEM_TXT_016120,Soar through the clouds in style with these Bronze Glory Wings.,带着这青铜荣耀之翼在云端翱翔。
 PROPITEM_TXT_016133,Galaxy Guitar,银河吉他
@@ -6117,10 +6117,10 @@ PROPITEM_TXT_009265,Feed Bag (1 day),饲料包 (1天)
 PROPITEM_TXT_009266,Feed Bag (7 days),饲料包 (7天)
 PROPITEM_TXT_009267,Feed Bag (15 days),饲料包 (15天)
 PROPITEM_TXT_009268,Feed Bag (30 days),饲料包 (30天)
-PROPITEM_TXT_009269,Does not reduce the energy of Raised pets for 1 day when used.,使用后召唤兽能量在1天内的不会减少。
-PROPITEM_TXT_009270,Does not reduce the energy of Raised pets for 7 days when used.,使用后召唤兽能量在7天内的不会减少。
-PROPITEM_TXT_009271,Does not reduce the energy of Raised pets for 15 days when used.,使用后召唤兽能量在15天内的不会减少。
-PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,使用后召唤兽能量在30天内的不会减少。
+PROPITEM_TXT_009269,Does not reduce the energy of Raised pets for 1 day when used.,使用后召唤兽的能量在1天内不会减少。
+PROPITEM_TXT_009270,Does not reduce the energy of Raised pets for 7 days when used.,使用后召唤兽的能量在7天内不会减少。
+PROPITEM_TXT_009271,Does not reduce the energy of Raised pets for 15 days when used.,使用后召唤兽的能量在15天内不会减少。
+PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,使用后召唤兽的能量在30天内不会减少。
 PROPITEM_TXT_010008,Scroll of Change Raised Pet Name,召唤兽改名卷轴
 PROPITEM_TXT_010009,A Special Scroll used to name your summoned pet. This scroll only works on raised pets.,用来给当前召唤宠物命名的特殊卷轴。 此卷轴仅适用于属性宠。
 PROPITEM_TXT_009056,Scroll of Pet Revival Piece (S Class),宠物复活卷轴碎片(S)
@@ -8418,11 +8418,11 @@ PROPITEM_TXT_101743,Creepy Giraffe Set,搞怪长颈鹿套装
 PROPITEM_TXT_101744,Halloween Balloons Box,万圣节气球箱
 PROPITEM_TXT_101745,Select which balloons you want to select!,打开后可从列表中选择你想要的气球！
 PROPITEM_TXT_101746,Halloween Ogre Balloons,万圣节食人魔气球
-PROPITEM_TXT_101747,Stunning Halloween Balloons that increase your Exp by +50% and Attack Power (ATK) by +50.,这种惊艳的万圣节气球能让你的怪物经验 + 50%，攻击力 + 50！
+PROPITEM_TXT_101747,Stunning Halloween Balloons that increase your Exp by +50% and Attack Power (ATK) by +50.,这种惊艳的万圣节气球能让你的经验+50%，攻击力+50！
 PROPITEM_TXT_101748,Halloween Skull Balloons,万圣节骷髅气球
-PROPITEM_TXT_101749,Beautiful Halloween Balloons that increase your Exp by +50% and your Defense (DEF) by +100.,这种精美的万圣节气球能让你的怪物经验 + 50%，防御力 + 100！
+PROPITEM_TXT_101749,Beautiful Halloween Balloons that increase your Exp by +50% and your Defense (DEF) by +100.,这种精美的万圣节气球能让你的经验+50%，防御力+100！
 PROPITEM_TXT_101750,Halloween Pumpkin Balloons,万圣节南瓜气球
-PROPITEM_TXT_101751,Pretty Halloween Balloons that increase your Exp by +50% and your Health Points (HP) by +150.,这种可爱的万圣节气球能让你的怪物经验 + 50%，最大HP + 150！
+PROPITEM_TXT_101751,Pretty Halloween Balloons that increase your Exp by +50% and your Health Points (HP) by +150.,这种可爱的万圣节气球能让你的经验+50%，最大HP+150！
 PROPITEM_TXT_008106,Pumpkin Mask,南瓜面具
 PROPITEM_TXT_101752,Special Event Reward (1st),特别活动奖励（第1名）
 PROPITEM_TXT_101753,Special Event Reward (2nd),特别活动奖励（第2名）
