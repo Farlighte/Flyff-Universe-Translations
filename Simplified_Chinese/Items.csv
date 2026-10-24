@@ -57,10 +57,10 @@ PROPITEM_TXT_000114,Runaicing Sword,冰灵之剑
 PROPITEM_TXT_000116,Shadeving Sword,星灵之剑
 PROPITEM_TXT_000118,Fireise Sword,焚城之剑
 PROPITEM_TXT_000120,Hotter Sword,火烈之剑
-PROPITEM_TXT_000122,Curin Axe,大斧
-PROPITEM_TXT_000124,Rodney Axe,铁斧头
-PROPITEM_TXT_000126,Steel Axe,青铜斧头
-PROPITEM_TXT_000128,Morrow Axe,格斗斧头
+PROPITEM_TXT_000122,Curin Axe,铁斧头
+PROPITEM_TXT_000124,Rodney Axe,大斧
+PROPITEM_TXT_000126,Steel Axe,格斗斧头
+PROPITEM_TXT_000128,Morrow Axe,青铜斧头
 PROPITEM_TXT_000130,Crenil Axe,精钢战斧
 PROPITEM_TXT_000132,Curning Axe,长刃战斧
 PROPITEM_TXT_000134,Sephir Axe,勇者之斧
@@ -2300,84 +2300,84 @@ PROPITEM_TXT_004307,General Upgrade: +6 to +10,精炼材料:+6到+10
 PROPITEM_TXT_004308,Power Dice 8,8点精炼骰子
 PROPITEM_TXT_004309,Used for Piercing and Accessory Upgrade (Medium Success Rate),用于穿洞和首饰及采集道具精炼\n(成功率中等)
 PROPITEM_TXT_004310,Power Dice 10,10点精炼骰子
-PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),用于穿洞和首饰精炼(高成功率)
+PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),用于穿洞和首饰精炼\n(高成功率)
 PROPITEM_TXT_004312,Power Dice 12,12点精炼骰子
-PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),普通精炼: +1至+10 (高成功率)
+PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),普通精炼: +1至+10\n(高成功率)
 PROPITEM_TXT_004314,Volcano Card (2%),火属性装备卡片(2%)
-PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (当放置在穿洞衣服时)
+PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004316,Volcano Card (4%),火属性装备卡片(4%)
-PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (当放置在穿洞衣服时)
+PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004318,Volcano Card (7%),火属性装备卡片(7%)
-PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (当放置在穿洞衣服时)
+PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004320,Ocean Card (2%),水属性装备卡片(2%)
-PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (当放置在穿洞衣服时)
+PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004322,Ocean Card (4%),水属性装备卡片(4%)
-PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (当放置在穿洞衣服时)
+PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004324,Ocean Card (7%),水属性装备卡片(7%)
-PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (当放置在穿洞衣服时)
+PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004326,Vacuum Card (2%),风属性装备卡片(2%)
-PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (当放置在穿洞衣服时)
+PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004328,Vacuum Card (4%),风属性装备卡片(4%)
-PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (当放置在穿洞衣服时)
+PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004330,Vacuum Card (7%),风属性装备卡片(7%)
-PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (当放置在穿洞衣服时)
+PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004332,Lightning Card (2%),雷属性装备卡片(2%)
-PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% 攻击力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% 攻击力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004334,Lightning Card (4%),雷属性装备卡片(4%)
-PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% 攻击力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% 攻击力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004336,Lightning Card (7%),雷属性装备卡片(7%)
-PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% 攻击力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% 攻击力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004338,Earthquake Card (2%),土属性装备卡片(2%)
-PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% 防御力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% 防御力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004340,Earthquake Card (4%),土属性装备卡片(4%)
-PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% 防御力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% 防御力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004342,Earthquake Card (7%),土属性装备卡片(7%)
-PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% 防御力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% 防御力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004348,Vuul Card,佛狱卡片
-PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% 攻击力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% 攻击力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004350,Vulcanus Card,佛克娜丝卡片
-PROPITEM_TXT_004351,+1% Defense (When placed in a pierced suit),+1% 防御力 (当放置在穿洞衣服时)
+PROPITEM_TXT_004351,+1% Defense (When placed in a pierced suit),+1% 防御力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004352,Vulkan Card,佛砍卡片
-PROPITEM_TXT_004353,+1% Max. HP (When placed in a pierced suit),+1% 最大HP (当放置在穿洞衣服时)
+PROPITEM_TXT_004353,+1% Max. HP (When placed in a pierced suit),+1% 最大HP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004354,Mountain Breeze Card,莲卡片
 PROPITEM_TXT_004356,Mountain Wind Card,扇巴卡片
-PROPITEM_TXT_004357,+1% Max. MP (When placed in a pierced suit),+1% 最大MP (当放置在穿洞衣服时)
+PROPITEM_TXT_004357,+1% Max. MP (When placed in a pierced suit),+1% 最大MP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004358,Mountain Valley Wind Card,扇陀卡片
-PROPITEM_TXT_004359,+3% Max. HP (When placed in a pierced suit),+3% 最大HP (当放置在穿洞衣服时)
+PROPITEM_TXT_004359,+3% Max. HP (When placed in a pierced suit),+3% 最大HP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004360,Valley Wind Card,鼓风卡片
-PROPITEM_TXT_004361,+1% Max. FP (When placed in a pierced suit),+1% 最大FP (当放置在穿洞衣服时)
+PROPITEM_TXT_004361,+1% Max. FP (When placed in a pierced suit),+1% 最大FP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004362,Dust Whirl Card,震善卡片
-PROPITEM_TXT_004363,+3% Max. FP (When placed in a pierced suit),+3% 最大FP (当放置在穿洞衣服时)
+PROPITEM_TXT_004363,+3% Max. FP (When placed in a pierced suit),+3% 最大FP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004364,Geostrophic Wind Card,芝骏卡片
-PROPITEM_TXT_004365,+1% Deathblow (When placed in a pierced suit),+1% 致命打击 (当放置在穿洞衣服时)
+PROPITEM_TXT_004365,+1% Deathblow (When placed in a pierced suit),+1% 致命打击 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004366,Vurkan Card,芙洛克卡片
-PROPITEM_TXT_004367,+4% Deathblow (When placed in a pierced suit),+4% 致命打击 (当放置在穿洞衣服时)
+PROPITEM_TXT_004367,+4% Deathblow (When placed in a pierced suit),+4% 致命打击 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004368,Tine Card,椭任卡片
-PROPITEM_TXT_004369,+2% Deathblow Damage (When placed in a pierced suit),+2% 致命打击伤害 (当放置在穿洞衣服时)
+PROPITEM_TXT_004369,+2% Deathblow Damage (When placed in a pierced suit),+2% 致命打击伤害 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004370,Tan Card,潭卡片
-PROPITEM_TXT_004371,+5% Deathblow Damage (When placed in a pierced suit),+5% 致命打击伤害 (当放置在穿洞衣服时)
+PROPITEM_TXT_004371,+5% Deathblow Damage (When placed in a pierced suit),+5% 致命打击伤害 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004372,Microseism Card,迷震卡片
-PROPITEM_TXT_004373,+1% Casting Speed (When placed in a pierced suit),+1% 施法速度 (当放置在穿洞衣服时)
+PROPITEM_TXT_004373,+1% Casting Speed (When placed in a pierced suit),+1% 施法速度 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004374,Hypocenter Card,镇源卡片
-PROPITEM_TXT_004375,+4% Casting Speed (When placed in a pierced suit),+4% 施法速度 (当放置在穿洞衣服时)
+PROPITEM_TXT_004375,+4% Casting Speed (When placed in a pierced suit),+4% 施法速度 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004376,Epicenter Card,震仰卡片
-PROPITEM_TXT_004377,+1% Attack Speed (When placed in a pierced suit),+1% 攻击速度 (当放置在穿洞衣服时)
+PROPITEM_TXT_004377,+1% Attack Speed (When placed in a pierced suit),+1% 攻击速度 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004378,Moment Card,魔曼敦卡片
-PROPITEM_TXT_004379,+2% Attack Speed (When placed in a pierced suit),+2% 攻击速度 (当放置在穿洞衣服时)
+PROPITEM_TXT_004379,+2% Attack Speed (When placed in a pierced suit),+2% 攻击速度 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004380,Rayleigh Card,雷利卡片
-PROPITEM_TXT_004381,+2% Melee Block (When placed in a pierced suit),+2% 近距离格挡 (当放置在穿洞衣服时)
+PROPITEM_TXT_004381,+2% Melee Block (When placed in a pierced suit),+2% 近距离格挡 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004382,Tsunami Card,刺钠迷卡片
-PROPITEM_TXT_004383,+5% Melee Block (When placed in a pierced suit),+5% 近距离格挡 (当放置在穿洞衣服时)
+PROPITEM_TXT_004383,+5% Melee Block (When placed in a pierced suit),+5% 近距离格挡 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004384,Sweam Card,斯曼卡片
-PROPITEM_TXT_004385,-2% MP Consumption (When placed in a pierced suit),-2% MP消耗 (当放置在穿洞衣服时)
+PROPITEM_TXT_004385,-2% MP Consumption (When placed in a pierced suit),-2% MP消耗 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004386,Falm Card,魄仑卡片
-PROPITEM_TXT_004387,-4% MP Consumption (When placed in a pierced suit),-4% MP消耗 (当放置在穿洞衣服时)
+PROPITEM_TXT_004387,-4% MP Consumption (When placed in a pierced suit),-4% MP消耗 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004388,Acap Card,雅凯卡片
-PROPITEM_TXT_004389,-2% FP Consumption (When placed in a pierced suit),-2% FP消耗 (当放置在穿洞衣服时)
+PROPITEM_TXT_004389,-2% FP Consumption (When placed in a pierced suit),-2% FP消耗 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004390,Bilo Card,比罗卡片
-PROPITEM_TXT_004391,-4% FP Consumption (When placed in a pierced suit),-4% FP消耗 (当放置在穿洞衣服时)
+PROPITEM_TXT_004391,-4% FP Consumption (When placed in a pierced suit),-4% FP消耗 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004392,Adass Card,雅达特卡片
-PROPITEM_TXT_004393,-3% MP and FP consumption (When placed in a pierced suit),-3% MP和FP消耗 (当放置在穿洞衣服时)
+PROPITEM_TXT_004393,-3% MP and FP consumption (When placed in a pierced suit),-3% MP和FP消耗 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004394,Reaba Card,萝巴卡片
 PROPITEM_TXT_004395,+80 HP Recovery (When placed in a pierced suit),HP恢复率提升80
 PROPITEM_TXT_004396,Sikeki Card,施凯栖卡片
@@ -2411,9 +2411,9 @@ PROPITEM_TXT_004423,"Recovers 30 HP, MP, and FP with each kill (When placed in a
 PROPITEM_TXT_004424,Sunse Card,欣射卡片
 PROPITEM_TXT_004425,"Recovers 50 HP, MP, and FP with each kill (When placed in a pierced suit)",死亡时HP，MP，FP恢复率提升50
 PROPITEM_TXT_004426,Sunhung Card,炫型卡片
-PROPITEM_TXT_004427,+2% Moving Speed (When placed in a pierced suit),+2% 移动速度 (当放置在穿洞衣服时)
+PROPITEM_TXT_004427,+2% Moving Speed (When placed in a pierced suit),+2% 移动速度 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004428,Whabe Card,瓦裴卡片
-PROPITEM_TXT_004429,+5% Moving Speed (When placed in a pierced suit),+5% 移动速度 (当放置在穿洞衣服时)
+PROPITEM_TXT_004429,+5% Moving Speed (When placed in a pierced suit),+5% 移动速度 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_004430,Hachon Card,核千卡片
 PROPITEM_TXT_004431,STR +1 (When placed in a pierced suit),力量提升1
 PROPITEM_TXT_004432,Buklu Card,富罗卡片
@@ -2498,25 +2498,25 @@ PROPITEM_TXT_004521,INT Cloak,智力披风
 PROPITEM_TXT_004530,Tineined Stone,提娜刃之石
 PROPITEM_TXT_004531,Magic Stone for removing Attributes,删除属性的魔法石
 PROPITEM_TXT_004532,Firea Stone,蹈火之石
-PROPITEM_TXT_004533,Magic Stone that adds 20% Fire Attack to your Weapon. The Weapon must have Fire Element.,提升武器20%火属性攻击力的魔法石。武器必须有火属性。
+PROPITEM_TXT_004533,Magic Stone that adds 20% Fire Attack to your Weapon. The Weapon must have Fire Element.,提升武器20%火属性攻击\n的魔法石。武器必须有火属性。
 PROPITEM_TXT_004534,Wateil Stone,碧波之石
-PROPITEM_TXT_004535,Magic Stone that adds 20% Water Attack to your Weapon. The Weapon must have Water Element.,提升武器20%水属性攻击力的魔法石。武器必须有水属性。
+PROPITEM_TXT_004535,Magic Stone that adds 20% Water Attack to your Weapon. The Weapon must have Water Element.,提升武器20%水属性攻击\n的魔法石。武器必须有水属性。
 PROPITEM_TXT_004536,Windyo Stone,风驰之石
-PROPITEM_TXT_004537,Magic Stone that adds 20% Wind Attack to your Weapon. The Weapon must have Wind Element.,提升武器20%风属性攻击力的魔法石。武器必须有风属性。
+PROPITEM_TXT_004537,Magic Stone that adds 20% Wind Attack to your Weapon. The Weapon must have Wind Element.,提升武器20%风属性攻击\n的魔法石。武器必须有风属性。
 PROPITEM_TXT_004538,Lightine Stone,电掣之石
-PROPITEM_TXT_004539,Magic Stone that adds 20% Electric Attack to your Weapon. The Weapon must have Electric Element.,提升武器20%雷属性攻击力的魔法石。武器必须有雷属性。
+PROPITEM_TXT_004539,Magic Stone that adds 20% Electric Attack to your Weapon. The Weapon must have Electric Element.,提升武器20%雷属性攻击\n的魔法石。武器必须有雷属性。
 PROPITEM_TXT_004540,Earthy Stone,泥沙之石
-PROPITEM_TXT_004541,Magic Stone that adds 20% Earth Attack to your Weapon. The Weapon must have Earth Element.,提升武器20%土属性攻击力的魔法石。武器必须有土属性。
+PROPITEM_TXT_004541,Magic Stone that adds 20% Earth Attack to your Weapon. The Weapon must have Earth Element.,提升武器20%土属性攻击\n的魔法石。武器必须有土属性。
 PROPITEM_TXT_004542,Def-Firea Stone,蹈火防御石
-PROPITEM_TXT_004543,Magic Stone that adds 20% Wind Defense to your Suit. The Suit must have Fire Element.,提升套装20%风属性防御力的魔法石。套装必须有火属性。
+PROPITEM_TXT_004543,Magic Stone that adds 20% Wind Defense to your Suit. The Suit must have Fire Element.,提升衣服20%风属性防御\n的魔法石。衣服必须有火属性。
 PROPITEM_TXT_004544,Def-Wateil Stone,碧波防御石
-PROPITEM_TXT_004545,Magic Stone that adds 20% Fire Defense to your Suit. The Suit must have Water Element.,提升套装武器20%火属性防御力的魔法石。套装必须有水属性。
+PROPITEM_TXT_004545,Magic Stone that adds 20% Fire Defense to your Suit. The Suit must have Water Element.,提升衣服武器20%火属性防御\n的魔法石。衣服必须有水属性。
 PROPITEM_TXT_004546,Def-Windyo Stone,风驰防御石
-PROPITEM_TXT_004547,Magic Stone that adds 20% Earth Defense to your Suit. The Suit must have Wind Element.,提升套装20%土属性防御力的魔法石。套装必须有风属性。
+PROPITEM_TXT_004547,Magic Stone that adds 20% Earth Defense to your Suit. The Suit must have Wind Element.,提升衣服20%土属性防御\n的魔法石。衣服必须有风属性。
 PROPITEM_TXT_004548,Def-Lightine Stone,电掣防御石
-PROPITEM_TXT_004549,Magic Stone that adds 20% Water Defense to your Suit. The Suit must have Electric Element.,提升套装20%水属性防御力的魔法石。套装必须有雷属性。
+PROPITEM_TXT_004549,Magic Stone that adds 20% Water Defense to your Suit. The Suit must have Electric Element.,提升衣服20%水属性防御\n的魔法石。衣服必须有雷属性。
 PROPITEM_TXT_004550,Def-Earthy Stone,泥沙防御石
-PROPITEM_TXT_004551,Magic Stone that adds 20% Electricity Defense to your Suit. The Suit must have Earth Element.,提升套装20%电属性防御力的魔法石。套装必须有土属性。
+PROPITEM_TXT_004551,Magic Stone that adds 20% Electricity Defense to your Suit. The Suit must have Earth Element.,提升衣服20%电属性防御\n的魔法石。衣服必须有土属性。
 PROPITEM_TXT_004552,Blue Sailor Hat (M),蓝色水手帽
 PROPITEM_TXT_004554,Blue Sailor Suit (M),蓝色水手服
 PROPITEM_TXT_004556,Blue Sailor Shoes (M),蓝色水手鞋
@@ -2579,9 +2579,9 @@ PROPITEM_TXT_004659,Upgrade Party Level to 10,剧团等级直接提升到10级
 PROPITEM_TXT_004660,Box of Change,化名之箱
 PROPITEM_TXT_004661,Contains a Scroll of Name Change and Transy,包含一张改名卷和变性卷
 PROPITEM_TXT_004662,Scroll of Blessing,祝福卷轴
-PROPITEM_TXT_004663,Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma),使用后马上变为祝福状态，死亡后不会失去经验值。 (防止有罪恶值的用户失去10%经验)
+PROPITEM_TXT_004663,Prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma),使用后马上变为祝福状态，死亡后不会失去经验值。\n(防止有罪恶值的用户失去\n10%经验)
 PROPITEM_TXT_004664,Scroll of Resurrection,复活卷轴
-PROPITEM_TXT_004665,"Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)",允许角色死亡时可立即原地复活，且不会失去经验值。 (防止有罪恶值的用户失去10%经验)
+PROPITEM_TXT_004665,"Allows the character to revive where it died, and prevents the loss of Exp through death. (Prevents the loss of 10% Exp for users with Karma)",允许角色死亡时可立即原地复活，且不会失去经验值。\n(防止有罪恶值的用户失去\n10%经验)
 PROPITEM_TXT_004666,Scroll of Velocity,迅捷卷轴
 PROPITEM_TXT_004667,Increases Moving Speed by 30% and Jump Height,提高30%移动速度和跳跃高度。
 PROPITEM_TXT_004668,Box of Lucky,幸运之箱
@@ -2633,7 +2633,7 @@ PROPITEM_TXT_004711,x2 FP Recovery per Second for 15 Min.,每秒恢复2倍的FP�
 PROPITEM_TXT_004712,Cheer,鼓励
 PROPITEM_TXT_004713,+5% Exp. for 10 Minutes. Legend has it that it also works as a good luck charm!,10分钟内增加5%经验值。\n传说它还可以为人们带来幸运！
 PROPITEM_TXT_004714,Scroll of Amplification ES,ES经验加成卷轴
-PROPITEM_TXT_004715,x1.5 Exp. for 1 hour. This buff is not stackable.,1小时内经验提升\n1.5倍，此BUFF无法叠加。
+PROPITEM_TXT_004715,x1.5 Exp. for 1 hour. This buff is not stackable.,1小时内经验提升至\n1.5倍，此BUFF无法叠加。
 PROPITEM_TXT_004716,Scroll of Amplification EM,EM经验加成卷轴
 PROPITEM_TXT_004717,x2 Exp. for 1 hour. This buff is not stackable.,1小时内经验值提升2倍，此BUFF无法叠加。
 PROPITEM_TXT_004718,Scroll of Amplification DR,物品增爆卷
@@ -2651,7 +2651,7 @@ PROPITEM_TXT_004731,Summon Banker for 3 Min.,召唤城镇管理员(3分钟)
 PROPITEM_TXT_004732,Blessing of Party Leader,团长的祝福
 PROPITEM_TXT_004733,x2 Party Exp. for 2 hours (Only Party Leader can use),2小时内剧团经验值x2（只有团长可以使用）
 PROPITEM_TXT_004734,Friendship (A),召唤晶球(A)
-PROPITEM_TXT_004735,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.,召唤朋友的晶球(等待时间30秒)
+PROPITEM_TXT_004735,Summon a player to you (Casting Time: 30 sec). This item only works on characters on the same channel.,召唤朋友的晶球。召唤过程需等待30秒。
 PROPITEM_TXT_004736,Friendship (B),召唤晶球(B)
 PROPITEM_TXT_004737,Summon a player to you instantly. This item only works on characters on the same channel.,没有等待时间，可以马上召唤朋友到身边的晶球
 PROPITEM_TXT_004738,Summon of Party Leader,团长的呼唤
@@ -2663,7 +2663,7 @@ PROPITEM_TXT_004743,Change the sex of items levels 1-60 (Does not work on Costum
 PROPITEM_TXT_004744,Item Transy (B),物品变性卷(B)
 PROPITEM_TXT_004745,Change the sex of items levels 61 and above. (Does not work on Costume Items),物品性别转换(61级以上)
 PROPITEM_TXT_004746,[20] Scroll of Amplification ES,经验加成卷轴(20)
-PROPITEM_TXT_004747,Increases Exp gain by 50% (x1.5) for 1h. This item can be stacked 3 times for a total of x2.5 Exp. Cannot be used at the same time as a basic Scroll of Amplification ES. The buff is removed once reaching the maximum level to use it.,1小时内经验值增加50% (x1.5)。该物品可以叠加3次，最高可达2.5倍经验倍率。无法与普通经验加成卷轴同时使用，达到使用最高等级后会被自动移除。
+PROPITEM_TXT_004747,Increases Exp gain by 50% (x1.5) for 1h. This item can be stacked 3 times for a total of x2.5 Exp. Cannot be used at the same time as a basic Scroll of Amplification ES. The buff is removed once reaching the maximum level to use it.,1小时内经验值增加50%。\n该物品可以叠加3次，最高可达\n2.5倍经验倍率。\n无法与普通经验加成卷轴同时使用，达最高使用等级限制后会被自动移除。
 PROPITEM_TXT_004748,[40] Scroll of Amplification ES,经验加成卷轴(40)
 PROPITEM_TXT_004750,[60] Scroll of Amplification ES,经验加成卷轴(60)
 PROPITEM_TXT_004751,Increases Exp gain by 50% (x1.5) for 1h. This item can be stacked 2 times for a total of x2 Exp. Cannot be used at the same time as a basic Scroll of Amplification ES. The buff is removed once reaching the maximum level to use it.,1小时内经验值增加50% (1.5倍)。该物品可以叠加2次，总共2倍。无法与基础ES经验卷轴同时使用，一旦角色达到最大使用等级时此BUFF就会被移除。
@@ -4526,15 +4526,15 @@ PROPITEM_TXT_008839,Cute Lamb that follows its owner around and picks up dropped
 PROPITEM_TXT_008840,Baby Tiger,老虎
 PROPITEM_TXT_008841,Baby tiger that follows its owner around and picks up dropped items.,老虎宝宝跟随它的主人并捡起周围掉落的物品。
 PROPITEM_TXT_009528,Volcano Card (3%),火属性装备卡片(3%) 
-PROPITEM_TXT_009529,+3% HP (When placed in a pierced suit),+3% HP (当放置在穿洞衣服时)
+PROPITEM_TXT_009529,+3% HP (When placed in a pierced suit),+3% HP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_009530,Ocean Card (3%),水属性装备卡片(3%)
-PROPITEM_TXT_009531,+3% MP (When placed in a pierced suit),+3% MP (当放置在穿洞衣服时)
+PROPITEM_TXT_009531,+3% MP (When placed in a pierced suit),+3% MP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_009532,Vacuum Card (3%),风属性装备卡片(3%)
-PROPITEM_TXT_009533,+3% FP (When placed in a pierced suit),+3% FP (当放置在穿洞衣服时)
+PROPITEM_TXT_009533,+3% FP (When placed in a pierced suit),+3% FP \n(当放置在穿洞衣服时)
 PROPITEM_TXT_009534,Lightning Card (3%),雷属性装备卡片(3%)
-PROPITEM_TXT_009535,+3% Attack (When placed in a pierced suit),+3% 攻击力 (当放置在穿洞衣服时)
+PROPITEM_TXT_009535,+3% Attack (When placed in a pierced suit),+3% 攻击力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_009536,Earthquake Card (3%),土属性装备卡片(3%)
-PROPITEM_TXT_009537,+3% Defense (When placed in a pierced suit),+3% 防御力 (当放置在穿洞衣服时)
+PROPITEM_TXT_009537,+3% Defense (When placed in a pierced suit),+3% 防御力 \n(当放置在穿洞衣服时)
 PROPITEM_TXT_009258,Little Maid Cardpuppet,小扑克人偶
 PROPITEM_TXT_009259,"A cute, little Maid Cardpuppet that follows its master around and picks up dropped items",一只可爱的小扑克人偶跟随它的主人并捡起周围掉落的物品。
 PROPITEM_TXT_009260,Little Mia,小米娅娃娃
@@ -4730,10 +4730,10 @@ PROPITEM_TXT_014517,,
 PROPITEM_TXT_014524,Blue Bike,蓝色摩托
 PROPITEM_TXT_015134,Super Chameleon,超级变色龙
 PROPITEM_TXT_015135,Cha-me-ha-le-on! Only the Bat chameleon can beat him.,变—色—龙！只有蝙蝠变色龙才能打败它。
-PROPITEM_TXT_016115,Golden Glory wings,荣耀金翼
-PROPITEM_TXT_016116,Soar through the clouds in style with these Golden Glory Wings.,带着这荣耀金翼在云端翱翔。
+PROPITEM_TXT_016115,Golden Glory wings,金色荣耀之翼
+PROPITEM_TXT_016116,Soar through the clouds in style with these Golden Glory Wings.,带着这金色荣耀金翼在云端翱翔。
 PROPITEM_TXT_016117,Silver Glory Wings,银色荣耀之翼
-PROPITEM_TXT_016118,Soar through the clouds in style with these Silver Glory Wings.,带着这些银色荣耀之翼在云端翱翔。
+PROPITEM_TXT_016118,Soar through the clouds in style with these Silver Glory Wings.,带着这银色荣耀之翼在云端翱翔。
 PROPITEM_TXT_016119,Bronze Glory Wings,青铜荣耀之翼
 PROPITEM_TXT_016120,Soar through the clouds in style with these Bronze Glory Wings.,带着这青铜荣耀之翼在云端翱翔。
 PROPITEM_TXT_016133,Galaxy Guitar,银河吉他
@@ -6117,10 +6117,10 @@ PROPITEM_TXT_009265,Feed Bag (1 day),饲料包 (1天)
 PROPITEM_TXT_009266,Feed Bag (7 days),饲料包 (7天)
 PROPITEM_TXT_009267,Feed Bag (15 days),饲料包 (15天)
 PROPITEM_TXT_009268,Feed Bag (30 days),饲料包 (30天)
-PROPITEM_TXT_009269,Does not reduce the energy of Raised pets for 1 day when used.,使用后召唤兽能量在1天内的不会减少。
-PROPITEM_TXT_009270,Does not reduce the energy of Raised pets for 7 days when used.,使用后召唤兽能量在7天内的不会减少。
-PROPITEM_TXT_009271,Does not reduce the energy of Raised pets for 15 days when used.,使用后召唤兽能量在15天内的不会减少。
-PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,使用后召唤兽能量在30天内的不会减少。
+PROPITEM_TXT_009269,Does not reduce the energy of Raised pets for 1 day when used.,使用后召唤兽的能量在1天内不会减少。
+PROPITEM_TXT_009270,Does not reduce the energy of Raised pets for 7 days when used.,使用后召唤兽的能量在7天内不会减少。
+PROPITEM_TXT_009271,Does not reduce the energy of Raised pets for 15 days when used.,使用后召唤兽的能量在15天内不会减少。
+PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,使用后召唤兽的能量在30天内不会减少。
 PROPITEM_TXT_010008,Scroll of Change Raised Pet Name,召唤兽改名卷轴
 PROPITEM_TXT_010009,A Special Scroll used to name your summoned pet. This scroll only works on raised pets.,用来给当前召唤宠物命名的特殊卷轴。 此卷轴仅适用于属性宠。
 PROPITEM_TXT_009056,Scroll of Pet Revival Piece (S Class),宠物复活卷轴碎片(S)
@@ -6139,7 +6139,7 @@ PROPITEM_TXT_008020,Free Makeup Coupon,整容券
 PROPITEM_TXT_017355,Scroll of EProtect,卡片防护卷轴
 PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,当卡片升级失败时可以防止卡片被摧毁。
 PROPITEM_TXT_100000,Scroll of Guild Members,公会人数扩容卷轴
-PROPITEM_TXT_100001,Permanently increases the amount of members you can have in a guild by 5. Only works on the current guild you are in.,永久增加你所在的公会可以拥有的成员数量 5个。仅适用于你当前所在的公会。
+PROPITEM_TXT_100001,Permanently increases the amount of members you can have in a guild by 5. Only works on the current guild you are in.,永久增加你所在的公会可以拥有的成员数量 5个。\n仅适用于你当前所在的公会。
 PROPITEM_TXT_100002,Change Channel,切换频道
 PROPITEM_TXT_100003,Change the current channel.,改变现在的频道。
 PROPITEM_TXT_009278,7 Days Scroll of Party Exp,7天剧团经验卷轴
@@ -6147,13 +6147,13 @@ PROPITEM_TXT_009279,"Increase the rate at which Party Exp is gained by 50%, when
 PROPITEM_TXT_009280,15 Days Scroll of Party Exp,15天剧团经验卷轴
 PROPITEM_TXT_009281,"Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 15 days from activation, even if logged off)",使用时，可提升50%的剧团经验值，需由剧团团长激活。激活后持续15天，人物登出后时间仍继续计算。
 PROPITEM_TXT_009282,7 Days Scroll of Party Skill,7天剧团技能卷轴
-PROPITEM_TXT_009283,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts 7 days from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。(激活后持续7天，即使已离线)
+PROPITEM_TXT_009283,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts 7 days from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。激活后持续七天，即使已离线。
 PROPITEM_TXT_009284,15 Days Scroll of Party Skill,15天剧团技能卷轴
-PROPITEM_TXT_009285,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts 15 days from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。(激活后持续15天，即使已离线)
+PROPITEM_TXT_009285,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts 15 days from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。激活后持续十五天，即使已离线
 PROPITEM_TXT_012150,1 Day Scroll of Party Exp,1天剧团经验卷轴
 PROPITEM_TXT_012151,"Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 1 day from activation, even if logged off)",剧团长使用时，所有剧团成员杀怪获得的剧团经验值提升50%。(持续1天，离线计时)
 PROPITEM_TXT_012152,1 Day Scroll of Party Skill,1天剧团技能卷轴
-PROPITEM_TXT_012153,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts a day from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。(激活后持续一天，即使已离线)
+PROPITEM_TXT_012153,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts a day from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。激活后持续一天，即使已离线
 PROPITEM_TXT_015961,Scroll of Party Growth,剧团升级卷轴
 PROPITEM_TXT_015962,Your Party Level is set to Level 40 as soon as you use this scroll. Your Party Points will be set to 400 as well. Note that you will lose Party Points if they are higher than 400 prior to using this scroll.,使用此卷轴后，你的剧团等级将升级到 40 级。 你的剧团技能点将被设置为400点。 请注意，如果在使用此卷轴之前剧团技能点超过 400点，你将失去之前的这些剧团技能点。
 PROPITEM_TXT_015963,Scroll of Party Amplification (7 Days),剧团点数加成卷轴(7天)
@@ -6518,7 +6518,7 @@ PROPITEM_TXT_010537,"Increases Max HP by +300 and Attack Power by 5% for 1 hour.
 PROPITEM_TXT_010538,Mature Flowerpot of Love,成熟的爱的花钵
 PROPITEM_TXT_010539,"Increases Max HP by +300 and Attack Power by 10% for 1 hour. After it expires, it becomes an Ancient Flowerpot of Love.",HP+300，攻击力+10%\n持续一小时， 到期后，它就会变成一个古老的爱的花钵。
 PROPITEM_TXT_010540,Ancient Flowerpot of Love,古老的爱的花钵
-PROPITEM_TXT_010541,"Increases Max HP by +300, Attack Power by 15%, and Exp gain by 10% for 1 hour. Once expired, the item is consumed.",最大生命值+300，攻击力增加15%，经验增加10%，持续1小时。 一旦过期，该物品就会被消耗掉。
+PROPITEM_TXT_010541,"Increases Max HP by +300, Attack Power by 15%, and Exp gain by 10% for 1 hour. Once expired, the item is consumed.",HP+300，攻击力+15%\n经验增加10%，持续1小时。 一旦过期，该物品就会被消耗掉。
 PROPITEM_TXT_010574,Power Scroll,力量卷轴
 PROPITEM_TXT_010575,"Increases your Health Points (HP) by +150 and your Attack Power (ATK) by +100 for one hour. Once it wears off, it becomes a Charged Power Scroll.",HP+150，攻击力+100\n持续一小时，一旦它消失，它就会变成一个可充能的力量卷轴。
 PROPITEM_TXT_010576,Charged Power Scroll,充能力量卷轴
@@ -7076,7 +7076,7 @@ PROPITEM_TXT_100587,Music Beat Black Gloves (M),黑色音乐节拍手套 (男)
 PROPITEM_TXT_100588,Music Beat Green Gloves (M),绿色音乐节拍手套 (男)
 PROPITEM_TXT_100589,Music Beat Gloves for male characters.,男性角色音乐节拍手套。
 PROPITEM_TXT_100590,Guild Extra Bag (30 days),公会仓库扩展背包 (30天)
-PROPITEM_TXT_100591,Expands item carrying limit by 24 items for the guild bank. You can only use 2 at the same time per guild and it only works on the current guild you are in. Lasts 30 days.,将公会仓库的物品存放数量限制扩大 24 件。每个公会只能同时使用 2 个，并且仅适用于您所在的当前公会。持续 30 天。
+PROPITEM_TXT_100591,Expands item carrying limit by 24 items for the guild bank. You can only use 2 at the same time per guild and it only works on the current guild you are in. Lasts 30 days.,将公会仓库的物品存放数量限制扩大24栏。\n每个公会能同时使用两个，且仅适用于您所在的当前公会，持续三十天。
 PROPITEM_TXT_100593,Provides unlimited acceleration fuel.,提供无限加速燃料。
 PROPITEM_TXT_100594,Hunting King Cloak,狩猎王披风
 PROPITEM_TXT_100595,Unique reward for the winner of the Giant Hunting event!,首领狩猎活动获胜者的特别奖励！
@@ -7894,7 +7894,7 @@ PROPITEM_TXT_101260,Refined Vallus Boots,精制瓦卢斯靴
 PROPITEM_TXT_101261,30 Days Scroll of Party Exp,30天剧团经验卷轴
 PROPITEM_TXT_101262,"Increase the rate at which Party Exp is gained by 50%, when the party leader has it activated. (Lasts 30 days from activation, even if logged off)",使用时，可提升1.5倍的剧团经验值。只有剧团团长可以使用。此物品为时效性物品，人物登出后，时间仍继续计算。激活后持续三十天，离线计时。
 PROPITEM_TXT_101263,30 Days Scroll of Party Skill,30天剧团技能卷轴
-PROPITEM_TXT_101264,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts 30 days from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。激活后持续30天，离线计时。
+PROPITEM_TXT_101264,"Allows Party Skills to be stacked, combining their duration, but not effect. Works when the party leader has it activated. (Lasts 30 days from activation, even if logged off)",允许剧团技能叠加，组合提高它们持续时间，但不影响其效果。当团长激活它时有效。激活后持续三十天，离线计时。
 PROPITEM_TXT_101265,Scroll of Party Amplification (30 Days),剧团点数加成卷轴(30天)
 PROPITEM_TXT_101266,Your party will get twice the number of points when reaching a new level. Lasts 30 days. Note that the counter on this item will continue to count down even when logged out.,当你的剧团达到新的等级将会获得双倍点数，持续30天。请注意，即使为离线状态，该物品也会继续计时。
 PROPITEM_TXT_101267,15 Days Scroll of Combined Party Effects,组合剧团卷轴(15天)
@@ -8418,11 +8418,11 @@ PROPITEM_TXT_101743,Creepy Giraffe Set,搞怪长颈鹿套装
 PROPITEM_TXT_101744,Halloween Balloons Box,万圣节气球箱
 PROPITEM_TXT_101745,Select which balloons you want to select!,打开后可从列表中选择你想要的气球！
 PROPITEM_TXT_101746,Halloween Ogre Balloons,万圣节食人魔气球
-PROPITEM_TXT_101747,Stunning Halloween Balloons that increase your Exp by +50% and Attack Power (ATK) by +50.,这种惊艳的万圣节气球能让你的怪物经验 + 50%，攻击力 + 50！
+PROPITEM_TXT_101747,Stunning Halloween Balloons that increase your Exp by +50% and Attack Power (ATK) by +50.,这种惊艳的万圣节气球能让你的经验+50%，攻击力+50！
 PROPITEM_TXT_101748,Halloween Skull Balloons,万圣节骷髅气球
-PROPITEM_TXT_101749,Beautiful Halloween Balloons that increase your Exp by +50% and your Defense (DEF) by +100.,这种精美的万圣节气球能让你的怪物经验 + 50%，防御力 + 100！
+PROPITEM_TXT_101749,Beautiful Halloween Balloons that increase your Exp by +50% and your Defense (DEF) by +100.,这种精美的万圣节气球能让你的经验+50%，防御力+100！
 PROPITEM_TXT_101750,Halloween Pumpkin Balloons,万圣节南瓜气球
-PROPITEM_TXT_101751,Pretty Halloween Balloons that increase your Exp by +50% and your Health Points (HP) by +150.,这种可爱的万圣节气球能让你的怪物经验 + 50%，最大HP + 150！
+PROPITEM_TXT_101751,Pretty Halloween Balloons that increase your Exp by +50% and your Health Points (HP) by +150.,这种可爱的万圣节气球能让你的经验+50%，最大HP+150！
 PROPITEM_TXT_008106,Pumpkin Mask,南瓜面具
 PROPITEM_TXT_101752,Special Event Reward (1st),特别活动奖励（第1名）
 PROPITEM_TXT_101753,Special Event Reward (2nd),特别活动奖励（第2名）
@@ -8804,61 +8804,61 @@ PROPITEM_TXT_102170,A mythical creature. Once in a lifetime sight!,一种神秘�
 PROPITEM_TXT_102171,Disco Lucky Box,迪斯科套装幸运箱
 PROPITEM_TXT_102172,This box contains a Disco Set with Speed bonus. You can select your gender after opening the Lucky Box.,箱内包含带有移动速度加成的迪斯科套装。你可以在开启后选择套装性别。
 PROPITEM_TXT_102199,Fire Card (A),火焰卡片(A)
-PROPITEM_TXT_102200,Gives +6 STR when applied to a pierced weapon or shield.,力量+6(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102200,Gives +6 STR when applied to a pierced weapon or shield.,力量+6\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102201,Fire Card (B),火焰卡片(B)
-PROPITEM_TXT_102202,Gives +4 STR when applied to a pierced weapon or shield.,力量+4(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102202,Gives +4 STR when applied to a pierced weapon or shield.,力量+4\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102203,Fire Card (C),火焰卡片(C)
-PROPITEM_TXT_102204,Gives +3 STR when applied to a pierced weapon or shield.,力量+3(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102204,Gives +3 STR when applied to a pierced weapon or shield.,力量+3\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102205,Fire Card (D),火焰卡片(D)
-PROPITEM_TXT_102206,Gives +2 STR when applied to a pierced weapon or shield.,力量+2(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102206,Gives +2 STR when applied to a pierced weapon or shield.,力量+2\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102207,Water Card (A),流水卡片(A)
-PROPITEM_TXT_102208,Gives +6 INT when applied to a pierced weapon or shield.,智力+6(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102208,Gives +6 INT when applied to a pierced weapon or shield.,智力+6\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102209,Water Card (B),流水卡片(B)
-PROPITEM_TXT_102210,Gives +4 INT when applied to a pierced weapon or shield.,智力+4(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102210,Gives +4 INT when applied to a pierced weapon or shield.,智力+4\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102264,Water Card (C),流水卡片(C)
-PROPITEM_TXT_102265,Gives +3 INT when applied to a pierced weapon or shield.,智力+3(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102265,Gives +3 INT when applied to a pierced weapon or shield.,智力+3\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102266,Water Card (D),流水卡片(D)
-PROPITEM_TXT_102267,Gives +2 INT when applied to a pierced weapon or shield.,智力+2(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102267,Gives +2 INT when applied to a pierced weapon or shield.,智力+2\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102268,Wind Card (A),暴风卡片(A)
-PROPITEM_TXT_102269,"Gives +1.5% Critical Chance, +1.5% Attack Speed when applied to a pierced weapon or shield.","暴击率+1.5%, 攻击速度+1.5%(放置在武器或盾牌穿洞槽时)"
+PROPITEM_TXT_102269,"Gives +1.5% Critical Chance, +1.5% Attack Speed when applied to a pierced weapon or shield.","暴击率+1.5%,\n攻击速度+1.5%\n(放置在武器或盾牌穿洞槽时)"
 PROPITEM_TXT_102270,Wind Card (B),暴风卡片(B)
-PROPITEM_TXT_102271,"Gives +1% Critical Chance, +1% Attack Speed when applied to a pierced weapon or shield.","暴击率+1%, 攻击速度+1%(放置在武器或盾牌穿洞槽时)"
+PROPITEM_TXT_102271,"Gives +1% Critical Chance, +1% Attack Speed when applied to a pierced weapon or shield.","暴击率+1%,\n攻击速度+1%\n(放置在武器或盾牌穿洞槽时)"
 PROPITEM_TXT_102272,Wind Card (C),暴风卡片(C)
-PROPITEM_TXT_102273,"Gives +0.5% Critical Chance, +0.5% Attack Speed when applied to a pierced weapon or shield.","暴击率+0.5%, 攻击速度+0.5%(放置在武器或盾牌穿洞槽时)"
+PROPITEM_TXT_102273,"Gives +0.5% Critical Chance, +0.5% Attack Speed when applied to a pierced weapon or shield.","暴击率+0.5%,\n攻击速度+0.5%\n(放置在武器或盾牌穿洞槽时)"
 PROPITEM_TXT_102274,Wind Card (D),暴风卡片(D)
-PROPITEM_TXT_102275,"Gives +0.2% Critical Chance, +0.25% Attack Speed when applied to a pierced weapon or shield.","暴击率+0.2%, 攻击速度+0.25%(放置在武器或盾牌穿洞槽时)"
+PROPITEM_TXT_102275,"Gives +0.2% Critical Chance, +0.25% Attack Speed when applied to a pierced weapon or shield.","暴击率+0.2%,\n攻击速度+0.25%\n(放置在武器或盾牌穿洞槽时)"
 PROPITEM_TXT_102276,Electric Card (A),雷电卡片(A)
-PROPITEM_TXT_102277,Gives +6 DEX when applied to a pierced weapon or shield.,敏捷+6(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102277,Gives +6 DEX when applied to a pierced weapon or shield.,敏捷+6\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102225,Electric Card (B),雷电卡片(B)
-PROPITEM_TXT_102226,Gives +4 DEX when applied to a pierced weapon or shield.,敏捷+4(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102226,Gives +4 DEX when applied to a pierced weapon or shield.,敏捷+4\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102227,Electric Card (C),雷电卡片(C)
-PROPITEM_TXT_102228,Gives +3 DEX when applied to a pierced weapon or shield.,敏捷+3(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102228,Gives +3 DEX when applied to a pierced weapon or shield.,敏捷+3\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102229,Electric Card (D),雷电卡片(D)
-PROPITEM_TXT_102230,Gives +2 DEX when applied to a pierced weapon or shield.,敏捷+2(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102230,Gives +2 DEX when applied to a pierced weapon or shield.,敏捷+2\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102231,Land Card (A),岩石卡片(A)
-PROPITEM_TXT_102232,Gives +6 STA when applied to a pierced weapon or shield.,体质+6(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102232,Gives +6 STA when applied to a pierced weapon or shield.,体质+6\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102233,Land Card (B),岩石卡片(B)
-PROPITEM_TXT_102234,Gives +4 STA when applied to a pierced weapon or shield.,体质+4(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102234,Gives +4 STA when applied to a pierced weapon or shield.,体质+4\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102235,Land Card (C),岩石卡片(C)
-PROPITEM_TXT_102236,Gives +3 STA when applied to a pierced weapon or shield.,体质+3(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102236,Gives +3 STA when applied to a pierced weapon or shield.,体质+3\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102237,Land Card (D),岩石卡片(D)
-PROPITEM_TXT_102238,Gives +2 STA when applied to a pierced weapon or shield.,体质+2(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102238,Gives +2 STA when applied to a pierced weapon or shield.,体质+2\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102239,Lava Card (A),岩浆卡片(A)
-PROPITEM_TXT_102240,Gives +3% Block Penetration when applied to a pierced weapon or shield.,+3%格挡穿透(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102240,Gives +3% Block Penetration when applied to a pierced weapon or shield.,+3%格挡穿透\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102241,Lava Card (B),岩浆卡片(B)
-PROPITEM_TXT_102242,Gives +2% Block Penetration when applied to a pierced weapon or shield.,+2%格挡穿透(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102242,Gives +2% Block Penetration when applied to a pierced weapon or shield.,+2%格挡穿透\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102243,Lava Card (C),岩浆卡片(C)
-PROPITEM_TXT_102244,Gives +1% Block Penetration when applied to a pierced weapon or shield.,+1%格挡穿透(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102244,Gives +1% Block Penetration when applied to a pierced weapon or shield.,+1%格挡穿透\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102245,Lava Card (D),岩浆卡片(D)
-PROPITEM_TXT_102246,Gives +0.5% Block Penetration when applied to a pierced weapon or shield.,+0.5%格挡穿透(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102246,Gives +0.5% Block Penetration when applied to a pierced weapon or shield.,+0.5%格挡穿透\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_102247,Volt Card (A),电伏卡片(A)
-PROPITEM_TXT_102248,"Gives +1% Skill Damage, +3% MP and FP Consumption Decrease when applied to a pierced weapon or shield.","+1%技能伤害, +3% MP及FP消耗降低(放置在武器或盾牌穿洞槽时)"
+PROPITEM_TXT_102248,"Gives +1% Skill Damage, +3% MP and FP Consumption Decrease when applied to a pierced weapon or shield.","+1%技能伤害,\n+3% MP及FP消耗降低\n(放置在武器或盾牌穿洞槽时)"
 PROPITEM_TXT_102249,Volt Card (B),电伏卡片(B)
-PROPITEM_TXT_102250,"Gives +0.8% Skill Damage, +2% MP and FP Consumption Decrease when applied to a pierced weapon or shield.","+0.8%技能伤害, +2% MP及FP消耗降低(放置在武器或盾牌穿洞槽时)"
+PROPITEM_TXT_102250,"Gives +0.8% Skill Damage, +2% MP and FP Consumption Decrease when applied to a pierced weapon or shield.","+0.8%技能伤害,\n+2% MP及FP消耗降低\n(放置在武器或盾牌穿洞槽时)"
 PROPITEM_TXT_102251,Volt Card (C),电伏卡片(C)
-PROPITEM_TXT_102252,"Gives 0.6% Skill Damage, +1% MP and FP Consumption Decrease when applied to a pierced weapon or shield.","+0.6%技能伤害, +1% MP及FP消耗降低(放置在武器或盾牌穿洞槽时)"
+PROPITEM_TXT_102252,"Gives 0.6% Skill Damage, +1% MP and FP Consumption Decrease when applied to a pierced weapon or shield.","+0.6%技能伤害,\n+1% MP及FP消耗降低\n(放置在武器或盾牌穿洞槽时)"
 PROPITEM_TXT_102253,Volt Card (D),电伏卡片(D)
-PROPITEM_TXT_102254,Gives +0.4% Skill Damage when applied to a pierced weapon or shield.,+0.4%技能伤害(放置在武器或盾牌穿洞槽时)
+PROPITEM_TXT_102254,Gives +0.4% Skill Damage when applied to a pierced weapon or shield.,+0.4%技能伤害\n(放置在武器或盾牌穿洞槽时)
 PROPITEM_TXT_009632,Cat Bell,猫铃铛
 PROPITEM_TXT_009633,Quest item that drops from Catsy's,凯西猫掉落的战利品。
 PROPITEM_TXT_009634,Harpy Feather,鹰身女妖羽毛
@@ -10623,7 +10623,7 @@ PROPITEM_TXT_120925,Level 140 FWC Elementor Set.,140级 FWC 元素使者套装�
 PROPITEM_TXT_120926,FWC Cloak,FWC斗篷
 PROPITEM_TXT_120927,The Legendary FWC Cloak!,传奇FWC斗篷！
 PROPITEM_TXT_300001,Flyff World Championship,FWC世界锦标赛
-PROPITEM_TXT_300002,Check the Flyff Universe website for more information! Note: Monster Exp+100% is effective starting Level 30.,详情请前往官方网站！注意：怪物经验+100%的增益\n须达到30级后才能生效。
+PROPITEM_TXT_300002,Check the Flyff Universe website for more information! Note: Monster Exp+100% is effective starting Level 30.,详情请前往官方网站！注意：\n怪物经验+100%的增益\n须达到30级后才能生效。
 PROPITEM_TXT_300003,Adventurer's Fortune Elixir (1 Hour),青色增益药剂 (1小时)
 PROPITEM_TXT_300004,Adventurer's Fortune Elixir (3 Hours),青色增益药剂 (3小时)
 PROPITEM_TXT_300005,Adventurer's Fortune Elixir (6 Hours),青色增益药剂 (6小时)
@@ -12984,7 +12984,7 @@ PROPITEM_TXT_131282,Green Turkey Board,绿色火鸡滑板
 PROPITEM_TXT_131283,2023 Thanksgiving Growth Package,2023感恩节成长礼包
 PROPITEM_TXT_131284,"A package containing 1x Amplification ES Scroll Box, 20x Flask Box, 20x Grilled Eel, 20x Scroll of Resurrection, 20x Upcut Stone and 20x Def-Upcut Stone. All items are also linked.","包含 1x 经验加成卷轴礼盒, 20x 强效灵药选择箱, 20x 鳗鱼, 20x 复活卷轴, 20x 力量之石以及 20x 防御之石。所有物品均为绑定。"
 PROPITEM_TXT_131285,2023 Thanksgiving Smelting Package,2023感恩节精炼礼包
-PROPITEM_TXT_131286,"A package containing 40x Smelting Scroll Box, 50x Power Dice 10, 50x Power Dice 12 and 30x Scroll of Weapon Bonus. All items are also linked.","包含 40x 防护卷轴自选箱, 50x 10点精炼骰子, 50x 12点精良骰子以及30x 武器唤醒卷轴。所有物品均为绑定。"
+PROPITEM_TXT_131286,"A package containing 40x Smelting Scroll Box, 50x Power Dice 10, 50x Power Dice 12 and 30x Scroll of Weapon Bonus. All items are also linked.","包含 40x 防护卷轴自选箱, 50x 10点精炼骰子, 50x 12点精炼骰子以及30x 武器唤醒卷轴。所有物品均为绑定。"
 PROPITEM_TXT_131287,2023 Thanksgiving New Item Package,2023感恩节新品礼包
 PROPITEM_TXT_131288,"A package containing 2x Bank Extra Bag (30 Days), 2x Nitro Booster (30 Days), 100x Scroll of Multi-Shop and 2x Guild Extra Bag (30 Days). All items are also linked.","包含2x 个人仓库扩展背包 (30天), 2x 氮气加速 (30 D天), 100x 多类型商店卷轴以及2x 公会仓库扩展背包 (30天)。所有道具均为绑定。"
 PROPITEM_TXT_131289,[20~140] Amplification ES Scroll Select Box,[20~140] 经验卷轴自选箱
@@ -13252,7 +13252,7 @@ PROPITEM_TXT_009047,Select which Turkey you want to receive!,选择你想要的�
 PROPITEM_TXT_230212,Bonus Playtime Coupon,额外在线奖励券
 PROPITEM_TXT_230213,Unlocks bonus playtime rewards. Can only be used once per day.,解锁额外的游戏在线奖励。每天只能使用一次。
 PROPITEM_TXT_230214,Bonus Login Coupon,额外签到奖励券
-PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over.",激活高级登录奖励。领取完所有奖励后，您可以再次使用奖券并重新开始。
+PROPITEM_TXT_230215,"Activates the bonus login rewards track. After claiming all rewards, you can use another coupon to start over.",激活高级登录奖励。领取完所有奖励后，您可以再次使用礼券并重新开始。
 PROPITEM_TXT_230216,Extended January Pass,1月通行证
 PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Flyff Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,购买后，你将在当个月度赛季期间享受多项特权：\n-额外的 Flyff 通行证奖励\n-仓库互通\n-替身商店基础时长延长至2天\n-无限加速燃料\n-无限经验锁定\n-副本与地牢地图全亮\n-安全精炼动画加速\n-每日额外1次副本免费入场\n-每日5次搜索商店传送\n...……更多内容将随游戏更新陆续推出！
 PROPITEM_TXT_230218,PlayPark Launch Gift,PlayPark Launch Gift
@@ -13449,7 +13449,7 @@ PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on t
 PROPITEM_TXT_131874,[Guild Ship NPC] Cobao,[公会飞船 NPC] Cobao
 PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.,该NPC在放置在公会飞船中时会给予以下加成：治疗 +3%。
 PROPITEM_TXT_131876,[Guild Ship NPC] Aibao,[公会飞船 NPC] Aibao
-PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,该NPC在放置在公会飞船中时会给予以下加成：魔法抗性 +3%。
+PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,该NPC在放置在公会飞船中时会给予以下加成：魔法抵抗 +3%。
 PROPITEM_TXT_131878,[Guild Ship NPC] Nanco,[公会飞船 NPC] Nanco
 PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.,该NPC在放置在公会飞船中时会给予以下加成：暴击抵抗 +3%。
 PROPITEM_TXT_131880,[Guild Ship NPC] Asa,[公会飞船 NPC] Asa
@@ -17254,7 +17254,7 @@ PROPITEM_TXT_800168,Gives +10% speed when applied to a ultimate weapon. Can only
 PROPITEM_TXT_800169,Gives +10% critical chance when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，暴击率 +10%，不可重复镶嵌。
 PROPITEM_TXT_800170,Gives +10% critical bonus when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，暴击伤害 +10%，不可重复镶嵌。
 PROPITEM_TXT_800171,Gives +10% hit rate when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，命中率 +10%，不可重复镶嵌。
-PROPITEM_TXT_800172,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，魔法抗性 +10%，不可重复镶嵌。
+PROPITEM_TXT_800172,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，魔法抵抗 +10%，不可重复镶嵌。
 PROPITEM_TXT_800173,Gives +10% critical resistance when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，暴击抵抗 +10%，不可重复镶嵌。
 PROPITEM_TXT_800174,Gives +10% melee block when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，近距离格挡 +10%，不可重复镶嵌。
 PROPITEM_TXT_800175,Gives +10% range block when applied to a ultimate weapon. Can only be attached once.,用于镶嵌在终极武器上，远距离格挡 +10%，不可重复镶嵌。
@@ -17268,9 +17268,9 @@ PROPITEM_TXT_800182,Shining Emerald Piece,闪耀绿宝石碎片
 PROPITEM_TXT_800183,Shining Diamond Piece,闪耀钻石碎片
 PROPITEM_TXT_800184,Shining Amethyst Piece,闪耀紫水晶碎片
 PROPITEM_TXT_800185,Shining Onyx Piece,闪耀玛瑙碎片
-PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,集齐并合成 10 个碎片，即可获得一枚完整宝石。
+PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,集齐并合成 10 个碎片，\n即可获得一枚完整宝石。
 PROPITEM_TXT_800187,Ultimate Jewel Box,终极宝石箱
-PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",箱子内包含多种可镶嵌于终极武器的终极珠宝、符文及碎片。集齐10枚同类碎片即可合成完整珠宝。
+PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",箱子内包含多种可镶嵌于终极武器的终极宝石、符文及碎片。集齐10枚同类碎片即可合成完整宝石。
 PROPITEM_TXT_800189,Advanced Mana Stone,高级法力石
 PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,融合失败时，回收 1 至 3 颗宝石。
 PROPITEM_TXT_800191,Mana Stone,法力石
@@ -17280,7 +17280,7 @@ PROPITEM_TXT_800194,"This NPC will grant you the following bonus when placed on 
 PROPITEM_TXT_800195,Ultimate Jewel Gemstone,终极宝石原矿
 PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from this gemstone.,从此原矿中可提取一级宝石与宝石碎片。
 PROPITEM_TXT_800197,Cutting Knife,切割刀
-PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,可确保从宝石中成功提取珠宝碎片或一级珠宝。
+PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,可确保从宝石中成功提取宝石碎片或一级宝石。
 PROPITEM_TXT_800199,Rainbow Jewel (1),彩虹宝石 (1)
 PROPITEM_TXT_800200,Gives +1 All stat when applied to a ultimate weapon. Can be attached multiple times.,用于镶嵌在终极武器上，全属性 +1，可重复镶嵌。
 PROPITEM_TXT_800201,Rainbow Jewel (2),彩虹宝石 (2)
@@ -17327,11 +17327,11 @@ PROPITEM_TXT_140018,Couple Anniversary Gift 3,情侣纪念日礼物3
 PROPITEM_TXT_140019,Couple Anniversary Gift 4,情侣纪念日礼物4
 PROPITEM_TXT_140020,Couple Anniversary Gift 5,情侣纪念日礼物5
 PROPITEM_TXT_140021,Couple Anniversary Gift 6,情侣纪念日礼物6
-PROPITEM_TXT_140022,Rose Petals,玫瑰花瓣
+PROPITEM_TXT_140022,Rose Petals,玫瑰花
 PROPITEM_TXT_140023,"It's a beautiful rose flower. When used, you gain 10 couple skill points.",美丽的玫瑰花。使用后获得10点情侣技能点。
-PROPITEM_TXT_140024,Small Bouquet of Roses,小型玫瑰花束
+PROPITEM_TXT_140024,Small Bouquet of Roses,小束玫瑰花
 PROPITEM_TXT_140025,"It's a small bouquet made of beautiful rose flowers. When used, you gain 20 couple skill points.",由美丽玫瑰花构成的小花束。使用后获得20点情侣技能点。
-PROPITEM_TXT_140026,Large Bouquet of Roses,大型玫瑰花束
+PROPITEM_TXT_140026,Large Bouquet of Roses,大束玫瑰花
 PROPITEM_TXT_140027,"It's a large bouquet made of beautiful roses. When used, you gain 50 couple skill points.",由美丽玫瑰花构成的大花束。使用后获得50点情侣技能点。
 PROPITEM_TXT_140028,Pink Heart Sunglasses,粉色心形太阳镜
 PROPITEM_TXT_140029,Wild Rainbow Flowers,野彩虹花
@@ -24853,7 +24853,7 @@ PROPITEM_TXT_155655,Select your favorite Winter Pixie Pet!,挑选你最喜欢的
 PROPITEM_TXT_155656,Winter Tiger Pet select box,冬日萌虎选择箱
 PROPITEM_TXT_155657,Select your favorite Winter Tiger Pet!,挑选你最喜欢的冬日萌虎宠物！
 PROPITEM_TXT_155658,Scroll of increased Jewel synthesis chance Select Box,宝石加成选择箱
-PROPITEM_TXT_155659,Select which Scroll of increased Jewel synthesis chance you want to receive! This scroll will give you a 2x chance of synthesizing a selected Jewel.,选择您想要获得的增加宝石合成几率的卷轴！此卷轴将使您有2倍的机会合成所选珠宝。
+PROPITEM_TXT_155659,Select which Scroll of increased Jewel synthesis chance you want to receive! This scroll will give you a 2x chance of synthesizing a selected Jewel.,选择您想要获得的增加宝石合成几率的卷轴！此卷轴将使您有2倍的机会合成所选宝石。
 PROPITEM_TXT_155660,1.5 Update Growth Package,1.5 Update Growth Package
 PROPITEM_TXT_155661,"A package containing 5x New Amplification ES Scroll Select Box, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","A package containing 5x New Amplification ES Scroll Select Box, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked."
 PROPITEM_TXT_155662,1.5 Scroll of Ultimate Bonus Package,1.5 Scroll of Ultimate Bonus Package
@@ -27022,7 +27022,7 @@ PROPITEM_TXT_903949,A package containing 3x Scroll of Ultimate Bonus and 5x Scro
 PROPITEM_TXT_903950,4th Anniversary Ultimate Bonus Package B,4th Anniversary Ultimate Bonus Package B
 PROPITEM_TXT_903951,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.
 PROPITEM_TXT_903952,An ancient weapon found deep within Ankou’s Asylum. It hums with the lingering power of the God of Death.,于安库庇护所深处发现的远古武器。它低鸣着，蕴含着死神残留的力量。
-PROPITEM_TXT_903953,"A mysterious artifact from the depths of Ankou’s Asylum, pulsating with the whispers of lost souls and the remnants of an ancient god.",一件来自安酷庇护所深处的神秘神器，随着迷失灵魂的低语与远古神祇的残响而搏动。
+PROPITEM_TXT_903953,"A mysterious artifact from the depths of Ankou’s Asylum, pulsating with the whispers of lost souls and the remnants of an ancient god.",一件来自安库庇护所深处的神秘神器，随着迷失灵魂的低语与远古神祇的残响而搏动。
 PROPITEM_TXT_903954,"A golden weapon reforged to commemorate Flyff World Championship 2026. It gleams with honor, prestige, and the lingering power of the God of Death.",为纪念2026年Flyff世界锦标赛而重铸的金色武器。它熠熠生辉，承载着荣誉、声望与死神残留的力量。
 PROPITEM_TXT_903955,A golden artifact elevated in honor of Flyff World Championship 2026. It pulses with ancient divinity and the glory of champions.,一件为纪念2026年Flyff世界锦标赛而升华的金色神器。它搏动着远古的神性与冠军的荣光。
 PROPITEM_TXT_903956,Banner Token,Banner Token
@@ -30459,8 +30459,8 @@ PROPITEM_TXT_1903573,FWC 2026 Buff - PvP Critical Damage,FWC2026Buff - PvP暴击
 PROPITEM_TXT_1903574,This FWC 2026 Buff will grant you PvP Critical Damage +3% for 1 hour.,该FWC 2026增益将为你提供PvP暴击伤害 +3%，持续1小时。
 PROPITEM_TXT_1903575,FWC 2026 Buff - Healing,FWC2026Buff - 治疗量
 PROPITEM_TXT_1903576,This FWC 2026 Buff will grant you Healing +3% for 1 hour.,该FWC 2026增益将为你提供治疗量 +3%，持续1小时。
-PROPITEM_TXT_1903577,FWC 2026 Buff - Magic Resistance,FWC2026Buff - 魔法抗性
-PROPITEM_TXT_1903578,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.,该FWC 2026增益将为你提供魔法抗性 +3%，持续1小时。
+PROPITEM_TXT_1903577,FWC 2026 Buff - Magic Resistance,FWC2026Buff - 魔法抵抗
+PROPITEM_TXT_1903578,This FWC 2026 Buff will grant you Magic Resistance +3% for 1 hour.,该FWC 2026增益将为你提供魔法抵抗 +3%，持续1小时。
 PROPITEM_TXT_1903579,FWC 2026 Buff - Critical Resist,FWC2026Buff - 暴击抵抗
 PROPITEM_TXT_1903580,This FWC 2026 Buff will grant you Critical Resist +3% for 1 hour.,该FWC 2026增益将为你提供暴击抵抗 +3%，持续1小时。
 PROPITEM_TXT_1903581,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 FWC 2026 Popcorn Select box.","“掷幸运骰子”第三次完成奖励！\n可获得3x [活动] 商店置顶随机箱, 3x 彩色羽毛, 以及 20x FWC 2026 爆米花选择箱。"
@@ -30772,9 +30772,9 @@ PROPITEM_TXT_522583,Increased Defense: 150. Lasts 10 Mins.,防御力 +150，持�
 PROPITEM_TXT_522584,Increased Defense: 10%. Lasts 10 Mins.,防御力 +10%，持续10分钟。
 PROPITEM_TXT_522585,Increased Defense: 10%. Lasts 10 Mins.,防御力 +10%，持续10分钟。
 PROPITEM_TXT_522586,Increased Defense: 10%. Lasts 10 Mins.,防御力 +10%，持续10分钟。
-PROPITEM_TXT_522587,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抗性 +8%，持续10分钟。
-PROPITEM_TXT_522588,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抗性 +8%，持续10分钟。
-PROPITEM_TXT_522589,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抗性 +8%，持续10分钟。
+PROPITEM_TXT_522587,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抵抗 +8%，持续10分钟。
+PROPITEM_TXT_522588,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抵抗 +8%，持续10分钟。
+PROPITEM_TXT_522589,Increased Magic Resistance: 8%. Lasts 10 Mins.,魔法抵抗 +8%，持续10分钟。
 PROPITEM_TXT_522590,Increased Elemental Attack: 15%. Lasts 20 Mins.,元素攻击 +15%，持续20分钟。
 PROPITEM_TXT_522591,Increased Elemental Attack: 15%. Lasts 20 Mins.,元素攻击 +15%，持续20分钟。
 PROPITEM_TXT_522592,Increased Elemental Attack: 15%. Lasts 20 Mins.,元素攻击 +15%，持续20分钟。
@@ -32287,32 +32287,32 @@ PROPITEM_TXT_1903966,Eternal Nightmare  Weapon Set,无尽梦魇武器套装
 PROPITEM_TXT_1903967,Select which Eternal Nightmare Weapon you want to receive!,选择你想要获得的无尽梦魇武器吧！
 PROPITEM_TXT_1903968,Eternal Nightmare Wings,无尽梦魇翅膀
 PROPITEM_TXT_1903969,"These tattered wings, once pure and radiant, have been twisted by nightmares, carrying their bearer through Madrigal with an eerie grace.",这对破败之翼，曾几何时纯净而光辉，如今却被梦魇扭曲，载着持有者穿越瑞加大陆，透着一股诡异的优雅。
-PROPITEM_TXT_1903970,FWC 2026 Grand Final Coupon 1,FWC 2026 Grand Final Coupon 1
-PROPITEM_TXT_1903971,"A package containing 5x FWC Special combo, 5x FWC 2026 Popcorn Select Box, 5x Upcut Stone and 5x Activation. All items are Soul-Linked.","A package containing 5x FWC Special combo, 5x FWC 2026 Popcorn Select Box, 5x Upcut Stone and 5x Activation. All items are Soul-Linked."
-PROPITEM_TXT_1903972,FWC 2026 Grand Final Coupon 2,FWC 2026 Grand Final Coupon 2
-PROPITEM_TXT_1903973,"A package containing 3x Scroll of Amplification ES, 2x Extra Bag (3 days), 1x Feed Bag (3 Days) and 3x Vital Drink X or Refresher Hold. All items are Soul-Linked.","A package containing 3x Scroll of Amplification ES, 2x Extra Bag (3 days), 1x Feed Bag (3 Days) and 3x Vital Drink X or Refresher Hold. All items are Soul-Linked."
-PROPITEM_TXT_1903974,FWC 2026 Grand Final Coupon 3,FWC 2026 Grand Final Coupon 3
-PROPITEM_TXT_1903975,"A package containing 2x Bank Extra Bag (3 Days), 5x Flask Box, 1x 1 Day Scroll of Combined Party Effects, 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are Soul-Linked.","A package containing 2x Bank Extra Bag (3 Days), 5x Flask Box, 1x 1 Day Scroll of Combined Party Effects, 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are Soul-Linked."
-PROPITEM_TXT_1903976,FWC 2026 Grand Final Online Coupon 1,FWC 2026 Grand Final Online Coupon 1
-PROPITEM_TXT_1903977,"A package containing 10x Scroll of Return Town, 1x Scroll of Amplification ES, 5x Scroll of Velocity and 5x Balloon Select Box(6h). All items are Soul-Linked.","A package containing 10x Scroll of Return Town, 1x Scroll of Amplification ES, 5x Scroll of Velocity and 5x Balloon Select Box(6h). All items are Soul-Linked."
-PROPITEM_TXT_1903978,FWC 2026 Grand Final Online Coupon 2,FWC 2026 Grand Final Online Coupon 2
-PROPITEM_TXT_1903979,"A package containing 1x Extra Bag (15 days), 1x Power Scroll, 3x FWC 2026 Popcorn Select Box and 1x Upcut Stone. All items are Soul-Linked.","A package containing 1x Extra Bag (15 days), 1x Power Scroll, 3x FWC 2026 Popcorn Select Box and 1x Upcut Stone. All items are Soul-Linked."
-PROPITEM_TXT_1903980,FWC 2026 Grand Final Online Coupon 3,FWC 2026 Grand Final Online Coupon 3
-PROPITEM_TXT_1903981,"A package containing 3x Smelting Scroll Box, 1x Stat Scroll Box and 3x Flask Box. All items are Soul-Linked.","A package containing 3x Smelting Scroll Box, 1x Stat Scroll Box and 3x Flask Box. All items are Soul-Linked."
-PROPITEM_TXT_1903982,FWC 2026 Welcome Coupon,FWC 2026 Welcome Coupon
-PROPITEM_TXT_1903983,"A package containing 1x Flyffer's Flying Select Box (15 days), 3x Power Scroll and 20x FWC Special combo. All items are Soul-Linked.","A package containing 1x Flyffer's Flying Select Box (15 days), 3x Power Scroll and 20x FWC Special combo. All items are Soul-Linked."
-PROPITEM_TXT_1903984,FWC 2026 Ultimate Coupon,FWC 2026 Ultimate Coupon
-PROPITEM_TXT_1903985,"A package containing 2x 2026 Premium Costume Select Box, 10x Scroll of Resurrection, 15x Flask Box, 10x Power Scroll, 15x Upcut Stone, 15x Def-Upcut Stone, 10x Scroll of SProtect, 10x Scroll of AProtect, 2x Extra Bag (30 days), 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days), 1x Scroll of PickUp Range (15 Days) and 20x FWC Special combo. All items are Soul-Linked.","A package containing 2x 2026 Premium Costume Select Box, 10x Scroll of Resurrection, 15x Flask Box, 10x Power Scroll, 15x Upcut Stone, 15x Def-Upcut Stone, 10x Scroll of SProtect, 10x Scroll of AProtect, 2x Extra Bag (30 days), 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days), 1x Scroll of PickUp Range (15 Days) and 20x FWC Special combo. All items are Soul-Linked."
-PROPITEM_TXT_1903986,FWC 2026 Unique Coupon,FWC 2026 Unique Coupon
-PROPITEM_TXT_1903987,"A package containing 1x 2026 Premium Costume Select Box, 5x Flask Box, 5x Vital Drink X or Refresher Hold, 5x Activation, 5x Power Scroll, 5x Scroll of Resurrection, 5x Scroll of SProtect, 5x Scroll of AProtect, 5x Grilled Eel, 2x Extra Bag (30 days) and 20x FWC Special combo. All items are Soul-Linked.","A package containing 1x 2026 Premium Costume Select Box, 5x Flask Box, 5x Vital Drink X or Refresher Hold, 5x Activation, 5x Power Scroll, 5x Scroll of Resurrection, 5x Scroll of SProtect, 5x Scroll of AProtect, 5x Grilled Eel, 2x Extra Bag (30 days) and 20x FWC Special combo. All items are Soul-Linked."
-PROPITEM_TXT_1903988,FWC 2026 Streamer Event Coupon 1,FWC 2026 Streamer Event Coupon 1
-PROPITEM_TXT_1903989,"A package containing 5x FWC 2026 Popcorn Select Box, 5x Potion Box, 1x Power Scroll and 1x Extra Bag (15 days). All items are Soul-Linked.","A package containing 5x FWC 2026 Popcorn Select Box, 5x Potion Box, 1x Power Scroll and 1x Extra Bag (15 days). All items are Soul-Linked."
-PROPITEM_TXT_1903990,FWC 2026 Streamer Event Coupon 2,FWC 2026 Streamer Event Coupon 2
-PROPITEM_TXT_1903991,"A package containing 2x Scroll of Amplification ES, 5x FWC Special combo, 5x Scroll of Resurrection and 5x Upcut Stone. All items are Soul-Linked.","A package containing 2x Scroll of Amplification ES, 5x FWC Special combo, 5x Scroll of Resurrection and 5x Upcut Stone. All items are Soul-Linked."
-PROPITEM_TXT_1903992,FWC 2026 Streamer Event Coupon 3,FWC 2026 Streamer Event Coupon 3
-PROPITEM_TXT_1903993,"A package containing 5x Scroll of Food Shop, 5x Activation, 4x Scroll of Amplification ES and 5x Scroll of Velocity. All items are Soul-Linked.","A package containing 5x Scroll of Food Shop, 5x Activation, 4x Scroll of Amplification ES and 5x Scroll of Velocity. All items are Soul-Linked."
-PROPITEM_TXT_1903994,2026 Premium Costume Select Box,2026 Premium Costume Select Box
-PROPITEM_TXT_1903995,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set, Black Wedding Set, Blue Snowboarder Set and Wolf & Hunter Set Select Box. All items are Soul-Linked.","Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set, Black Wedding Set, Blue Snowboarder Set and Wolf & Hunter Set Select Box. All items are Soul-Linked."
-PROPITEM_TXT_1903996,Provides a new title for your character!,Provides a new title for your character!
-PROPITEM_TXT_1903997,Neon Pang's Best Friend Title,Neon Pang's Best Friend Title
-PROPITEM_TXT_1903998,Master of Eternal Nightmare Title,Master of Eternal Nightmare Title
+PROPITEM_TXT_1903970,FWC 2026 Grand Final Coupon 1,FWC2026总决赛礼券1
+PROPITEM_TXT_1903971,"A package containing 5x FWC Special combo, 5x FWC 2026 Popcorn Select Box, 5x Upcut Stone and 5x Activation. All items are Soul-Linked.","含5x FWC 特别小吃套餐,\n5x FWC 2026爆米花自选箱,\n5x 力量之石,\n以及5x 无敌技能卷。\n所有道具均为角色绑定。"
+PROPITEM_TXT_1903972,FWC 2026 Grand Final Coupon 2,FWC2026总决赛礼券2
+PROPITEM_TXT_1903973,"A package containing 3x Scroll of Amplification ES, 2x Extra Bag (3 days), 1x Feed Bag (3 Days) and 3x Vital Drink X or Refresher Hold. All items are Soul-Linked.","含3x ES经验加成卷轴, \n2x 扩展背包 (3天), \n1x 饲料包 (3天) \n以及3x 无敌活力多或无敌魔力多。所有道具均为角色绑定。"
+PROPITEM_TXT_1903974,FWC 2026 Grand Final Coupon 3,FWC2026总决赛礼券3
+PROPITEM_TXT_1903975,"A package containing 2x Bank Extra Bag (3 Days), 5x Flask Box, 1x 1 Day Scroll of Combined Party Effects, 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are Soul-Linked.","含2x个人仓库扩展背包 (3天), \n5x 强效灵药选择箱, \n1x 组合剧团卷轴(1天), \n1x 荣耀之翼选择箱\n以及 1x 氮气加速 (15天)。所有道具均为角色绑定。"
+PROPITEM_TXT_1903976,FWC 2026 Grand Final Online Coupon 1,FWC2026总决赛线上礼券1
+PROPITEM_TXT_1903977,"A package containing 10x Scroll of Return Town, 1x Scroll of Amplification ES, 5x Scroll of Velocity and 5x Balloon Select Box(6h). All items are Soul-Linked.","含10x 回城卷轴, \n1x ES经验加成卷轴, \n5x 迅捷卷轴\n以及5x 气球自选箱 (6小时)。\n所有道具均为角色绑定。"
+PROPITEM_TXT_1903978,FWC 2026 Grand Final Online Coupon 2,FWC2026总决赛线上礼券2
+PROPITEM_TXT_1903979,"A package containing 1x Extra Bag (15 days), 1x Power Scroll, 3x FWC 2026 Popcorn Select Box and 1x Upcut Stone. All items are Soul-Linked.","含1x 扩展背包 (15天),\n1x 力量卷轴,\n3xFWC 2026爆米花自选箱\n以及1x 力量之石。所有道具均为角色绑定。"
+PROPITEM_TXT_1903980,FWC 2026 Grand Final Online Coupon 3,FWC2026总决赛线上礼券3
+PROPITEM_TXT_1903981,"A package containing 3x Smelting Scroll Box, 1x Stat Scroll Box and 3x Flask Box. All items are Soul-Linked.","含3x 防护卷轴选择箱,\n1x 四维属性卷轴箱\n以及3x 强效灵药选择箱。所有道具均为角色绑定。"
+PROPITEM_TXT_1903982,FWC 2026 Welcome Coupon,FWC2026欢迎礼券
+PROPITEM_TXT_1903983,"A package containing 1x Flyffer's Flying Select Box (15 days), 3x Power Scroll and 20x FWC Special combo. All items are Soul-Linked.","包含1x 飞飞玩家飞行器自选箱 (15天),\n3x 力量卷轴\n以及20x FWC 特别小吃套餐。所有道具均为角色绑定。"
+PROPITEM_TXT_1903984,FWC 2026 Ultimate Coupon,FWC2026终极礼券
+PROPITEM_TXT_1903985,"A package containing 2x 2026 Premium Costume Select Box, 10x Scroll of Resurrection, 15x Flask Box, 10x Power Scroll, 15x Upcut Stone, 15x Def-Upcut Stone, 10x Scroll of SProtect, 10x Scroll of AProtect, 2x Extra Bag (30 days), 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days), 1x Scroll of PickUp Range (15 Days) and 20x FWC Special combo. All items are Soul-Linked.",包含2026尊贵时装选择箱，以及其他丰厚的奖励。所有道具均为角色绑定。
+PROPITEM_TXT_1903986,FWC 2026 Unique Coupon,FWC2026特别礼券
+PROPITEM_TXT_1903987,"A package containing 1x 2026 Premium Costume Select Box, 5x Flask Box, 5x Vital Drink X or Refresher Hold, 5x Activation, 5x Power Scroll, 5x Scroll of Resurrection, 5x Scroll of SProtect, 5x Scroll of AProtect, 5x Grilled Eel, 2x Extra Bag (30 days) and 20x FWC Special combo. All items are Soul-Linked.",包含2026尊贵时装选择箱，以及其他丰厚的奖励。所有道具均为角色绑定。
+PROPITEM_TXT_1903988,FWC 2026 Streamer Event Coupon 1,FWC2026流媒主播礼券1
+PROPITEM_TXT_1903989,"A package containing 5x FWC 2026 Popcorn Select Box, 5x Potion Box, 1x Power Scroll and 1x Extra Bag (15 days). All items are Soul-Linked.","含5xFWC 2026爆米花自选箱,\n5x 药水选择箱,\n1x 力量卷轴\n以及1x 扩展背包 (15天)。\n所有道具均为角色绑定。"
+PROPITEM_TXT_1903990,FWC 2026 Streamer Event Coupon 2,FWC2026流媒主播礼券2
+PROPITEM_TXT_1903991,"A package containing 2x Scroll of Amplification ES, 5x FWC Special combo, 5x Scroll of Resurrection and 5x Upcut Stone. All items are Soul-Linked.","含2x ES经验加成卷轴,\n5xFWC 特别小吃套餐,\n5x 复活卷轴\n以及5x 力量之石。所有道具均为角色绑定。"
+PROPITEM_TXT_1903992,FWC 2026 Streamer Event Coupon 3,FWC2026流媒主播礼券3
+PROPITEM_TXT_1903993,"A package containing 5x Scroll of Food Shop, 5x Activation, 4x Scroll of Amplification ES and 5x Scroll of Velocity. All items are Soul-Linked.","含5x 餐饮店卷轴,\n5x 无敌技能卷,\n4x ES经验加成卷轴\n以及 5x 迅捷卷轴。\n所有道具均为角色绑定。"
+PROPITEM_TXT_1903994,2026 Premium Costume Select Box,2026尊贵时装选择箱
+PROPITEM_TXT_1903995,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set, Black Wedding Set, Blue Snowboarder Set and Wolf & Hunter Set Select Box. All items are Soul-Linked.",可从众多超人气尊贵时装中选择一套获得。所有道具均为角色绑定。
+PROPITEM_TXT_1903996,Provides a new title for your character!,为你添加一个全新称号!
+PROPITEM_TXT_1903997,Neon Pang's Best Friend Title,霓虹胖胖挚友
+PROPITEM_TXT_1903998,Master of Eternal Nightmare Title,无尽梦魇主宰
