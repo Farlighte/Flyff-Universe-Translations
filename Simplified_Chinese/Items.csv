@@ -17226,7 +17226,7 @@ PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Ca
 PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can be attached multiple times.,用于镶嵌在终极武器上，攻击力 +90，可重复镶嵌。
 PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can be attached multiple times.,用于镶嵌在终极武器上，攻击力 +100，可重复镶嵌。
 PROPITEM_TXT_800143,Jewel Tweezers,宝石镊子
-PROPITEM_TXT_800144,You can get the attached jewel without destruction.,可获得附着的宝石且不产生破坏。
+PROPITEM_TXT_800144,You can get the attached jewel without destruction.,可取出镶嵌在终极武器上的宝石或符文。/n(没有宝石镊子的情况下，终极武器上的宝石或符文只能直接移除)。
 PROPITEM_TXT_800145,Rune of Increasing HP,HP 提升符文
 PROPITEM_TXT_800146,Rune of Increasing MP,MP 提升符文
 PROPITEM_TXT_800147,Rune of Increasing FP,FP 提升符文
