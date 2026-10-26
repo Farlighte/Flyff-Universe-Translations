@@ -12266,18 +12266,18 @@ PROPITEM_TXT_018317,Fennith Boots,フェニスブーツ
 PROPITEM_TXT_018319,Fennith Gauntlets,フェニスガントレット
 PROPITEM_TXT_018321,Fennith Helmet,フェニスヘルメット
 PROPITEM_TXT_018323,Fennith Suit,フェニススーツ
-PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",ザ・ワイルズで発見された、太古の力が脈打つ謎の遺物。
-PROPITEM_TXT_122300,Crumbling Coral Cutlass,崩れる珊瑚のカットラス
-PROPITEM_TXT_122301,Lethargic Leviathan,無気力なリヴァイアサン
-PROPITEM_TXT_122302,Neglected Nautilus,無視されたノーチラス号
-PROPITEM_TXT_122303,Archaic Abyss,アルカイックアビス
-PROPITEM_TXT_122304,Nebulous Nemo's Fury,ネビュラス・ニモの怒り
-PROPITEM_TXT_122305,Tarnished Typhoon,変色した台風
+PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",ザ・ワイルズで発見された、原始の力が脈動する神秘的な装備品。
+PROPITEM_TXT_122300,Crumbling Coral Cutlass,朽ちたコーラルカットラス
+PROPITEM_TXT_122301,Lethargic Leviathan,力を失ったリヴァイアサン
+PROPITEM_TXT_122302,Neglected Nautilus,放置されたオウムガイ
+PROPITEM_TXT_122303,Archaic Abyss,古びたアビス
+PROPITEM_TXT_122304,Nebulous Nemo's Fury,くすんだニモの怒り
+PROPITEM_TXT_122305,Tarnished Typhoon,輝きを失ったタイフーン
 PROPITEM_TXT_122306,Flawed Fist of Tides,欠陥のある潮の拳
-PROPITEM_TXT_122307,Sundered Song of Sirens,サイレンの轟いた歌
-PROPITEM_TXT_122308,Leaky Lamprey's Wand,漏れたヤツメウナギの杖
-PROPITEM_TXT_122309,Craggy Conch Staff,ごつごつした巻き貝の杖
-PROPITEM_TXT_122310,"This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time.",この風化した反復は、時間の経過によって特徴づけられた、その全盛期の不完全なエコーとして現れました。
+PROPITEM_TXT_122307,Sundered Song of Sirens,折れたセイレーンの歌
+PROPITEM_TXT_122308,Leaky Lamprey's Wand,水漏れするヤツメウナギの杖
+PROPITEM_TXT_122309,Craggy Conch Staff,ゴツゴツした巻貝の杖
+PROPITEM_TXT_122310,"This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time.",長い年月を経て傷み、かつての輝きを失った装備品。
 PROPITEM_TXT_019197,Aqualis Helmet,アクアリスヘルメット
 PROPITEM_TXT_019199,Aqualis Suit,アクアリススーツ
 PROPITEM_TXT_019201,Aqualis Gauntlets,アクアリス ガントレット
@@ -12408,14 +12408,14 @@ PROPITEM_TXT_019448,Seakissed Marinfury Gauntlets,シーキスドマリンフュ
 PROPITEM_TXT_019450,Seakissed Marinfury Boots,シーキスドマリンフューリーブーツ
 PROPITEM_TXT_019451,Destroyed Coral Cutlass,破壊されたコーラルカットラス
 PROPITEM_TXT_019452,Destroyed Leviathan,破壊されたリヴァイアサン
-PROPITEM_TXT_019453,Destroyed Nautilus,破壊されたノーチラス号
-PROPITEM_TXT_019454,Destroyed Abyss,破壊された深淵
+PROPITEM_TXT_019453,Destroyed Nautilus,破壊されたオウムガイ
+PROPITEM_TXT_019454,Destroyed Abyss,破壊されたアビス
 PROPITEM_TXT_019455,Destroyed Nemo's Fury,破壊されたニモの怒り
 PROPITEM_TXT_019456,Destroyed Typhoon,破壊されたタイフーン
 PROPITEM_TXT_019457,Destroyed Fist of Tides,破壊された潮の拳
 PROPITEM_TXT_019458,Destroyed Song of Sirens,破壊されたセイレーンの歌
 PROPITEM_TXT_019459,Destroyed Lamprey's Wand,破壊されたヤツメウナギの杖
-PROPITEM_TXT_019460,Destroyed Conch Staff,破壊された法螺貝の杖
+PROPITEM_TXT_019460,Destroyed Conch Staff,破壊された巻貝の杖
 PROPITEM_TXT_019461,This weapon has been damaged beyond repair.,この武器は修復不可能なほど損傷しています。
 PROPITEM_TXT_019462,Coral Shield,珊瑚の盾
 PROPITEM_TXT_019463,Mossy Coral Shield,苔むした珊瑚の盾
@@ -12423,7 +12423,7 @@ PROPITEM_TXT_019464,Destroyed Coral Shield,破壊された珊瑚の盾
 PROPITEM_TXT_019465,This shield has been damaged beyond repair.,このシールドは修復不可能なほど損傷しています。
 PROPITEM_TXT_019466,Lusaka's Shield,ルサカの盾
 PROPITEM_TXT_019467,Lusaka's Crystal Shield,ルサカのクリスタルシールド
-PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,荒野で見つけた精巧な盾。力強くハミングします。
+PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,ザ・ワイルズで発見された、精巧に作られた盾。底知れぬパワーを感じる。
 PROPITEM_TXT_150000,Lightning Strike,落雷
 PROPITEM_TXT_150001,"Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds.",ポイントで前方の人に落雷を呼び、10秒間20%遅くします。
 PROPITEM_TXT_150002,Guided Missile,誘導弾
@@ -24547,67 +24547,67 @@ PROPITEM_TXT_155496,Tramien Helmet,トラミエン・ヘルメット
 PROPITEM_TXT_155497,Tramien Suit,トラミエン・スーツ
 PROPITEM_TXT_155498,Tramien Gauntlets,トラミエン・ガントレット
 PROPITEM_TXT_155499,Tramien Boots,トラミエン・ブーツ
-PROPITEM_TXT_155500,Ankou's Heart,Ankou's Heart
-PROPITEM_TXT_155501,Veil of Shade,Veil of Shade
-PROPITEM_TXT_155502,Maw of Judgement,Maw of Judgement
+PROPITEM_TXT_155500,Ankou's Heart,ベヒモスハート
+PROPITEM_TXT_155501,Veil of Shade,シェードヴェイル
+PROPITEM_TXT_155502,Maw of Judgement,ジャッジメント
 PROPITEM_TXT_155503,Oracle,オラクル
-PROPITEM_TXT_155504,Scepter of Disorder,Scepter of Disorder
-PROPITEM_TXT_155505,Roika's Staff,Roika's Staff
-PROPITEM_TXT_155506,Curtana,Curtana
-PROPITEM_TXT_155507,Celestial Edge,Celestial Edge
-PROPITEM_TXT_155508,Bringer of Souls,Bringer of Souls
-PROPITEM_TXT_155509,Butcher's Carnage,Butcher's Carnage
-PROPITEM_TXT_155510,Harbinger,Harbinger
-PROPITEM_TXT_155511,Dementia,Dementia
-PROPITEM_TXT_155512,Hell's Gate,Hell's Gate
-PROPITEM_TXT_155513,Dragon's Rain,Dragon's Rain
-PROPITEM_TXT_155514,K Fang,K Fang
+PROPITEM_TXT_155504,Scepter of Disorder,ボレアス
+PROPITEM_TXT_155505,Roika's Staff,エウロス
+PROPITEM_TXT_155506,Curtana,ロンバルディア
+PROPITEM_TXT_155507,Celestial Edge,バルムンク
+PROPITEM_TXT_155508,Bringer of Souls,ソウルズブリンガー
+PROPITEM_TXT_155509,Butcher's Carnage,ノトス
+PROPITEM_TXT_155510,Harbinger,マンイーター
+PROPITEM_TXT_155511,Dementia,ゼファー
+PROPITEM_TXT_155512,Hell's Gate,ヘルズゲート
+PROPITEM_TXT_155513,Dragon's Rain,アサルトレイン
+PROPITEM_TXT_155514,K Fang,ゼピュロス
 PROPITEM_TXT_155515,Vial of Toxins,毒の小瓶
 PROPITEM_TXT_155516,A lethal vial carrying a toxic substance. Needed to use toxic Harlequin skills.,致死性の毒物が入った小瓶。ハーレクインの毒スキル使用に必要。
-PROPITEM_TXT_155517,Broken Butcher's Carnage,Broken Butcher's Carnage
-PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,Battle-Worn Butcher's Carnage
-PROPITEM_TXT_155519,Cursed Butcher's Carnage,Cursed Butcher's Carnage
-PROPITEM_TXT_155520,Butcher's Carnage,Butcher's Carnage
-PROPITEM_TXT_155521,Broken Dragon's Rain,Broken Dragon's Rain
-PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,Battle-Worn Dragon's Rain
-PROPITEM_TXT_155523,Cursed Dragon's Rain,Cursed Dragon's Rain
-PROPITEM_TXT_155524,Dragon's Rain,Dragon's Rain
-PROPITEM_TXT_155525,Broken Maw of Judgement,Broken Maw of Judgement
-PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,Battle-Worn Maw of Judgement
-PROPITEM_TXT_155527,Cursed Maw of Judgement,Cursed Maw of Judgement
-PROPITEM_TXT_155528,Maw of Judgement,Maw of Judgement
-PROPITEM_TXT_155529,Broken Roika's Staff,Broken Roika's Staff
-PROPITEM_TXT_155530,Battle-Worn Roika's Staff,Battle-Worn Roika's Staff
-PROPITEM_TXT_155531,Cursed Roika's Staff,Cursed Roika's Staff
-PROPITEM_TXT_155532,Roika's Staff,Roika's Staff
-PROPITEM_TXT_155533,Broken Oracle,Broken Oracle
-PROPITEM_TXT_155534,Battle-Worn Oracle,Battle-Worn Oracle
-PROPITEM_TXT_155535,Cursed Oracle,Cursed Oracle
+PROPITEM_TXT_155517,Broken Butcher's Carnage,壊れたノトス
+PROPITEM_TXT_155518,Battle-Worn Butcher's Carnage,傷だらけのノトス
+PROPITEM_TXT_155519,Cursed Butcher's Carnage,呪いのノトス
+PROPITEM_TXT_155520,Butcher's Carnage,ノトス
+PROPITEM_TXT_155521,Broken Dragon's Rain,壊れたアサルトレイン
+PROPITEM_TXT_155522,Battle-Worn Dragon's Rain,傷だらけのアサルトレイン
+PROPITEM_TXT_155523,Cursed Dragon's Rain,呪いのアサルトレイン
+PROPITEM_TXT_155524,Dragon's Rain,アサルトレイン
+PROPITEM_TXT_155525,Broken Maw of Judgement,壊れたジャッジメント
+PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,傷だらけのジャッジメント
+PROPITEM_TXT_155527,Cursed Maw of Judgement,呪いのジャッジメント
+PROPITEM_TXT_155528,Maw of Judgement,ジャッジメント
+PROPITEM_TXT_155529,Broken Roika's Staff,壊れたエウロス
+PROPITEM_TXT_155530,Battle-Worn Roika's Staff,傷だらけのエウロス
+PROPITEM_TXT_155531,Cursed Roika's Staff,呪いのエウロス
+PROPITEM_TXT_155532,Roika's Staff,エウロス
+PROPITEM_TXT_155533,Broken Oracle,壊れたオラクル
+PROPITEM_TXT_155534,Battle-Worn Oracle,傷だらけのオラクル
+PROPITEM_TXT_155535,Cursed Oracle,呪いのオラクル
 PROPITEM_TXT_155536,Oracle,オラクル
-PROPITEM_TXT_155537,Broken Curtana,Broken Curtana
-PROPITEM_TXT_155538,Battle-Worn Curtana,Battle-Worn Curtana
-PROPITEM_TXT_155539,Cursed Curtana,Cursed Curtana
-PROPITEM_TXT_155540,Curtana,Curtana
-PROPITEM_TXT_155541,Broken K Fang,Broken K Fang
-PROPITEM_TXT_155542,Battle-Worn K Fang,Battle-Worn K Fang
-PROPITEM_TXT_155543,Cursed K Fang,Cursed K Fang
-PROPITEM_TXT_155544,K Fang,K Fang
-PROPITEM_TXT_155545,Broken Harbinger,Broken Harbinger
-PROPITEM_TXT_155546,Battle-Worn Harbinger,Battle-Worn Harbinger
-PROPITEM_TXT_155547,Cursed Harbinger,Cursed Harbinger
-PROPITEM_TXT_155548,Harbinger,Harbinger
-PROPITEM_TXT_155549,Broken Celestial Edge,Broken Celestial Edge
-PROPITEM_TXT_155550,Battle-Worn Celestial Edge,Battle-Worn Celestial Edge
-PROPITEM_TXT_155551,Cursed Celestial Edge,Cursed Celestial Edge
-PROPITEM_TXT_155552,Celestial Edge,Celestial Edge
-PROPITEM_TXT_155553,Broken Scepter of Disorder,Broken Scepter of Disorder
-PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,Battle-Worn Scepter of Disorder
-PROPITEM_TXT_155555,Cursed Scepter of Disorder,Cursed Scepter of Disorder
-PROPITEM_TXT_155556,Scepter of Disorder,Scepter of Disorder
-PROPITEM_TXT_155557,Broken Dementia,Broken Dementia
-PROPITEM_TXT_155558,Battle-Worn Dementia,Battle-Worn Dementia
-PROPITEM_TXT_155559,Cursed Dementia,Cursed Dementia
-PROPITEM_TXT_155560,Dementia,Dementia
+PROPITEM_TXT_155537,Broken Curtana,壊れたロンバルディア
+PROPITEM_TXT_155538,Battle-Worn Curtana,傷だらけのロンバルディア
+PROPITEM_TXT_155539,Cursed Curtana,呪いのロンバルディア
+PROPITEM_TXT_155540,Curtana,ロンバルディア
+PROPITEM_TXT_155541,Broken K Fang,壊れたゼピュロス
+PROPITEM_TXT_155542,Battle-Worn K Fang,傷だらけのゼピュロス
+PROPITEM_TXT_155543,Cursed K Fang,呪いのゼピュロス
+PROPITEM_TXT_155544,K Fang,ゼピュロス
+PROPITEM_TXT_155545,Broken Harbinger,壊れたマンイーター
+PROPITEM_TXT_155546,Battle-Worn Harbinger,傷だらけのマンイーター
+PROPITEM_TXT_155547,Cursed Harbinger,呪いのマンイーター
+PROPITEM_TXT_155548,Harbinger,マンイーター
+PROPITEM_TXT_155549,Broken Celestial Edge,壊れたバルムンク
+PROPITEM_TXT_155550,Battle-Worn Celestial Edge,傷だらけのバルムンク
+PROPITEM_TXT_155551,Cursed Celestial Edge,呪いのバルムンク
+PROPITEM_TXT_155552,Celestial Edge,バルムンク
+PROPITEM_TXT_155553,Broken Scepter of Disorder,壊れたボレアス
+PROPITEM_TXT_155554,Battle-Worn Scepter of Disorder,傷だらけのボレアス
+PROPITEM_TXT_155555,Cursed Scepter of Disorder,呪いのボレアス
+PROPITEM_TXT_155556,Scepter of Disorder,ボレアス
+PROPITEM_TXT_155557,Broken Dementia,壊れたゼファー
+PROPITEM_TXT_155558,Battle-Worn Dementia,傷だらけのゼファー
+PROPITEM_TXT_155559,Cursed Dementia,呪いのゼファー
+PROPITEM_TXT_155560,Dementia,ゼファー
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,アルティマボーナスの巻物II
 PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,アルティマ武器に付与されたランダムなステータスと特殊オプションの値をリセットします。
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC 2025 ブラッディー・デスメッセンジャーセット(優勝者)
@@ -26605,17 +26605,17 @@ PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,ローズピンク�
 PROPITEM_TXT_903694,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[イベント]2026スプリングギフトボックス
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),マドリガルフライングセレクションボックス(15日)
-PROPITEM_TXT_155829,2026 FWC Golden Curtana,FWC 2026 Golden Curtana
-PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge,FWC 2026 Golden Celestial Edge
-PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage,FWC 2026 Golden Butcher's Carnage
-PROPITEM_TXT_155832,2026 FWC Golden Harbinger,FWC 2026 Golden Harbinger
-PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement,FWC 2026 Golden Maw of Judgement
-PROPITEM_TXT_155834,2026 FWC Golden Oracle,FWC 2026 Golden Oracle
-PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder,FWC 2026 Golden Scepter of Disorder
-PROPITEM_TXT_155836,2026 FWC Golden Roika's Staff,FWC 2026 Golden Roika's Staff
-PROPITEM_TXT_155837,2026 FWC Golden Dementia,FWC 2026 Golden Dementia
-PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain,FWC 2026 Golden Dragon's Rain
-PROPITEM_TXT_155839,2026 FWC Golden K Fang,FWC 2026 Golden K Fang
+PROPITEM_TXT_155829,2026 FWC Golden Curtana,FWC 2026 ゴールデン・ロンバルディア
+PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge,FWC 2026 ゴールデン・バルムンク
+PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage,FWC 2026 ゴールデン・ノトス
+PROPITEM_TXT_155832,2026 FWC Golden Harbinger,FWC 2026 ゴールデン・マンイーター
+PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement,FWC 2026 ゴールデン・ジャッジメント
+PROPITEM_TXT_155834,2026 FWC Golden Oracle,FWC 2026 ゴールデン・オラクル
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder,FWC 2026 ゴールデン・ボレアス
+PROPITEM_TXT_155836,2026 FWC Golden Roika's Staff,FWC 2026 ゴールデン・エウロス
+PROPITEM_TXT_155837,2026 FWC Golden Dementia,FWC 2026 ゴールデン・ゼファー
+PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain,FWC 2026 ゴールデン・アサルトレイン
+PROPITEM_TXT_155839,2026 FWC Golden K Fang,FWC 2026 ゴールデン・ゼピュロス
 PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,FWC 2026 ゴールデン・ランティエルヘルメット
 PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,FWC 2026 ゴールデン・ランティエルスーツ
 PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,FWC 2026 ゴールデン・ランティエルガントレット
@@ -29252,34 +29252,34 @@ PROPITEM_TXT_913766,Green Spirit Shard,グリーンスピリットシャード
 PROPITEM_TXT_913767,That's strange... It seems to be a fragment of Anae's soul.,おかしいな…アナエの魂の欠片のようだ。
 PROPITEM_TXT_913768,Black Spirit Shard,ブラックスピリットシャード
 PROPITEM_TXT_913769,That's strange... It seems to be a fragment of Rifter's soul.,おかしいな…リフターの魂の欠片のようだ。
-PROPITEM_TXT_913770,Phantasmal Shield,幻影の盾
+PROPITEM_TXT_913770,Phantasmal Shield,クイーンズ・ファントムシールド
 PROPITEM_TXT_913771,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.,エンタネスの悪夢から生まれた幻影の結晶を核として鍛えられた盾。その不気味な輝きは、人知を超えた危険を映し出すと言われている。
-PROPITEM_TXT_913772,Book of Thorns,茨の書
-PROPITEM_TXT_913773,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.,棘の女王自らが育んだ古の書物。表紙に埋め込まれた結晶には、ユーフラシアの深淵に眠る禁断の知識が封じられている。
-PROPITEM_TXT_913774,Soul of Entaness,エンタネスの魂
-PROPITEM_TXT_913775,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.,エンタネスの残された魂の欠片が宿る神聖な小盾。その静謐な輝きは、悟りの道を歩む者に力を与える。
-PROPITEM_TXT_913776,Sword of Whisper,Sword of Whisper
-PROPITEM_TXT_913777,Sword of Mist,Sword of Mist
-PROPITEM_TXT_913778,Phantasmal Slayer,Phantasmal Slayer
-PROPITEM_TXT_913779,Specter's Axe,Specter's Axe
-PROPITEM_TXT_913780,Cleaver of the Mist,Cleaver of the Mist
-PROPITEM_TXT_913781,Knuckle of Madness,Knuckle of Madness
-PROPITEM_TXT_913782,Mirage,Mirage
-PROPITEM_TXT_913783,Wand of Apparitions,Wand of Apparitions
-PROPITEM_TXT_913784,Staff of Ethereal Dreams,Staff of Ethereal Dreams
-PROPITEM_TXT_913785,Bow of Echoes,Bow of Echoes
-PROPITEM_TXT_913786,Jewel of Nightmare,Jewel of Nightmare
-PROPITEM_TXT_913787,Sword of Whisper,Sword of Whisper
-PROPITEM_TXT_913788,Sword of Mist,Sword of Mist
-PROPITEM_TXT_913789,Phantasmal Slayer,Phantasmal Slayer
-PROPITEM_TXT_913790,Specter's Axe,Specter's Axe
-PROPITEM_TXT_913791,Cleaver of the Mist,Cleaver of the Mist
-PROPITEM_TXT_913792,Knuckle of Madness,Knuckle of Madness
-PROPITEM_TXT_913793,Mirage,Mirage
-PROPITEM_TXT_913794,Wand of Apparitions,Wand of Apparitions
-PROPITEM_TXT_913795,Staff of Ethereal Dreams,Staff of Ethereal Dreams
-PROPITEM_TXT_913796,Bow of Echoes,Bow of Echoes
-PROPITEM_TXT_913797,Jewel of Nightmare,Jewel of Nightmare
+PROPITEM_TXT_913772,Book of Thorns,クイーンズ・グリモワール
+PROPITEM_TXT_913773,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.,棘の女王自らが育んだ古の書物。表紙に埋め込まれた結晶には、ユプレシアの深淵に眠る禁断の知識が封じられている。
+PROPITEM_TXT_913774,Soul of Entaness,クイーンズ・ソウル
+PROPITEM_TXT_913775,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.,エンタネスの残された魂の欠片が宿る神聖な小盾。その穏やかな輝きは、悟りの道を歩む者に力を与える。
+PROPITEM_TXT_913776,Sword of Whisper,クイーンズ・ウィスパーソード
+PROPITEM_TXT_913777,Sword of Mist,クイーンズ・ミストソード
+PROPITEM_TXT_913778,Phantasmal Slayer,クイーンズ・ファントムスレイヤー
+PROPITEM_TXT_913779,Specter's Axe,クイーンズ・スペクターアックス
+PROPITEM_TXT_913780,Cleaver of the Mist,クイーンズ・ミストクリーヴァー
+PROPITEM_TXT_913781,Knuckle of Madness,クイーンズ・マッドネスナックル
+PROPITEM_TXT_913782,Mirage,クイーンズ・ミラージュ
+PROPITEM_TXT_913783,Wand of Apparitions,クイーンズ・アパリションワンド
+PROPITEM_TXT_913784,Staff of Ethereal Dreams,クイーンズ・エーテリアルスタッフ
+PROPITEM_TXT_913785,Bow of Echoes,クイーンズ・エコーボウ
+PROPITEM_TXT_913786,Jewel of Nightmare,クイーンズ・ナイトメアジュエル
+PROPITEM_TXT_913787,Sword of Whisper,エンプレス・ウィスパーソード
+PROPITEM_TXT_913788,Sword of Mist,エンプレス・ミストソード
+PROPITEM_TXT_913789,Phantasmal Slayer,エンプレス・ファントムスレイヤー
+PROPITEM_TXT_913790,Specter's Axe,エンプレス・スペクターアックス
+PROPITEM_TXT_913791,Cleaver of the Mist,エンプレス・ミストクリーヴァー
+PROPITEM_TXT_913792,Knuckle of Madness,エンプレス・マッドネスナックル
+PROPITEM_TXT_913793,Mirage,エンプレス・ミラージュ
+PROPITEM_TXT_913794,Wand of Apparitions,エンプレス・アパリションワンド
+PROPITEM_TXT_913795,Staff of Ethereal Dreams,エンプレス・エーテリアルスタッフ
+PROPITEM_TXT_913796,Bow of Echoes,エンプレス・エコーボウ
+PROPITEM_TXT_913797,Jewel of Nightmare,エンプレス・ナイトメアジュエル
 PROPITEM_TXT_913798,1.5.5 Update Pass,1.5.5アップデートパス
 PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season,この購入により、1.5.5アップデートパスシーズン終了まで様々な特典が利用可能になります
 PROPITEM_TXT_913800,1.5.5 Update Lucky Box,1.5.5アップデートラッキーボックス
