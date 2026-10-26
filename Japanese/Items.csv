@@ -6291,7 +6291,7 @@ PROPITEM_TXT_100050,Azure Shield,アジュールシールド
 PROPITEM_TXT_100052,Scroll of Change Pet Name,収集ペット改名の巻物
 PROPITEM_TXT_100053,A Special Scroll used to name your summoned pet. This scroll only works on pickup pets.,召喚したペットに名前を付けることが出来る巻物。この巻物は収集ペットにのみ有効です。
 PROPITEM_TXT_100054,Scroll of Guild Rejoin,ギルド再加入の巻物
-PROPITEM_TXT_100055,This Scroll resets the cooldown to join another guild.,ギルド脱退時に発生する再加入までのクールタイムがなくなる巻物
+PROPITEM_TXT_100055,This Scroll resets the cooldown to join another guild.,ギルド脱退時に発生する再加入までのクールダウンがなくなる巻物
 PROPITEM_TXT_100056,Vendor Shop,売り子ショップ
 PROPITEM_TXT_100057,This Vendor manages a Personal Shop for you! The higher your level the longer it lasts. Double click to close the Shop.,この売り子は個人商店を代行してくれます！レベルが高いほど、長持ちします。バフアイコンでダブルクリックするとショップを閉じることができます。
 PROPITEM_TXT_100058,Lightning Effect (7 days),稲妻効果(7日)
@@ -29288,31 +29288,31 @@ PROPITEM_TXT_913802,Mob Weapon: Mystica,ミスティカ・武器
 PROPITEM_TXT_913803,Cloak of Majesty,威厳のマント
 PROPITEM_TXT_913804,Baby Okean,ベビーオケアノス
 PROPITEM_TXT_913805,Lord-exclusive pick-up pet.,ロードの威厳を象徴するロード専用の収集ペットです。
-PROPITEM_TXT_1902501,Caveman Chief Overlap Damage Attack 1,ケイブマンチーフ・ダメージスタック攻撃1
+PROPITEM_TXT_1902501,Caveman Chief Overlap Damage Attack 1,ケイブマンチーフ・累積ダメージ攻撃1
 PROPITEM_TXT_1902502,Caveman Chief Pull Target Attack 2,ケイブマンチーフ・引き寄せ攻撃2
 PROPITEM_TXT_1902503,Caveman Chief Knock Back Attack 3,ケイブマンチーフ・ノックバック攻撃3
 PROPITEM_TXT_1902504,Caveman Chief Meteor Attack 4,ケイブマンチーフ・メテオ攻撃4
 PROPITEM_TXT_1902505,Caveman Chief Whirl Wind Attack 5,ケイブマンチーフ・旋風攻撃5
 PROPITEM_TXT_1902506,Caveman Chief Whirl Wind Attack 6,ケイブマンチーフ・旋風攻撃6
-PROPITEM_TXT_1902507,Temple Guardian Overlap Damage Attack 1,テンプルガーディアン・ダメージスタック攻撃1
+PROPITEM_TXT_1902507,Temple Guardian Overlap Damage Attack 1,テンプルガーディアン・累積ダメージ攻撃1
 PROPITEM_TXT_1902508,Temple Guardian Attack 2,テンプルガーディアン・攻撃2
 PROPITEM_TXT_1902509,Temple Guardian Knock Back Attack 3,テンプルガーディアン・ノックバック攻撃3
 PROPITEM_TXT_1902510,Temple Guardian Attack 4,テンプルガーディアン・攻撃4
 PROPITEM_TXT_1902511,Temple Guardian Slow Attack 5,テンプルガーディアン・スロー攻撃5
 PROPITEM_TXT_1902512,Temple Guardian Stun Attack 6,テンプルガーディアン・スタン攻撃6
-PROPITEM_TXT_1902513,Great Kraken Overlap Damage Attack 1,グレートクラーケン・ダメージスタック攻撃1
+PROPITEM_TXT_1902513,Great Kraken Overlap Damage Attack 1,グレートクラーケン・累積ダメージ攻撃1
 PROPITEM_TXT_1902514,Great Kraken Attack 2,グレートクラーケン・攻撃2
 PROPITEM_TXT_1902515,Great Kraken Attack 3,グレートクラーケン・攻撃3
 PROPITEM_TXT_1902516,Great Kraken Meteor Attack 4,グレートクラーケン・メテオ攻撃4
 PROPITEM_TXT_1902517,Great Kraken Attack 5,グレートクラーケン・攻撃5
 PROPITEM_TXT_1902518,Great Kraken Attack 6,グレートクラーケン・攻撃6
-PROPITEM_TXT_1902519,Pyramid Guardian Overlap Damage Attack 1,ピラミッド・ガーディアン・ダメージスタック攻撃1
+PROPITEM_TXT_1902519,Pyramid Guardian Overlap Damage Attack 1,ピラミッド・ガーディアン・累積ダメージ攻撃1
 PROPITEM_TXT_1902520,Pyramid Guardian Attack 2,ピラミッド・ガーディアン・攻撃2
 PROPITEM_TXT_1902521,Pyramid Guardian Attack 3,ピラミッド・ガーディアン・攻撃3
 PROPITEM_TXT_1902522,Pyramid Guardian Meteor Attack 4,ピラミッド・ガーディアン・メテオ攻撃4
 PROPITEM_TXT_1902523,Pyramid Guardian Attack 5,ピラミッド・ガーディアン・攻撃5
 PROPITEM_TXT_1902524,Pyramid Guardian Attack 6,ピラミッド・ガーディアン・攻撃6
-PROPITEM_TXT_1902525,Crystal Demon Lord Overlap Damage Attack 1,クリスタルデーモンロード・ダメージスタック攻撃1
+PROPITEM_TXT_1902525,Crystal Demon Lord Overlap Damage Attack 1,クリスタルデーモンロード・累積ダメージ攻撃1
 PROPITEM_TXT_1902526,Crystal Demon Lord Attack 2,クリスタルデーモンロード・攻撃2
 PROPITEM_TXT_1902527,Crystal Demon Lord Fly Back Attack 3,クリスタルデーモンロード・フライバック攻撃3
 PROPITEM_TXT_1902528,Crystal Demon Lord Knock Back Attack 4,クリスタルデーモンロード・ノックバック攻撃4

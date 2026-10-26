@@ -725,7 +725,7 @@ TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,まずはアリ
 TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,アリーナへの入場は3分で1度のみ入場できます。
 TEXTCLIENT_CHANGE_FACE,Change your Appearance.,選択したメーキャップの費用は
 TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,メーキャップをしますか？
-TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%sはダンジョン入場のクールタイム中です。残り時間: %s
+TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%sはダンジョン入場のクールダウン中です。残り時間: %s
 TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,%sペニャを失いました。（所持：%sペニャ）
 TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,決闘中にはできません。
 TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,このアイテムは、カードマスターのカードアップグレードメニューで使用できます。
