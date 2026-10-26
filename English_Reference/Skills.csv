@@ -793,7 +793,7 @@ PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.
 PROPSKILL_TXT_150213,Master of Sword
 PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.
 PROPSKILL_TXT_150215,Master of Axe
-PROPSKILL_TXT_150216,Increases Slayer skill damage, block chance, and hit rate. Scales with number of axes equipped.
+PROPSKILL_TXT_150216,"Increases Slayer skill damage, block chance, and hit rate. Scales with number of axes equipped."
 PROPSKILL_TXT_150217,Survival Stance
 PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.
 PROPSKILL_TXT_150219,Blessing of the Wise
