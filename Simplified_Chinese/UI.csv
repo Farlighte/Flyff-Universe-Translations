@@ -93,9 +93,9 @@ UI_CHARINFO_RESET_TOOLTIP,Revert allocation and return to previous stats,恢复�
 UI_CHARINFO_CHANGEPAGE_TOOLTIP,Switch to a different stat page,切换属性页
 UI_CHARINFO_PLUSMINUS_TOOLTIP,"After allocating your stat points, press Confirm.",更改完属性点后，点击应用。
 UI_CHARINFO_STR_TOOLTIP,Increases the weapon's Attack Power (#cffb40000except wands and bows#nc).,增强武器的攻击力(#cffb40000除了魔杖#nc)
-UI_CHARINFO_STA_TOOLTIP,"Increases Defense, Max HP, and Max FP.\nIncreases HP and FP recovery rate.",增强防御力，最大HP，最大FP\nHP，FP恢复速度增加。
-UI_CHARINFO_DEX_TOOLTIP,"Increases Attack Speed, Parry, Block and Critical Chance.\n#cffb40000Increases bow damage.#nc",攻击速度增加\n闪避率，格挡率增加\n暴击率增加\n#cffb40000弓箭攻击力增加。#nc
-UI_CHARINFO_INT_TOOLTIP,Increases Max MP.\nIncreases Magic Attack Power.,最大MP值增加。\n魔法攻击力
+UI_CHARINFO_STA_TOOLTIP,"Increases Defense, Max HP, and Max FP.\nIncreases HP and FP recovery rate.",增强防御力，最大HP，最大FP\n增加HP，FP恢复速度。
+UI_CHARINFO_DEX_TOOLTIP,"Increases Attack Speed, Parry, Block and Critical Chance.\n#cffb40000Increases bow damage.#nc",增加攻击速度\n增加闪避率，格挡率\n增加暴击率\n#cffb40000增加弓箭攻击力。#nc
+UI_CHARINFO_INT_TOOLTIP,Increases Max MP.\nIncreases Magic Attack Power.,增加最大MP值。\n增加魔法攻击力
 UI_CHARINFO_GP_TOOLTIP,"After allocating your stat points, press Confirm.",更改完属性点后，点击应用。
 UI_CHARINFO_PVP_DUELFAME,Duel Fame,对战声望
 UI_CHARINFO_PVP_DUELPOINT,Duel Points,对战点数
@@ -114,7 +114,7 @@ UI_TOOLTIP_ATTACK_BASE,Base Attack:,基础攻击力:
 UI_TOOLTIP_DEF_BASE,Base Defense:,基础防御力:
 UI_TOOLTIP_ATTACK,Attack:,攻击力:
 UI_TOOLTIP_DEF_A,Defense:,防御力:
-UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度:%s
+UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻击速度: %s
 UI_TOOLTIP_REQ_JOB,Req Job:,必要职业:
 UI_TOOLTIP_REQ_LEVEL,Required Level: %d,必要等级: %d
 UI_TOOLTIP_REQ,Requires %s,还需 %s
@@ -129,7 +129,7 @@ UI_TOOLTIP_INV_GAUNTLET,Gauntlet,手套
 UI_TOOLTIP_INV_BOOTS,Boots,靴子
 UI_TOOLTIP_INV_HELMET,Helmet,帽子
 UI_TOOLTIP_INV_CLO,Cloak,披风
-UI_TOOLTIP_INV_WEAPON,Weapon,武器商店
+UI_TOOLTIP_INV_WEAPON,Weapon,武器
 UI_TOOLTIP_INV_GUARD,Shield,盾
 UI_TOOLTIP_INV_MASK,Mask,面具
 UI_TOOLTIP_INV_RID,Flying Item,飞行道具
@@ -193,12 +193,12 @@ UI_TOOLTIP_ABILITYMIN,Min. Ability,最小能力
 UI_TOOLTIP_ABILITYMAX,Max. Ability,最大能力
 UI_TOOLTIP_DEFENSE,Defense,防御力
 UI_TOOLTIP_DEFMAGIC,Magic Defense,魔法防御力
-UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,雷属性抗性
-UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,全元素属性抗性
-UI_TOOLTIP_DEFFIRE,Fire Resistance,火属性抗性
-UI_TOOLTIP_DEFWIND,Wind Resistance,风属性抗性
-UI_TOOLTIP_DEFWATER,Water Resistance,水属性抗性
-UI_TOOLTIP_DEFEARTH,Earth Resistance,土属性抗性
+UI_TOOLTIP_DEFELECTRICITY,Electricity Resistance,雷属性抵抗
+UI_TOOLTIP_DEFALLELEMENTAL,All Elements Resistance,全元素属性抵抗
+UI_TOOLTIP_DEFFIRE,Fire Resistance,火属性抵抗
+UI_TOOLTIP_DEFWIND,Wind Resistance,风属性抵抗
+UI_TOOLTIP_DEFWATER,Water Resistance,水属性抵抗
+UI_TOOLTIP_DEFEARTH,Earth Resistance,土属性抵抗
 UI_CHARINFO_ELEMENTDEF,Resistance,抵抗
 UI_CHARINFO_ELEMENTMASTRY,Mastery,精通
 UI_TOOLTIP_HP,HP,HP
@@ -263,7 +263,7 @@ UI_TOOLTIP_RETURN_USE,Return to your former position.,返回到移动前的位�
 UI_DISPLAY_BUFFS,Show/hide buffs,显示/隐藏BUFF
 UI_SELECTJOB_TITLE,Select new job,选择新职业
 UI_NOTICE_DISCORD,Join our Discord server,加入我们的Discord服务器
-UI_TOOLTIP_COMBO,Use skills in the Action Slot,在连续快捷栏中使用技能
+UI_TOOLTIP_COMBO,Use skills in the Action Slot,使用连续技能栏中的技能组
 UI_OPTION_ANTIALIAS,Antialiasing,抗锯齿
 UI_OPTION_LIGHTS,Lights,光照
 UI_TOOLTIP_HOTKEY,[Hotkey %s],[热键 %s]
@@ -359,7 +359,7 @@ UI_CHATFILTER_PARTY,Party,单幕剧团
 UI_CHATFILTER_GUILD,Guild,公会
 UI_CHATFILTER_RESET_COLORS,Reset to Default,恢复默认设置
 UI_POSTSEND_TO,Recipient,收件人
-UI_POSTSEND_TITLE,Title,称号
+UI_POSTSEND_TITLE,Title,标题
 UI_POSTSEND_GOLD,Penya,金币
 UI_POSTSEND_PRICE,Mailing Fee: %d Penya,手续费：%d 金币
 UI_POSTSEND_SEND,Send,发送
@@ -382,13 +382,13 @@ UI_POSTREAD_MAILEXPIRED,Mail Expired,过期邮件
 UI_POSTREAD_KEEP_PAY,This mail expired %d days ago. You must pay %s Penya to retrieve it.,该邮件已过期 %d 天。你必须支付 %s 金币以取回。
 UI_QUEST_CANCEL,Remove quest,删除任务
 UI_QUEST_CANCEL_TIP,Cancel Quest in Progress,取消进行中的任务
-UI_QUEST_ALLQUESTS,All Quests,整体目录
-UI_QUEST_INPROGRESS,In Progress,正在进行中
-UI_QUEST_COMPLETED,Completed,完成
-UI_QUEST_LIST,Quest List,任务目录
-UI_QUEST_DETAIL,Quest Details,任务内容
-UI_QUEST_REWARDS,Reward List,可获得的奖励
-UI_QUEST_CONDITIONS,Quest Condition,任务条件
+UI_QUEST_ALLQUESTS,All Quests,全部
+UI_QUEST_INPROGRESS,In Progress,进行中任务
+UI_QUEST_COMPLETED,Completed,已结束任务
+UI_QUEST_LIST,Quest List,任务列表
+UI_QUEST_DETAIL,Quest Details,任务日志
+UI_QUEST_REWARDS,Reward List,任务奖励
+UI_QUEST_CONDITIONS,Quest Condition,任务目标
 UI_QUEST_GOLD1,Penya: %d,金币： %d
 UI_QUEST_GOLD2,Penya: %d~%d,金币： %d~%d
 UI_QUEST_GOLD3,Penya: ????,金币： ????
@@ -409,7 +409,7 @@ UI_QUEST_LIMIT_TIME,Time Left: #b%d minutes#nb,剩余时间: #b%d分#nb
 UI_QUEST_LIMIT_TIMEOUT,#bYou ran out of time.#nb,#b已超过限制时间#nb
 UI_QUEST_KILL_NPC,Defeat %s #cffc32f07#b%d/%d#nb#nc,击杀 %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_ITEM,%s #cffc32f07#b%d/%d#nb#nc,%s 数量 #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PATROL,Search %s,%s 搜索
+UI_QUEST_PATROL,Search %s,探索 %s
 UI_QUEST_COMPLETE_TEXT,[Complete],[完成]
 UI_QUEST_NODISGUISE,Transformed into a human,变回人类
 UI_QUEST_DISGUISE,Transformed into %s,变身成%s
@@ -441,62 +441,62 @@ UI_OPTION_UIALPHA,Opacity,界面透明度
 UI_QUESTGOAL,Quest Goal,任务目标
 UI_GUILD_TAB_INFO,Info,信息
 UI_GUILD_TAB_MEMBER,Members,成员
-UI_GUILD_TAB_GRADE,Titles,称号
+UI_GUILD_TAB_GRADE,Titles,称谓
 UI_GUILD_TAB_WAR,Guild Duel,公会战
 UI_GUILD_NAME,Name:,名称:
-UI_GUILD_NAME_BUTTON,Change Name,名称
+UI_GUILD_NAME_BUTTON,Change Name,设置公会名称
 UI_GUILD_MASTER,Guild Master:,会长:
 UI_GUILD_EXP,EXP:,经验值：
 UI_GUILD_PENYA,Penya:,金币：
 UI_GUILD_LEVEL,Level:,等级：
 UI_GUILD_MEMBER,Members:,成员：
 UI_GUILD_DISCORD_TIP,Join the guild Discord server,加入公会的Discord频道
-UI_GUILD_LOGO,Logo:,图标：
-UI_GUILD_LOGO_BUTTON,Change Logo,公会徽章
-UI_GUILD_NOTICE,Notice,公告
-UI_GUILD_DISMISS,Disband,解除
+UI_GUILD_LOGO,Logo:,徽标：
+UI_GUILD_LOGO_BUTTON,Change Logo,设置公会徽标
+UI_GUILD_NOTICE,Notice,设置会内公告
+UI_GUILD_DISMISS,Disband,解散公会
 UI_GUILD_NOTICE_TIP,Set your guild notice,设定公会的公告
-UI_GUILD_LOGO_TIP,Change your guild logo,设定在公会中使用的徽章
+UI_GUILD_LOGO_TIP,Change your guild logo,设定在公会中使用的徽标
 UI_GUILD_NAME_TIP,Set your guild name. You can only do this once.,这将启用您的公会名称，仅仅只有一次机会
 UI_GUILD_DISMISS_TIP,"Disband your guild. Be careful, there's no going back!",解散目前的公会
 UI_GUILDNAME_ENTER,Enter a new guild name:,输入公会名称
 UI_GUILDNAME_TITLE,Set Guild Name,设置公会名称
 UI_GUILDNOTICE_TITLE,Set Guild Notice,设置公会公告
-UI_GUILDNOTICESEARCH_TITLE,Set Guild Search Notice,设置公会搜索通知
-UI_GUILDNOTICE_NEW,Clear,新建角色
+UI_GUILDNOTICESEARCH_TITLE,Set Guild Search Notice,设置对外宣传语
+UI_GUILDNOTICE_NEW,Clear,清空
 UI_GUILDNOTICE_SAVE,Save,保存
-UI_GUILDNOTICE_NEW_TIP,Clear notice text,编辑新公告
+UI_GUILDNOTICE_NEW_TIP,Clear notice text,清空公告文本
 UI_GUILDNOTICE_SAVE_TIP,Save notice,开始发送公告。公告内容将会以讯息与密语方式传达给其他成员。
-UI_GUILDLOGO_TITLE,Set Guild Logo,设置公会图标
+UI_GUILDLOGO_TITLE,Set Guild Logo,设置公会徽标
 UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,确认解散公会
 UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost.",确定解散公会？若你的公会拥有公会飞船，解散后将会失去该飞船。
 UI_GUILD_PAY,Salary,薪水
 UI_GUILD_PAY_SETUP,Setup,设定
 UI_GUILD_GRADE_MEMBER,Members,成员
 UI_GUILD_POWERS,Privileges,权力
-UI_GUILD_POWER_TITLE,Promote/Demote,称号
-UI_GUILD_POWER_RANK,Adjust Rank,排名
-UI_GUILD_POWER_JOIN,Invite,加入
-UI_GUILD_POWER_ITEM,Take Items,物品
-UI_GUILD_POWER_PENYA,Take Penya,金币
+UI_GUILD_POWER_TITLE,Promote/Demote,称谓调整
+UI_GUILD_POWER_RANK,Adjust Rank,职级调整
+UI_GUILD_POWER_JOIN,Invite,邀请入会
+UI_GUILD_POWER_ITEM,Take Items,公会物品调度
+UI_GUILD_POWER_PENYA,Take Penya,公会金币调度
 UI_GUILD_POWER_SPECTATE,Spectate,观战
 UI_GUILD_POWER_TIP,Save changes,应用设置
 UI_GUILD_POWER_SAVE,Save,保存
 UI_GUILD_PAY_TIP,Set %s salary. (Paid automatically at 00:00),设置 %s 支付.(将在00：00自动支付)
-UI_GUILDPAY_TITLE,Set Pay by Title,称号薪水设定
+UI_GUILDPAY_TITLE,Set Pay by Title,称谓薪水设定
 UI_GUILDPAY_MESSAGE,How much would you like to set as the payment?,要将薪水设定为多少呢
 UI_GUILDPAY_AMOUNT,Amount,缴付金额
-UI_GUILD_GRADE,Title,称号
-UI_GUILD_ALIAS,Nickname,昵称
-UI_GUILD_APPELATION_UP,Promote,成员升职
-UI_GUILD_APPELATION_DOWN,Demote,成员降职
-UI_GUILD_CLASS_UP,Rank Up,等级提升
-UI_GUILD_CLASS_DOWN,Rank Down,等级下降
-UI_GUILD_CREATE_ALIAS,Update Nickname,赋予昵称
+UI_GUILD_GRADE,Title,称谓
+UI_GUILD_ALIAS,Nickname,绰号
+UI_GUILD_APPELATION_UP,Promote,提升称谓
+UI_GUILD_APPELATION_DOWN,Demote,降低称谓
+UI_GUILD_CLASS_UP,Rank Up,提升职级
+UI_GUILD_CLASS_DOWN,Rank Down,降低职级
+UI_GUILD_CREATE_ALIAS,Update Nickname,赋予绰号
 UI_GUILD_LEAVE,Leave Guild,离开公会
-UI_GUILD_TRANSFER_LEADER,Promote to Guild Master,公会会长改变
-UI_GUILDALIAS_TITLE,Set Member's Nickname,设置公会名称
-UI_GUILDALIAS_ENTER,Enter this member's nickname:,输入称号
+UI_GUILD_TRANSFER_LEADER,Promote to Guild Master,移交会长之位
+UI_GUILDALIAS_TITLE,Set Member's Nickname,设置成员绰号
+UI_GUILDALIAS_ENTER,Enter this member's nickname:,输入绰号
 UI_GUILDINVITE_TITLE,Invite to Guild,邀请加入公会
 UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Accept the invitation?,%s 邀请你加入公会 %s.你接受吗？
 UI_GUILD_JOINQUESTION,%s wants to join your guild. Accept the request?,%s 想要加入你的公会，你接受吗？
@@ -509,15 +509,15 @@ UI_GUILDMERIT_QUESTITEMS,Quest Items,捐献战利品
 UI_GUILDMERIT_PENYA,Penya,金币
 UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,公会战的情报
 UI_GUILDBANKLOG_TITLE,Guild Bank Log,公会仓库日志
-UI_GUILDBANKLOG_ADDITEM,Item Deposits,新增道具
-UI_GUILDBANKLOG_REMOVEITEM,Item Withdrawals,除去道具
-UI_GUILDBANKLOG_ADDGOLD,Penya Deposits,金币进帐
-UI_GUILDBANKLOG_REMOVEGOLD,Penya Withdrawals,支出金币
-UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,增加
-UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,移除
-UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,金币进帐
-UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,支出金币
-UI_MOVEPENYA_TITLE,Transfer Penya,金币转账
+UI_GUILDBANKLOG_ADDITEM,Item Deposits,道具入库
+UI_GUILDBANKLOG_REMOVEITEM,Item Withdrawals,道具取出
+UI_GUILDBANKLOG_ADDGOLD,Penya Deposits,金币入库
+UI_GUILDBANKLOG_REMOVEGOLD,Penya Withdrawals,金币取出
+UI_GUILDBANKLOG_ADDITEM_FORMAT,Add,存入
+UI_GUILDBANKLOG_REMOVEITEM_FORMAT,Remove,取出
+UI_GUILDBANKLOG_ADDGOLD_FORMAT,Deposit Penya,存入金币
+UI_GUILDBANKLOG_REMOVEGOLD_FORMAT,Withdraw Penya,取出金币
+UI_MOVEPENYA_TITLE,Transfer Penya,金币移动
 UI_MOVEPENYA_QUESTION,How much would you like to transfer?,请问要移动多少钱？
 UI_MOVEPENYA_INPUT,Penya:,金币：
 UI_GUILDRANK_TITLE_GUILD,Guild Ranking,公会排名
@@ -536,11 +536,11 @@ UI_GUILDRANK_GUILDNAME,Guild Name,公会名称
 UI_GUILDRANK_LEADERNAME,Guild Master,会长名称
 UI_GUILDRANK_WINLOSE,Win / Lose,胜利/失败
 UI_GUILDRANK_AVGLEVEL,Average Level,平均等级
-UI_GUILD_WAR_DECLARE,Duel,申请对战
-UI_GUILD_WAR_PEACE,Truce,和平
-UI_GUILD_WAR_GIVEUP,Surrender,放弃
-UI_GUILD_WAR_NAME,Enemy Guild Name:,对战公会名称：
-UI_GUILD_WAR_LOGO,Enemy Guild Logo:,战斗公会徽标：
+UI_GUILD_WAR_DECLARE,Duel,宣战
+UI_GUILD_WAR_PEACE,Truce,休战
+UI_GUILD_WAR_GIVEUP,Surrender,投降
+UI_GUILD_WAR_NAME,Enemy Guild Name:,敌方公会名称：
+UI_GUILD_WAR_LOGO,Enemy Guild Logo:,敌方公会徽标：
 UI_GUILD_WAR_WON,Wins:,公会战胜利次数：
 UI_GUILD_WAR_LOST,Losses:,公会战失败次数：
 UI_GUILD_WAR_GAVEUP,Surrenders:,公会战投降次数：
@@ -551,17 +551,17 @@ UI_SKILL_PLUS_TIP,Increase Skill Level,提升技能等级
 UI_SKILL_MAX_TIP,Maximize Skill Level,最高技能等级
 UI_SKILL_MINUS_TIP,Decrease Skill Level,降低技能等级
 UI_SKILL_RESET,Reset,重置
-UI_SKILL_RESET_TIP,Discard all unconfirmed changes,再分配技能点数(不可结束的技能点数)
-UI_SKILL_SAVE,Apply,完成
+UI_SKILL_RESET_TIP,Discard all unconfirmed changes,丢弃所有未确认的更改
+UI_SKILL_SAVE,Apply,应用
 UI_SKILL_SAVE_TIP,Apply new skill point allocations,点击‘+’和‘-’分配技能点。
 UI_SKILL_POINTS,Skill Points,技能点数
 UI_WARNING,Warning,警告
-UI_SKILL_CONFIRM_QUESTION,Confirm skill point allocation?,按照技能点数的分配，调整了技能等级
+UI_SKILL_CONFIRM_QUESTION,Confirm skill point allocation?,确认按当前方案分配技能点？
 UI_OPTION_VIBRATIONS,Vibrations,震动效果
 UI_INVENTORY_SORT,Sort inventory,整理背包
 UI_ITEM_DURATION_TITLE,Item Duration,道具持续时间
 UI_ITEM_DURATION_TIME_LEFT,Time Left,剩余时间
-UI_QUERY_EQUIP_TITLE,Equipment View,视野
+UI_QUERY_EQUIP_TITLE,Equipment View,装备视图
 UI_OPTION_EQUIP_VIEW,Equipment View,查看装备
 UI_OPTION_DUEL_REQUESTS,Duel Requests,对战请求
 UI_OPTION_DUEL_BETS,Duel Bets,接受对战下注
@@ -618,7 +618,7 @@ UI_OPTION_ADVANCEDSFX,Special Effects,特效
 UI_INFO_PANG_TUTORIAL,Tutorial,指导
 UI_INFO_PANG_NEXT,Next,下一步
 UI_INFO_PANG_DONE,Done,完成
-UI_INFO_PANG_GOTIT,Got it,很好
+UI_INFO_PANG_GOTIT,Got it,明白
 UI_INFO_PANG_CHECKTHELIST,Check the List,帮助列表
 UI_TUTORIAL_LIST_TITLE,Tutorial,指导
 UI_DROP_ITEM_CONFIRM,Drop this item?,确认要丢弃这个物品吗
@@ -645,7 +645,7 @@ UI_PERSONAL_SHOP_CHAT_SEND,Send,发送
 UI_PERSONAL_SHOP_JOIN,%s has entered the shop.,%s 刚刚进入了。
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.,%s 离开了
 UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.,角色：%s 已购买 %s(%d)，花费 %lld 金币。
-UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,确认收费物品
+UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item,确认出售收费物品
 UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sell it?,这是一个高级物品，你确定吗？\n一经售出，无法追回
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[角色绑定]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[账号绑定]
@@ -661,14 +661,14 @@ UI_BEAUTY_SHOP_CONFIRM_TITLE,Confirm Purchase,购买确认
 UI_OPTION_TRADE,Trade Requests,交易请求
 UI_TRADE_REQUEST_TITLE,Trade,交易
 UI_TRADE_REQUEST_QUESTION,%s wants to trade. Accept the trade?,%s 想要与你进行交易，你确认吗？
-UI_TRADE_PUT_GOLD_QUESTION,How much would you like to trade?,请问要移动多少钱
+UI_TRADE_PUT_GOLD_QUESTION,How much would you like to trade?,请问要移动多少金币
 UI_TRADE_PUT_GOLD_QTY,Penya:,金币：
 UI_TRADE_ITEM,Item,物品
 UI_TRADE_PUT_ITEM_QUESTION,How many would you like to trade?,请问要移动多少个物品
 UI_TRADE_PUT_ITEM_QTY,Quantity:,数量：
-UI_TRADE_CONFIRM_TITLE,Finalize Trade,确认个人交易
+UI_TRADE_CONFIRM_TITLE,Finalize Trade,交易确认
 UI_TRADE_CONFIRM_QUESTION,Accept the trade?,确定要进行交易吗
-UI_TRADE_CONFIRM_WAIT,Waiting for the other player to accept the trade...,在对方接受之前，请您稍等一下
+UI_TRADE_CONFIRM_WAIT,Waiting for the other player to accept the trade...,正在等待对方玩家确认交易……
 UI_OPTION_MOBILE_DIR,Directional Pad,方向键
 UI_PIERCING_TITLE,Piercing,穿洞精炼
 UI_PIERCING_PIERCE_ITEM,Pierce Item,穿洞物品
@@ -677,7 +677,7 @@ UI_PIERCING_MATERIAL,Power Dice,精炼骰子
 UI_PIERCING_PROTECTSCROLL,GProtect,穿洞防护卷轴
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,要进行穿洞精炼吗
 UI_PIERCING_UNSAFE,"Without a Scroll of GProtect, the item will be destroyed if piercing fails.",如果不使用穿洞防护卷轴，精炼失败后你将会失去该物品。
-UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,解除属性卡
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,移除穿洞卡
 UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,要从该物品上移除选中的穿洞卡片吗？#b#cffff0000 移除的卡片将会被销毁。#nc#nb
 UI_PIERCING_REMOVE_OK,Remove,移除
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,每次失败后成功率都会增加。
@@ -687,7 +687,7 @@ UI_PIERCING_ATTEMPTS,Piercing attempts: %d,穿洞次数: %d
 UI_ACCESSORY_TITLE,Accessory Upgrade,首饰精炼
 UI_ACCESSORY_UPGRADE_ITEM,Upgrade Item,精炼物品
 UI_ACCESSORY_PROTECTSCROLL,AProtect,首饰安全精炼
-UI_ACCESSORY_UNSAFE,"Without a Scroll of AProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果不使用首饰防护卷轴，精炼失败后你将会失去该物品。
+UI_ACCESSORY_UNSAFE,"Without a Scroll of AProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果不使用首饰防护卷轴，精炼失败后你将会失去该物品。\n(失败损毁从+3后开始)
 UI_UPGRADE_TITLE,Upgrade,精炼
 UI_UPGRADE_ITEM,Item,物品
 UI_UPGRADE_MATERIAL,Power Dice/Card,精炼骰子/卡片
@@ -699,12 +699,12 @@ UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect,竞技防护卷轴 / 装
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,晶石
 UI_UPGRADE_CHANCESCROLL,SFusion,精炼卷轴
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",失败后精炼值会降低，但是物品不会消失。
-UI_UPGRADE_UNSAFE,"Without a Scroll of SProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果不使用装备防护卷轴，精炼失败后你将会失去该物品。
+UI_UPGRADE_UNSAFE,"Without a Scroll of SProtect, the item will be destroyed if upgrading fails (from +3 onward).",如果不使用装备防护卷轴，精炼失败后你将会失去该物品。\n(失败损毁从+3后开始)
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,您是否想精炼这个物品呢？
 UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,解除属性精炼
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,确认移除
 UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,"该武器的属性精炼将被解除，并需要支付1,000,000金币。"
-UI_REVIVAL_CASH_SHOP_TIP,Open the Flyff Shop to buy a Scroll of Resurrection,可以使用收费商店。
+UI_REVIVAL_CASH_SHOP_TIP,Open the Flyff Shop to buy a Scroll of Resurrection,可以使用收费商店购买复活卷轴。
 UI_REVIVAL_REVIVAL,Current Location,原地复活
 UI_REVIVAL_REVIVAL_TIP,Use a Scroll of Resurrection to revive at your current location,原地复活代表，在死亡地点直接复活
 UI_COMMITEM_DIALOG_TITLE,Use Item,使用物品
@@ -782,7 +782,7 @@ UI_CREATEITEM_LEVEL,Level,等级
 UI_CREATEITEM_QTY,Qty,数量:
 UI_CREATEITEM_ITEM,Item,物品
 UI_CREATEITEM_CREATE,Create,制作
-UI_GUILD_WAR_GIVEUP_TITLE,Surrender,放弃
+UI_GUILD_WAR_GIVEUP_TITLE,Surrender,投降
 UI_GUILD_WAR_GIVEUP_MSG,Surrender the guild duel?,您要投降吗
 UI_GUILD_WAR_PEACE_TITLE,Truce,休战
 UI_GUILD_WAR_PEACE_MSG,Propose a truce to the enemy guild?,要提出休战申请吗
@@ -806,7 +806,7 @@ UI_SUMMON_PARTY_CONFIRM_TITLE,Party Summon,召唤剧团成员
 UI_SUMMON_PARTY_CONFIRM_MSG,"The party leader of ""%s"" has requested to summon you. You will be teleported to the party leader's location. You have one minute to accept.",剧团%s 向你发出了召唤，你将会被传送至团长身边。你有一分钟的时间决定。
 UI_SUMMON_PARTY_CONFIRM_HOW,How to Accept the Summon,使用方法
 UI_SUMMON_PARTY_CONFIRM_TIP,"Double-click the ""%s"" icon in your buff list to teleport to the party leader.",如果你点击右边上方的图标(%s)，你就会被传送至团长身边。
-UI_SUMMON_PARTY_USE,Teleport to the party leader now?,你应该靠近传送物使用。请确保你不在活动区域。你确定要被传送吗？
+UI_SUMMON_PARTY_USE,Teleport to the party leader now?,现在传送到团长身边吗？
 UI_SUMMON_BUFF_ICON,Double-click to teleport to the party leader.,双击即可传送到团长身边。
 UI_CHANGE_SEX_TITLE,Change Sex,改变性别
 UI_CHANGE_SEX_FACE,Change Face,改变脸型
@@ -826,7 +826,7 @@ UI_MAP_MARK_DELETE_ALL,Delete All,全部删除
 UI_MAP_MARK_PUT_CHAT,Link in Chat,将它放入聊天里
 UI_MAP_MARK_CHANGE_NAME,Set Name,更改名字
 UI_MAP_MARK,Position,标记
-UI_MAP_MARK_NAME_TITLE,Set Map Mark Name,职位名称更改
+UI_MAP_MARK_NAME_TITLE,Set Map Mark Name,设置地图标记名称
 UI_MAP_MARK_NAME_INPUT,Enter a new name for the mark:,请填入新的名字
 UI_TOOLTIP_EQUIPPED,[ Equipped ],[装备中]
 UI_TOOLTIP_ACTIVESELF,Also Cast on You,同时对自身施放
@@ -836,12 +836,12 @@ UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,如果目标有 %s
 UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,获得 %s 层数: %d
 UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),获得 %s 层数: %d / %d (PvP)
 UI_ITEM_LINK_TITLE,Linked Item Info.,链接物品信息
-UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,使用优惠券
-UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Use it now?,你有一张免费优惠券。你想现在使用他吗？
-UI_BEAUTY_SHOP_COUPON,Using the Free Coupon.,使用免费优惠券
+UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,使用礼券
+UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Use it now?,你有一张免费礼券。你想现在使用他吗？
+UI_BEAUTY_SHOP_COUPON,Using the Free Coupon.,使用免费礼券
 UI_GUILD_MEMBER_TIP,#b%s#nb\nEXP Contribution: %s\nPenya Contribution: %s\nNumber of Times Surrendered: %d,#b%s#nb\n贡献:%s\n金币贡献: %s\n投降的次数: %d
-UI_REMOVE_ELEM_TITLE,Element Stone Removal,应用属性
-UI_REMOVE_ELEM_MSG,"This item has an element stone applied to it. If you unequip it, the element stone effect will be removed. Are you sure you want to unequip it?",您只能在移除其元素属性后才能交易或取消装备该物品。 你要移除它们吗？
+UI_REMOVE_ELEM_TITLE,Element Stone Removal,移除元素属性石效果
+UI_REMOVE_ELEM_MSG,"This item has an element stone applied to it. If you unequip it, the element stone effect will be removed. Are you sure you want to unequip it?",该物品已应用元素属性石，卸下后增益会消失。确定要卸下吗？
 UI_HOME_LOGIN_ENTER_TIP,Enter Account ID,请输入帐号
 UI_HOME_PASSWORD_TIP,Enter Password,请输入密码
 UI_CHAT_NORMAL_TIP,Send normal messages to players around you,使用一般讯息传送
@@ -853,9 +853,9 @@ UI_CHAT_SYSTEM_TIP,Show/Hide System Messages,开启系统消息窗口
 UI_CHAT_FILTER_TIP,Filter function which allows you to filter the chatting.,过滤功能能让你过滤掉一些聊天信息。
 UI_MESSENGER_MEMO_TIP,Check messages received while offline.,离线时收到邮件信息。
 UI_GUILD_WAR_DECLARE_TIP,Request a guild duel,邀请公会对战
-UI_GUILD_WAR_PEACE_TIP,Propose a truce to end the guild duel in a draw,提议停止毫无意义的暴力和战斗。
+UI_GUILD_WAR_PEACE_TIP,Propose a truce to end the guild duel in a draw,提议休战，以平局结束本场对战
 UI_GUILDBANK_SUPPORT_TIP,Donate Penya and quest items to your guild,为您的公会做出贡献。
-UI_GUILDBANK_CLOAK_TIP,Create a guild cloak with your guild logo on it (requires guild level 4),用你选择的图标制作一件公会披风。(公会等级4)
+UI_GUILDBANK_CLOAK_TIP,Create a guild cloak with your guild logo on it (requires guild level 4),用你选择的会徽制作一件公会披风。公会需达到4级
 UI_GUILDBANK_LOG_TIP,Open the guild bank log,打开公会仓库日志窗口。
 UI_APP_DEBUG_TIP,Debug Window,bug反馈窗口
 UI_APP_INFO_PANG_TIP,Summon Info-Pang.,召唤情报胖胖。
@@ -890,11 +890,11 @@ UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION,Total Bid Amount,总累计金额
 UI_GUILDCOMBAT_OFFER_TOTALAPPLICATION_TIP,Total bid amount from all guilds that applied. The winning guild receives 35% of the total bids from the top 10 guilds.,所有报名公会的总竞标金额。获胜公会将获得排名前 10 公会总竞标金额的 35%。
 UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION,Your Current Bid,当前的申请费
 UI_GUILDCOMBAT_OFFER_CURRENTAPPLICATION_TIP,Enter your bid amount here,请在窗口里输入对战金额
-UI_GUILDCOMBAT_OFFER_PRIZEDETAIL,Reward Details,礼物说明
+UI_GUILDCOMBAT_OFFER_PRIZEDETAIL,Reward Details,奖励说明
 UI_GUILDCOMBAT_OFFER_PRESENT,1 Win: Dragon Cloak of the Initiate\n2 Consecutive Wins: Dragon Cloak of the Adept\n3 Consecutive Wins: Dragon Cloak of the Master\n4 Consecutive Wins: Dragon Cloak of the Hero,胜一场: 初级龙纹披风\n两连胜: 进阶龙纹披风\n三连胜: 大师龙纹披风\n四连胜: 英雄龙纹披风
 UI_GUILDCOMBAT_OFFER_CONFIRM,Current bid: %d Penya. You are about to add %d Penya. Proceed?,你已经支付了%d金币，你想额外支付%d金币吗?
 UI_GUILDCOMBAT_OFFER_ACCEPT_TIP,Submit your Guild Siege application,申请公会战
-UI_GUILDCOMBAT_OFFER_PRESENT_TIP,"For more information on Guild Siege rewards, please speak with [Guild Siege Manager] Donaris.",礼物的详细说明请向NPC多拿里斯咨询
+UI_GUILDCOMBAT_OFFER_PRESENT_TIP,"For more information on Guild Siege rewards, please speak with [Guild Siege Manager] Donaris.",奖励的详细说明请向NPC多拿里斯咨询
 UI_GUILDCOMBAT_STATE_TITLE,Guild Siege Application Status,当前公会战申请条件
 UI_GUILDCOMBAT_STATE_TIMELEFT,Time Left,剩余时间
 UI_GUILDCOMBAT_STATE_TIMELEFT_TIP,Time until the next Guild Siege,距离下次公会战时间还有
@@ -918,15 +918,15 @@ UI_GUILDCOMBAT_SELECT_RIGHT_TIP,Add the selected member to the lineup,将在线�
 UI_GUILDCOMBAT_SELECT_LEFT_TIP,Remove the selected member from the lineup,从参赛名单中删除一位公会成员。
 UI_GUILDCOMBAT_SELECT_UP_TIP,Move the selected member up in the lineup,将选定的公会成员安排到上方。
 UI_GUILDCOMBAT_SELECT_DOWN_TIP,Move the selected member down in the lineup,将选定的公会成员安排到下方。
-UI_GUILDCOMBAT_SELECT_COMPLETE,Confirm,完成
+UI_GUILDCOMBAT_SELECT_COMPLETE,Confirm,确认
 UI_GUILDCOMBAT_SELECT_COMPLETE_TIP,Save and confirm the lineup,完成参赛者名单。
 UI_GUILDCOMBAT_SELECT_DEFENDER,Defender,防守人员
 UI_GUILDCOMBAT_SELECT_DEFENDER_TIP,Designate the selected member as Defender,选择防守人员
-UI_GUILDCOMBAT_SELECT_REMAKE,Reset,重新制作
-UI_GUILDCOMBAT_SELECT_REMAKE_TIP,Reset the lineup,重新制作参赛名单
-UI_GUILDCOMBAT_SELECT_DEFENDER_TIP2,Opponents gain 1 bonus point when your guild's Defender is killed.,当您的公会防守人员被杀死后，对手将获得奖励积分。
+UI_GUILDCOMBAT_SELECT_REMAKE,Reset,重置
+UI_GUILDCOMBAT_SELECT_REMAKE_TIP,Reset the lineup,重新配置阵容
+UI_GUILDCOMBAT_SELECT_DEFENDER_TIP2,Opponents gain 1 bonus point when your guild's Defender is killed.,当您的公会防守人员被杀死后，对手将获得1分。
 UI_GUILDCOMBAT_SELECT_INFO,Register your team. Starting team: %d members (Max participants: %d),登记你的队伍. 开始有 %d 成员 (最多有 %d)
-UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,Set your lineup here. The first 6 members in the lineup will enter the Guild Siege combat area first.,5位被选中的成员会首先加入公会战。请选择入场名单。
+UI_GUILDCOMBAT_SELECT_ENTRANT_TIP,Set your lineup here. The first 6 members in the lineup will enter the Guild Siege combat area first.,6位被选中的成员会首先加入公会战。请选择入场名单。
 UI_GUILDCOMBAT_SELECT_REMAKE_MAKEUP,Reset your lineup and start over?,要重新组织公会战的参赛人员吗?
 UI_GUILDCOMBAT_TELE_TITLE,Guild Siege Entry,公会战介绍
 UI_GUILDCOMBAT_TELE_MSG,Guild Siege entry is now open. Teleport to the entry NPC?,入口已经开放。你想传送到公会战场吗？
@@ -934,7 +934,7 @@ UI_GUILDCOMBAT_JOIN_TITLE,Enter Guild Siege Arena,进入公会战场
 UI_GUILDCOMBAT_JOIN_MSG,Enter the Guild Siege Arena now?,要加入公会战吗？
 UI_NETWORK_ERROR_TITLE,Network Error,网络错误
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.",网络错误，请检查您的连接并重新登录。
-UI_GUILDCOMBAT_JOINWAR_TITLE,Select Entry Zone,复活地点
+UI_GUILDCOMBAT_JOINWAR_TITLE,Select Entry Zone,选择落地区域
 UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered zone 1.,你已经进入了1号区域。
 UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered zone 2.,你已经进入了2号区域。
 UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered zone 3.,你已经进入了3号区域。
@@ -950,7 +950,7 @@ UI_CHAT_ADMIN,[Admin] %s,[管理员] %s
 UI_GUILDCOMBAT_RATE,Guild Rankings,当前排名:
 UI_GUILDCOMBAT_PERSON_RATE,Player Rankings,个人排名:
 UI_TOOLTIP_EXPBOX,#b%s's EXP box#nb\nTime left: %s,#b%s's 经验盒#nb\n剩余时间: %s
-UI_GUILDCOMBAT_JOIN_READY,You will enter the combat area when one of your guildmates is defeated.,当你的公会成员之一死亡时才能进入。
+UI_GUILDCOMBAT_JOIN_READY,You will enter the combat area when one of your guildmates is defeated.,当有一名公会成员被击败时，你将进入战斗区域。
 UI_GUILDCOMBAT_JOIN_READY2,Prepare yourself!,请准备
 UI_GUILDCOMBAT_LOG_REALTIME,[%s]%s [%s] defeated [%s]%s [%s] and gained %d points.,[%s]%s [%s] 已经杀死了 [%s]%s [%s] 并获得了 %d 积分.
 UI_GUILDCOMBAT_LOG_MASTER,Guild Master,公会会长
@@ -1026,13 +1026,13 @@ UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges,MP & FP条
 UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.,启用玩家头上的FP & MP条。
 UI_OPTION_SELECT_PETS,Select Pets,点击宠物打开设置
 UI_FACE_SHOP_TITLE,Plastic Surgery,整形
-UI_FACE_SHOP_BASE_FACE,Current Face,友善的脸型
+UI_FACE_SHOP_BASE_FACE,Current Face,当前脸型
 UI_FACE_SHOP_NEW_FACE,New Face,新脸型
 UI_TOOLTIP_SPELL_RANGE,Spell Range: %d,技能范围: %d
-UI_TOOLTIP_COMBO_TYPE,Combo: %s,连击: %s
-UI_TOOLTIP_COMBO_STEP,Starter,步骤
-UI_TOOLTIP_COMBO_CIRCLE,Link,循环
-UI_TOOLTIP_COMBO_FINISH,Finisher,完成
+UI_TOOLTIP_COMBO_TYPE,Combo: %s,连续技: %s
+UI_TOOLTIP_COMBO_STEP,Starter,起始类
+UI_TOOLTIP_COMBO_CIRCLE,Link,循环类
+UI_TOOLTIP_COMBO_FINISH,Finisher,终结类
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,基础伤害: %d ~ %d
 UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,伤害系数: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,伤害转换比例
@@ -1162,8 +1162,8 @@ UI_ACHIEVEMENTS_CLAIMTIP,Claim your rewards,领取你的奖励！
 UI_ACHIEVEMENTS_CLAIMTIP_RAND,Try your luck and see what you get today!,转动轮盘!今天是你的幸运日吗?
 UI_ACHIEVEMENTS_AVAILABLE,Available,可领取
 UI_ACHIEVEMENTS_COMPLETED,This achievement has been completed!,该成就已完成！
-UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,团队等级要求: %d
-UI_TOOLTIP_PARTY_POINTS,Required Points: %d,要求的点数: %d
+UI_TOOLTIP_PARTY_LEVEL,Required Party Level: %d,必要剧团等级: %d
+UI_TOOLTIP_PARTY_POINTS,Required Points: %d,必要剧团点数: %d
 UI_PARTY_PERMANENT_CONFIRM,This scroll will transform your party into a permanent party. Offline members will no longer be removed automatically. This scroll applies only to your current party and will not affect any party you create or join later. Use it now?,当你的团队成员离线时，他们将不再会自动退团。如果你创建或加入另一个团队，这将不会影响到新团队。你确定要使用吗？
 UI_PARTY_PERMANENT,Permanent Party,永久剧团
 UI_SEARCHPARTY_TITLE,Search Party,搜索剧团
@@ -1224,7 +1224,7 @@ UI_GUILD_SEARCHNOTICE,Advertisement,搜索通知
 UI_GUILD_SEARCHNOTICE_TIP,Setup your guild's notice in the Guild Finder,在公会搜索中设置通知
 UI_DAMAGEMETER_RESET,Reset Damage Statistics,重置伤害统计
 UI_DAMAGEMETER_TITLE,Damage Stats %d/%d,伤害统计 %d/%d
-UI_TOOLTIP_SKILL_NOFLY,Flying: No,飞行中：否
+UI_TOOLTIP_SKILL_NOFLY,Flying: No,该技能无法在飞行时使用
 UI_DAMAGEMETER_TOGGLE,Show/hide Damage Statistics,显示/隐藏伤害统计
 UI_SHOP_QUICK_SELL,Quick Sell,快速售卖
 UI_SHOP_QUICK_SELL_TIP,Quickly sell a category of items.,快速售卖一类商品
@@ -1258,13 +1258,13 @@ UI_INPUT_NUMBER,Input a number,输入数字
 UI_SKILL_CLOSED,Closed,关闭
 UI_SKILL_POINT_COST,Point Cost,消耗点数
 UI_SKILL_ADD_COMBO,Add to Combo,添加到组合
-UI_SKILL_COMBO,Combo Bar,组合技能栏
+UI_SKILL_COMBO,Combo Bar,连续技能栏
 UI_CASHSHOP_PENYA_ONLY,Penya Only,仅限金币
 UI_CASHSHOP_PENYA,Penya,金币
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),金币（VIP）
 UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,此物品#b无法交易或出售#nb
 UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,此次购买 #b不是商品#nb。
-UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,暴击抗性
+UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,暴击抵抗
 UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,PvP伤害减免
 UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,PvE伤害减免
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,魔法抵抗
@@ -1277,7 +1277,7 @@ UI_BUFF_REMOVE_TITLE,Cancel Buff,取消增益状态
 UI_BUFF_REMOVE_QUESTION,Remove the buff #b%s#nb? This action cannot be undone.,你是否确定删除增益效果 #b%s#nb? 这一行为不可撤销。
 UI_TOOLTIP_REFLEX_HIT,Reflected Damage: %d%% / %d%% (PvP),反射伤害: %d%% / %d%% (PvP)
 UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PvP),晕眩概率 (PvP)
-UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PvE),晕眩概率 (PVE)
+UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PvE),晕眩概率 (PvE)
 UI_TOOLTIP_CHANCEPOISON,Poison Probability,中毒概率
 UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,吸血概率
 UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,MP 偷取概率
@@ -1368,12 +1368,12 @@ UI_GACHA_DESC_ITEMPACK,"When opening the package, you will receive #ball#nb item
 UI_GACHA_DESC_GIFTBOX,"When opening the box, you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.",当打开礼盒后，根据物品相应的概率，您将收到下列物品中的#b一个#nb。你可以连续打开多个盒子。
 UI_GACHA_DESC_GACHA,"When opening the gacha, you will receive #bone#nb of the items listed below. Once an item is obtained, it is removed from the prize pool. You can open several gachas in a row. If you open enough gachas you are #bguaranteed#nb to obtain #ball#nb the items listed below. The pool is then reset.",打开扭蛋时，您将收到下列物品中的#b一个#nb。一旦收到物品，它就会从扭蛋中移除。你可以连续打开多个扭蛋。如果你开了足够多的扭蛋，你就可以得到下面列出的所有物品。然后重新初始化扭蛋的物品。
 UI_GACHA_DESC_RESET,If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings.,如果您愿意，您也可以从 %d 个开始#b 自愿重置盲盒#nb。
-UI_GACHA_DESC_RESET_MAX,"If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d.",如需帮助，也可自愿重置扭蛋，从第 %d 次开启起生效，最多 %d 次。
+UI_GACHA_DESC_RESET_MAX,"If you wish you can also #bvoluntarily reset the gacha#nb starting from %d openings, for a max time of %d.",如愿意，也可自愿重置扭蛋，从第 %d 次开启起生效，最多 %d 次。
 UI_GACHA_DESC_GLOBAL,"When opening the gacha, you will receive #bone#nb of the items listed below. Once an item is obtained, it is removed from the prize pool. You can open several gachas in a row. This pool is shared among #ball players#nb, and the last player to open it receives the item below. The pool is then reset.",打开扭蛋时，您将收到下列物品中的#b一个#nb。一旦收到物品，它就会从扭蛋中移除。你可以连续打开多个扭蛋。此扭蛋由#b全服玩家#nb共享，最后一个打开此扭蛋的人将获得下面的物品。然后重新初始化扭蛋。
 UI_GACHA_DESC_INFO,For more information please check our General Sales Conditions in the Flyff Shop.,有关更多信息，请查看现金商店的通用销售条款。
 UI_GACHA_LASTITEM,Last item,最后一项物品
 UI_GACHA_PREVIEW,PREVIEW,预览
-UI_GACHA_SOLDOUT,Sold out,清空
+UI_GACHA_SOLDOUT,Sold out,已售罄
 UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,欢迎来到		\n飞飞世界！
 UI_WELCOME_BTN,Let's go!,出发吧！
 UI_TUTORIAL_MSG,Do you want the tutorial?,是否开启教程？
@@ -1411,7 +1411,7 @@ UI_BINDING_TITLE,Binding,绑定
 UI_BINDING_CONFIRM,Do you want to continue?,你想要继续吗？
 UI_UNBINDING_TITLE,Unbinding,解绑
 UI_UNBINDING_MSG_TITLE,Confirm Unbinding,确认解绑
-UI_UNBINDING_MSG,Unbind this item? This will remove #ball of its upgrades#nb!,您是否确认移除#b的所有的物品强化#nb以解除物品的绑定？
+UI_UNBINDING_MSG,Unbind this item? This will remove #ball of its upgrades#nb!,您是否确认移除#b 物品上特定的附加效果#nb以解除物品绑定？
 UI_UNBINDING_LABEL,Insert an item in the slot below:,在下面的槽中放置一件物品：
 UI_ELEMENT_CHANGE_SLOT,Insert an item here to change its elemental attribute.,在这里放置一个物品来改变它的元素属性。
 UI_ELEMENT_CHANGE_TIP,Change to %s Element,更改为 %s 元素属性
@@ -1420,7 +1420,7 @@ UI_EXPSTOP_BTN,Lock EXP,锁定经验值
 UI_EXPSTOP_BTN_TIP,Stop gaining EXP from monsters you kill. You will still gain EXP from quests.,停止从杀死的怪物中获得经验，但你仍然可以从任务中获得经验。
 UI_EXPSTOP_RELOAD_TITLE,Recharge EXP Lock,重新加载经验锁
 UI_EXPSTOP_RELOAD_MSG,Each charge prevents EXP gain from one monster kill. Cost per charge: #b%d Penya#nb. How many charges do you want to reload?,你可以停止获得经验，但代价是每杀死一个怪物需要花费#b%d金币#nb，并且会更新经验锁定条。你想杀死多少怪物而不会获得经验呢？
-UI_EXPSTOP_RELOAD_LABEL,Charges:,怪物：
+UI_EXPSTOP_RELOAD_LABEL,Charges:,数量：
 UI_EXPSTOP_RELOAD_CONFIRM,Pay %s Penya to reload the EXP Lock gauge?,你是否愿意支付 %s 金币来重新加载经验锁定条？
 UI_ARENA_RANKING_TITLE,Arena Ranking,竞技场排名
 UI_ARENA_RANKING_NAME,Name,名称
@@ -1451,7 +1451,7 @@ UI_OPTION_ONECLICKATTACK,Single Click to Attack,单击攻击
 UI_GEM_CREATE,Extract,提取
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,战斗力排行榜
 UI_ACHIEVEMENT_REMAINING,Remaining: %d / %d,剩余:%d/%d
-UI_ACHIEVEMENT_SOLDOUT,Fully claimed,清空
+UI_ACHIEVEMENT_SOLDOUT,Fully claimed,已清空
 UI_SHININGDICE_UPGRADE,Power Dice 4/6/12,精炼骰子 4/6/12
 UI_SHININGDICE_PIERCING,Power Dice 8/10,精炼骰子 8/10
 UI_CRAFTPETCANDY_MAT,Harvested Berry,收获的浆果
@@ -1472,7 +1472,7 @@ UI_CONVERTWEAP_GEM,Jewel,宝石
 UI_CONVERTWEAP_GEM_TIP,Please use the correct jewel.,请使用正确的宝石。
 UI_TRANSMUTE_TITLE,Item Transmutation,衣橱
 UI_TRANSMUTE_DESTROY,"By transmuting this item, it will become account-linked. You can undo the transmutation by using a Revert Transmutation Scroll on it. Do you want to continue?",此过程将使您的物品账号绑定，只能通过外观复原卷轴移除。你确定要继续吗？
-UI_TRANSMUTE_PRIMARY,Item to Transmute,初级物品
+UI_TRANSMUTE_PRIMARY,Item to Transmute,要幻化的物品
 UI_TRANSMUTE_HEADER,You have #b%d#nb items in your wardrobe.,你有 #b%d#nb 件衣橱物品。
 UI_TRANSMUTE_INFO,Add items to your wardrobe by using \na #bScroll of Transmutation#nb on an item.,在物品上使用一张#b外观转换卷轴#nb\n为你的衣橱添加更多物品。
 UI_TRANSMUTE_OUTPUT,Result,输出
@@ -1485,7 +1485,7 @@ UI_CASHSHOP_TOTAL,Total,全部
 UI_CASHSHOP_FRAME_TITLE,Top-Up,充值
 UI_CASHSHOP_MINIMIZE,Minimize,最小化
 UI_GACHA_DESC_SELECT,Please select which item you want to receive and then press Open. You can only receive #bone item#nb.,请选择你想要获取的物品，然后点击开启。您只能收到#b一个物品#nb。
-UI_CASHSHOP_CASHBACK_DESC,#b[Server Group Purchase Event]#nb\nYou will get back a % of the fCoins spent on this product depending on how many products have been purchased on this server during the event period! Check our website for more information.,#b[服务器团购活动]#nb\n根据活动期间在该服务器上购买的物品数量，您将获得在该物品上花费的钻石的百分比返利！查看我们的网站了解更多信息。
+UI_CASHSHOP_CASHBACK_DESC,#b[Server Group Purchase Event]#nb\nYou will get back a % of the fCoins spent on this product depending on how many products have been purchased on this server during the event period! Check our website for more information.,#b[服务器团购活动]#nb\n根据活动期间在该服务器上购买的物品数量，您将获得在该物品上花费的fCoins的百分比返利！查看我们的网站了解更多信息。
 UI_CASHSHOP_CASHBACK_CURRENT,Server Purchases: %d = #b%d%% fCoins Back#nb,服务器购买：%d=#b%d%%飞飞币返利#nb
 UI_CASHSHOP_CASHBACK_STEP,%d purchases: %d%% fCoins Back,%d 购买：%d%% 飞飞币返利
 UI_TOOLTIP_DST_BLEED_POISON_RESIST,Bleed & Poison Resistance,流血&中毒抵抗
@@ -1494,12 +1494,12 @@ UI_GIANTHUNT_RANKING_TITLE,Giant Hunt Ranking,BOSS击杀排名
 UI_GIANTHUNT_RANKING_PRIZE,The top-ranked players will receive exclusive prizes! Check our website for more information.\n\nYour Hunting Points: #b%d#nb,排名最高的玩家将获得独家奖品！ 查看我们的网站了解更多信息。\n\n你的击杀点数：#b%d#nb
 UI_GIANTHUNT_RANKING_POS,(Top %d%%),(Top %d%%)
 UI_GIANT_HUNT_POINT,Hunting Points,击杀点数
-UI_PURCHASE_EVENT_DESC,Receive rewards for reaching specific #bfCoins#nb spending goals in the Flyff Shop! Spending and rewards are tracked per character.,在现金商店中花费特定的#b钻石#nb 金额目标即可获得奖励！数量和奖励按每个角色计算。
+UI_PURCHASE_EVENT_DESC,Receive rewards for reaching specific #bfCoins#nb spending goals in the Flyff Shop! Spending and rewards are tracked per character.,在现金商店中花费特定的#bfCoins#nb 金额目标即可获得奖励！数量和奖励按每个角色计算。
 UI_PURCHASE_EVENT_TIME,Event ends:,活动结束时间
 UI_CASHSHOP_CURRENCY,fCoins,飞飞币
 UI_PURCHASE_EVENT_MEMBERS,Guild Members,公会成员
 UI_PURCHASE_EVENT_COMPLETED,This purchase event has been completed!,这项购物活动已经完成！
-UI_PURCHASE_EVENT_GUILD,#bAll guild members#nb receive rewards when the guild reaches specific #bfCoins#nb spending goals in the Flyff Shop!,#b所有公会成员#nb 同公会的成员在现金商店中花费特定的#b钻石#nb 金额目标后获得奖励！
+UI_PURCHASE_EVENT_GUILD,#bAll guild members#nb receive rewards when the guild reaches specific #bfCoins#nb spending goals in the Flyff Shop!,#b所有公会成员#nb 同公会的成员在现金商店中花费特定的#bfCoins#nb 金额目标后获得奖励！
 UI_TOOLTIP_NEW_UPGRADE_EFFECT,This weapon has alternative upgrade effects.,该武器有新版特效效果。
 UI_CAPTCHA_TITLE,Challenge,反作弊系统
 UI_CAPTCHA_DESC,Please complete the following captcha. This helps keep the game fair by preventing bots and cheats.,请填写以下验证码。我们利用反作弊系统为所有玩家提供公平的游戏，防止机器人和作弊行为。
@@ -1519,7 +1519,7 @@ UI_SELECTSERVER_US,America,美洲
 UI_SELECTSERVER_EU,Europe,欧洲
 UI_SELECTSERVER_ASIA,Asia,亚洲
 UI_SELECTSERVER_LABEL,Select your Server and Channel:,选择你的服务器和频道
-UI_GUILDBANK_BAGS,Bags,背包
+UI_GUILDBANK_BAGS,Bags,扩容
 UI_GUILDBANK_BAGS_TIP,Use Guild Extra Bags to expand the Guild Bank.,使用公会背包来扩大公会仓库的容量。
 UI_UPGRADECARD_UNSAFE,"Without a Scroll of EProtect, the material cards will be destroyed if fusion fails.",如果没有使用卡片防爆卷轴，您将在失败的情况下丢失所使用的卡片。
 UI_WORLD_LOCK,Locked,上锁
@@ -1558,7 +1558,7 @@ UI_BATTLEPASS_MISSION_KILLMONSTER2,Defeat %s,猎杀 %s
 UI_BATTLEPASS_MISSION_KILLGIANT,Defeat Lv. %s+ Giant or Violet Monsters,猎杀巨型或堕落的怪物 Lv.%s+
 UI_BATTLEPASS_MISSION_CHEER,Cheer Another Player,鼓励一位玩家
 UI_BATTLEPASS_MISSION_COLLECT,Collect from a Catcher,在灵兽怪物身上收集
-UI_BATTLEPASS_MISSION_LOGIN,Log In for a Certain Number of Days,今日登录
+UI_BATTLEPASS_MISSION_LOGIN,Log In for a Certain Number of Days,累计登录指定天数
 UI_BATTLEPASS_MISSION_KILLSUPER,Defeat Boss Monsters,猎杀boss怪物
 UI_BATTLEPASS_MISSION_SPENDGOLD,Spend Penya,花费金币
 UI_BATTLEPASS_MISSION_SAFETYSMELT,Attempt Safe Upgrade,尝试安全精炼
@@ -1660,7 +1660,7 @@ UI_LEVELREACH_LVL190,Level 190,190级
 UI_GIANTHUNTING,Giant Hunting,BOSS猎杀
 UI_WORLDCUP,GET'EM B'ALL,抢足球
 UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,抢足球 记分板
-UI_WORLDCUP_INFO,Collect #bSoccer Balls#nb from monsters to increase your guild's points! Guilds receive #brewards based on their rank#nb:\n1-10: Soccer Gold Box\n11-30: Soccer Silver Box\n31+: Soccer Bronze Box\nGuild members who score fewer than 50 points are not eligible for rewards.,从怪物身上收集#b足球#nb 来增加你公会的分数！公会将根据他们的排名给予 #奖励#nb:\n1~10：金色足球箱\n11~30：银色足球箱\n31~全部：青铜足球箱\n低于50分的公会成员无法获得奖励。
+UI_WORLDCUP_INFO,Collect #bSoccer Balls#nb from monsters to increase your guild's points! Guilds receive #brewards based on their rank#nb:\n1-10: Soccer Gold Box\n11-30: Soccer Silver Box\n31+: Soccer Bronze Box\nGuild members who score fewer than 50 points are not eligible for rewards.,从怪物身上收集#b足球#nb 来增加你公会的分数！公会将根据他们的排名给予 #b奖励#nb:\n1~10：金色足球箱\n11~30：银色足球箱\n31名以后：青铜足球箱\n低于50分的公会成员无法获得奖励。
 UI_WORLDCUP_POINTS,GET'EM B'ALL Points,抢足球 分数
 UI_WORLDCUP_RANK,Guild Rank: %d - Guild Points: %d - Your Points: %d,公会排名: %d - 公会积分: %d - 你的积分: %d
 UI_MSGBOX_COPY,Copy,复制
@@ -1676,7 +1676,7 @@ UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!,击杀boss！
 UI_DUNGEON_ENTRANCE_SOLO,Solo Only,单人
 UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,剧团或单人
 UI_DUNGEON_ENTRANCE_GUILD_SOLO,Guild or Solo,公会或单人
-UI_DUNGEON_ENTRANCE,Group Type: %s,入场次数: %s
+UI_DUNGEON_ENTRANCE,Group Type: %s,入场形式: %s
 UI_DUNGEON_MIN_LEVEL,Minimum Level: %d,最低等级: %d
 UI_DUNGEON_MAX_LEVEL,Maximum Level: %d,最高等级: %d
 UI_DUNGEON_MIN_LEADER_LEVEL,Minimum Creator Level: %d,最低创建者等级: %d
@@ -1709,10 +1709,10 @@ UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,圣诞节签到
 UI_CHRISTMAS_ATTEND_DESC,"Complete Santa's quest each day! Available only during the Christmas holidays, so don't miss a day!",每天完成圣诞老人的任务！仅在圣诞节假日期间，所以一天都不要错过哦！
 UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,抓住圣诞小偷！
 UI_APP_LOTTERY_START,Spin!,转动！
-UI_APP_LOTTERY,Lottery,奖券
-UI_APP_LOTTERY_TIP,View the lottery menu.,显示奖券菜单
+UI_APP_LOTTERY,Lottery,幸运轮盘
+UI_APP_LOTTERY_TIP,View the lottery menu.,显示幸运轮盘菜单
 UI_APP_LOTTERY_NEEDEDCOUNT,You need %dx %s to spin the wheel.,你需要%d个 %s来转动轮盘
-UI_APP_LOTTERY_FREESPINTIMER,Next free spin in: %s,下次免费转盘: %s秒
+UI_APP_LOTTERY_FREESPINTIMER,Next free spin in: %s,下次免费转动: %s秒
 UI_APP_LOTTERY_FREESPINTIMER_READY,Your free spin is ready!,开始转动吧！！
 UI_LUCKYROULETTE,Lucky Roulette,幸运轮盘
 UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to earn 120 lottery coins to spend on the Lottery Wheel!,在线24小时即可获得120枚幸运轮盘币！
@@ -1837,8 +1837,8 @@ UI_PVPCONTEST_SELECT_UP_TIP,Arrange the selected Guild member to the upper side.
 UI_PVPCONTEST_SELECT_DOWN_TIP,Arrange the selected Guild member to the lower side.,将选定的公会成员安排到下方。
 UI_PVPCONTEST_SELECT_COMPLETE,Complete,完成
 UI_PVPCONTEST_SELECT_COMPLETE_TIP,Complete the entry list.,完成参赛者名单。
-UI_PVPCONTEST_SELECT_REMAKE,Remake,重新制作
-UI_PVPCONTEST_SELECT_REMAKE_TIP,Remake the entry list.,重新制作参赛名单
+UI_PVPCONTEST_SELECT_REMAKE,Remake,重置
+UI_PVPCONTEST_SELECT_REMAKE_TIP,Remake the entry list.,重置阵容
 UI_PVPCONTEST_SELECT_INFO,Register your team. You can select a maximum of %d participating players. #b#cffff0000You CANNOT change the participating members later after registering.#nc#nb,登记你的队伍. 你最多可以选择 %d 名参赛成员. #b#cffff0000一旦登记完成你将无法更改参赛成员！#nc#nb
 UI_PVPCONTEST_SELECT_ENTRANT_TIP,A maximum of %d members can join the FWC PvP Contest. Choose your best players wisely.,FWC PvP 比赛最多可有 %d 名成员参加。请慎重选择你的参赛成员。
 UI_PVPCONTEST_SELECTMATCH,Select Match,选择比赛
@@ -1848,7 +1848,7 @@ UI_PVPCONTEST_MATCH_INFO,"Select today's match schedules. Please note that if yo
 UI_PVPCONTEST_MATCH_SELECT,Select match,选择比赛
 UI_PVPCONTEST_TELEPORT,Your match will start in a few minutes. Do you want to teleport to the match arena? #b#cffff0000Declining means you won't be able to join later.#nc#nb,你的比赛将在几分钟后开始。你想传送到比赛竞技场吗？ #b#cffff0000拒绝后你将无法再次进入比赛竞技场。#nc#nb
 UI_PVPCONTEST_JOINWAR_RANDOM,Random,随机
-UI_PVPCONTEST_JOINWAR_TITLE,Select Entry Zone,复活地点
+UI_PVPCONTEST_JOINWAR_TITLE,Select Entry Zone,选择落地区域
 UI_PVPCONTEST_JOINWAR_1_TIP,You have entered zone 1.,你已经进入了1号区域。
 UI_PVPCONTEST_JOINWAR_2_TIP,You have entered zone 2.,你已经进入了2号区域。
 UI_PVPCONTEST_JOINWAR_3_TIP,You have entered zone 3.,你已经进入了3号区域。
@@ -1863,7 +1863,7 @@ UI_UPGRADEPASS,Upgrade Pass,精炼补给通行证
 UI_ELEMENT_UPGRADEPASS,Element Upgrade Pass,元素精炼通行证
 UI_PARTYPASS,Party Pass,剧团补给通行证
 UI_COSTUMEPASS,Costume Pass,时装通行证
-UI_BATTLEPASS_MISSION_PETSKILL,Use Your Pet's Grace Skill,使用召唤兽恩典技能
+UI_BATTLEPASS_MISSION_PETSKILL,Use Your Pet's Grace Skill,使用召唤兽祝福技能
 UI_BATTLEPASS_MISSION_PIERCING,"Attempt Piercing on Weapon, Shield, or Suit",尝试穿洞精炼(武器、盾牌或衣服)
 UI_BATTLEPASS_MISSION_ELEMENT_SMELT,Attempt Elemental Upgrade,尝试元素属性精炼
 UI_BATTLEPASS_MISSION_ELEMENT_SAFETY_SMELT,Attempt Safe Elemental Upgrade,尝试元素属性安全精炼
@@ -1957,7 +1957,7 @@ UI_GACHA_DESC_GLOBAL_DAILY,"When opening the Random Gacha, you will receive one 
 UI_RPS_REWARD_TITLE,Result,结果
 UI_RPS_REWARD_TEXT,Would you like to accept the item?,是否接受该物品？
 UI_RPS_REWARD_ACCEPT,Accept,接受
-UI_RPS_REWARD_DECLINE,Decline,降低
+UI_RPS_REWARD_DECLINE,Decline,拒绝
 UI_RPS_TITLE,Rock Paper Scissors,石头剪刀布
 UI_RPS_VS,VS,VS
 UI_RPS_DEFEAT,You Lose!,你输了！
@@ -1966,8 +1966,8 @@ UI_RPS_ROCK,Rock,石头
 UI_RPS_SCISSORS,Scissors,剪刀
 UI_RPS_WIN_TITLE,You Win!,你赢了！
 UI_GACHA_ACCEPT,Accept,接受
-UI_GACHA_DECLINE,Decline,降低
-UI_MSGBOX_PASTE,Paste,复制
+UI_GACHA_DECLINE,Decline,拒绝
+UI_MSGBOX_PASTE,Paste,粘贴
 UI_MSGBOX_CUT,Cut,剪切
 UI_GUILDBUFF_LEVEL,Activated Buff Level,已激活增益等级
 UI_GUILDBUFF_NEXTLEVEL,Next Level %s / %s,下一等级 %s / %s
@@ -2025,7 +2025,7 @@ UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,上次排名
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,现在还没有开始报名。
 UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,下一轮彩虹竞赛: 
 UI_CREATEULTIMATEWEAPON_TITLE,Create Ultimate Weapon,制作终极武器
-UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.","“150 级以上传奇武器可转换成为终极武器。转换条件：你的传奇武器必须精炼至 +10，并消耗 3 个闪耀晶石、3 个终极宝珠以及 100,000,000 金币。终极武器在转换后将保留所有元素强化、穿孔及属性。”"
+UI_CREATEULTIMATEWEAPON_DETAIL,"Level 150+ Unique weapons can be converted into Ultimate weapons.\nTo convert, your unique weapon must be upgraded to +10, and you must provide 3 Shining Oricalkums, 3 Ultimate Orbs, and 100,000,000 Penya. Ultimate weapons retain all elemental upgrades, piercings, and stats upon conversion.","“某些150 级以上史诗武器可转换成为终极武器。转换条件：你的史诗武器必须精炼至 +10，并消耗 3 个闪耀晶石、3 个终极宝珠以及 100,000,000 金币。终极武器在转换后将保留所有元素强化、穿孔及属性。”"
 UI_CREATEULTIMATEWEAPON_CONFIRM,Confirm Ultimate weapon conversion?,你想要继续吗？
 UI_CREATEULTIMATEWEAPON_ERROR_ITEM,This item cannot be made Ultimate.,无法用在此物品上
 UI_CREATEULTIMATEWEAPON_ERROR_UPGRADELEVEL,You can only convert +10 weapons.,只能转换 +10 的武器。
@@ -2087,9 +2087,9 @@ UI_GUILD_TAB_HOUSING,Ship,飞船
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next Artifact Placement:,下一个神器放置位置：
 UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time Remaining to Select the Artifact Position:,剩余选择神器位置的时间：
 UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,传送至飞船
-UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,当前小屋加成
+UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,当前公会飞船加成
 UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,确定要让你们公会的神器在此处生成吗？#b#cffff0000注意：将从你们的公会银行中扣除 %s 金币。#nc#nb
-UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,公会船管理
+UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,公会飞船管理
 UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,这里的某处藏有公会飞船神器……
 UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,你的公会尚未拥有公会飞船。
 UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",如果你们公会拥有公会飞船，每周六你们必须在指定位置之一放置一枚神器。放置神器需花费 #b#u%s 金币#nu#nb。\n如果你们公会没有公会飞船，你可以支付 #b#u%s 金币#nu#nb 报名参加下一次神器争夺战，有机会获得一艘公会飞船。\n你只能在战斗开始前 1 小时内进行报名或取消。\n一旦神器被放置，你们公会必须在 PK 频道抵御其他玩家的进攻。如果防守失败，你们将失去公会飞船的所有权。\n如果成功防守，#b将返还部分报名费用。#nb
@@ -2097,7 +2097,7 @@ UI_HOUSINGSETUP_PRESETS,Presets,预设
 UI_HOUSINGSETUP_MANAGE,Management,管理
 UI_HOUSINGPRESET_INFO,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.,你可以在这个窗口中管理该房屋模板的预设。点击一个预设可预览物件和 NPC 的摆放位置。\n#b#u注意：#nb#nu 应用预设将会移除当前已放置的所有装饰和 NPC。只有你手动放置的 NPC 会被保存到预设列表中。已过期的装饰或 NPC 在应用预设时将不会被放置。
 UI_HOUSINGPRESET_HDR,Preset List,预设列表
-UI_HOUSINGPRESET_NEW,New,新建角色
+UI_HOUSINGPRESET_NEW,New,新建
 UI_HOUSINGPRESET_DELETE,Delete,删除
 UI_HOUSINGPRESET_APPLY,Apply,应用
 UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,预设名称
@@ -2242,7 +2242,7 @@ UI_KALGAS_ASSAULT_CANNOT_ENTER,You cannot enter Kalgas Assault at this time.,你
 UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaining: %s,现在进入卡尔加斯突袭吗？\n\n剩余入场时间：%s
 UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d,尚无法进入卡尔加斯突袭。\n\n入场开始时间：%02d:%02d:%02d
 UI_KALGAS_ASSAULT_LATE_DESC,Today's Kalgas Assault has already started.,今天的卡尔加斯突袭已经开始。
-UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.",#cff0000ff报名#nc\n距离报名截止剩余时间:\n %s \n距离入场截止剩余时间:\n %s \n最低等级要求: %d\n\n当前已报名玩家数: %d\n\n※ 仅完成卡尔加斯突袭报名的玩家可参与。\n※ 超过入场时限后将无法进入。\n※ 每个战场最多容纳200名玩家 (100 vs 100)\n※ 排名奖励的最低玩家数量为20人，若不足20人则仅发放冠军奖励。\n※ 队伍将采用随机匹配机制。
+UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.",#cff0000ff报名#nc\n距离报名开始剩余时间:\n %s \n距离入场开始剩余时间:\n %s \n最低等级要求: %d\n\n当前已报名玩家数: %d\n\n※ 仅完成卡尔加斯突袭报名的玩家可参与。\n※ 超过入场时限后将无法进入。\n※ 每个战场最多容纳200名玩家 (100 vs 100)。\n※ 排名奖励的最低玩家数量为20人，若不足20人则仅发放冠军奖励。\n※ 队伍将采用随机匹配机制。
 UI_SUN,Sunday,周日
 UI_MON,Monday,周一
 UI_TUE,Tuesday,周二
@@ -2341,13 +2341,13 @@ UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,在
 UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,购买成功!
 UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,购买已经取消.
 UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,发生错误。未完成购买。
-UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,剩余次数: %d
+UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,可用次数: %d
 UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,将一件装备或首饰精炼至 +%s 或以上
 UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,击杀怪物
 UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,是否使用复活卷轴？
 UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,催化剂
 UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,消息管理
-UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,隐身管理
+UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,隐私管理
 UI_OPTION_ACCOUNT_TOS,Terms of Service,服务条款
 UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,隐私政策
 UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,会员退订
@@ -2379,16 +2379,16 @@ UI_TRADE_LOG_PULL,Removed,移除了
 UI_TRADE_LOG_CONFIRM,Confirmed the trade.,确认了交易。
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,接受了交易。
 UI_TRADE_LIST_VIEW,Toggle list view,切换列表视图
-UI_COUPON_TITLE,Coupon,奖券(兑换码)
+UI_COUPON_TITLE,Coupon,礼券(兑换码)
 UI_COUPON_ENTER,Please enter your coupon code.,请输入您的兑换码。
 UI_COUPON_CODE,Coupon Code,兑换码
 UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,兑换码格式示例如下：\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,领取
-UI_COUPON_CODE_PAGE,Claim Coupon,兑换奖券
+UI_COUPON_CODE_PAGE,Claim Coupon,兑换礼券
 UI_COUPON_LOGS_PAGE,Used Coupons,已使用的兑换码
 UI_COUPON_LOGS_CODE,Code,号码
 UI_COUPON_LOGS_USETIME,Used at,使用期限
-UI_COUPONGIFT_TITLE,Coupon Gift,奖券礼物
+UI_COUPONGIFT_TITLE,Coupon Gift,礼券奖励
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!","#cffff0000我们为你准备了礼物！#nc\n\n感谢你体验《Flyff Universe》 #b%s#nb 版本。\n\n我们已向你的邮箱发送了一个兑换码作为礼物。\n你可以从 #b活动#nb 菜单中兑换它, 不限服务器和角色。\n\n游戏愉快！"
 UI_MENU_REMOVE_SHORTCUT,Unpin,取消固定
 UI_MENU_SAVE,Save changes,保存更改
@@ -2491,7 +2491,7 @@ UI_MATOURNAMENT_REGISTER,Register,登记
 UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s.",在瑞加大陆锦标赛中争取丰厚奖励!\n你可以单人参加，也可以组队参加。组队战方面，你可以组建最多 4 名玩家的队伍进行报名。报名时间为周一至 %s ，00:00:00 至 %s.
 UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,已经登记的队伍 (%d):
 UI_MATOURNAMENT_JOINWAR_RANDOM,Random,随机
-UI_MATOURNAMENT_JOINWAR_TITLE,Select Entry Zone,复活地点
+UI_MATOURNAMENT_JOINWAR_TITLE,Select Entry Zone,选择落地区域
 UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered zone 1.,你已经进入了1号区域。
 UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered zone 2.,你已经进入了2号区域。
 UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered zone 3.,你已经进入了3号区域。
@@ -2523,12 +2523,12 @@ UI_MATOURNAMENT_BETTING_DATE,Last Date,日期
 UI_MATOURNAMENT_BETTING_WARNING,Enter the bid amount.,请输入下注的数额。
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,下注金币
 UI_MATOURNAMENT_BETTING_NOREWARD,None,无
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除终极宝石
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,移除终极珠宝物品
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,移除
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",要移除此装备上选定的终极宝石吗？ #b#cffff0000如果没有宝石镊子，该宝石将被销毁。#nc#nb
-UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,融合终极宝石
-UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,放入用于合成的终极宝石
-UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,融合 3 至 6 颗终极宝石，可获得 1 颗更高等级的终极宝石。
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",要移除此装备上选定的终极宝石或符文吗？ #b#cffff0000如果没有宝石镊子，该宝石或符文将被销毁。#nc#nb
+UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,熔合终极宝石
+UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,放入用于熔合的终极宝石
+UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,熔合3至6颗完全相同的终极宝石，概率获得1颗更高等级的同种终极宝石。
 UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,材料宝石将被消耗。\n是否继续？
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功: #b%s#nb
 UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,制作终极宝石
@@ -2653,16 +2653,16 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,材料
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,饮品
 UI_LIFE_RECIPE_CATEGORY_2,Pills,药丸
 UI_ALL,All,全部
-UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.",放入材料以开始生产。若未选择配方，将尝试制作隐藏配方；随机制作时仅会进行 1 次生产。
+UI_LIFE_PRODUCTION_INFORMATION,"When you select the item and grade you want to craft, the required recipe will be displayed. Please add the necessary materials according to the recipe.",选择要制作的物品和品级后会显示所需配方，请按配方添加材料。
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,正在生产中。
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,剩余时间
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,持续时间缩短。
-UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,世界各处常见的草药。可产出普通草药。
-UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,外观普通的常见草药。可产出普通至稀有草药。
-UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,世界各处常见的树木。可产出普通木材。
-UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,外观普通的常见树木。可产出普通至稀有木材。
-UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,世界各处常见的岩石。可产出普通矿石。
-UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,外观普通的常见岩石。可产出普通至稀有矿石。
+UI_LIFE_MASTERY_ORDINALY_HERB,A herb commonly found anywhere. You can obtain C-grade herbs.,世界各处常见的草药。可产出C级草药。
+UI_LIFE_MASTERY_REGULAR_HERB,A herb with a distinctive scent. You can obtain B-grade herbs.,带有独特香气的草药。可产出B级草药。
+UI_LIFE_MASTERY_ORDINALY_TREE,A tree commonly found anywhere. You can obtain C-grade wood.,世界各处常见的树木。可产出C级木材。
+UI_LIFE_MASTERY_REGULAR_TREE,An unusually shaped tree. You can obtain B-grade wood.,外形奇特的树木。可产出B级木材。
+UI_LIFE_MASTERY_ORDINALY_ORE,An ore commonly found anywhere. You can obtain C-grade ores.,世界各处常见的岩石。可产出C级矿石。
+UI_LIFE_MASTERY_REGULAR_ORE,An unusually shaped ore. You can obtain B-grade ores.,外形奇特的岩石。可产出B级矿石。
 UI_PRODUCTION_INGREDIENT,Ingredients,材料
 UI_PRODUCTION_FOOD,Food,食物
 UI_PRODUCTION_BUFF,Buffs,状态
@@ -2709,7 +2709,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,成功次数�
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,成功率：
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,成品升级
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,请放入材料。
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,消耗低阶成品，有机会获得更高阶成品。\n兑换比例：D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: C:B = 15:1 • B:A = 20:1,消耗低阶成品，有机会获得更高阶成品。\n兑换比例：C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,商店刷新
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,是否使用流浪商人刷新券刷新商店库存？
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,使用 %s 刷新商店库存
@@ -2728,13 +2728,13 @@ UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,奖励
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,成就称号
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,独立称号
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,剩余时间：\n%d天 %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,带有独特香气的草药。可产出普通至稀有草药。
+UI_LIFE_MASTERY_UNIQUE_HERB,A rare herb that is difficult to find. You can obtain A-grade herbs.,难以寻觅的稀有草药。可产出A级草药。
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,难以寻觅的稀有草药。可产出普通至非常稀有草药。
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,鲜为人知的传奇草药。可产出稀有至非常稀有草药。
-UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,外观独特的树木。可产出普通至稀有木材。
+UI_LIFE_MASTERY_UNIQUE_TREE,A rare tree that is difficult to find. You can obtain A-grade wood.,难以寻觅的稀有树木。可产出A级木材。
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,难以寻觅的稀有树木。可产出普通至非常稀有木材。
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,鲜为人知的传奇树木。可产出稀有至非常稀有木材。
-UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,外观独特的岩石。可产出普通至稀有矿石。
+UI_LIFE_MASTERY_UNIQUE_ORE,A rare ore that is difficult to find. You can obtain A-grade ores.,难以寻觅的稀有岩石。可产出A级矿石。
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,难以寻觅的稀有岩石。可产出普通至非常稀有矿石。
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,鲜为人知的传奇岩石。可产出稀有至非常稀有矿石。
 UI_LIFE_PRODUCTION_START,Production Start,开始生产
@@ -2743,8 +2743,8 @@ UI_LIFE_CRAFT_STOP,Stop,停止
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d 秒\n(已使用 %d%% 缩减)
 UI_LIFE_CRAFT_RESET,Reset,重置
 UI_LIFE_CRAFT_COUNT,Crafts: %d,制作数量: %d
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,生产一旦开始将无法取消。是否继续？\n\n#cffffc000生产时间：%s#nc
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,生产一旦开始将无法取消。是否继续？\n\n#cffffc000生产时间：%s~%s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s#nc,开始生产吗？生产可随时停止，未完成制作的材料将会返还。\n\n#cffffc000生产时间：%s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,Start production? It can be stopped at any time to get back the ingredients of unfinished crafts.\n\n#cffffc000Production time: %s~%s#nc,开始生产吗？生产可随时停止，未完成制作的材料将会返还。\n\n#cffffc000生产时间：%s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,开采矿石 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,砍伐树木 #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,捕捉鱼类 #cffc32f07#b%d/%d#nb#nc
@@ -3225,7 +3225,7 @@ UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(定身)
 UI_ACTIVE_SKILLS,Active Skills,主动技能
 UI_PASSIVE_SKILLS,Passive Skills,被动技能
 UI_MASTER_SKILLS,Master Variations,精通变体
-UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,首领来袭伤害
+UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,Boss承受伤害
 UI_TOOLTIP_DMG_TICK,Damage Tick,持续伤害间隔
 UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,生命值阈值：%d%%
 UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,生命值阈值：低于 %d%%
@@ -3253,7 +3253,7 @@ UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,放置终极宝石。
 UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,你可以使用“宝石转换卷轴”转换终极宝石。宝石的阶位决定所需的卷轴种类。
 UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,%d 级宝石​
 UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted to another jewel of the same tier. Continue?,该宝石将随机转换为同阶的其他宝石。是否继续？
-UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory.",使用3颗同阶宝石（无论类型）进行合成，必得1颗随机更高阶宝石。所用宝石会被消耗，结果宝石将进入背包。
+UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory.",使用3颗同阶宝石（无论类型是否相同）可进行合成，必得1颗随机更高阶宝石。所用宝石会被消耗，最终生成的宝石将进入背包。
 UI_JEWELSYNTHESIS_TIER,Tier %d,%d 级​
 UI_JEWELSYNTHESIS_SELECT,Batch Synthesis: Select Target Tier,批量合成：选择目标等级
 UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Proceed with synthesis?,用作材料的宝石将在合成后被移除。是否进行合成？
@@ -3270,7 +3270,7 @@ UI_TOOLTIP_BOW,Bow,弓
 UI_TOOLTIP_MAGICBOTH,Wand or Staff,魔杖或法杖
 UI_TOOLTIP_YOBO,Yo-Yo or Bow,飞轮或弓
 UI_TOOLTIP_SWAXE,Sword or Axe,剑或斧
-UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,武器商店
+UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,武器
 UI_TOOLTIP_SKILLLOCK,Locks:,当前不可用变体：
 UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,额外技能页
 UI_SKILL_CHANGEPAGE_TOOLTIP,Switch skill pages,切换技能页。

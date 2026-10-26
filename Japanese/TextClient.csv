@@ -49,7 +49,7 @@ TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","座標：
 TEXTCLIENT_NOTTRANSSELF,You cannot send a PM to yourself.,自分自身にPMを送信することはできません。
 TEXTCLIENT_PLAYERNOTEXIST,%s does not exist or is offline.,%s は存在しないか、オンラインではありません。
 TEXTCLIENT_APP_NOTICE,Notice,お知らせ
-TEXTCLIENT_APP_STATUS,Status,申請状況
+TEXTCLIENT_APP_STATUS,Status,ステータス
 TEXTCLIENT_PLAYERINFORMATION,%s - Lv: %d,%s Lv %d
 TEXTCLIENT_BLINK_LIMIT,You cannot use it during skill motion.,現在使用中の同じアイテムは使用できません。
 TEXTCLIENT_NOTSIT_BLINK,You cannot use a Blinkwing while sitting.,座ってる状態では、ブリンクウィングの使用はできません。
@@ -725,7 +725,7 @@ TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,まずはアリ
 TEXTCLIENT_ERROR_ARENA_COOLDOWN,You can only use the Arena teleportation every 3 minutes.,アリーナへの入場は3分で1度のみ入場できます。
 TEXTCLIENT_CHANGE_FACE,Change your Appearance.,選択したメーキャップの費用は
 TEXTCLIENT_CHANGE_FACE_QUESTION,Do you want to change your appearance?,メーキャップをしますか？
-TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%sはダンジョン入場のクールタイム中です。残り時間: %s
+TEXTCLIENT_PARTYQUEST_COOLDOWN,%s must wait %s before doing the dungeon again.,%sはダンジョン入場のクールダウン中です。残り時間: %s
 TEXTCLIENT_LOSEMONEY,You lost %s Penya (Total: %s Penya).,%sペニャを失いました。（所持：%sペニャ）
 TEXTCLIENT_DUEL_NOACTION,You can't do that during a duel.,決闘中にはできません。
 TEXTCLIENT_USE_CARD_MENU,You can use this item with Card Upgrade menu at Card Master.,このアイテムは、カードマスターのカードアップグレードメニューで使用できます。
@@ -1426,7 +1426,7 @@ TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.,こ
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.,このエモートをリクエストするには、パートナーを選択する必要があります。
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.,パートナーがエモートの実行を拒否しました。
 TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this emote.,このエモートを行うには、パートナーとの距離が離れすぎています。
-TEXTCLIENT_APP_LIFE,Life Skills,ライフスタイルスキル
+TEXTCLIENT_APP_LIFE,Life Skills,ライフスタイル
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,%sを装備する必要があります。
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,正しい道具かご確認ください。
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,採取に失敗しました。
