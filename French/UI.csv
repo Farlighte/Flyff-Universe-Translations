@@ -3490,7 +3490,7 @@ UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,Ê
 UI_FWC_PASS_2026,2026 FWC Championship Pass,Pass du Championnat FWC 2026
 UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Récompense quotidienne : %d / %d récupérée(s) aujourd'hui
 UI_2026_PVP_COMMEMORATIVE_PASS,2026 PvP Commemorative Pass,2026 PvP Commemorative Pass
-UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.","This item will be removed after the maintenance on October 29, 2026."
+UI_ITEM_REMOVE_261029,"This item will be removed after the maintenance on October 29, 2026.",Cet élément sera supprimé après la maintenance du 29 octobre 2026.
 UI_ZD_EVENT_SKILLS,Event Skills,Compétences d'événement
 UI_ZD_NEXT_SKILL_ADD,Next skill add:,Prochaine compétence ajoutée :
 UI_ZD_HOUSE_HP,House HP %d / %d,PV de la maison %d / %d
