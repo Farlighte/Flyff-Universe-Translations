@@ -334,7 +334,7 @@ PROPSKILL_TXT_100009,"Empowered by your lion, gaining increased max HP.",增加�
 PROPSKILL_TXT_100010,Tiger's Grace,白虎的祝福
 PROPSKILL_TXT_100011,"Empowered by your tiger, gaining increased Critical Damage.",增加暴击伤害。
 PROPSKILL_TXT_100012,Fox's Grace,狐狸的祝福
-PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack and Casting Speed.",增加技能伤害和施法速度。
+PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack Power and Casting Speed.",增加技能伤害和施法速度。
 PROPSKILL_TXT_100014,Rabbit's Grace,雪兔的祝福
 PROPSKILL_TXT_100015,"Empowered by your rabbit, gaining increased Speed.",增加移动速度。
 PROPSKILL_TXT_100016,Griffin's Grace,狮鸠的祝福
@@ -564,7 +564,7 @@ PROPSKILL_TXT_150062,Decreased Element,元素弱化
 PROPSKILL_TXT_150063,Elemental Debuff,元素减益效果
 PROPSKILL_TXT_150064,Laughter of La Croix,Laughter of La Croix
 PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,你可以无视一次控制或虚弱类减益效果。
-PROPSKILL_TXT_150066,Successfull Debuff,减益生效
+PROPSKILL_TXT_150066,Successful Debuff,减益生效
 PROPSKILL_TXT_150067,Additional Shield,额外护盾
 PROPSKILL_TXT_150069,Chimera's Curse,奇美拉的诅咒
 PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.",以奇美拉之灵诅咒目标，对其造成伤害并将其变异为独眼蝙蝠。变异期间目标无法攻击。该技能在完全蓄力后，成功概率将提升30%。
@@ -661,9 +661,9 @@ PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5%
 PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,庇护所・首领增伤祝福
 PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,一股狂暴之力在你体内汹涌！首领受到你的攻击时，所受伤害增加10%。
 PROPSKILL_TXT_140024,Asylum All Stats Low Bless,庇护所・全属性微弱祝福
-PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,庇护所赐予你非自然的调和之力。你的基础属性提升5点，仿佛被无形之力所指引。
+PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 5 as if guided by unseen forces.,庇护所赐予你非自然的调和之力。你的基础属性提升5点，仿佛被无形之力所指引。
 PROPSKILL_TXT_140026,Asylum All Stats High Bless,庇护所・全属性强化祝福
-PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.",庇护所赐予你全属性+10的提升，让你充满诡异的力量。
+PROPSKILL_TXT_140027,"The Asylum bestows a +10 boost to all base stats, filling you with eerie strength.",庇护所赐予你全属性+10的提升，让你充满诡异的力量。
 PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,庇护所・首领减伤祝福
 PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,庇护所用阴影将你遮蔽。来自首领的伤害降低5%。
 PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,庇护所・首领大减伤祝福
@@ -793,7 +793,7 @@ PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,生命值越低
 PROPSKILL_TXT_150213,Master of Sword,剑刃大师
 PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,减少屠戮者技能冷却时间，并提升暴击率，数值根据装备的剑数量加成。
 PROPSKILL_TXT_150215,Master of Axe,战斧大师
-PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,提升三转技能攻击力、格挡、命中率，数值根据装备的斧头数量加成。
+PROPSKILL_TXT_150216,"Increases Slayer skill damage, block chance, and hit rate. Scales with number of axes equipped.",提升三转技能攻击力、格挡、命中率，数值根据装备的斧头数量加成。
 PROPSKILL_TXT_150217,Survival Stance,生存姿态
 PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,受到控制或定身类减益效果影响后，短时间内提升自身防御。
 PROPSKILL_TXT_150219,Blessing of the Wise,贤者祝福
@@ -814,7 +814,7 @@ PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself period
 PROPSKILL_TXT_150244,Kyrie Eleison,怜恤祷言
 PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提升生命恢复效能。吟唱期间使用其他圣歌将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150249,Flow of Salvation,神佑流转
-PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.",向目标释放救赎气息，对其进行治疗；若目标为友方，治疗效果将流转至附近其他友方目标；若目标为敌方，则转为造成伤害。
+PROPSKILL_TXT_150250,"Channel the flow of salvation into your target, healing allies or dealing damage to enemies. The effect then chains to nearby targets.",向目标释放救赎气息，对其进行治疗；若目标为友方，治疗效果将流转至附近其他友方目标；若目标为敌方，则转为造成伤害。
 PROPSKILL_TXT_150251,Increased Healing,治疗量强化
 PROPSKILL_TXT_150253,Increased Chain,连携强化
 PROPSKILL_TXT_150254,Hymn - Damage Reduction,圣歌 - 伤害减免
@@ -830,7 +830,7 @@ PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overf
 PROPSKILL_TXT_150264,Form Enhancement,形态强化
 PROPSKILL_TXT_150265,Mind Enhancement,心智强化
 PROPSKILL_TXT_150266,Aura Enhancement,灵气强化
-PROPSKILL_TXT_150267,MP Retention,伤害提升
+PROPSKILL_TXT_150267,Skill Damage Up,伤害提升
 PROPSKILL_TXT_150268,Nen Afterimage,念气残影
 PROPSKILL_TXT_150270,Power Palm,劲掌
 PROPSKILL_TXT_150271,"Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times.",攻击目标，获得念气层数。[念气强化]：该技能有几率击倒敌人；若在强制抓取期间使用，将进行多次打击。
@@ -865,7 +865,7 @@ PROPSKILL_TXT_150305,Bubble's Blessing,波卜尔的祝福
 PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,施放一道光环，提升友方的暴击伤害与攻击力。可再次施放以取消该效果。
 PROPSKILL_TXT_150309,Range Extension,射程提升
 PROPSKILL_TXT_150310,Touch of Rhisis,莱斯神之触
-PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,施放光环，提升附近友军的防御力与受到的治疗效果。无法与其他光环同时使用。可再次施放取消。
+PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and incoming healing. Cannot be used with other auras at the same time. Can be re-cast to cancel.,施放光环，提升附近友军的防御力与受到的治疗效果。无法与其他光环同时使用。可再次施放取消。
 PROPSKILL_TXT_150315,Ire of Iblis,伊普利之怒
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,生成一道光环，提升友方暴击抵抗。可再次施放取消。
 PROPSKILL_TXT_150320,Meditate,冥想
@@ -1086,7 +1086,7 @@ PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically stri
 PROPSKILL_TXT_150550,Strike interval is shorter.,攻击间隔缩短。
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.",撕裂地面，召唤石柱攻击敌人并降低其移动速度。石柱持续时间结束后会爆炸，对附近敌人造成额外伤害。
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.",在指定区域创造一片沼泽，降低敌人移动速度并造成持续伤害。沼泽内的敌人无法使用位移技能。
-PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.",召唤一阵狂风，击退附近敌人，并提升自身的魔法抵抗和远距离格挡率。
+PROPSKILL_TXT_150553,Spawns a gust of wind that pushes back nearby enemies and increases Magic Resistance and Ranged Block Chance.,召唤一阵狂风，击退附近敌人，并提升自身的魔法抵抗和远距离格挡率。
 PROPSKILL_TXT_150554,Roots will go through more enemies.,根须可以穿透更多敌人。
 PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.",根须命中敌人后会爆炸并造成伤害，爆炸有几率击倒敌人。
 PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,在你前方锥形范围内额外生成根须。

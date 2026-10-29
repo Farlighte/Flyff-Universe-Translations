@@ -334,7 +334,7 @@ PROPSKILL_TXT_100009,"Empowered by your lion, gaining increased max HP.",Die Gun
 PROPSKILL_TXT_100010,Tiger's Grace,Gunst des Tigers
 PROPSKILL_TXT_100011,"Empowered by your tiger, gaining increased Critical Damage.",Die Gunst des Tigers erweckt deinen kritischen Schaden
 PROPSKILL_TXT_100012,Fox's Grace,Gunst des Fuchses
-PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack and Casting Speed.",Die Gunst des Fuchses erweckt deinen Fähigkeitsschaden und Zaubergeschwindigkeit
+PROPSKILL_TXT_100013,"Empowered by your fox, gaining increased Attack Power and Casting Speed.",Die Gunst des Fuchses erweckt deinen Fähigkeitsschaden und Zaubergeschwindigkeit
 PROPSKILL_TXT_100014,Rabbit's Grace,Gunst des Hasen
 PROPSKILL_TXT_100015,"Empowered by your rabbit, gaining increased Speed.",Die Gunst des Hasen erweckt deine Geschwindigkeit
 PROPSKILL_TXT_100016,Griffin's Grace,Gunst des Greifs
@@ -564,7 +564,7 @@ PROPSKILL_TXT_150062,Decreased Element,Reduzierter Elementarstatus
 PROPSKILL_TXT_150063,Elemental Debuff,Elemental Debuff
 PROPSKILL_TXT_150064,Laughter of La Croix,Laughter of La Croix
 PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,Du kannst eine Instanz von Disable- oder Schwächungs-Debuffs ignorieren
-PROPSKILL_TXT_150066,Successfull Debuff,Successfull Debuff
+PROPSKILL_TXT_150066,Successful Debuff,Successful Debuff
 PROPSKILL_TXT_150067,Additional Shield,Additional Shield
 PROPSKILL_TXT_150069,Chimera's Curse,Chimera's Curse
 PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","Nutze Chimäras Geist, um dein Ziel zu verfluchen, Schaden zu verursachen und es in ein Aibatt zu verwandeln. Während der Verwandlung kann es nicht angreifen. Bei vollständiger Aufladung hat diese Fähigkeit eine 30% höhere Erfolgschance."
@@ -661,9 +661,9 @@ PROPSKILL_TXT_140021,"Empowered by the Asylum’s presence, your strikes deal 5%
 PROPSKILL_TXT_140022,Asylum Boss DMG High Bless,Asylum Boss DMG High Bless
 PROPSKILL_TXT_140023,An intense force surges through you! Bosses now suffer 10% more damage from your wrath.,Eine intensive Kraft durchströmt dich! Bosse erleiden nun 10% mehr Schaden durch deinen Zorn.
 PROPSKILL_TXT_140024,Asylum All Stats Low Bless,Asylum All Stats Low Bless
-PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 10 as if guided by unseen forces.,"Das Asylum gewährt unnatürliche Harmonie. Deine Basiswerte steigen um 10, als wären sie von unsichtbaren Kräften geleitet."
+PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increase by 5 as if guided by unseen forces.,"Das Asylum gewährt unnatürliche Harmonie. Deine Basiswerte steigen um 10, als wären sie von unsichtbaren Kräften geleitet."
 PROPSKILL_TXT_140026,Asylum All Stats High Bless,Asylum All Stats High Bless
-PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.",Das Asylum gewährt einen 10% Gesamtbonus und erfüllt dich mit unheimlicher Stärke.
+PROPSKILL_TXT_140027,"The Asylum bestows a +10 boost to all base stats, filling you with eerie strength.",Das Asylum gewährt einen 10% Gesamtbonus und erfüllt dich mit unheimlicher Stärke.
 PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,Asylum Boss Incoming Bless
 PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,Das Asylum hüllt dich in Schatten. Erlittener Schaden von Bossen wird um 5% reduziert.
 PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,Asylum Boss Incoming Bless
@@ -793,7 +793,7 @@ PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,"Schadensreduzi
 PROPSKILL_TXT_150213,Master of Sword,Master of Sword
 PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,Reduziert Slayer-Fähigkeiten-Abklingzeiten und erhöht kritische Trefferchance. Skaliert mit der Anzahl ausgerüsteter Schwerter.
 PROPSKILL_TXT_150215,Master of Axe,Master of Axe
-PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,Erhöht Angriffskraft. Skaliert mit der Anzahl ausgerüsteter Äxte.
+PROPSKILL_TXT_150216,"Increases Slayer skill damage, block chance, and hit rate. Scales with number of axes equipped.",Erhöht Angriffskraft. Skaliert mit der Anzahl ausgerüsteter Äxte.
 PROPSKILL_TXT_150217,Survival Stance,Survival Stance
 PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,Verbessere deine Verteidigung kurz nachdem du von einem Disable- oder Bewegungsunfähigkeits-Debuff betroffen wurdest.
 PROPSKILL_TXT_150219,Blessing of the Wise,Blessing of the Wise
@@ -814,7 +814,7 @@ PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself period
 PROPSKILL_TXT_150244,Kyrie Eleison,Kyrie Eleison
 PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased Attack Power, Magic Power, and Tenacity. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Stimme eine Hymne an, die nahegelegenen Verbündeten und dir selbst erhöhte Angriffskraft, Magiekraft und Zähigkeit verleiht. Während du singst, bricht die Verwendung anderer Fähigkeiten das Singen ab. Der Effekt der Hymne verstärkt sich, je länger du singst."
 PROPSKILL_TXT_150249,Flow of Salvation,Flow of Salvation
-PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","Hauche den Fluss der Erlösung in dein Ziel, heile es und fließe zu nahen Zielen, wenn sie Verbündete sind, oder verursache andernfalls Schaden."
+PROPSKILL_TXT_150250,"Channel the flow of salvation into your target, healing allies or dealing damage to enemies. The effect then chains to nearby targets.","Hauche den Fluss der Erlösung in dein Ziel, heile es und fließe zu nahen Zielen, wenn sie Verbündete sind, oder verursache andernfalls Schaden."
 PROPSKILL_TXT_150251,Increased Healing,Erhöhte Heilung
 PROPSKILL_TXT_150253,Increased Chain,Increased Chain
 PROPSKILL_TXT_150254,Hymn - Damage Reduction,Hymn - Damage Reduction
@@ -830,7 +830,7 @@ PROPSKILL_TXT_150263,"Unleash all your Nen to enter overflow. While in Nen overf
 PROPSKILL_TXT_150264,Form Enhancement,Form Enhancement
 PROPSKILL_TXT_150265,Mind Enhancement,Mind Enhancement
 PROPSKILL_TXT_150266,Aura Enhancement,Aura Enhancement
-PROPSKILL_TXT_150267,MP Retention,MP Retention
+PROPSKILL_TXT_150267,Skill Damage Up,Skill Damage Up
 PROPSKILL_TXT_150268,Nen Afterimage,Nen Afterimage
 PROPSKILL_TXT_150270,Power Palm,Power Palm
 PROPSKILL_TXT_150271,"Attack your target, gaining Nen stacks. \n\n[Nen Enhancement]: This skill has a chance to knock the enemy down. If used during the duration of Force Grip, you will strike multiple times.","Greife dein Ziel an und erhalte Nen-Stapel. \n\n[Nen-Verstärkung]: Diese Fähigkeit hat eine Chance, den Gegner niederzuschlagen. Wenn während der Dauer von Force Grip verwendet, wirst du mehrfach zuschlagen."
@@ -865,7 +865,7 @@ PROPSKILL_TXT_150305,Bubble's Blessing,Bubble's Blessing
 PROPSKILL_TXT_150306,Casts an aura that increases allies' Critical Damage and Attack. Can be re-cast to cancel the effect.,"Wirkt eine Aura, die die Bewegungsgeschwindigkeit und kritischen Schaden von Verbündeten erhöht. Kann erneut gewirkt werden, um abzubrechen."
 PROPSKILL_TXT_150309,Range Extension,Range Extension
 PROPSKILL_TXT_150310,Touch of Rhisis,Touch of Rhisis
-PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,"Wirkt eine Aura, die Verteidigung und Blockrate naher Verbündeter erhöht. Kann nicht gleichzeitig mit anderen Auren verwendet werden. Kann erneut gewirkt werden, um abzubrechen."
+PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and incoming healing. Cannot be used with other auras at the same time. Can be re-cast to cancel.,"Wirkt eine Aura, die Verteidigung und Blockrate naher Verbündeter erhöht. Kann nicht gleichzeitig mit anderen Auren verwendet werden. Kann erneut gewirkt werden, um abzubrechen."
 PROPSKILL_TXT_150315,Ire of Iblis,Ire of Iblis
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,"Wirkt eine Aura, die kritische Resistenz von Verbündeten erhöht. Kann erneut gewirkt werden, um abzubrechen."
 PROPSKILL_TXT_150320,Meditate,Meditate
@@ -1086,7 +1086,7 @@ PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically stri
 PROPSKILL_TXT_150550,Strike interval is shorter.,Schlagintervall ist kürzer.
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Störe den Boden und beschwöre eine Steinsäule, die Gegner verletzt und ihre Bewegungsgeschwindigkeit senkt. Nach der Dauer der Säule explodiert sie und verursacht zusätzlichen Schaden an nahen Gegnern."
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Erschaffe einen Sumpf im ausgewählten Bereich, der Bewegungsgeschwindigkeit verlangsamt und Schaden verursacht. Gegner im Sumpf können keine Bewegungsfähigkeiten verwenden."
-PROPSKILL_TXT_150553,"Spawn a gust of wind that pushes back nearby enemies, reflects incoming damage, and ranged block chance.","Erschaffe eine Windbö, die nahe Gegner zurückstößt, magische Resistenz und Fernkampf-Blockchance erhöht."
+PROPSKILL_TXT_150553,Spawns a gust of wind that pushes back nearby enemies and increases Magic Resistance and Ranged Block Chance.,"Erschaffe eine Windbö, die nahe Gegner zurückstößt, magische Resistenz und Fernkampf-Blockchance erhöht."
 PROPSKILL_TXT_150554,Roots will go through more enemies.,Wurzeln gehen durch mehr Gegner.
 PROPSKILL_TXT_150555,"Roots will explode once they hit an enemy, dealing damage to them. Explosions have a chance to knock enemies down.","Wurzeln explodieren, sobald sie einen Gegner treffen, und verursachen Schaden an ihnen. Explosionen haben eine Chance, Gegner niederzuschlagen."
 PROPSKILL_TXT_150556,Fire additional roots in a cone in front of you.,Feuere zusätzliche Wurzeln in einem Kegel vor dir ab.

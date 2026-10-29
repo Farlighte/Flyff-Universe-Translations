@@ -927,7 +927,7 @@ PROPQUEST_SCENARIO_INC_002202,"First, please go and defeat 50 Small Luias & 35 L
 PROPQUEST_SCENARIO_INC_002203,"Well, you talk a big game. But remember, actions do speak louder than words. Lets see if you can complete the quest.",大きな口を叩くものだな。だが、言葉より行動がものを言う。試練を乗り越えられるか、見せてもらおう。
 PROPQUEST_SCENARIO_INC_002204,"If you do not wish to undergo the quest, then move along. I need absolute concentration.",試練を受ける気がないなら、立ち去るがいい。私は修行に集中したいのだ。
 PROPQUEST_SCENARIO_INC_002205,Hmm... You are definitely stronger than I previously imagined you would be…,なるほど。多少の実力は備わっているようだな。
-PROPQUEST_SCENARIO_INC_002206,Please do not talk to me until you have defeated 20 Small Luias & 15 Luias.,スモール・ルイア50体とルイア35体を倒すまでは、私に話しかけるな。
+PROPQUEST_SCENARIO_INC_002206,Please do not talk to me until you have defeated 50 Small Luias & 35 Luias.,スモール・ルイア50体とルイア35体を倒すまでは、私に話しかけるな。
 PROPQUEST_SCENARIO_INC_002207,Hunt 50 Small Luias & 35 Luias and then speak with Sury,スモール・ルイア50体とルイア35体を倒し、シュリに報告する
 PROPQUEST_SCENARIO_INC_002209,Sury's Test (1),シュリの試練 (1)
 PROPQUEST_SCENARIO_INC_002210,"Do not fool yourself into believing that was the only test. Next, please defeat the Shuhamma for me.",あれで試練が終わったと思うな。次はシューハンマーを倒してもらおう。
@@ -935,7 +935,7 @@ PROPQUEST_SCENARIO_INC_002211,Are you still determined to prove your worth? You 
 PROPQUEST_SCENARIO_INC_002212,"Well then, hunt 50 Small Shuhammas & 35 Shuhammas for me.",では、スモール・シューハンマー50体とシューハンマー35体を倒してこい。
 PROPQUEST_SCENARIO_INC_002213,"Heh, a true warrior would never turn down a challenge.",ふん、本物の戦士なら挑戦を断ったりはしないものだ。
 PROPQUEST_SCENARIO_INC_002214,Impressive. Guess I should increase the difficulty of the next test if I wish to truly test you!,見事だ。お前の実力を本当に試すには、次の試練はもっと難しくする必要がありそうだな。
-PROPQUEST_SCENARIO_INC_002215,The Shuhammas should be right at the bottom of this mountain. Please make haste and defeat 20 Small Shuhammas & 15 Shuhammas.,シューハンマーはこの山の麓にいるはずだ。急いでスモール・シューハンマー50体とシューハンマー35体を倒してこい。
+PROPQUEST_SCENARIO_INC_002215,The Shuhammas should be right at the bottom of this mountain. Please make haste and defeat 50 Small Shuhammas & 35 Shuhammas.,シューハンマーはこの山の麓にいるはずだ。急いでスモール・シューハンマー50体とシューハンマー35体を倒してこい。
 PROPQUEST_SCENARIO_INC_002216,Hunt 50 Small Shuhammas & 35 Shuhammas and then speak with Sury,スモール・シューハンマー50体とシューハンマー35体を倒し、シュリに報告する
 PROPQUEST_SCENARIO_INC_002218,Sury's Test (2),シュリの試練 (2)
 PROPQUEST_SCENARIO_INC_002219,This will be my final task. Complete this and you will have proven yourself worthy enough to speak with me regarding Reonan's request.,これが最後の試練だ。これを乗り越えれば、レオナンの依頼について私と話すだけの実力があると認めてやろう。
@@ -949,7 +949,7 @@ PROPQUEST_SCENARIO_INC_002226,Hunt 40 Captain Shuhammas & the Lord Shuhamma and 
 PROPQUEST_SCENARIO_INC_002228,Sury's Dilemma,シュリのジレンマ
 PROPQUEST_SCENARIO_INC_002229,"I've been training up here so long. I feel that I'm so close to achieving a heightened level of power, but there is something missing…",私は長い間、この山で修行を続けてきた。さらなる力の境地にあと一歩で届きそうなのだが、何かが足りないのだ...
 PROPQUEST_SCENARIO_INC_002230,"I don't know why… I just feel like there is something missing… and this ""thing"" is keeping me from realizing my true inner potential.",なぜなのかは分からない...何か大切なものが欠けている気がするのだ。それが私の内に秘めた力を引き出す妨げになっている...
-PROPQUEST_SCENARIO_INC_002231,Could you please seek my mentor (Billposter Guardian) Capafe and explain my dilemma. He will surely understand…,私が信頼するビルポスターの守護者、カペーペを訪ね、この悩みを伝えてくれないか？ 彼女ならきっと分かってくれるはずだ...
+PROPQUEST_SCENARIO_INC_002231,Could you please seek my mentor (Billposter Guardian) Capafe and explain my dilemma. She will surely understand…,私が信頼するビルポスターの守護者、カペーペを訪ね、この悩みを伝えてくれないか？ 彼女ならきっと分かってくれるはずだ...
 PROPQUEST_SCENARIO_INC_002232,Thank you! Please get advice from (Billposter Guardian) Capafe.,ありがとう。私はこのまま修行を続けることにする。頼んだぞ。
 PROPQUEST_SCENARIO_INC_002233,You can't possibly stop now. You play an important role in things to come!,ここまで来て、今さらやめるつもりか？ これから先、お前には重要な役目があるのだぞ！
 PROPQUEST_SCENARIO_INC_002234,"Welcome, I have been expecting you.",よくいらっしゃいました。あなたが来るのをお待ちしていましたよ。

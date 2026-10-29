@@ -927,7 +927,7 @@ PROPQUEST_SCENARIO_INC_002202,"First, please go and defeat 50 Small Luias & 35 L
 PROPQUEST_SCENARIO_INC_002203,"Well, you talk a big game. But remember, actions do speak louder than words. Lets see if you can complete the quest.",ดี อย่าพูดเวอร์ไปหน่อยเลย จงจำไว้ว่าการกระทำสำคัญกว่าคำพูด จะรอดูสิว่าคุณจะทำได้ไหม
 PROPQUEST_SCENARIO_INC_002204,"If you do not wish to undergo the quest, then move along. I need absolute concentration.",ถ้าคุณไม่ต้องการรับเควส ให้รีบไปซะ ฉันต้องการคนที่มีความมุ่งมั่น
 PROPQUEST_SCENARIO_INC_002205,Hmm... You are definitely stronger than I previously imagined you would be…,อืม คุณแข็งแกร่งกว่าที่ฉันคิดไว้ก่อนหน้านี้
-PROPQUEST_SCENARIO_INC_002206,Please do not talk to me until you have defeated 20 Small Luias & 15 Luias.,ไม่ต้องมาคุยกับฉัน จนกว่าคุณจะได้เอาชนะ 20 Small Luias & 15 Luias
+PROPQUEST_SCENARIO_INC_002206,Please do not talk to me until you have defeated 50 Small Luias & 35 Luias.,ไม่ต้องมาคุยกับฉัน จนกว่าคุณจะได้เอาชนะ 20 Small Luias & 15 Luias
 PROPQUEST_SCENARIO_INC_002207,Hunt 50 Small Luias & 35 Luias and then speak with Sury,ล่า 50 Small Luias & 35 Luias และพูดคุยกับ Sury
 PROPQUEST_SCENARIO_INC_002209,Sury's Test (1),การทดสอบของ Sury (1)
 PROPQUEST_SCENARIO_INC_002210,"Do not fool yourself into believing that was the only test. Next, please defeat the Shuhamma for me.",อย่าหลอกตัวเองว่านี่เป็นเพียงการทดสอบเท่านั้น ต่อไปโปรดกำจัด Shuhamma มาให้ฉัน
@@ -935,7 +935,7 @@ PROPQUEST_SCENARIO_INC_002211,Are you still determined to prove your worth? You 
 PROPQUEST_SCENARIO_INC_002212,"Well then, hunt 50 Small Shuhammas & 35 Shuhammas for me.",ดีแล้วถ้างั้นล่า 50 Small Shuhammas & 35 Shuhammas มาให้ฉัน
 PROPQUEST_SCENARIO_INC_002213,"Heh, a true warrior would never turn down a challenge.",เฮ่!! ฮีโร่ส่วนใหญ่ไม่เคยปฏิเสธการท้าทายนี้
 PROPQUEST_SCENARIO_INC_002214,Impressive. Guess I should increase the difficulty of the next test if I wish to truly test you!,ซาบซึ้งใจยิ่งนัก เดาว่าฉันควรเพิ่มความยากของการทดสอบครั้งต่อไป
-PROPQUEST_SCENARIO_INC_002215,The Shuhammas should be right at the bottom of this mountain. Please make haste and defeat 20 Small Shuhammas & 15 Shuhammas.,Shuhammas อยู่ทางด้านขวาล่างของภูเขานี้ โปรดรีบไปและเอาชนะ 20 Small Shuhammas & 15 Shuhammas
+PROPQUEST_SCENARIO_INC_002215,The Shuhammas should be right at the bottom of this mountain. Please make haste and defeat 50 Small Shuhammas & 35 Shuhammas.,Shuhammas อยู่ทางด้านขวาล่างของภูเขานี้ โปรดรีบไปและเอาชนะ 20 Small Shuhammas & 15 Shuhammas
 PROPQUEST_SCENARIO_INC_002216,Hunt 50 Small Shuhammas & 35 Shuhammas and then speak with Sury,ล่า 50 Small Shuhammas & 35 Shuhammas แล้วคุยกับ Sury
 PROPQUEST_SCENARIO_INC_002218,Sury's Test (2),การทดสอบของ Sury (2)
 PROPQUEST_SCENARIO_INC_002219,This will be my final task. Complete this and you will have proven yourself worthy enough to speak with me regarding Reonan's request.,นี่เป็นงานสุดท้ายของฉัน สุดท้ายแล้ว คุณจะได้พิสูจน์ตัวเองและมันคุ้มค่าพอที่จะพูดกับฉันเกี่ยวกับคำร้องขอของ Reonan
@@ -949,7 +949,7 @@ PROPQUEST_SCENARIO_INC_002226,Hunt 40 Captain Shuhammas & the Lord Shuhamma and 
 PROPQUEST_SCENARIO_INC_002228,Sury's Dilemma,ภาวะที่กลืนไม่เข้าคายไม่ออกของ Sury
 PROPQUEST_SCENARIO_INC_002229,"I've been training up here so long. I feel that I'm so close to achieving a heightened level of power, but there is something missing…",ฉันฝึกซ้อมที่นี่มานานแล้ว ฉันรู้สึกว่าฉันใกล้บรรลุระดับพลังที่เพิ่มสูงขึ้น แต่มีบางอย่างที่หายไป
 PROPQUEST_SCENARIO_INC_002230,"I don't know why… I just feel like there is something missing… and this ""thing"" is keeping me from realizing my true inner potential.","ฉันไม่รู้ว่าทำไม ฉันแค่รู้สึกว่ามีบางอย่างหายไป ... และ ""สิ่งนี้"" ทำให้ฉันตระหนักถึงศักยภาพที่แท้จริงของฉัน"
-PROPQUEST_SCENARIO_INC_002231,Could you please seek my mentor (Billposter Guardian) Capafe and explain my dilemma. He will surely understand…,คุณช่วยไปหาที่ปรึกษาของฉัน (Billposter Guardian) Capafe และบอกถึงอาการกลืนไม่เข้าคายไม่ออกของฉันได้ไหม เขาอาจจะเข้าใจ 
+PROPQUEST_SCENARIO_INC_002231,Could you please seek my mentor (Billposter Guardian) Capafe and explain my dilemma. She will surely understand…,คุณช่วยไปหาที่ปรึกษาของฉัน (Billposter Guardian) Capafe และบอกถึงอาการกลืนไม่เข้าคายไม่ออกของฉันได้ไหม เขาอาจจะเข้าใจ 
 PROPQUEST_SCENARIO_INC_002232,Thank you! Please get advice from (Billposter Guardian) Capafe.,ขอบคุณ! โปรดรับคำแนะนำจาก (Billposter Guardian) Capafe
 PROPQUEST_SCENARIO_INC_002233,You can't possibly stop now. You play an important role in things to come!,ตอนนี้คุณไม่สามารถหยุดได้ คุณเป็นคนที่สำคัญที่สุดในสิ่งที่กำลังจะมาถึง!!
 PROPQUEST_SCENARIO_INC_002234,"Welcome, I have been expecting you.",ยินดีต้อนรับ ฉันตั้งหน้าตั้งตารอคคุณอยู่
